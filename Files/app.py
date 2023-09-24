@@ -59,10 +59,7 @@ def decode_dir_links(dir_links):
 def main():
     links = [
         'https://raw.githubusercontent.com/MrPooyaX/VpnsFucking/main/Shenzo.txt',
-        'https://raw.githubusercontent.com/MrPooyaX/SansorchiFucker/main/data.txt',
-        'https://mrpooya.xyz/api/ramezan/fastRay.php?sub=1',
-        'https://mrpooya.xyz/api/ramezan/GreenNet.php?sub=1',
-        'https://mrpooya.xyz/api/meli.php?forv2rayng=1'
+        'https://raw.githubusercontent.com/MrPooyaX/SansorchiFucker/main/data.txt'
     ]
     dir_links = [
         'https://raw.githubusercontent.com/IranianCypherpunks/sub/main/config',
