@@ -2,41 +2,41 @@
 💻 این مخزن مجموعه‌ای از کانفیگ‌های V2ray رایگان است که می توانید با اپلیکیشن کلاینت V2ray خود برای دسترسی به اینترنت به صورت امن و ناشناس استفاده کنید. 
 [ENGLISH VERSION](https://github.com/barry-far/Free-V2ray-Config) | [中文版](https://github.com/barry-far/Free-V2ray-Config/blob/main/Chinese-README.md)
 
-![آخرین تغییرات](https://img.shields.io/github/last-commit/barry-far/Free-V2ray-Config.svg) [![MIT لایسنس](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/) [![GitHub ستاره ها](https://img.shields.io/github/stars/barry-far/Free-V2ray-Config.svg)](https://github.com/barry-far/Free-V2ray-Config/stargazers) [![بروزرسانی میشود](https://github.com/barry-far/Free-V2ray-Config/actions/workflows/python-app.yml/badge.svg)](https://github.com/barry-far/Free-V2ray-Config/actions/workflows/python-app.yml) ![سایز این مجموعه](https://img.shields.io/github/repo-size/barry-far/Free-V2ray-Config) [![CodeFactor](https://www.codefactor.io/repository/github/barry-far/Free-V2ray-Config/badge)](https://www.codefactor.io/repository/github/barry-far/Free-V2ray-Config) 
 
+![GitHub last commit](https://img.shields.io/github/last-commit/barry-far/V2ray-Configs.svg) [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/) [![GitHub stars](https://img.shields.io/github/stars/barry-far/V2ray-Configs.svg)](https://github.com/barry-far/V2ray-Configs/stargazers) [![Update Configs](https://github.com/barry-far/V2ray-Configs/actions/workflows/main.yml/badge.svg)](https://github.com/barry-far/V2ray-Configs/actions/workflows/main.yml) ![GitHub repo size](https://img.shields.io/github/repo-size/barry-far/V2ray-Configs) 
 
 ## راه‌اندازی
-روش 1️⃣ برای استفاده از یکی از این کانفیگ‌ها فقط فایل[All_Config_Sub.txt] را که در روت اصلی پروژه مشاهده می‌کنید را باز کنید. این فایل شامل لینک‌های مختلفی به فایل های پیکربندی V2ray است که می توانید با کلاینت V2ray خود استفاده کنید، باید ذکر شود که این فایل هزاران کانفیگ را شامل می‌شود بنابراین احتمال هنگ کردن اپلیکیشن کلاینت شما وجود دارد. [این لینک](https://raw.githubusercontent.com/barry-far/Free-V2ray-Config/main/All_Configs_Sub.txt)
+💡روش **1** برای استفاده از یکی از این کانفیگ‌ها فقط فایل [All_Config_Sub.txt](https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/All_Configs_Sub.txt) را که در روت اصلی پروژه مشاهده می‌کنید را باز کنید. این فایل شامل لینک‌های مختلفی به کانفیگ‌های V2ray است که می توانید با کلاینت V2ray خود استفاده کنید، باید ذکر شود که این فایل هزاران کانفیگ را شامل می‌شود بنابراین احتمال هنگ کردن اپلیکیشن کلاینت شما وجود دارد.
 
-روش 2️⃣ برای بهترین عملکرد می‌توانید یکی از این لینک‌ها را داخل نرم‌افزار خود قرار بدهید:
+💡روش **2** برای بهترین عملکرد می‌توانید یکی از این لینک‌ها را داخل نرم‌افزار خود قرار بدهید:
 
-لینک 1 : https://raw.githubusercontent.com/barry-far/Free-V2ray-Config/main/Sub1.txt
+لینک 1 : https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub1.txt
 
-لینک 2 : https://raw.githubusercontent.com/barry-far/Free-V2ray-Config/main/Sub2.txt
+لینک 2 : https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub2.txt
 
-لینک 3 : https://raw.githubusercontent.com/barry-far/Free-V2ray-Config/main/Sub3.txt
+لینک 3 : https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub3.txt
 
-لینک 4 : https://raw.githubusercontent.com/barry-far/Free-V2ray-Config/main/Sub4.txt
+لینک 4 : https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub4.txt
 
-لینک 5 : https://raw.githubusercontent.com/barry-far/Free-V2ray-Config/main/Sub5.txt
+لینک 5 : https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub5.txt
 
-لینک 6 : https://raw.githubusercontent.com/barry-far/Free-V2ray-Config/main/Sub6.txt
+لینک 6 : https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub6.txt
 
-لینک 7 : https://raw.githubusercontent.com/barry-far/Free-V2ray-Config/main/Sub7.txt
+لینک 7 : https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub7.txt
 
-لینک 8 : https://raw.githubusercontent.com/barry-far/Free-V2ray-Config/main/Sub8.txt
+لینک 8 : https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub8.txt
 
-روش 3️⃣ برای مدیریت آسان‌تر، فایل‌های کانفیگ به گروه‌های جداگانه بر اساس نوع پروتکل تقسیم شده‌اند. جهت دسترسی آسان به کانفیگ‌های جداگانه از لینک‌های زیر استفاده کنید:
+💡روش **3** برای مدیریت آسان‌تر، فایل‌های کانفیگ به گروه‌های جداگانه بر اساس نوع پروتکل تقسیم شده‌اند. جهت دسترسی آسان به کانفیگ‌های جداگانه از لینک‌های زیر استفاده کنید:
 
-Vmess : https://raw.githubusercontent.com/barry-far/Free-V2ray-Config/main/Splitted-By-Protocol/vmess.txt
+Vmess : https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/vmess.txt
 
-Vless : https://raw.githubusercontent.com/barry-far/Free-V2ray-Config/main/Splitted-By-Protocol/vless.txt
+Vless : https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/vless.txt
 
-Trojan : https://raw.githubusercontent.com/barry-far/Free-V2ray-Config/main/Splitted-By-Protocol/trojan.txt
+Trojan : https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/trojan.txt
 
-ShadowSocks : https://raw.githubusercontent.com/barry-far/Free-V2ray-Config/main/Splitted-By-Protocol/ss.txt
+ShadowSocks : https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/ss.txt
 
-ShadowSocksR : https://raw.githubusercontent.com/barry-far/Free-V2ray-Config/main/Splitted-By-Protocol/ssr.txt
+ShadowSocksR : https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/ssr.txt
 
 
 ## معرفی چند اپلیکیشن کلاینت
@@ -51,7 +51,7 @@ ShadowSocksR : https://raw.githubusercontent.com/barry-far/Free-V2ray-Config/mai
 همچنین از این نرم افزار‌های نیز می‌توانید استفاده کنید:  [Foxray](https://apps.apple.com/us/app/foxray/id6448898396) , [ShadowRocket](https://apps.apple.com/ca/app/shadowrocket/id932747118) , [V2BOX](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690) , [Streisand](https://apps.apple.com/us/app/streisand/id6450534064)
 
 ## مشارکت
-✍️ اگر شما یک فایل پیکربندی V2ray دارید که می‌خواهید به این مخزن کمک کنید، به راحتی یک درخواست pull جدید ایجاد کنید تا آن را بررسی کنیم.
+✍️ اگر شما یک فایل کانفیگ V2ray دارید که می‌خواهید به این مخزن کمک کنید، به راحتی یک درخواست pull جدید ایجاد کنید تا آن را بررسی کنیم.
 
 ## لایسنس
 📝 این مخزن تحت لایسنس MIT منتشر شده است. برای کسب اطلاعات بیشتر به فایل LICENSE مراجعه کنید.
