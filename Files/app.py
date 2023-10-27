@@ -60,7 +60,8 @@ def decode_dir_links(dir_links):
 def main():
     links = [
         'https://raw.githubusercontent.com/MrPooyaX/VpnsFucking/main/Shenzo.txt',
-        'https://raw.githubusercontent.com/MrPooyaX/SansorchiFucker/main/data.txt'
+        'https://raw.githubusercontent.com/MrPooyaX/SansorchiFucker/main/data.txt',
+        'https://raw.githubusercontent.com/sashalsk/V2Ray/main/V2Config'
     ]
     dir_links = [
         'https://raw.githubusercontent.com/IranianCypherpunks/sub/main/config',
