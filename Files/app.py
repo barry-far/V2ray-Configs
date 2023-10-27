@@ -75,7 +75,6 @@ def main():
     merged_configs = decoded_links + decoded_dir_links
     output_folder = os.path.abspath(os.path.join(os.getcwd(), 'bbbb'))
     base64_folder = os.path.join(output_folder, 'Base64')
-    os.makedirs(base64_folder, exist_ok=True)
 
     # Delete existing output files
     filename = os.path.join(output_folder, f'All_Configs_Sub.txt')
