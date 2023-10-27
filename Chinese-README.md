@@ -10,6 +10,8 @@
 ## 使用方法
 👉 要使用这些配置之一，只需打开位于根目录的 All_Configs_Sub.txt 文件。该文件包含各种 V2ray 配置文件的链接列表，你可以在 V2ray 客户端中使用它们。从 All_Configs_Sub.txt 文件中复制想要使用的配置文件的这个链接，然后导入到你的 V2ray 客户端中。有关更多信息，请参阅客户端的文档。
 
+如果上面的链接对您不起作用，请使用这个链接：[All_Config_base64_Sub.txt](https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/All_Configs_base64_Sub.txt)。
+
 只需将这些链接复制到您的客户端即可使用：
 
 Subscription 1: https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub1.txt
@@ -44,6 +46,7 @@ ShadowSocks: https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Spli
 
 ShadowSocksR: https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/ssr.txt
 
+如果上面的链接对您不起作用，请查看这个文件夹：[Base64 文件夹](https://github.com/barry-far/V2ray-Configs/tree/dev/Base64)。
 
 ℹ️ 此外，我们创建了一个 Wiki 页面，详细介绍如何在不同的操作系统上设置 V2ray。欢迎访问我们的 Wiki 获取更多信息。
 
@@ -51,14 +54,13 @@ ShadowSocksR: https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Spl
 📲 以下是在不同操作系统上使用 V2ray 的最佳方式：
 
 ### 💻 Windows 和 🐧 Linux
-在 Windows 上，我们建议使用 Nekoray 或 V2rayN 客户端。要在 nekoray 中导入配置文件，只需打开该应用程序，然后在 Program 图标上选择 "Add profile from clipboard"，并粘贴配置链接即可。要在 V2rayN 中导入配置文件，只需右键单击系统托盘中的 V2rayN 图标，选择 "
+在Windows上，我们建议使用 [Nekoray](https://github.com/MatsuriDayo/nekoray) 或 [V2rayN](https://github.com/2dust/v2rayN) 客户端。要在 `nekoray` 中导入配置文件，只需打开应用程序，然后在程序图标上，选择 "从剪贴板添加配置文件"，然后粘贴配置链接。要在 `V2rayN` 中导入配置文件，只需右键单击系统托盘中的 V2rayN 图标，选择 "从剪贴板导入"，然后粘贴配置链接。对于官方客户端，在系统托盘中点击 "V" 图标，然后选择 "导入配置"。
 
 ### 🤖 Android
-对于 Android，我们建议使用 V2rayNG 或 NekoBox。要导入配置文件，请打开应用程序，然后单击右下角的“+”图标。然后，选择“从剪贴板导入配置”并粘贴配置链接。
+在Android上，我们建议使用 [V2rayNG](https://github.com/2dust/v2rayNG)、[HiddifyNG](https://github.com/hiddify/HiddifyNG) 或 [NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid)。要导入配置文件，请打开应用程序，然后点击右下角的 "+" 图标。然后，选择 "从剪贴板导入配置" 并粘贴配置链接。
 
 ### 🍎 Mac和📱 iOS
-对于Mac，我们建议使用FairVPN。要导入配置文件，请打开应用程序，然后在页面底部点击“Import VPN Configs”，并粘贴配置链接，然后点击“确定”。
-
+在您的苹果设备上，我们建议使用 [Streisand](https://apps.apple.com/us/app/streisand/id6450534064)。要导入订阅链接，只需打开应用程序，然后在页面顶部点击 "+"，选择 "从剪贴板导入"，然后测试配置，保持 "subscription" 部分并选择 "Latency" 来检查所有配置。最后，选择第一个配置并连接。
 你也可以使用这些应用程序 : [Foxray](https://apps.apple.com/us/app/foxray/id6448898396) , [ShadowRocket](https://apps.apple.com/ca/app/shadowrocket/id932747118) , [V2BOX](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690) , [Streisand](https://apps.apple.com/us/app/streisand/id6450534064)
 
 ## 贡献
