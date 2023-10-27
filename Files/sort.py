@@ -37,3 +37,4 @@ open(vless_file, "w").write(base64.b64encode(vless.encode("utf-8")).decode("utf-
 open(trojan_file, "w").write(base64.b64encode(trojan.encode("utf-8")).decode("utf-8"))  
 open(ss_file, "w").write(base64.b64encode(ss.encode("utf-8")).decode("utf-8"))  
 open(ssr_file, "w").write(base64.b64encode(ssr.encode("utf-8")).decode("utf-8"))  
+

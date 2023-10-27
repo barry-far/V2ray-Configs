@@ -73,16 +73,24 @@ def main():
     decoded_links = decode_links(links)
     decoded_dir_links = decode_dir_links(dir_links)
     merged_configs = decoded_links + decoded_dir_links
-    output_folder = os.path.abspath(os.path.join(os.getcwd(), '..'))
+    output_folder = os.path.abspath(os.path.join(os.getcwd(), 'bbbb'))
+    base64_folder = os.path.join(output_folder, 'Base64')
+    os.makedirs(base64_folder, exist_ok=True)
 
     # Delete existing output files
     filename = os.path.join(output_folder, f'All_Configs_Sub.txt')
+    filename1 = os.path.join(output_folder, f'All_Configs_base64_Sub.txt')
     if os.path.exists(filename):
         os.remove(filename)
+    elif os.path.exists(filename1):
+        os.remove(filename1)
     for i in range(20):
         filename = os.path.join(output_folder, f'Sub{i}.txt')
         if os.path.exists(filename):
             os.remove(filename)
+        filename1 = os.path.join(base64_folder, f'Sub{i}_base64.txt')
+        if os.path.exists(filename1):
+            os.remove(filename1)
     
 
     # Write merged configs to output file
@@ -105,11 +113,25 @@ def main():
             for line in lines[start_index:end_index]:
                 f.write(line)
                 
-    # Encode and save merged configs to a single file
+    # Encode to base64 and save merged configs to a single file
     encoded_merged_configs = base64.b64encode("\n".join(merged_configs).encode()).decode()
     output_file = os.path.join(output_folder, 'All_Configs_base64_Sub.txt')
     with open(output_file, 'w') as f:
         f.write(encoded_merged_configs)
+
+    # Encode and save each Sub{i+1}.txt file to base64_folder as Sub{i+1}_base64.txt
+    for i in range(num_files):
+        input_filename = os.path.join(output_folder, f'Sub{i+1}.txt')
+        output_filename = os.path.join(base64_folder, f'Sub{i+1}_base64.txt')
+
+        with open(input_filename, 'r') as input_file:
+            config_data = input_file.read()
+        
+        encoded_config = base64.b64encode(config_data.encode()).decode()
+
+        with open(output_filename, 'w') as output_file:
+            output_file.write(encoded_config)
+    
 
     
 if __name__ == "__main__":
