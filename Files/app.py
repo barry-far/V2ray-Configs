@@ -73,7 +73,7 @@ def main():
     decoded_links = decode_links(links)
     decoded_dir_links = decode_dir_links(dir_links)
     merged_configs = decoded_links + decoded_dir_links
-    output_folder = os.path.abspath(os.path.join(os.getcwd(), 'bbbb'))
+    output_folder = os.path.abspath(os.path.join(os.getcwd(), '..'))
     base64_folder = os.path.join(output_folder, 'Base64')
 
     # Delete existing output files
