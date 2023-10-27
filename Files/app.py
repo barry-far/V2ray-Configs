@@ -103,7 +103,12 @@ def main():
         with open(filename, 'w') as f:
             for line in lines[start_index:end_index]:
                 f.write(line)
-
+                
+    # Encode and save merged configs to a single file
+    encoded_merged_configs = base64.b64encode("\n".join(merged_configs).encode()).decode()
+    output_file = os.path.join(output_folder, 'All_Configs_base64_Sub.txt')
+    with open(output_file, 'w') as f:
+        f.write(encoded_merged_configs)
 
     
 if __name__ == "__main__":
