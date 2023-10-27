@@ -1,4 +1,5 @@
 import pybase64
+import base64 
 import requests
 import binascii
 import os
