@@ -61,16 +61,15 @@ def main():
     links = [
         'https://raw.githubusercontent.com/MrPooyaX/VpnsFucking/main/Shenzo.txt',
         'https://raw.githubusercontent.com/MrPooyaX/SansorchiFucker/main/data.txt',
-        'https://raw.githubusercontent.com/sashalsk/V2Ray/main/V2Config',
         'https://mrpooyax.ddns.net/api/ramezan/lena.php?sub=1',
-        'https://mrpooyax.ddns.net/api/ramezan/run.php?sub=1'
+        'https://mrpooyax.ddns.net/api/ramezan/run.php?sub=1',
+        'https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/base64/mix'
     ]
     dir_links = [
         'https://raw.githubusercontent.com/IranianCypherpunks/sub/main/config',
+        'https://raw.githubusercontent.com/sashalsk/V2Ray/main/V2Config',
         'https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/sub_merge.txt',
-        'https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/mix',
-        'https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/donated'
-
+        'https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/mix'
     ]
 
     decoded_links = decode_links(links)
