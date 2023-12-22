@@ -61,9 +61,11 @@ def main():
     links = [
         'https://raw.githubusercontent.com/MrPooyaX/VpnsFucking/main/Shenzo.txt',
         'https://raw.githubusercontent.com/MrPooyaX/SansorchiFucker/main/data.txt',
-        'https://mrpooyax.ddns.net/api/ramezan/lena.php?sub=1',
-        'https://mrpooyax.ddns.net/api/ramezan/run.php?sub=1',
-        'https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/base64/mix'
+        'https://mrpooyax.camdvr.org/api/ramezan/lena.php?sub=1',
+        'https://mrpooyax.camdvr.org/api/ramezan/run.php?sub=1',
+        'https://mrpooyax.camdvr.org/api/ramezan/v2raySH.php?sub=1',
+        'https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/base64/mix',
+        'https://mrpooyax.camdvr.org/api/ramezan/alpha.php?sub=1'
     ]
     dir_links = [
         'https://raw.githubusercontent.com/IranianCypherpunks/sub/main/config',
