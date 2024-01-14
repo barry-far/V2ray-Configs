@@ -66,12 +66,12 @@ def main():
         'https://mrpooyax.camdvr.org/api/ramezan/v2raySH.php?sub=1',
         'https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/base64/mix',
         'https://mrpooyax.camdvr.org/api/ramezan/alpha.php?sub=1',
+        'https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt',
         'https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/base64/donated'
     ]
     dir_links = [
         'https://raw.githubusercontent.com/IranianCypherpunks/sub/main/config',
         'https://raw.githubusercontent.com/sashalsk/V2Ray/main/V2Config',
-        'https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/sub_merge.txt',
         'https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/mix'
     ]
 
