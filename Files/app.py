@@ -72,6 +72,7 @@ def main():
     dir_links = [
         'https://raw.githubusercontent.com/IranianCypherpunks/sub/main/config',
         'https://raw.githubusercontent.com/sashalsk/V2Ray/main/V2Config',
+        'https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.txt',
         'https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/mix'
     ]
 
