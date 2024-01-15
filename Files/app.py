@@ -67,7 +67,8 @@ def main():
         'https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/base64/mix',
         'https://mrpooyax.camdvr.org/api/ramezan/alpha.php?sub=1',
         'https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt',
-        'https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/base64/donated'
+        'https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/base64/donated',
+        'https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/splitted/mixed'
     ]
     dir_links = [
         'https://raw.githubusercontent.com/IranianCypherpunks/sub/main/config',
