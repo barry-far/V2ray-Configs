@@ -68,7 +68,11 @@ def main():
         'https://mrpooyax.camdvr.org/api/ramezan/alpha.php?sub=1',
         'https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt',
         'https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/base64/donated',
-        'https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/splitted/mixed'
+        'https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/reality',
+        'https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/vless',
+        'https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/vmess',
+        'https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/trojan',
+        'https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/shadowsocks'
     ]
     dir_links = [
         'https://raw.githubusercontent.com/IranianCypherpunks/sub/main/config',
