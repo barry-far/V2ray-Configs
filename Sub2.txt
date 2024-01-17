@@ -1,11 +1,3 @@
-trojan://c33883045c@198.244.252.93:443?sni=uk1.connecton.surf&type=tcp&allowInsecure=1#🔒 TR-TCP-NA 🇬🇧 GB-198.244.252.93:443 📡 PING-080.04-MS
-trojan://7d6057b0-f54a-4577-823b-30c2a9660b39@172.233.38.90:443?#🔒 TR-TCP-NA 🇳🇱 NL-172.233.38.90:443 📡 PING-080.77-MS
-trojan://0958063a-92e4-4dc8-b5f0-77ff747733d4@139.162.205.63:443?#🔒 TR-TCP-NA 🇬🇧 GB-139.162.205.63:443 📡 PING-080.97-MS
-trojan://b9f3ff1a-9c85-48e1-9809-7a6431c4329f@167.71.79.61:443?#🔒 TR-TCP-NA 🇳🇱 NL-167.71.79.61:443 📡 PING-081.11-MS
-trojan://ba91eca5-ba42-4e26-839c-bb2bf8acd4d5@178.79.134.67:443?#🔒 TR-TCP-NA 🇬🇧 GB-178.79.134.67:443 📡 PING-081.18-MS
-trojan://telegram-id-directvpn@18.169.173.67:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-18.169.173.67:22222 📡 PING-081.54-MS
-trojan://8be6e2ad-a580-4ddd-9051-aaab4a2473c1@195.123.218.157:443?#🔒 TR-TCP-NA 🇳🇱 NL-195.123.218.157:443 📡 PING-081.63-MS
-trojan://telegram-id-privatevpns@18.171.195.88:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-18.171.195.88:22222 📡 PING-081.75-MS
 trojan://a6292090-afe1-4640-97a7-4f1d1d877cf1@95.179.128.114:443?security=tls&sni=hdfy8d1.cpi1.eu.org&type=grpc&serviceName=8bHUAD5IX0lC5KffvrsN6rqb&fp=chrome&alpn=h2#🔒 TR-GRPC-TLS 🇳🇱 NL-95.179.128.114:443 📡 PING-082.88-MS
 trojan://f6a0a650-306e-11ee-b692-1239d0255272@51.158.146.183:443?security=tls&sni=Speedtest.net#🔒 TR-TCP-TLS 🇳🇱 NL-51.158.146.183:443 📡 PING-082.94-MS
 trojan://telegram-id-directvpn@54.213.46.0:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇺🇸 US-54.213.46.0:22222 📡 PING-083.90-MS
@@ -998,3 +990,11 @@ vless://75b18f78-50dc-435e-b30d-937d93af08b4@172.64.26.7:443?security=tls&sni=ro
 vless://c626ae39-f34f-481a-8bca-07bc83069e07@172.232.193.67:443?security=tls&sni=it-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇮🇹 IT-172.232.193.67:443 📡 PING-098.02-MS
 vless://04695962-ec9f-4589-b962-263e7b55664c@172.232.56.121:443?security=tls&sni=fr-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇫🇷 FR-172.232.56.121:443 📡 PING-098.95-MS
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.51.181.81:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇸🇪 SE-13.51.181.81:22222 📡 PING-099.45-MS
+vless://d8481cdf-e3ca-496a-ca9c-040363a5b4cf@146.19.230.94:2087?security=tls&sni=b1.korda.top&type=grpc&serviceName=b1.korda.top#🔒 VL-GRPC-TLS 🇬🇧 GB-146.19.230.94:2087 📡 PING-100.03-MS
+vless://20d46542-bc81-4db8-87c3-9a5e09196a78@172.64.28.12:80?security=none&type=ws&host=usa.servervless.de&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-172.64.28.12:80 📡 PING-100.21-MS
+vless://6f74a88c-f184-43cb-8857-9665027f5d66@172.64.28.12:2053?security=tls&sni=chn3.zedmodeon.lat&type=grpc&serviceName=@ZEDMODEON&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-172.64.28.12:2053 📡 PING-100.22-MS
+vless://c626ae39-f34f-481a-8bca-07bc83069e07@172.232.193.67:2003?security=tls&sni=it-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇮🇹 IT-172.232.193.67:2003 📡 PING-102.02-MS
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.21.34.3:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇸🇪 SE-51.21.34.3:22222 📡 PING-103.28-MS
+vless://22ff5b46-e357-40eb-a09a-f17dff80301f@172.232.147.80:443?security=tls&sni=ru-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇸🇪 SE-172.232.147.80:443 📡 PING-103.81-MS
+vless://7dcc7cf3-b895-40b0-9ecc-7ab120b416b0@5.181.23.63:443?security=none&type=tcp#🔒 VL-TCP-NONE 🇪🇪 EE-5.181.23.63:443 📡 PING-104.12-MS
+vless://da03ac58-f32c-47a8-b523-fcddc2e17485@31.186.83.254:54280?security=tls&sni=frrg.serv00.net&type=ws&host=frrg.serv00.net&path=%2f#🔒 VL-WS-TLS 🇵🇱 PL-31.186.83.254:54280 📡 PING-104.23-MS
