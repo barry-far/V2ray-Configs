@@ -77,3 +77,6 @@ You can also use these apps : [Foxray](https://apps.apple.com/us/app/foxray/id64
 [@hossein-mohseni](https://github.com/hossein-mohseni)
 [@mahdibland](https://github.com/mahdibland)
 [@MrPooyaX](https://github.com/MrPooyaX)
+[@ALIILAPRO](https://github.com/ALIILAPRO)
+[@yebekhe](https://github.com/yebekhe)
+[@soroushmirzaei](https://github.com/soroushmirzaei)
