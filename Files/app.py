@@ -64,6 +64,7 @@ def main():
         'https://mrpooyax.camdvr.org/api/ramezan/lena.php?sub=1',
         'https://mrpooyax.camdvr.org/api/ramezan/run.php?sub=1',
         'https://mrpooyax.camdvr.org/api/ramezan/v2raySH.php?sub=1',
+        'http://mrpooyax.sytes.net/api/ramezan/v2raySH.php?sub=1',
         'https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/base64/mix',
         'https://mrpooyax.camdvr.org/api/ramezan/alpha.php?sub=1',
         'https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt',
