@@ -73,7 +73,8 @@ def main():
         'https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/vless',
         'https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/vmess',
         'https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/trojan',
-        'https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/shadowsocks'
+        'https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/shadowsocks',
+        'https://raw.githubusercontent.com/ts-sf/fly/main/v2'
     ]
     dir_links = [
         'https://raw.githubusercontent.com/IranianCypherpunks/sub/main/config',
