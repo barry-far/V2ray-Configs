@@ -1,7 +1,3 @@
-trojan://telegram-id-privatevpns@34.253.136.136:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇮🇪 IE-34.253.136.136:22222 📡 PING-070.74-MS
-trojan://wkmY1R4EcP@137.220.42.248:443?security=tls&sni=z-v2-002802.kailib.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-137.220.42.248:443 📡 PING-072.75-MS
-trojan://wkmY1R4EcP@45.76.130.173:443?security=tls&sni=z-v2-003289.kailib.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇬🇧 GB-45.76.130.173:443 📡 PING-078.62-MS
-trojan://a413ce58-f357-4748-b3b7-09aa61903004@176.58.112.121:443?#🔒 TR-TCP-NA 🇬🇧 GB-176.58.112.121:443 📡 PING-079.80-MS
 trojan://wkmY1R4EcP@45.32.148.182:443?security=tls&sni=z-v2-002805.kailib.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇫🇷 FR-45.32.148.182:443 📡 PING-080.17-MS
 trojan://telegram-id-privatevpns@54.220.134.150:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-54.220.134.150:22222 📡 PING-080.22-MS
 trojan://62313560-c059-11ee-b43c-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇬🇧 GB-51.38.65.155:443 📡 PING-080.28-MS
@@ -998,3 +994,7 @@ vless://a1e3d73f-65b9-4b0a-ad1a-46878b718bcc@193.151.144.194:44883?security=none
 vless://520bd28e-c1ee-11ee-98e5-430bd266ea8a@185.141.106.245:8664?security=tls&sni=nimz179.nimzrayen23.ir&type=tcp#🔒 VL-TCP-TLS 🇮🇷 IR-185.141.106.245:8664 📡 PING-277.98-MS
 vless://520bd28e-c1ee-11ee-98e5-430bd266ea8a@185.141.106.245:2047?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.141.106.245:2047 📡 PING-281.93-MS
 vless://dd632311-97a9-4fc6-a4d7-a074ff27848f@37.32.21.2:666?security=tls&sni=vip.trustvpn.top&type=tcp&host=vip.trustvpn.top&headerType=http&alpn=h2,http/1.1#🔒 VL-TCP-TLS 🇮🇷 IR-37.32.21.2:666 📡 PING-286.16-MS
+vless://de74ef5a-bb91-4ab5-8abe-4cda2c2a3956@45.89.236.147:63058?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-45.89.236.147:63058 📡 PING-319.18-MS
+vless://c1201712-7acf-4847-81ad-77e03cf5baef@96.126.127.188:443?security=tls&flow=xtls-rprx-vision&sni=us-freevmess.privateip.net&type=tcp&path=%2f&allowInsecure=1#🔒 VL-TCP-TLS 🇺🇸 US-96.126.127.188:443 📡 PING-035.72-MS
+vless://06959f6a-da4a-48c8-a943-3a73883da21a@72.14.189.27:443?security=tls&flow=xtls-rprx-vision&sni=us-freevmess.privateip.net&type=tcp&path=%2f&allowInsecure=1#🔒 VL-TCP-TLS 🇺🇸 US-72.14.189.27:443 📡 PING-034.32-MS
+vless://32088f2f-92b3-456b-9f66-3b50e06555f6@198.58.109.150:2003?security=tls&sni=us2-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇺🇸 US-198.58.109.150:2003 📡 PING-033.89-MS
