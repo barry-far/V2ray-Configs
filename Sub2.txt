@@ -1,13 +1,3 @@
-trojan://telegram-id-directvpn@3.10.251.224:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-3.10.251.224:22222 📡 PING-095.74-MS
-trojan://a413ce58-f357-4748-b3b7-09aa61903004@176.58.112.121:443?#🔒 TR-TCP-NA 🇬🇧 GB-176.58.112.121:443 📡 PING-095.80-MS
-trojan://62313560-c059-11ee-b43c-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇬🇧 GB-51.38.65.155:443 📡 PING-095.82-MS
-trojan://telegram-id-privatevpns@13.42.120.190:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇬🇧 GB-13.42.120.190:22222 📡 PING-096.18-MS
-trojan://88a765e1-92e3-45f1-bd17-09440dd987f7@178.79.134.67:443?#🔒 TR-TCP-NA 🇬🇧 GB-178.79.134.67:443 📡 PING-096.51-MS
-trojan://telegram-id-privatevpns@13.41.90.51:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-13.41.90.51:22222 📡 PING-097.32-MS
-trojan://telegram-id-privatevpns@3.9.103.15:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇬🇧 GB-3.9.103.15:22222 📡 PING-098.30-MS
-trojan://1cc98e30-b07d-4194-901d-1a15a356bea2@172.233.56.59:443?#🔒 TR-TCP-NA 🇳🇱 NL-172.233.56.59:443 📡 PING-099.93-MS
-trojan://7fd44b70-b877-11ee-b55a-1239d0255272@51.210.182.170:443?security=tls&sni=yahoo.com&type=tcp#🔒 TR-TCP-TLS 🇫🇷 FR-51.210.182.170:443 📡 PING-099.95-MS
-trojan://wkmY1R4EcP@78.141.221.194:443?security=tls&sni=z-v2-002750.kailib.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇳🇱 NL-78.141.221.194:443 📡 PING-100.71-MS
 trojan://f46677ae-8d38-4580-9359-d91078fa49c9@141.94.115.231:443?#🔒 TR-TCP-NA 🇫🇷 FR-141.94.115.231:443 📡 PING-100.83-MS
 trojan://a6292090-afe1-4640-97a7-4f1d1d877cf1@95.179.128.114:443?security=tls&sni=hdfy8d1.cpi1.eu.org&type=tcp#🔒 TR-TCP-TLS 🇳🇱 NL-95.179.128.114:443 📡 PING-100.90-MS
 trojan://telegram-id-directvpn@13.39.3.82:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇫🇷 FR-13.39.3.82:22222 📡 PING-101.09-MS
@@ -998,3 +988,13 @@ vless://7a65472b-673d-4f31-b8fb-5449c02b22b1@207.148.120.233:37446?security=none
 vless://676ccd3b-793d-4efd-b93c-48943711055d@52.77.220.96:443?security=tls&flow=xtls-rprx-vision&sni=fe426064b91fd7c1b6350457011110a95fc1c7a6ee12b90b4de32ae85e90dac7ad3db8ce.kbjc.top&type=tcp#🔒 VL-TCP-TLS 🇸🇬 SG-52.77.220.96:443 📡 PING-208.71-MS
 vless://1864985c-eaa4-4a44-afe2-e8aac5829e48@52.221.193.47:52584?security=tls&sni=cf.anzhuohezi.eu.org&type=ws&host=cf.anzhuohezi.eu.org&path=%40V2ray_Alpha+%40v2ray_alpha+%40v2ray_alpha+%40v2ray_alpha+%40v2ray_alpha+%2F%3Fed%3D2048&fp=firefox&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇸🇬 SG-52.221.193.47:52584 📡 PING-208.84-MS
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.222.167.147:2087?security=tls&sni=ss22.wang66.homes&type=ws&host=ss22.wang66.homes&path=%2Fblue#🔒 VL-WS-TLS 🇸🇬 SG-8.222.167.147:2087 📡 PING-209.08-MS
+vless://e65d0c6d-633d-498e-ad2d-2ba8558e9d0e@146.190.85.160:8443?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇸🇬 SG-146.190.85.160:8443 📡 PING-209.11-MS
+vless://8c4c1021-3352-4c76-b4b6-26c38a137f92@13.212.92.176:6600?security=tls&flow=xtls-rprx-vision&sni=763016308435c87f3709cca73132cf1a955697.jsjc.sbs&type=tcp&fp=ios#🔒 VL-TCP-TLS 🇸🇬 SG-13.212.92.176:6600 📡 PING-209.11-MS
+vless://7509f896-2115-4420-b487-501c9103bebd@161.81.114.97:12483?security=tls&sni=ccs.fgfw.tk&type=ws&host=ccs.fgfw.tk&path=%2Fvless%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🇭🇰 HK-161.81.114.97:12483 📡 PING-209.16-MS
+vless://2f5ca1ff-b5cb-47fc-8c6e-6dcded67efc4@207.148.120.233:43501?security=none&type=ws&host=m.zoom.us&path=%2f#🔒 VL-WS-NONE 🇸🇬 SG-207.148.120.233:43501 📡 PING-209.21-MS
+vless://1d59aa5e-c84e-49a1-93f8-fec4183538d6@143.198.200.79:42884?security=none&type=ws&host=m.whatsapp.com&path=%2F#🔒 VL-WS-NONE 🇸🇬 SG-143.198.200.79:42884 📡 PING-209.24-MS
+vless://3ad47897-4ede-4fc1-a719-df001227a7da@146.190.101.47:80?security=none&type=ws&host=android.googleapis.com&path=%2F#🔒 VL-WS-NONE 🇸🇬 SG-146.190.101.47:80 📡 PING-209.34-MS
+vless://efc1289f-a681-4877-b924-fe4cbec0c0d7@157.230.34.108:10556?security=none&type=ws&host=m.instagram.com&path=%2FVPNKING#🔒 VL-WS-NONE 🇸🇬 SG-157.230.34.108:10556 📡 PING-209.38-MS
+vless://6c7fa4f0-1cf5-42a6-88da-0e808e5d1ccd@139.162.9.137:443?security=tls&flow=xtls-rprx-vision&sni=sg-freevmess.privateip.net&type=tcp&path=%2f&allowInsecure=1#🔒 VL-TCP-TLS 🇸🇬 SG-139.162.9.137:443 📡 PING-209.40-MS
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@8.219.198.139:2087?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=/?ed%3D2048&fp=random#🔒 VL-WS-TLS 🇸🇬 SG-8.219.198.139:2087 📡 PING-209.52-MS
+vless://c217de39-d04f-4f4f-b945-0e9e65f108d0@146.190.101.47:443?security=tls&sni=aka.ms&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-TCP-TLS 🇸🇬 SG-146.190.101.47:443 📡 PING-209.56-MS
