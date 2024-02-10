@@ -80,7 +80,8 @@ def main():
         'https://raw.githubusercontent.com/IranianCypherpunks/sub/main/config',
         'https://raw.githubusercontent.com/sashalsk/V2Ray/main/V2Config',
         'https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.txt',
-        'https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/mix'
+        'https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/mix',
+        'https://mrpooya.top/api/lena.php'
     ]
 
     decoded_links = decode_links(links)
