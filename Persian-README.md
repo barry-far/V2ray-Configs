@@ -52,15 +52,30 @@ ShadowSocksR: https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Spl
 📲 انواع مختلف راه‌ها برای استفاده از V2ray در سیستم عامل‌های مختلف به شرح زیر است:
 
 ### 💻 ویندوز و 🐧 لینوکس
-در ویندوز، ما پیشنهاد می کنیم از [Nekoray](https://github.com/MatsuriDayo/nekoray) یا [V2rayN](https://github.com/2dust/v2rayN) استفاده کنید. برای import کردن یک فایل کانفیگ در `nekoray`، به سادگی برنامه را باز کنید، سپس در آیکون برنامه، "Add profile from clipboard" را انتخاب کرده و لینک فایل کانفیگ را paste کنید. برای import کردن یک فایل کانفیگ در `V2rayN`، به سادگی روی آیکون V2rayN در system tray کلیک راست کرده، "Import from clipboard" را انتخاب کرده و لینک فایل کتنفیگ را paste کنید. برای اجرای برنامه رسمی، روی آیکون "V" در system tray کلیک کرده و "Import Config" را انتخاب کنید.
+در ویندوز، ما پیشنهاد می کنیم از [Nekoray](https://github.com/MatsuriDayo/nekoray) یا [Hiddify-Next](https://github.com/hiddify/hiddify-next) استفاده کنید. برای import کردن یک فایل کانفیگ در `nekoray`، به سادگی برنامه را باز کنید، سپس Program در بالا سمت چپ را انتخاب کرده و "Add profile from clipboard" را انتخاب کرده و گزینه ok را انتخاب کنید. برای import کردن لینک اشتراک در `Hiddify`، به سادگی اپلیکیشن را باز کرده و آیکون + را انتخاب کنید و "Add  from clipboard" را انتخاب کرده.
+
+[راهنمای تصویری Hiddify](https://github.com/hiddify/Hiddify-Manager/wiki/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%DA%A9%D8%A7%D8%B1-%D8%A8%D8%A7-%D9%86%D8%B1%D9%85%E2%80%8C%D8%A7%D9%81%D8%B2%D8%A7%D8%B1-%D9%87%DB%8C%D8%AF%DB%8C%D9%81%D8%A7%DB%8C%E2%80%8C%D9%86%DA%A9%D8%B3%D8%AA#%D8%A7%D9%81%D8%B2%D9%88%D8%AF%D9%86-%D9%BE%D8%B1%D9%88%D9%81%D8%A7%DB%8C%D9%84-%D8%A8%D9%87-%D8%A7%D9%BE)
 
 ### 🤖 اندروید
-در اندروید، ما پیشنهاد می کنیم از [V2rayNG](https://github.com/2dust/v2rayNG) یا [NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid) استفاده کنید. برای import کردن یک فایل کانفیگ، برنامه را باز کرده و روی آیکون "+" در گوشه پایین سمت راست کلیک کنید. سپس، "Import Config from Clipboard" را انتخاب کرده و لینک فایل کانفیگ را paste کنید.
+در اندروید، ما پیشنهاد می کنیم از [V2rayNG](https://github.com/2dust/v2rayNG) یا [HiddifyNext](https://github.com/hiddify/hiddify-next/releases) استفاده کنید. برای import کردن یک فایل کانفیگ، برنامه را باز کرده و روی آیکون "+" در گوشه بالا سمت راست کلیک کنید. سپس، "Import Config from Clipboard" را انتخاب کرده و لینک فایل کانفیگ را paste کنید.
+
+[راهنمای تصویری Hiddify](https://github.com/hiddify/Hiddify-Manager/wiki/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%DA%A9%D8%A7%D8%B1-%D8%A8%D8%A7-%D9%86%D8%B1%D9%85%E2%80%8C%D8%A7%D9%81%D8%B2%D8%A7%D8%B1-%D9%87%DB%8C%D8%AF%DB%8C%D9%81%D8%A7%DB%8C%E2%80%8C%D9%86%DA%A9%D8%B3%D8%AA#%D8%A7%D9%81%D8%B2%D9%88%D8%AF%D9%86-%D9%BE%D8%B1%D9%88%D9%81%D8%A7%DB%8C%D9%84-%D8%A8%D9%87-%D8%A7%D9%BE)
+
+[راهنمای تصویری V2rayNG](https://github.com/hiddify/Hiddify-Manager/wiki/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%DA%A9%D8%A7%D8%B1-%D8%A8%D8%A7-%D9%86%D8%B1%D9%85-%D8%A7%D9%81%D8%B2%D8%A7%D8%B1-V2rayNG#%D8%A7%D9%81%D8%B2%D9%88%D8%AF%D9%86-%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%D9%87%D8%A7-%D8%A8%D9%87-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87)
+
 
 ### 🍎 مک و 📱 آی‌اواس
 برای دستگاه اپلی شما، ما پیشنهاد می کنیم از [Streisand](https://apps.apple.com/us/app/streisand/id6450534064) استفاده کنید. برای "import" کردن اشتراک به سادگی برنامه را باز کنید، در بلای صفحه "+" را انتخاب کرده و "import from clipboard" را بزنید و سپس از آنها با نگه داشتن کادر "subscription" تست "Latency" بگیرید و به بالاترین کانفیگ متصل شوید.
 
-همچنین از این نرم افزار‌های نیز می‌توانید استفاده کنید:  [Foxray](https://apps.apple.com/us/app/foxray/id6448898396) , [ShadowRocket](https://apps.apple.com/ca/app/shadowrocket/id932747118) , [V2BOX](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690) , [Streisand](https://apps.apple.com/us/app/streisand/id6450534064)
+[راهنمای تصویری Streisand](https://github.com/hiddify/Hiddify-Manager/wiki/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%DA%A9%D8%A7%D8%B1-%D8%A8%D8%A7-%D9%86%D8%B1%D9%85%E2%80%8C%D8%A7%D9%81%D8%B2%D8%A7%D8%B1-Streisand#%D8%A7%D9%81%D8%B2%D9%88%D8%AF%D9%86-%D9%84%DB%8C%D9%86%DA%A9-%D8%B3%D8%A7%D8%A8%D8%B3%DA%A9%D8%B1%DB%8C%D9%BE%D8%B4%D9%86)
+
+
+همچنین از این نرم افزار‌های نیز می‌توانید استفاده کنید: [HiddifyNext](https://github.com/hiddify/hiddify-next/releases) , [ShadowRocket](https://apps.apple.com/ca/app/shadowrocket/id932747118) , [V2BOX](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690)
+
+[راهنمای تصویری ShadowRocket](https://github.com/hiddify/Hiddify-Manager/wiki/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%DA%A9%D8%A7%D8%B1-%D8%A8%D8%A7-%D9%86%D8%B1%D9%85%E2%80%8C%D8%A7%D9%81%D8%B2%D8%A7%D8%B1-ShadowRocket#%D8%A7%D8%B6%D8%A7%D9%81%D9%87-%DA%A9%D8%B1%D8%AF%D9%86-%D9%84%DB%8C%D9%86%DA%A9%D9%87%D8%A7%DB%8C-%D8%B3%D8%A7%D8%A8%D8%B3%DA%A9%D8%B1%DB%8C%D9%BE%D8%B4%D9%86-%D9%BE%D9%86%D9%84-%D8%A8%D9%87-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87)
+
+[راهنمای تصویری V2BOX](https://github.com/hiddify/Hiddify-Manager/wiki/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%DA%A9%D8%A7%D8%B1-%D8%A8%D8%A7-%D9%86%D8%B1%D9%85%E2%80%8C%D8%A7%D9%81%D8%B2%D8%A7%D8%B1-V2Box#%D8%A7%D8%B6%D8%A7%D9%81%D9%87-%DA%A9%D8%B1%D8%AF%D9%86-%D9%84%DB%8C%D9%86%DA%A9%D9%87%D8%A7%DB%8C-%D9%BE%D9%86%D9%84-%D8%A8%D9%87-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87)
+
 
 ## مشارکت
 ✍️ اگر شما یک فایل کانفیگ V2ray دارید که می‌خواهید به این مخزن کمک کنید، به راحتی یک درخواست issue جدید ایجاد کنید تا ما آن را بررسی کنیم.
