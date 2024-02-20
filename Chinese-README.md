@@ -56,12 +56,27 @@ ShadowSocksR: https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Spl
 ### 💻 Windows 和 🐧 Linux
 在Windows上，我们建议使用 [Nekoray](https://github.com/MatsuriDayo/nekoray) 或 [V2rayN](https://github.com/2dust/v2rayN) 客户端。要在 `nekoray` 中导入配置文件，只需打开应用程序，然后在程序图标上，选择 "从剪贴板添加配置文件"，然后粘贴配置链接。要在 `V2rayN` 中导入配置文件，只需右键单击系统托盘中的 V2rayN 图标，选择 "从剪贴板导入"，然后粘贴配置链接。对于官方客户端，在系统托盘中点击 "V" 图标，然后选择 "导入配置"。
 
+[视觉引导 Hiddify](https://github.com/hiddify/Hiddify-Manager/wiki/Tutorial-for-HiddifyNext-app#adding-a-profile-to-the-app)
+
+
 ### 🤖 Android
 在Android上，我们建议使用 [V2rayNG](https://github.com/2dust/v2rayNG)、[HiddifyNG](https://github.com/hiddify/HiddifyNG) 或 [NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid)。要导入配置文件，请打开应用程序，然后点击右下角的 "+" 图标。然后，选择 "从剪贴板导入配置" 并粘贴配置链接。
 
+[视觉引导 Hiddify](https://github.com/hiddify/Hiddify-Manager/wiki/Tutorial-for-HiddifyNext-app#adding-a-profile-to-the-app)
+
+[视觉引导 V2rayNG](https://github.com/hiddify/Hiddify-Manager/wiki/Tutorial-for-V2rayNG-app#add-configs-to-the-app)
+
+
 ### 🍎 Mac和📱 iOS
 在您的苹果设备上，我们建议使用 [Streisand](https://apps.apple.com/us/app/streisand/id6450534064)。要导入订阅链接，只需打开应用程序，然后在页面顶部点击 "+"，选择 "从剪贴板导入"，然后测试配置，保持 "subscription" 部分并选择 "Latency" 来检查所有配置。最后，选择第一个配置并连接。
-你也可以使用这些应用程序 : [Foxray](https://apps.apple.com/us/app/foxray/id6448898396) , [ShadowRocket](https://apps.apple.com/ca/app/shadowrocket/id932747118) , [V2BOX](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690) , [Streisand](https://apps.apple.com/us/app/streisand/id6450534064)
+
+[视觉引导 Streisand](https://github.com/hiddify/Hiddify-Manager/wiki/Tutorial-for-Streisand#add-subscription-link)
+
+你也可以使用这些应用程序 : [HiddifyNext](https://github.com/hiddify/hiddify-next/releases) , [ShadowRocket](https://apps.apple.com/ca/app/shadowrocket/id932747118) , [V2BOX](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690) 
+
+[视觉引导 ShadowRocket](https://github.com/hiddify/Hiddify-Manager/wiki/Tutorial-for-ShadowRocket-app#add-subscription-link-to-the-app)
+
+[视觉引导 V2BOX](https://github.com/hiddify/Hiddify-Manager/wiki/Tutorial-for-V2Box-app#add-subscription-links-to-the-app)
 
 ## 贡献
 ✍️ 如果您有想要贡献给这个仓库的V2ray配置文件，请创建一个新的pull request，我们会进行审核。
