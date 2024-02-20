@@ -53,15 +53,30 @@ ShadowSocksR: https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Spl
 📲 Here are best ways to use V2ray on different operating systems:
 
 ### 💻 Windows and 🐧 Linux
-On Windows, we recommend using [Nekoray](https://github.com/MatsuriDayo/nekoray) or [V2rayN](https://github.com/2dust/v2rayN) client. To import a configuration file in `nekoray`, simply open the app then on the Program icon, select "Add profile from clipboard", and paste the configuration link. To import a configuration file in `V2rayN`, simply right-click on the V2rayN icon in the system tray, select "Import from clipboard", and paste the configuration link. For the official client, click on the "V" icon in the system tray and select "Import Config".
+On Windows, we recommend using [Hiddify-Next](https://github.com/hiddify/hiddify-next) or [Nekoray](https://github.com/MatsuriDayo/nekoray) client. To import a configuration file in `nekoray`, simply open the app then on the Program icon, select "Add profile from clipboard", and paste the configuration link. To import a configuration file in `Hiddify`, simply click on the + icon at top right, select "Add from clipboard", and paste the configuration link.
+
+[Visual guide Hiddify](https://github.com/hiddify/Hiddify-Manager/wiki/Tutorial-for-HiddifyNext-app#adding-a-profile-to-the-app)
+
 
 ### 🤖 Android
-On Android, we recommend using [V2rayNG](https://github.com/2dust/v2rayNG) or [HiddifyNG](https://github.com/hiddify/HiddifyNG) or [NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid). To import a configuration file, open the app and click on the "+" icon in the bottom right corner. Then, select "Import Config from Clipboard" and paste the configuration link.
+On Android, we recommend using [V2rayNG](https://github.com/2dust/v2rayNG) or [HiddifyNext](https://github.com/hiddify/hiddify-next/releases). To import a configuration file, open the app and click on the "+" icon in the bottom right corner. Then, select "Import Config from Clipboard" and paste the configuration link.
+
+[Visual guide Hiddify](https://github.com/hiddify/Hiddify-Manager/wiki/Tutorial-for-HiddifyNext-app#adding-a-profile-to-the-app)
+
+[Visual guide V2rayNG](https://github.com/hiddify/Hiddify-Manager/wiki/Tutorial-for-V2rayNG-app#add-configs-to-the-app)
+
 
 ### 🍎 Mac and 📱 iOS
 On you Apple Device, we recommend using the [Streisand](https://apps.apple.com/us/app/streisand/id6450534064). To import the subscription link, simply open the app then at the yop of the page click "+" and choose "import from clipboard" then test configs with holding "subscription" part and choose "Latency" to check all configs. At the end , choose first config & connect.
 
-You can also use these apps : [Foxray](https://apps.apple.com/us/app/foxray/id6448898396) , [ShadowRocket](https://apps.apple.com/ca/app/shadowrocket/id932747118) , [V2BOX](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690) , [Streisand](https://apps.apple.com/us/app/streisand/id6450534064)
+[Visual guide Streisand](https://github.com/hiddify/Hiddify-Manager/wiki/Tutorial-for-Streisand#add-subscription-link)
+
+
+You can also use these apps : [ShadowRocket](https://apps.apple.com/ca/app/shadowrocket/id932747118) , [V2BOX](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690) , [HiddifyNext](https://github.com/hiddify/hiddify-next/releases)
+
+[Visual guide ShadowRocket](https://github.com/hiddify/Hiddify-Manager/wiki/Tutorial-for-ShadowRocket-app#add-subscription-link-to-the-app)
+
+[Visual guide V2BOX](https://github.com/hiddify/Hiddify-Manager/wiki/Tutorial-for-V2Box-app#add-subscription-links-to-the-app)
 
 ## Contributing
 ✍️ If you have a V2ray configuration file that you would like to contribute to this repository, simply create a new pull request and we will review it.
