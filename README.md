@@ -31,6 +31,10 @@ Subscription 7: https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/S
 
 Subscription 8: https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub8.txt
 
+Subscription 9: https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub9.txt
+
+Subscription 10: https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub10.txt
+
 🔒 To ensure the best possible performance and security, we recommend subscribing to our latest configurations using the subscription link feature. Simply copy the subscription link from the configs.txt file and paste it into your V2ray client to receive automatic updates every 10 minutes.
 
 🗂️ For easier configuration management, we have split the configuration files into individual files for each protocol and added them to the Splitted folder. To have easy access to separated Configs use this : 
