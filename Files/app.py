@@ -127,8 +127,6 @@ def main():
 
         input_filename = os.path.join(output_folder, f'Sub{i+1}.txt')
         output_filename = os.path.join(base64_folder, f'Sub{i+1}_base64.txt')
-        with open(input_filename, 'r') as input_file:
-            config_data = input_file.read()
         encoded_config = base64.b64encode(config_data.encode()).decode()
         with open(output_filename, 'w') as output_file:
             output_file.write(custom_fixed_text + encoded_config)
@@ -153,8 +151,6 @@ def main():
 """
         input_filename = os.path.join(output_folder, f'Sub{i+1}.txt')
         output_filename = os.path.join(base64_folder, f'Sub{i+1}_base64.txt')
-        with open(input_filename, 'r') as input_file:
-            config_data = input_file.read()
         encoded_config = base64.b64encode(config_data.encode()).decode()
         with open(output_filename, 'w') as output_file:
             output_file.write(custom_fixed_text + encoded_config)
