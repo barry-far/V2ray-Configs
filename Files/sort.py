@@ -2,7 +2,26 @@ import requests
 import os
 import base64
 
-# Mapping protocol names to their details (file names and header texts)
+# Function to generate base64 encoded header text for each protocol
+def generate_header_text(protocol_name):
+    titles = {
+        'vmess': "8J+GkyBCYXJyeS1mYXIgfCB2bWVzc/Cfpbc=",
+        'vless': "8J+GkyBCYXJyeS1mYXIgfCB2bGVzc/Cfpbc=",
+        'trojan': "8J+GkyBCYXJyeS1mYXIgfCBUcm9qYW7wn6W3",
+        'ss': "8J+GkyBCYXJyeS1mYXIgfCBTaGFkb3dTb2Nrc/Cfpbc=",
+        'ssr': "8J+GkyBCYXJyeS1mYXIgfCBTaGFkb3dTb2Nrc1Ig8J+ltw==",
+        'tuic': "8J+GkyBCYXJyeS1mYXIgfCBUdWljIPCfpbc=",
+        'hy2': "8J+GkyBCYXJyeS1mYXIgfCBIeXN0ZXJpYTLwn6W3"
+    }
+    base_text = """#profile-title: base64:{base64_title}
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
+#support-url: https://github.com/barry-far/V2ray-Configs
+#profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+
+"""
+    return base_text.format(base64_title=titles.get(protocol_name, ""))
+
 protocols = {
     'vmess': 'vmess.txt',
     'vless': 'vless.txt',
@@ -13,41 +32,13 @@ protocols = {
     'hy2': 'hysteria2.txt'
 }
 
-# Base text for all protocols (just need to format with the correct base64 title)
-base_text = """#profile-title: base64:{base64_title}
-#profile-update-interval: 1
-#subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/barry-far/V2ray-Configs
-#profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-
-"""
-
-# Function to generate the specific base64 title for each protocol
-def generate_base64_title(protocol_name):
-    titles = {
-        'vmess': "8J+GkyBCYXJyeS1mYXIgfCB2bWVzc/Cfpbc=",
-        'vless': "8J+GkyBCYXJyeS1mYXIgfCB2bGVzc/Cfpbc=",
-        'trojan': "8J+GkyBCYXJyeS1mYXIgfCBUcm9qYW7wn6W3",
-        'ss': "8J+GkyBCYXJyeS1mYXIgfCBTaGFkb3dTb2Nrc/Cfpbc=",
-        'ssr': "8J+GkyBCYXJyeS1mYXIgfCBTaGFkb3dTb2Nrc1Ig8J+ltw==",
-        'tuic': "8J+GkyBCYXJyeS1mYXIgfCBUdWljIPCfpbc=",
-        'hy2': "8J+GkyBCYXJyeS1mYXIgfCBIeXN0ZXJpYTLwn6W3"
-    }
-    return titles.get(protocol_name, "")
-
-# Setting up the directory and initializing protocol files with their headers
 ptt = os.path.abspath(os.path.join(os.getcwd(), '..'))
 splitted_path = os.path.join(ptt, 'Splitted-By-Protocol')
 
 # Ensure the directory exists
 os.makedirs(splitted_path, exist_ok=True)
 
-protocol_data = {}
-for protocol, filename in protocols.items():
-    file_path = os.path.join(splitted_path, filename)
-    with open(file_path, "w") as file:
-        file.write(base_text.format(base64_title=generate_base64_title(protocol)))
-    protocol_data[protocol] = ""
+protocol_data = {protocol: generate_header_text(protocol) for protocol in protocols}
 
 # Fetching the configuration data
 response = requests.get("https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/All_Configs_Sub.txt").text
@@ -59,8 +50,9 @@ for config in response.splitlines():
             protocol_data[protocol] += config + "\n"
             break
 
-# Writing the processed data to files, encoded in base64
+# Encoding and writing the data to files
 for protocol, data in protocol_data.items():
     file_path = os.path.join(splitted_path, protocols[protocol])
-    with open(file_path, "a") as file:  # Use "a" to append to the existing headers
-        file.write(base64.b64encode(data.encode("utf-8")).decode("utf-8"))
+    encoded_data = base64.b64encode(data.encode("utf-8")).decode("utf-8")
+    with open(file_path, "w") as file:
+        file.write(encoded_data)
