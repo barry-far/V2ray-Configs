@@ -133,7 +133,6 @@ def main():
             for line in lines[start_index:end_index]:
                 f.write(line)
 
-        # Read the created file and encode its content to Base64
         with open(input_filename, 'r') as input_file:
             config_data = input_file.read()
         
