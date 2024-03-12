@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+
+vmess://eyJhZGQiOiIxMDQuMjYuOS4yMDIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InZpcDIzMjMuY2ZkIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2xpbmt2d3MiLCJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsInNuaSI6InZpcDIzMjMuY2ZkIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIiwicHMiOiJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTZDQSB8IHZtZXNzIHwgQGVsaXlhX2NoaXRlcjAgfCA1In0=
 vless://a27302aa-0f64-4d27-8153-63398c834984@c1.shoplandtr.xyz:2096?path=/&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=C1.shoplandtr.xyz#🇨🇦CA | vless | @FoXrayIran | 0
 tuic://c12fd04c-2099-4016-a97c-26c0ae2c7d0b:c12fd04c-2099-4016-a97c-26c0ae2c7d0b@38.6.227.43:54009?congestion_control=bbr&udp_relay_mode=native&sni=www.bing.com&alpn=h3&allow_insecure=1#🇺🇸US | tuic | @TUICity | 5
 hy2://miaoge110.@170.64.183.54:33939?insecure=1&sni=www.bing.com#🇦🇺AU | hy2 | @TUICity | 6
@@ -602,4 +604,3 @@ trojan://2959e4f7-7589-4a40-9b96-1be750ac7845@51.83.186.142:80?security=tls&sni=
 trojan://telegram-id-privatevpns@13.53.228.28:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.53.228.28:22222 📡 PING-110.85-MS
 trojan://telegram-id-privatevpns@13.49.50.173:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.49.50.173:22222 📡 PING-111.03-MS
 trojan://c6a55c2a-0dba-4ce1-9fdd-d9b4cbe1972a@94.131.117.240:443?#🔒 TR-TCP-NA 🇪🇸 ES-94.131.117.240:443 📡 PING-114.45-MS
-trojan://33df2351-f14f-4a2c-9bb7-72ef81cea92f@195.123.213.46:443?#🔒 TR-TCP-NA 🇱🇻 LV-195.123.213.46:443 📡 PING-116.69-MS
