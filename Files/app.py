@@ -115,27 +115,25 @@ def main():
     max_lines_per_file = 600
     num_files = (num_lines + max_lines_per_file - 1) // max_lines_per_file
     for i in range(num_files):
-        profile_title = f'🆓 Git:Barry-far | Sub{i+1} 🫂'  # Dynamic title
-        encoded_title = base64.b64encode(profile_title.encode()).decode()  # Encode to base64
-        custom_fixed_text = f"""#profile-title: base64:{encoded_title}
+        filename = os.path.join(output_folder, f'Sub{i+1}.txt')
+        with open(filename, 'w') as f:
+            profile_title = f'🆓 Git:Barry-far | Sub{i+1} 🫂'  # Dynamic title
+            encoded_title = base64.b64encode(profile_title.encode()).decode()  # Encode to base64
+            custom_fixed_text = f"""#profile-title: base64:{encoded_title}
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
 """
-
-        f.write(custom_fixed_text)
-        start_index = i * max_lines_per_file
-        end_index = min((i + 1) * max_lines_per_file, num_lines)
-        for line in lines[start_index:end_index]:
-            f.write(line)
+            # Ensure all writes are inside the 'with open' block
+            f.write(custom_fixed_text)
+            start_index = i * max_lines_per_file
+            end_index = min((i + 1) * max_lines_per_file, num_lines)
+            for line in lines[start_index:end_index]:
+                f.write(line)
                 
-    # Encode to base64 and save merged configs to a single file
-    for i in range(num_files):
-        input_filename = os.path.join(output_folder, f'Sub{i+1}.txt')
-        with open(input_filename, 'r') as input_file:
-            config_data = input_file.read()
+
 
     # Encode and save each Sub{i+1}.txt file to base64_folder as Sub{i+1}_base64.txt
     for i in range(num_files):
@@ -154,7 +152,11 @@ def main():
         with open(output_filename, 'w') as output_file:
             output_file.write(custom_fixed_text + encoded_config)
     
-
+    # Encode to base64 and save merged configs to a single file
+    for i in range(num_files):
+        input_filename = os.path.join(output_folder, f'Sub{i+1}.txt')
+        with open(input_filename, 'r') as input_file:
+            config_data = input_file.read()
     
 if __name__ == "__main__":
     main()
