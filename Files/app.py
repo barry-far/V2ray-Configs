@@ -55,7 +55,6 @@ def decode_dir_links(dir_links, protocols):
 def main():
     protocols = ['vmess', 'vless', 'trojan', 'ss', 'ssr', 'hy2', 'tuic']
     links = [
-    links = [
         'https://raw.githubusercontent.com/MrPooyaX/VpnsFucking/main/Shenzo.txt',
         'https://raw.githubusercontent.com/MrPooyaX/SansorchiFucker/main/data.txt',
         'https://mrpooyax.camdvr.org/api/ramezan/lena.php?sub=1',
