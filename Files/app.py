@@ -140,7 +140,7 @@ def main():
         encoded_config = base64.b64encode(config_data.encode()).decode()
         output_filename = os.path.join(base64_folder, f'Sub{i+1}_base64.txt')
         with open(output_filename, 'w') as output_file:
-            output_file.write(custom_fixed_text + encoded_config)
+            output_file.write(encoded_config)
     
 if __name__ == "__main__":
     main()
