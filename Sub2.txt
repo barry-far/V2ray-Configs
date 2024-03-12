@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://4b05c4ff-6715-4bdf-9906-a9441cc59484@Sky1.bbv2ry.pics:443?type=ws&path=/&security=tls&fp=chrome&alpn=http/1.1,h2&sni=web.bbv2ry.pics#🏳️XX | vless | @VpnSkyy | 5
 vless://cc876e84-66c4-4bd8-ac67-7d2efc9daac8@sky1.bbv2ry.pics:443?type=tcp&path=/&host=ghbi.ir&headerType=http&security=none#🏳️XX | vless | @VpnSkyy | 6
 vless://18c680fc-f921-484c-85d3-ec191f7cc983@sky1.bbv2ry.pics:443?type=tcp&path=/&host=ghbi.ir&headerType=http&security=none#🏳️XX | vless | @VpnSkyy | 7
 vless://f567caa3-2222-43ad-b203-d6441c6142d8@certificate.mitsonic.com:2053?type=grpc&encryption=none&flow=&security=tls&sni=miza-grpc-1fd076e7db240eccd6bdf8cc31aa5fde.mitsonic.com&fp=chrome#🇨🇦CA | vless | @ROMAX_VPN | 0
@@ -604,3 +603,4 @@ trojan://c6a55c2a-0dba-4ce1-9fdd-d9b4cbe1972a@94.131.117.240:443?#🔒 TR-TCP-NA
 trojan://wkmY1R4EcP@64.176.162.24:443?#🔒 TR-TCP-NA 🇮🇱 IL-64.176.162.24:443 📡 PING-137.59-MS
 trojan://96589a7c-c83f-4b42-b31c-d714627857f3@45.67.229.110:2053?security=tls&sni=ftp.debian.org&type=tcp#🔒 TR-TCP-TLS 🇲🇩 MD-45.67.229.110:2053 📡 PING-141.44-MS
 trojan://telegram-id-privatevpns@16.171.251.12:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-16.171.251.12:22222 📡 PING-159.59-MS
+trojan://telegram-id-privatevpns@13.50.25.91:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.50.25.91:22222 📡 PING-159.80-MS
