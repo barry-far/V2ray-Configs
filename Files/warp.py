@@ -42,7 +42,7 @@ def main():
     merged_configs = '\n'.join(decoded_warp_lines)
 
     # Define the directory to save your files
-    output_folder = os.path.abspath(os.path.join(os.getcwd(), 'WarpConfigs'))
+    output_folder = os.path.abspath(os.path.join(os.getcwd(), '..'))
     os.makedirs(output_folder, exist_ok=True)
 
     # Writing the fixed text and merged warp lines to an output file
