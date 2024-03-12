@@ -4,6 +4,9 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://0d5fb553-eec2-43fc-9441-15d4a86169c9@49.51.197.141:443?security=tls&sni=thisisanom.ir&type=grpc&serviceName=@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN&fp=firefox&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇺🇸 US-49.51.197.141:443 📡 PING-001.25-MS
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.67.10:80?security=none&type=ws&host=k.pl&path=%2Faries%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.67.10:80 📡 PING-001.25-MS
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.16.237.74:443?security=tls&sni=current.ircp.online&type=ws&host=current.ircp.online&path=%2F%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.237.74:443 📡 PING-001.25-MS
 vless://ba9c4686-8540-4ecd-acc1-d57d692df9ca@172.67.210.56:443?security=tls&sni=ie1-vless.sshmax.xyz&type=ws&host=ie1-vless.sshmax.xyz&path=%2Fvless&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-172.67.210.56:443 📡 PING-001.24-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@104.17.0.14:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.0.14:443 📡 PING-001.23-MS
 vless://717ef3fe-1213-4e09-ac4a-5ea693b49368@104.17.238.25:2083?security=tls&sni=a.lars1.nl&type=grpc&serviceName=@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.238.25:2083 📡 PING-001.18-MS
@@ -601,6 +604,3 @@ ss://YWVzLTEyOC1nY206OGU1YjgyMjktODI1NS00YzQ2LWFhMjMtMTQ2N2ZjNGExMGE2@183.240.18
 ss://YWVzLTEyOC1nY206OGU1YjgyMjktODI1NS00YzQ2LWFhMjMtMTQ2N2ZjNGExMGE2@183.240.180.228:12007#🔒 SS-TCP-NA 🇨🇳 CN-183.240.180.228:12007 📡 PING-190.52-MS
 ss://YWVzLTEyOC1nY206OGU1YjgyMjktODI1NS00YzQ2LWFhMjMtMTQ2N2ZjNGExMGE2@183.240.180.228:12048#🔒 SS-TCP-NA 🇨🇳 CN-183.240.180.228:12048 📡 PING-190.54-MS
 ss://YWVzLTEyOC1nY206OGU1YjgyMjktODI1NS00YzQ2LWFhMjMtMTQ2N2ZjNGExMGE2@183.240.180.228:12013#🔒 SS-TCP-NA 🇨🇳 CN-183.240.180.228:12013 📡 PING-190.92-MS
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.164.35.9:989#🔒 SS-TCP-NA 🇧🇦 BA-185.164.35.9:989 📡 PING-191.39-MS
-ss://YWVzLTEyOC1nY206OGU1YjgyMjktODI1NS00YzQ2LWFhMjMtMTQ2N2ZjNGExMGE2@183.240.180.228:12001#🔒 SS-TCP-NA 🇨🇳 CN-183.240.180.228:12001 📡 PING-191.54-MS
-ss://YWVzLTEyOC1nY206OGU1YjgyMjktODI1NS00YzQ2LWFhMjMtMTQ2N2ZjNGExMGE2@183.240.180.228:12018#🔒 SS-TCP-NA 🇨🇳 CN-183.240.180.228:12018 📡 PING-191.78-MS
