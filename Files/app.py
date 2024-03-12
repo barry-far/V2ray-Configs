@@ -4,9 +4,14 @@ import requests
 import binascii
 import os
 
+fixed_text = """#profile-title: base64:8J+GkyBHaXRodWIgfCBCYXJyeS1mYXIg8J+ltw==
+#profile-update-interval: 1
+#subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
+#support-url: https://github.com/barry-far/V2ray-Configs
+#profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+"""
 
 def decode_base64(encoded):
-
     decoded = ''
     for encoding in ['utf-8', 'iso-8859-1']:
         try:
@@ -16,44 +21,29 @@ def decode_base64(encoded):
             pass
     return decoded
 
-
 def generate_v2ray_configs(decoded_data):
-
     configs = []
-
     for config in decoded_data:
         configs.append(config)
-
     sorted_configs = sorted(configs)
-
     return sorted_configs
 
-
 def decode_links(links):
-
     decoded_data = []
-
     for link in links:
         response = requests.get(link)
         encoded_bytes = response.content
         decoded_text = decode_base64(encoded_bytes)
         decoded_data.append(decoded_text)
-
     sorted_configs = generate_v2ray_configs(decoded_data)
-
     return sorted_configs
 
-
 def decode_dir_links(dir_links):
-
-
     decoded_dir_links = []
-
     for link in dir_links:
         response = requests.get(link)
         decoded_text = response.text
         decoded_dir_links.append(decoded_text)
-
     return decoded_dir_links
 
 
@@ -72,7 +62,8 @@ def main():
         'https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/vmess',
         'https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/trojan',
         'https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/shadowsocks',
-        'https://raw.githubusercontent.com/ts-sf/fly/main/v2'
+        'https://raw.githubusercontent.com/ts-sf/fly/main/v2',
+        'https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2'
     ]
     dir_links = [
         'https://raw.githubusercontent.com/IranianCypherpunks/sub/main/config',
@@ -109,6 +100,7 @@ def main():
     # Write merged configs to output file
     output_file = os.path.join(output_folder, 'All_Configs_Sub.txt')
     with open(output_file, 'w') as f:
+        f.write(fixed_text)
         for config in merged_configs:
             f.write(config + '\n')
 
@@ -116,13 +108,14 @@ def main():
     with open(output_file, 'r') as f:
         lines = f.readlines()
     num_lines = len(lines)
-    max_lines_per_file = 1000
+    max_lines_per_file = 600
     num_files = (num_lines + max_lines_per_file - 1) // max_lines_per_file
     for i in range(num_files):
         start_index = i * max_lines_per_file
         end_index = (i + 1) * max_lines_per_file
         filename = os.path.join(output_folder, f'Sub{i+1}.txt')
         with open(filename, 'w') as f:
+            f.write(fixed_text) 
             for line in lines[start_index:end_index]:
                 f.write(line)
                 
@@ -136,14 +129,11 @@ def main():
     for i in range(num_files):
         input_filename = os.path.join(output_folder, f'Sub{i+1}.txt')
         output_filename = os.path.join(base64_folder, f'Sub{i+1}_base64.txt')
-
         with open(input_filename, 'r') as input_file:
             config_data = input_file.read()
-        
         encoded_config = base64.b64encode(config_data.encode()).decode()
-
         with open(output_filename, 'w') as output_file:
-            output_file.write(encoded_config)
+            output_file.write(fixed_text + encoded_config)
     
 
     
