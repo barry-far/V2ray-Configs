@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg576O5Zu9IENsb3VkRmxhcmXoioLngrkiLCJhZGQiOiIxMDQuMjEuMjMxLjU4IiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6IjcwMjI5ODJmLWRhNGMtNDhjOS1jNjYwLWIyMzE1YWJkY2Y3ZSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvP2VkPTIwNDgmVGVsZWdyYW3wn4eo8J+HsyIsImhvc3QiOiJhLnByYXB0NC5pciIsInRscyI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg576O5Zu9IENsb3VkRmxhcmXoioLngrkiLCJhZGQiOiIxMDQuMTYuNjcuMzgiLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiZjhjOTJiM2ItNTQ0Ny00NGE1LTllNTQtMjNjZGMyNjljYjkzIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6ImY4YzkyYjNiIiwiaG9zdCI6ImFxLmRhb3poYW5nLmxpbmsiLCJ0bHMiOiIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg576O5Zu9IENsb3VkRmxhcmXoioLngrkiLCJhZGQiOiJzMWMudjIudjAwMXNzcy54eXoiLCJwb3J0IjoiMjA4MiIsInR5cGUiOiJub25lIiwiaWQiOiIxMTJhYzM2Zi0zZjUzLTRlMjYtODM3MS1kMjVjMDI4ZTFiOWEiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiJzMWMudjIudjAwMXNzcy54eXoiLCJ0bHMiOiIifQ==
 trojan://telegram-id-privatevpns@3.68.179.125:22222?allowInsecure=0&sni=trojan.miwan.co.uk#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20Amazon%20EC2%E6%9C%8D%E5%8A%A1%E5%99%A8
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg576O5Zu9IENsb3VkRmxhcmXoioLngrkiLCJhZGQiOiIxMDQuMjEuMjI1LjciLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiNzAyMjk4MmYtZGE0Yy00OGM5LWM2NjAtYjIzMTVhYmRjZjdlIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8/ZWQ9MjA0OCZUZWxlZ3JhbfCfh6jwn4ezIiwiaG9zdCI6ImEucHJhcHQ0LmlyIiwidGxzIjoiIn0=
@@ -602,5 +604,3 @@ vless://d37c3820-0d21-4e18-8fcc-390679531a5d@37.32.47.192:443?security=tls&sni=P
 vless://777895dd-0742-ecea-7e80-cb694641c8ad@62.60.211.202:443?security=none&type=tcp&host=divarcdn.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-62.60.211.202:443 📡 PING-256.53-MS
 vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@47.241.209.61:443?security=tls&sni=pages.20230619.love&type=ws&host=pages.20230619.love&path=fuck0yes#🔒 VL-WS-TLS 🇸🇬 SG-47.241.209.61:443 📡 PING-257.21-MS
 vless://12e66e17-2346-48b0-bf29-6f5f3933898f@62.60.210.54:29410?security=none&type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-62.60.210.54:29410 📡 PING-257.23-MS
-vless://66528e20-d02f-449e-b642-6f8ab541125c@62.60.135.100:2086?security=none&type=ws&host=speedtest.net&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-62.60.135.100:2086 📡 PING-257.30-MS
-vless://0d4c7659-47a2-4ba8-b6df-f3b913138ae8@95.215.173.235:44736?security=none&type=ws&path=/&allowInsecure=false#🔒 VL-WS-NONE 🇮🇷 IR-95.215.173.235:44736 📡 PING-257.87-MS
