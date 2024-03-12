@@ -11,6 +11,19 @@ fixed_text = """#profile-title: base64:8J+GkyBHaXRodWIgfCBCYXJyeS1mYXIg8J+ltw==
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
 """
+import pybase64
+import base64 
+import requests
+import binascii
+import os
+
+fixed_text = """#profile-title: base64:8J+GkyBHaXRodWIgfCBCYXJyeS1mYXIg8J+ltw==
+#profile-update-interval: 1
+#subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
+#support-url: https://github.com/barry-far/V2ray-Configs
+#profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+
+"""
 
 def decode_base64(encoded):
     decoded = ''
@@ -22,33 +35,39 @@ def decode_base64(encoded):
             pass
     return decoded
 
-def generate_v2ray_configs(decoded_data):
-    configs = []
-    for config in decoded_data:
-        configs.append(config)
-    sorted_configs = sorted(configs)
-    return sorted_configs
+def filter_protocol_lines(decoded_data, protocols):
+    protocol_data = {protocol: [] for protocol in protocols}
+    for line in decoded_data.split('\n'):
+        for protocol in protocols:
+            if line.startswith(protocol):
+                protocol_data[protocol].append(line)
+                break
+    return protocol_data
 
-def decode_links(links):
-    decoded_data = []
+def decode_links(links, protocols):
+    protocol_data = {protocol: [] for protocol in protocols}
     for link in links:
         response = requests.get(link)
         encoded_bytes = response.content
         decoded_text = decode_base64(encoded_bytes)
-        decoded_data.append(decoded_text)
-    sorted_configs = generate_v2ray_configs(decoded_data)
-    return sorted_configs
+        filtered_data = filter_protocol_lines(decoded_text, protocols)
+        for protocol, lines in filtered_data.items():
+            protocol_data[protocol].extend(lines)
+    return protocol_data
 
-def decode_dir_links(dir_links):
-    decoded_dir_links = []
+def decode_dir_links(dir_links, protocols):
+    protocol_data = {protocol: [] for protocol in protocols}
     for link in dir_links:
         response = requests.get(link)
         decoded_text = response.text
-        decoded_dir_links.append(decoded_text)
-    return decoded_dir_links
-
+        filtered_data = filter_protocol_lines(decoded_text, protocols)
+        for protocol, lines in filtered_data.items():
+            protocol_data[protocol].extend(lines)
+    return protocol_data
 
 def main():
+    protocols = ['vmess', 'vless', 'trojan', 'ss', 'ssr', 'hy2', 'tuic']
+    links = [
     links = [
         'https://raw.githubusercontent.com/MrPooyaX/VpnsFucking/main/Shenzo.txt',
         'https://raw.githubusercontent.com/MrPooyaX/SansorchiFucker/main/data.txt',
@@ -77,9 +96,15 @@ def main():
         'https://raw.githubusercontent.com/freev2rayconfig/V2RAY_SUBSCRIPTION_LINK/main/v2rayconfigs.txt'
     ]
 
-    decoded_links = decode_links(links)
-    decoded_dir_links = decode_dir_links(dir_links)
-    merged_configs = decoded_links + decoded_dir_links
+    decoded_links_data = decode_links(links, protocols)
+    decoded_dir_links_data = decode_dir_links(dir_links, protocols)
+
+    # Merge protocol data from both sources
+    merged_protocol_data = {protocol: [] for protocol in protocols}
+    for protocol in protocols:
+        merged_protocol_data[protocol].extend(decoded_links_data[protocol])
+        merged_protocol_data[protocol].extend(decoded_dir_links_data[protocol])
+
     output_folder = os.path.abspath(os.path.join(os.getcwd(), '..'))
     base64_folder = os.path.join(output_folder, 'Base64')
 
@@ -106,7 +131,7 @@ def main():
         for config in merged_configs:
             f.write(config + '\n')
 
-    # Split merged configs into files with no more than 1000 configs per file
+    # Split merged configs into files with no more than 600 configs per file
     with open(output_file, 'r') as f:
         lines = f.readlines()
     num_lines = len(lines)
