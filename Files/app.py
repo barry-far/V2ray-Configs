@@ -115,29 +115,49 @@ def main():
     max_lines_per_file = 600
     num_files = (num_lines + max_lines_per_file - 1) // max_lines_per_file
     for i in range(num_files):
-        start_index = i * max_lines_per_file
-        end_index = (i + 1) * max_lines_per_file
-        filename = os.path.join(output_folder, f'Sub{i+1}.txt')
-        with open(filename, 'w') as f:
-            f.write(fixed_text) 
-            for line in lines[start_index:end_index]:
-                f.write(line)
-                
-    # Encode to base64 and save merged configs to a single file
-    encoded_merged_configs = base64.b64encode("\n".join(merged_configs).encode()).decode()
-    output_file = os.path.join(output_folder, 'All_Configs_base64_Sub.txt')
-    with open(output_file, 'w') as f:
-        f.write(encoded_merged_configs)
+        profile_title = f'🆓 Git:Barry-far | Sub{i+1} 🫂'  # Dynamic title
+        encoded_title = base64.b64encode(profile_title.encode()).decode()  # Encode to base64
+        custom_fixed_text = f"""#profile-title: base64:{encoded_title}
+#profile-update-interval: 1
+#subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
+#support-url: https://github.com/barry-far/V2ray-Configs
+#profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-    # Encode and save each Sub{i+1}.txt file to base64_folder as Sub{i+1}_base64.txt
-    for i in range(num_files):
+"""
+
         input_filename = os.path.join(output_folder, f'Sub{i+1}.txt')
         output_filename = os.path.join(base64_folder, f'Sub{i+1}_base64.txt')
         with open(input_filename, 'r') as input_file:
             config_data = input_file.read()
         encoded_config = base64.b64encode(config_data.encode()).decode()
         with open(output_filename, 'w') as output_file:
-            output_file.write(fixed_text + encoded_config)
+            output_file.write(custom_fixed_text + encoded_config)
+                
+    # Encode to base64 and save merged configs to a single file
+    encoded_merged_configs = base64.b64encode("\n".join(merged_configs).encode()).decode()
+    output_file = os.path.join(output_folder, 'All_Configs_base64_Sub.txt')
+    with open(output_file, 'w') as f:
+        f.write(fixed_text)
+        f.write(encoded_merged_configs)
+
+    # Encode and save each Sub{i+1}.txt file to base64_folder as Sub{i+1}_base64.txt
+    for i in range(num_files):
+        profile_title = f'🆓 Git:Barry-far | Sub{i+1} 🫂'  # Dynamic title
+        encoded_title = base64.b64encode(profile_title.encode()).decode()  # Encode to base64
+        custom_fixed_text = f"""#profile-title: base64:{encoded_title}
+#profile-update-interval: 1
+#subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
+#support-url: https://github.com/barry-far/V2ray-Configs
+#profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+
+"""
+        input_filename = os.path.join(output_folder, f'Sub{i+1}.txt')
+        output_filename = os.path.join(base64_folder, f'Sub{i+1}_base64.txt')
+        with open(input_filename, 'r') as input_file:
+            config_data = input_file.read()
+        encoded_config = base64.b64encode(config_data.encode()).decode()
+        with open(output_filename, 'w') as output_file:
+            output_file.write(custom_fixed_text + encoded_config)
     
 
     
