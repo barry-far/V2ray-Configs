@@ -115,7 +115,7 @@ def main():
     max_lines_per_file = 600
     num_files = (num_lines + max_lines_per_file - 1) // max_lines_per_file
     for i in range(num_files):
-        # Generate dynamic profile title and encode to base64.
+        filename = os.path.join(output_folder, f'Sub{i+1}.txt')
         profile_title = f'🆓 Git:Barry-far | Sub{i+1} 🫂'
         encoded_title = base64.b64encode(profile_title.encode()).decode()
         custom_fixed_text = f"""#profile-title: base64:{encoded_title}
@@ -125,19 +125,19 @@ def main():
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
 """
-        
-        # Read the content of Sub{i+1}.txt
-        input_filename = os.path.join(output_folder, f'Sub{i+1}.txt')
-        with open(input_filename, 'r') as file:
-            sub_content = file.read()
+        config_data = custom_fixed_text
+        start_index = i * max_lines_per_file
+        end_index = min((i + 1) * max_lines_per_file, num_lines)
+        for line in lines[start_index:end_index]:
+            config_data += line
 
-        # Convert the file content to base64
-        encoded_config = base64.b64encode(sub_content.encode()).decode()
+        # Encode the entire content including custom_fixed_text and configs to Base64
+        encoded_config = base64.b64encode(config_data.encode()).decode()
 
-        # Write the encoded content to Sub{i+1}_base64.txt, prefixed by custom_fixed_text
+        # Write the encoded content to the corresponding base64 file
         output_filename = os.path.join(base64_folder, f'Sub{i+1}_base64.txt')
-        with open(output_filename, 'w') as file:
-            file.write(custom_fixed_text + encoded_config)
+        with open(output_filename, 'w') as output_file:
+            output_file.write(encoded_config)
     
 if __name__ == "__main__":
     main()
