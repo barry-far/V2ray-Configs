@@ -125,18 +125,17 @@ def main():
 
 """
 
-        input_filename = os.path.join(output_folder, f'Sub{i+1}.txt')
-        output_filename = os.path.join(base64_folder, f'Sub{i+1}_base64.txt')
-        encoded_config = base64.b64encode(config_data.encode()).decode()
-        with open(output_filename, 'w') as output_file:
-            output_file.write(custom_fixed_text + encoded_config)
+        f.write(custom_fixed_text)
+        start_index = i * max_lines_per_file
+        end_index = min((i + 1) * max_lines_per_file, num_lines)
+        for line in lines[start_index:end_index]:
+            f.write(line)
                 
     # Encode to base64 and save merged configs to a single file
-    encoded_merged_configs = base64.b64encode("\n".join(merged_configs).encode()).decode()
-    output_file = os.path.join(output_folder, 'All_Configs_base64_Sub.txt')
-    with open(output_file, 'w') as f:
-        f.write(fixed_text)
-        f.write(encoded_merged_configs)
+    for i in range(num_files):
+        input_filename = os.path.join(output_folder, f'Sub{i+1}.txt')
+        with open(input_filename, 'r') as input_file:
+            config_data = input_file.read()
 
     # Encode and save each Sub{i+1}.txt file to base64_folder as Sub{i+1}_base64.txt
     for i in range(num_files):
