@@ -22,38 +22,32 @@ def decode_base64(encoded):
             pass
     return decoded
 
-def filter_protocol_lines(decoded_data, protocols):
-    protocol_data = {protocol: [] for protocol in protocols}
-    for line in decoded_data.split('\n'):
-        for protocol in protocols:
-            if line.startswith(protocol):
-                protocol_data[protocol].append(line)
-                break
-    return protocol_data
-
-def decode_links(links, protocols):
-    protocol_data = {protocol: [] for protocol in protocols}
+def decode_links(links):
+    decoded_data = []
     for link in links:
         response = requests.get(link)
         encoded_bytes = response.content
         decoded_text = decode_base64(encoded_bytes)
-        filtered_data = filter_protocol_lines(decoded_text, protocols)
-        for protocol, lines in filtered_data.items():
-            protocol_data[protocol].extend(lines)
-    return protocol_data
+        decoded_data.append(decoded_text)
+    return decoded_data
 
-def decode_dir_links(dir_links, protocols):
-    protocol_data = {protocol: [] for protocol in protocols}
+def decode_dir_links(dir_links):
+    decoded_dir_links = []
     for link in dir_links:
         response = requests.get(link)
         decoded_text = response.text
-        filtered_data = filter_protocol_lines(decoded_text, protocols)
-        for protocol, lines in filtered_data.items():
-            protocol_data[protocol].extend(lines)
-    return protocol_data
+        decoded_dir_links.append(decoded_text)
+    return decoded_dir_links
+
+def filter_for_protocols(data, protocols):
+    filtered_data = []
+    for line in data:
+        if any(protocol in line for protocol in protocols):
+            filtered_data.append(line)
+    return filtered_data
 
 def main():
-    protocols = ['vmess', 'vless', 'trojan', 'ss', 'ssr', 'hy2', 'tuic']
+    protocols = ['vmess', 'vless', 'trojan', 'ss', 'ssr', 'hy2', 'tuic', 'warp://']
     links = [
         'https://raw.githubusercontent.com/MrPooyaX/VpnsFucking/main/Shenzo.txt',
         'https://raw.githubusercontent.com/MrPooyaX/SansorchiFucker/main/data.txt',
@@ -82,14 +76,11 @@ def main():
         'https://raw.githubusercontent.com/freev2rayconfig/V2RAY_SUBSCRIPTION_LINK/main/v2rayconfigs.txt'
     ]
 
-    decoded_links_data = decode_links(links, protocols)
-    decoded_dir_links_data = decode_dir_links(dir_links, protocols)
+    decoded_links = decode_links(links)
+    decoded_dir_links = decode_dir_links(dir_links)
 
-    # Merge protocol data from both sources
-    merged_protocol_data = {protocol: [] for protocol in protocols}
-    for protocol in protocols:
-        merged_protocol_data[protocol].extend(decoded_links_data[protocol])
-        merged_protocol_data[protocol].extend(decoded_dir_links_data[protocol])
+    combined_data = decoded_links + decoded_dir_links
+    merged_configs = filter_for_protocols(combined_data, protocols)
 
     output_folder = os.path.abspath(os.path.join(os.getcwd(), '..'))
     base64_folder = os.path.join(output_folder, 'Base64')
