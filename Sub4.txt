@@ -4,9 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://02514d80-8007-47f7-8aaf-28c1da64f915@185.211.59.210:443?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.211.59.210:443 📡 PING-225.53-MS
-vless://31b76bac-60bd-4629-8de3-dc43b41b7838@85.9.98.252:45694?security=none&type=tcp&host=idem.ir&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.9.98.252:45694 📡 PING-225.93-MS
-vless://8950b608-865c-4eae-bc4f-d4eeccfd1b00@213.176.1.95:2004?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-213.176.1.95:2004 📡 PING-226.52-MS
 vless://12e66e17-2346-48b0-bf29-6f5f3933898f@62.60.210.54:29410?security=none&type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-62.60.210.54:29410 📡 PING-227.43-MS
 vless://55779a42-b78e-4812-888c-7838ddd2a052@185.233.13.90:6666?security=none&type=tcp&host=speedtest.net&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.233.13.90:6666 📡 PING-227.58-MS
 vless://383d4fda-b7b0-4d13-b17d-150bc7870f3f@62.60.210.54:38876?security=none&type=ws&host=%40V2RAYNG_IP%2C%40V2RAYNG_IP%2C%40V2RAYNG_IP%2C%40V2RAYNG_IP%2C%40V2RAYNG_IP%2C%40V2RAYNG_IP%2C%40V2RAYNG_IP%2C%40V2RAYNG_IP%2C%40V2RAYNG_IP%2C%40V2RAYNG_IP%2C%40V2RAYNG_IP%2C%40V2RAYNG_IP%2C%40V2RAYNG_IP%2C%40V2RAYNG_IP&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-62.60.210.54:38876 📡 PING-229.13-MS
@@ -604,3 +601,6 @@ vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@190.93.247.155:443?path=TELEGRAM..%
 vless://849dadb9-eda4-409b-9348-4b98f64c0aa5@104.24.172.7:2083?security=tls&sni=join20.maznet.cfd&type=ws&host=join20.maznet.cfd&path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.172.7:2083 📡 PING-001.80-MS
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.207.23:443?security=tls&sni=baipiao123.stunning-bassoon.pages.dev&type=ws&host=baipiao123.stunning-bassoon.pages.dev&path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.207.23:443 📡 PING-001.80-MS
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@64.68.192.77:443?security=tls&sni=963C1F6A-8485-443a-a386-4E6D34A64dc8.MRvi.ONline&type=ws&host=963c1f6a-8485-443a-a386-4e6d34a64dc8.mrvi.online&path=%2F%40V2VIPCHANNEL%2F%40V2VIPCHANNEL%2F%40V2VIPCHANNEL%2F%40V2VIPCHANNEL%2F%3Fed%3D2048&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇨🇦 CA-64.68.192.77:443 📡 PING-001.80-MS
+vless://6586fcfa-8332-4cd3-b62f-3f036b0c3c99@104.26.14.85:2096?security=tls&sni=edtunnel.iraniancpi.uk&type=ws&host=edtunnel.iraniancpi.uk&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.14.85:2096 📡 PING-001.80-MS
+vless://a93eacd2-2852-4d84-9355-fd1e6477dccc@104.20.109.195:80?security=none&type=ws&host=tunn.free.hr&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.109.195:80 📡 PING-001.80-MS
+vless://1bab0961-b22c-411f-b955-09c4aed2d2c1@23.227.39.133:443?security=tls&sni=us4.hnkkt.top&type=ws&path=/gsjc/us4#🔒 VL-WS-TLS 🇨🇦 CA-23.227.39.133:443 📡 PING-001.80-MS
