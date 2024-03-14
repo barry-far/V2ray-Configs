@@ -104,6 +104,11 @@ https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Proto
 https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/hysteria2.txt
 ```
 
+- Warp (Only Hiddify):
+```
+https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Warp_sub.txt
+```
+
 ❕If upper links didnt work for you , Checkout this folder: [Base64 Folder](https://github.com/barry-far/V2ray-Configs/tree/dev/Base64)
 
 ℹ️ Additionally, we have created a Wiki with detailed instructions on how to set up V2ray on different operating systems. Visit our Wiki for more information.
