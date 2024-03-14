@@ -4,6 +4,10 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://8ca98c98-fb0b-4007-a6e8-c8294e546763@104.16.235.30:443?security=tls&sni=srv12.xyzquant.cloud&type=ws&host=srv12.xyzquant.cloud&path=%2F6eenmFpORi4fyf8bW&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.235.30:443 📡 PING-001.62-MS
+vless://644d47a3-d5e4-48b2-be6d-57c86999214a@104.21.25.99:443?security=tls&sni=nl2.v2vless.xyz&type=ws&host=nl2.v2vless.xyz&path=%2Fvless#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.25.99:443 📡 PING-001.62-MS
+vless://d93ac07a-9908-4899-e105-3dbe0f97c477@172.67.166.226:8080?security=none&type=ws&host=join-daily-configsjoin-daily-configsjoin-daily-configs.%E7%BE%A9%E5%8B%99%E8%AD%A6%E5%93%A1.online.&path=%40daily_configs-%40daily_configs-%40daily_configs-%40daily_configs-%40daily_configs-%40daily_configs-%40daily_configs-%40daily_configs#🔒 VL-WS-NONE 🇺🇸 US-172.67.166.226:8080 📡 PING-001.62-MS
+vless://05ab5afe-5002-4300-a3d8-9029a5429a12@104.16.12.49:2083?security=tls&sni=amovpn4.fqservers.com&type=ws&host=amovpn4.fqservers.com&path=%2Fchannel%3A%40VPNAMOHELP_%40VPNAMOHELP_%40VPNAMOHELP_%40VPNAMOHELP_%40VPNAMOHELP_%40VPNAMOHELP&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.12.49:2083 📡 PING-001.62-MS
 vless://45955903-81ee-4cd3-9c8d-5c4aba2d672c@104.18.203.232:2052?security=none&type=ws&host=mmdshop%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7%E4%BE%AF%E8%B5%9B%E5%9B%A0.v2rayng-mmd.cfd.&path=%2F%3Fed%3D2053#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.203.232:2052 📡 PING-001.62-MS
 vless://668e11c5-43bb-4173-a929-f8a41d94fb07@162.159.129.233:2053?security=tls&sni=jadideh.nufilter.store&type=grpc&serviceName=Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.129.233:2053 📡 PING-001.62-MS
 vless://877920cf-14cd-438d-bbf6-bc984ae91a8b@190.93.246.241:8443?security=tls&sni=ay.football0001.online&type=grpc&serviceName=@IRN_VPN,@IRN_VPN,@IRN_VPN,@IRN_VPN,@IRN_VPN&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇨🇷 CR-190.93.246.241:8443 📡 PING-001.62-MS
@@ -600,7 +604,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJTThWTDhLOFVYVFBIY3czRnNYSURu@159.100.6.73:4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOR1F6TXpReg==@94.131.111.32:8388#🔒 SS-TCP-NA 🇩🇪 DE-94.131.111.32:8388 📡 PING-107.95-MS
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@149.202.82.172:443#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:443 📡 PING-108.08-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToycWw2WWtEcWdEUDhUQ2YySEZGTUZU@3.67.70.16:23456#🔒 SS-TCP-NA 🇩🇪 DE-3.67.70.16:23456 📡 PING-108.29-MS
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@217.182.198.219:4444#🔒 SS-TCP-NA 🇩🇪 DE-217.182.198.219:4444 📡 PING-108.59-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQL3ArbkxsT0t3RUo1L3ZHOVBkYTJSSHNkcC9zeEkvRGRnY01TZGxKSE5JPQ==@49.12.193.219:7010#🔒 SS-TCP-NA 🇩🇪 DE-49.12.193.219:7010 📡 PING-108.65-MS
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@217.182.198.219:2376#🔒 SS-TCP-NA 🇩🇪 DE-217.182.198.219:2376 📡 PING-109.16-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.178.87.37:805#🔒 SS-TCP-NA 🇫🇷 FR-51.178.87.37:805 📡 PING-109.53-MS
