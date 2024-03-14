@@ -15,37 +15,100 @@
 ❕اگر لینک بالا روی کلاینت شما کار نکرد ، از این لینک استفاده کنید : [All_Config_base64_Sub.txt](https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/All_Configs_base64_Sub.txt)
 
 💡روش **2** برای بهترین عملکرد می‌توانید یکی از این لینک‌ها را داخل نرم‌افزار خود قرار بدهید:
+- لینک 1:
+```
+https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub1.txt
+```
 
-لینک 1 : https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub1.txt
+- لینک 2: 
+```
+https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub2.txt
+```
 
-لینک 2 : https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub2.txt
+- لینک 3: 
+```
+https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub3.txt
+```
 
-لینک 3 : https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub3.txt
+- لینک 4: 
+```
+https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub4.txt
+```
 
-لینک 4 : https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub4.txt
+- لینک 5: 
+```
+https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub5.txt
+```
 
-لینک 5 : https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub5.txt
+- لینک 6: 
+```
+https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub6.txt
+```
 
-لینک 6 : https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub6.txt
+- لینک 7: 
+```
+https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub7.txt
+```
 
-لینک 7 : https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub7.txt
+- لینک 8: 
+```
+https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub8.txt
+```
 
-لینک 8 : https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub8.txt
+- لینک 9: 
+```
+https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub9.txt
+```
+
+- لینک 10: 
+```
+https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub10.txt
+```
 
 ❕اگر لینکهای بالا روی کلاینت شما کار نکرد ، به این فولدر سر بزنید : [Base64 Folder](https://github.com/barry-far/V2ray-Configs/tree/dev/Base64)
 
 
 💡روش **3** برای مدیریت آسان‌تر، فایل‌های کانفیگ به گروه‌های جداگانه بر اساس نوع پروتکل تقسیم شده‌اند. جهت دسترسی آسان به کانفیگ‌های جداگانه از لینک‌های زیر استفاده کنید:
 
-Vmess: https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/vmess.txt
+- Vmess: 
+```
+https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/vmess.txt
+```
 
-Vless: https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/vless.txt
+- Vless: 
+```
+https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/vless.txt
+```
 
-Trojan: https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/trojan.txt
+- Trojan: 
+```
+https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/trojan.txt
+```
 
-ShadowSocks: https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/ss.txt
+- ShadowSocks: 
+```
+https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/ss.txt
+```
 
-ShadowSocksR: https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/ssr.txt
+- ShadowSocksR: 
+```
+https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/ssr.txt
+```
+
+- Tuic:
+```
+https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/tuic.txt
+```
+
+- hy2:
+```
+https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/hysteria2.txt
+```
+
+- Warp (فقط هیدیفای):
+```
+https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Warp_sub.txt
+```
 
 
 ## معرفی چند اپلیکیشن کلاینت
@@ -65,7 +128,7 @@ ShadowSocksR: https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Spl
 
 
 ### 🍎 مک و 📱 آی‌اواس
-برای دستگاه اپلی شما، ما پیشنهاد می کنیم از [Streisand](https://apps.apple.com/us/app/streisand/id6450534064) استفاده کنید. برای "import" کردن اشتراک به سادگی برنامه را باز کنید، در بلای صفحه "+" را انتخاب کرده و "import from clipboard" را بزنید و سپس از آنها با نگه داشتن کادر "subscription" تست "Latency" بگیرید و به بالاترین کانفیگ متصل شوید.
+برای دستگاه اپلی شما، ما پیشنهاد می کنیم از [Streisand](https://apps.apple.com/us/app/streisand/id6450534064) استفاده کنید. برای "import" کردن اشتراک به سادگی برنامه را باز کنید، در بلای صفحه "+" را انتخاب کرده و "import from clipboard" را بزنید و سپس از آنها با نگه داشتن کادر "لینک" تست "Latency" بگیرید و به بالاترین کانفیگ متصل شوید.
 
 [راهنمای تصویری Streisand](https://github.com/hiddify/Hiddify-Manager/wiki/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%DA%A9%D8%A7%D8%B1-%D8%A8%D8%A7-%D9%86%D8%B1%D9%85%E2%80%8C%D8%A7%D9%81%D8%B2%D8%A7%D8%B1-Streisand#%D8%A7%D9%81%D8%B2%D9%88%D8%AF%D9%86-%D9%84%DB%8C%D9%86%DA%A9-%D8%B3%D8%A7%D8%A8%D8%B3%DA%A9%D8%B1%DB%8C%D9%BE%D8%B4%D9%86)
 
