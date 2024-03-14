@@ -4,6 +4,10 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@134.195.196.3:7002#%F0%9F%87%AB%F0%9F%87%B7%20%E6%B3%95%E5%9B%BD%28%E6%AC%A2%E8%BF%8E%E8%AE%A2%E9%98%85Youtube%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B%29
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@134.195.196.68:8118#%F0%9F%87%AB%F0%9F%87%B7%20%E6%B3%95%E5%9B%BD%28%E6%AC%A2%E8%BF%8E%E8%AE%A2%E9%98%85Youtube%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B%29
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@51.255.66.185:7002#%F0%9F%87%AB%F0%9F%87%B7%20%E6%B3%95%E5%9B%BD%28%E6%AC%A2%E8%BF%8E%E8%AE%A2%E9%98%85Youtube%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B%29
+vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cg5rOV5Zu9KOasoui/juiuoumYhVlvdXR1YmXnoLTop6PotYTmupDlkJspIiwiYWRkIjoibWIyMi5tbCIsInBvcnQiOiI1MzE0MyIsInR5cGUiOiJub25lIiwiaWQiOiIwNGYyYTJjMi1kNmEyLTRlODItOTg2Mi1hMWFhMDA4ZGM2ZDAiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoibWIyMi5tbCIsInRscyI6IiJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cg5rOV5Zu9KOasoui/juiuoumYhVlvdXR1YmXnoLTop6PotYTmupDlkJspIiwiYWRkIjoiMTM4LjIuNzYuMTUyIiwicG9ydCI6IjUzMTQzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjA0ZjJhMmMyLWQ2YTItNGU4Mi05ODYyLWExYWEwMDhkYzZkMCIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiJtYjIyLm1sIiwidGxzIjoiIn0=
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@134.195.196.68:7002#%F0%9F%87%AB%F0%9F%87%B7%20%E6%B3%95%E5%9B%BD%28%E6%AC%A2%E8%BF%8E%E8%AE%A2%E9%98%85Youtube%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B%29
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@172.105.184.113:8118#%F0%9F%87%A6%F0%9F%87%BA%20%E6%BE%B3%E6%B4%B2%28%E6%AC%A2%E8%BF%8E%E8%AE%A2%E9%98%85Youtube%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B%29
@@ -600,7 +604,3 @@ vless://3bece666-f5fd-4329-90cc-35ad7e067359@176.117.76.66:443?security=tls&sni=
 vless://c67a1d88-f8a2-42f5-9ca2-2452fb1b67d6@95.164.116.35:443?security=tls&sni=tr-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇹🇷 TR-95.164.116.35:443 📡 PING-137.55-MS
 vless://169d4fb3-a564-4db5-8865-09e8e0853c24@185.143.233.1:80?security=none&type=ws&host=mci.irancell.ir&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-185.143.233.1:80 📡 PING-137.56-MS
 vless://c67a1d88-f8a2-42f5-9ca2-2452fb1b67d6@95.164.116.35:2003?security=tls&sni=tr-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇹🇷 TR-95.164.116.35:2003 📡 PING-137.86-MS
-vless://70a505eb-40f8-464d-a07e-ed94cf08ee64@38.180.104.95:56154?security=none&type=tcp#🔒 VL-TCP-NONE 🇹🇷 TR-38.180.104.95:56154 📡 PING-137.97-MS
-vless://617d9452-71d3-4062-b526-adc8edc0bae2@212.64.214.191:2058?security=none&type=tcp&host=varzesh3.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇹🇷 TR-212.64.214.191:2058 📡 PING-139.04-MS
-vless://5936ce90-8a1a-4930-b188-cb81c0f9b4ae@185.143.233.117:2096?security=tls&sni=new1.bestgoldapk.info&type=ws&host=new1.bestgoldapk.info&path=%2Fws#🔒 VL-WS-TLS 🇮🇷 IR-185.143.233.117:2096 📡 PING-139.21-MS
-vless://a22a6a44-69ee-4d04-9735-38364b46f81c@188.132.209.171:4040?security=none&type=tcp&host=speedtest.net.&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇹🇷 TR-188.132.209.171:4040 📡 PING-139.71-MS
