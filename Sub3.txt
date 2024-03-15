@@ -4,10 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@134.195.196.3:8118#%F0%9F%87%AA%F0%9F%87%BA%20%E6%AC%A7%E6%B4%B2%28%E6%AC%A2%E8%BF%8E%E8%AE%A2%E9%98%85Youtube%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B%29
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@134.195.196.3:8000#%F0%9F%87%AA%F0%9F%87%BA%20%E6%AC%A7%E6%B4%B2%28%E6%AC%A2%E8%BF%8E%E8%AE%A2%E9%98%85Youtube%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B%29
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@134.195.196.3:5600#%F0%9F%87%AA%F0%9F%87%BA%20%E6%AC%A7%E6%B4%B2%28%E6%AC%A2%E8%BF%8E%E8%AE%A2%E9%98%85Youtube%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B%29
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@134.195.196.3:8009#%F0%9F%87%AA%F0%9F%87%BA%20%E6%AC%A7%E6%B4%B2%28%E6%AC%A2%E8%BF%8E%E8%AE%A2%E9%98%85Youtube%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B%29
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@134.195.196.187:5500#%F0%9F%87%AA%F0%9F%87%BA%20%E6%AC%A7%E6%B4%B2%28%E6%AC%A2%E8%BF%8E%E8%AE%A2%E9%98%85Youtube%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B%29
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@134.195.196.81:6679#%F0%9F%87%AA%F0%9F%87%BA%20%E6%AC%A7%E6%B4%B2%28%E6%AC%A2%E8%BF%8E%E8%AE%A2%E9%98%85Youtube%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B%29
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@134.195.196.81:2376#%F0%9F%87%AA%F0%9F%87%BA%20%E6%AC%A7%E6%B4%B2%28%E6%AC%A2%E8%BF%8E%E8%AE%A2%E9%98%85Youtube%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B%29
@@ -604,3 +600,7 @@ vless://3e124a84-d46a-4108-a00a-9a8605fbeb42@51.75.77.237:2003?security=tls&sni=
 vless://0a08f999-4f5f-4403-b878-0675c160527d@78.47.68.96:443?type=ws&host=server.ir&path=%2FMmd603#🔒 VL-WS-NA 🇩🇪 DE-78.47.68.96:443 📡 PING-091.98-MS
 vless://0c5ab0db-9c8e-42d0-a782-819ad01fe7ce@168.119.49.232:50287?security=none&type=tcp&host=www.speedtest.com&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-168.119.49.232:50287 📡 PING-091.98-MS
 vless://35a6d9dd-70a6-4de6-83c4-2c9aa93a214d@178.128.193.212:2003?security=tls&sni=de2-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇩🇪 DE-178.128.193.212:2003 📡 PING-091.99-MS
+vless://51f319e4-323a-469c-8655-88ea20959557@49.13.116.247:4814?security=none&type=ws&host=Fast.com&path=%2F#🔒 VL-WS-NONE 🇩🇪 DE-49.13.116.247:4814 📡 PING-092.00-MS
+vless://354ecd65-17ee-4650-8cfd-45b3c5bb8c9c@159.69.189.19:14327?security=none&type=tcp&host=uplod.ir&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-159.69.189.19:14327 📡 PING-092.02-MS
+vless://fd0c5973-9e78-479e-adf8-53a524c9c314@138.201.246.240:2083?security=tls&sni=mci.nonoall.com&type=grpc&serviceName=%40v2ray_nonoal%2C%40v2ray_nonoal%2C%40v2ray_nonoal%2C%40v2ray_nonoal%2C%40v2ray_nonoal%2C%40v2ray_nonoal%2C%40v2ray_nonoal%2C%40v2ray_nonoal%2C%40v2ray_nonoal%2C%40v2ray_nonoal%2C%40v2ray_nonoal%2C%40v2ray_nonoal%2C%40v2ray_nonoal&fp=safari&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🇩🇪 DE-138.201.246.240:2083 📡 PING-092.05-MS
+vless://5e57ac33-ad37-40c7-82de-3dc00be40c82@54.37.72.128:8443?security=tls&sni=netflixvuugiufyduuvgguiigyfgigifhhfquhoihtfxtuihojV2rayolhgyfyvyvlknouvrdfed2s2svyhij22kkgifjfkfifofotitirruye63467r8t8t8tgigjgjvnvmfsraew4w4w5e5e7t8y9u9uhoihopjjpkbbkvngnmcmchfyfdy6deuyeywueotogicih7uhihfyyydhdhfydfyjjhfdhfytermin1.i13.store&type=ws&host=netflixv%F0%9F%98%82%F0%9F%96%95giufyduuvgguiigyfgigifhhfquhoihtfxtuihojV2rayolhgyfyvyvlknouvrdfed2s2svyhij22kkgifjfkfifofotitirruye63467r8t8t8tgigjgjvnvmfsraew4w4w5e5e7t8y9u9uhoihopjjpkbbkvngnmcmchfyfdy6deuyeywueotogicih7uhihfyyydhdhfydfyjjhfdhfytermin1.i13.store&path=%2F%3Fed%3D4096&fp=chrome#🔒 VL-WS-TLS 🇩🇪 DE-54.37.72.128:8443 📡 PING-092.06-MS
