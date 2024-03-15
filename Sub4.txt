@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://ff406666-f618-499a-8c0b-4d01af7e1340@172.234.56.111:443?security=tls&sni=fr2-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇫🇷 FR-172.234.56.111:443 📡 PING-111.62-MS
+vless://ff406666-f618-499a-8c0b-4d01af7e1340@172.234.56.111:2003?security=tls&sni=fr2-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇫🇷 FR-172.234.56.111:2003 📡 PING-111.84-MS
 vless://3e124a84-d46a-4108-a00a-9a8605fbeb42@51.75.77.237:443?security=tls&sni=de-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇩🇪 DE-51.75.77.237:443 📡 PING-113.70-MS
 vless://955dc077-2cc6-4d88-9ce0-8cb27a821236@51.89.47.208:443?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇬🇧 GB-51.89.47.208:443 📡 PING-114.69-MS
 vless://1902c947-3ffd-45c2-a6c1-41875895eeab@208.76.221.134:2096?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇪🇸 ES-208.76.221.134:2096 📡 PING-115.49-MS
@@ -602,5 +604,3 @@ vless://71aaab62-1c2e-4d6d-93d5-522c98482da2@188.114.97.36:443?security=tls&sni=
 vless://ef1d268c-221e-4d7a-828e-3ade2fb26d11@104.21.19.195:443?security=tls&sni=csub5.cpIfORpERsIa.uk&type=ws&host=csub5.cpIfORpERsIa.uk&path=vless-ws%2F%3Fed%3D2048&fp=chrome&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.19.195:443 📡 PING-002.69-MS
 vless://0a0b9604-f2a9-4d73-a698-8e2641d692ae@45.142.120.5:2053?security=tls&sni=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran.dewiw37019.workers.dev&type=ws&host=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran.dewiw37019.workers.dev&path=%40UCIRANIR-%40UCIRANIR%2FMicrosoft%3Fed%3D2047&fp=firefox#🔒 VL-WS-TLS 🇷🇺 RU-45.142.120.5:2053 📡 PING-002.69-MS
 vless://b404b4e8-9164-4c7e-acbd-ea8ec0aee464@104.21.77.101:2087?security=tls&sni=www.RxV2ray.sbs&type=grpc&serviceName=%40RxV2ray%2C%40RxV2ray%2C%40RxV2ray%2C%40RxV2ray%2C%40RxV2ray%2C%40RxV2ray%2C%40RxV2ray%2C%40RxV2ray%2C%40RxV2ray&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.77.101:2087 📡 PING-002.69-MS
-vless://d26d71c6-147b-4ff8-9da0-de2735ff1b1c@205.233.181.42:8880?security=none&type=ws&host=xn---qhantayawi--e-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&path=%2F%40LIGHTNING6%2C+%40LIGHTNING6#🔒 VL-WS-NONE 🇺🇸 US-205.233.181.42:8880 📡 PING-002.69-MS
-vless://7e29f2e2-e0ec-47c5-94ec-38ef90f7a106@104.18.24.92:2083?security=tls&sni=guq22.oXNETWoRks.liNK&type=ws&host=guq22.oXNETWoRks.liNK&path=vless-ws%2F%3Fed%2Ftelegram%40v2ray_alpha%2Fvless-ws%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.24.92:2083 📡 PING-002.69-MS
