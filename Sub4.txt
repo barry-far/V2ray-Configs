@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://400c3d0c-9441-45ae-9567-839952c65fac@78.135.80.199:59357?security=none&type=grpc&serviceName=@game_file2020,@game_file2020,@game_file2020#🔒 VL-GRPC-NONE 🇹🇷 TR-78.135.80.199:59357 📡 PING-137.14-MS
+vless://1f1b6d63-16cc-48a5-ba2c-45812eef529e@185.143.233.120:443?security=tls&sni=nl-ve.fastosos.com&type=ws&host=nl-ve.fastosos.com&path=%2Fapi%3Fed%3D1024&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇮🇷 IR-185.143.233.120:443 📡 PING-137.20-MS
 vless://c67a1d88-f8a2-42f5-9ca2-2452fb1b67d6@95.164.116.35:2003?security=tls&sni=tr-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇹🇷 TR-95.164.116.35:2003 📡 PING-137.21-MS
 vless://c67a1d88-f8a2-42f5-9ca2-2452fb1b67d6@95.164.116.35:443?security=tls&sni=tr-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇹🇷 TR-95.164.116.35:443 📡 PING-137.29-MS
 vless://169d4fb3-a564-4db5-8865-09e8e0853c24@185.143.233.1:80?security=none&type=ws&host=mci.irancell.ir&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-185.143.233.1:80 📡 PING-137.39-MS
@@ -602,5 +604,3 @@ vless://1a476bbd-f885-4f6b-812a-b7101a174f83@104.21.5.97:2087?security=tls&sni=g
 vless://a8f33c2b-1db6-4fb0-aeb2-fb0dd9c898e8@172.67.204.84:8080?security=none&type=ws&host=hack-de.xn--0mq55f02fh9a40hbiq62cd7osi7ap79a.website.&path=%2Fvless#🔒 VL-WS-NONE 🇺🇸 US-172.67.204.84:8080 📡 PING-002.50-MS
 vless://6586fcfa-8332-4cd3-b62f-3f036b0c3c99@172.67.201.97:2096?security=tls&sni=edtun.iraniancpi.uk&type=ws&host=edtun.iraniancpi.uk&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🇺🇸 US-172.67.201.97:2096 📡 PING-002.50-MS
 vless://b00b62d3-80a2-40f4-92f2-f93f6cbbc96e@104.21.64.117:8080?security=none&type=ws&host=DE.AWLONE.EU.ORG&path=%2F%40x2rayn_vpnCDN%3Fed%3D2090#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.64.117:8080 📡 PING-002.50-MS
-vless://6935a854-b7ee-4beb-b282-b90d419be4b2@172.67.161.100:8080?security=none&type=ws&host=shahin.hamedamani20336455.workers.dev&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.161.100:8080 📡 PING-002.50-MS
-vless://b6b02a7b-bd89-49c9-ad68-99c8192daf55@104.21.3.79:2087?security=tls&sni=clash.mmdargon.top&type=ws&host=clash.mmdargon.top&path=%2F&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.3.79:2087 📡 PING-002.49-MS
