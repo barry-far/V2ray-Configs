@@ -4,6 +4,9 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://0c5ab0db-9c8e-42d0-a782-819ad01fe7ce@168.119.49.232:50287?security=none&type=tcp&host=www.speedtest.com&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-168.119.49.232:50287 📡 PING-115.61-MS
+vless://ff406666-f618-499a-8c0b-4d01af7e1340@172.234.56.111:2003?security=tls&sni=fr2-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇫🇷 FR-172.234.56.111:2003 📡 PING-116.39-MS
+vless://454f84df-724d-442a-a4a2-698a6d63f946@193.70.112.90:443?security=tls&sni=fr3-full.privateip.net&type=ws&path=%2fvless&allowInsecure=1#🔒 VL-WS-TLS 🇫🇷 FR-193.70.112.90:443 📡 PING-116.57-MS
 vless://1902c947-3ffd-45c2-a6c1-41875895eeab@208.76.221.134:2096?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇪🇸 ES-208.76.221.134:2096 📡 PING-116.71-MS
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.50.253.62:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇸🇪 SE-13.50.253.62:22222 📡 PING-120.00-MS
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.20.221.19:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇸🇪 SE-51.20.221.19:22222 📡 PING-120.61-MS
@@ -601,6 +604,3 @@ vless://db1eeace-797f-4d75-ac27-9a97acda853d@172.67.167.116:443?security=tls&sni
 vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@104.21.59.95:443?security=tls&sni=w1.sylar8.eu.org&type=ws&host=w1.sylar8.eu.org&path=TELEGRAM...PROXY_MTM%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.59.95:443 📡 PING-002.72-MS
 vless://5a5d9654-2f1e-4537-b3ca-e76168b2e03f@104.21.76.15:443?security=tls&sni=wlma.jeremaih-talik.workers.dev&type=ws&host=wlma.jeremaih-talik.workers.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.76.15:443 📡 PING-002.72-MS
 vless://7392f52d-65e7-4e2e-acb9-c3ac791d387b@104.21.46.215:2087?security=tls&sni=we10.nativelands.info&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.46.215:2087 📡 PING-002.72-MS
-vless://86cb987c-59dd-47fe-b127-c1a2ed7f96aa@104.26.15.85:8443?security=tls&sni=tel-falcunargo-uk2.falcunar.uk.eu.org&type=ws&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.15.85:8443 📡 PING-002.71-MS
-vless://e1a928be-e289-4aef-b92e-4106fabdf42f@104.26.13.31:80?security=none&type=ws&host=mahi.kosnanatfilterchi.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.13.31:80 📡 PING-002.71-MS
-vless://fbb33b2f-8e72-456e-83a3-44aa46119b38@104.17.29.26:443?security=tls&sni=prx11.adminwp.eu.org&type=ws&host=prx11.adminwp.eu.org&path=%2FProxystore11&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.29.26:443 📡 PING-002.71-MS
