@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-trojan://89edf49e-e625-4902-a94b-d1acc926b96d@104.21.13.125:443?security=tls&sni=2jp3.pqjc.buzz&type=ws&host=2jp3.pqjc.buzz&path=/pq/jp2#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.13.125:443 📡 PING-001.93-MS
-trojan://52701795-3c3b-46b4-b7cf-c5978b3a4cf2@104.21.47.176:443?security=tls&sni=hdfyc1.achaemenidempireofpersia.uk&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.21.47.176:443 📡 PING-001.92-MS
 trojan://5bdad6e0-e2bd-11ee-9298-1239d0255272@104.21.69.44:443?sni=us1.test3.net&type=ws&host=us1.test3.net&path=%2Fhowdy#🔒 TR-WS-NA 🏴‍☠️ NA-104.21.69.44:443 📡 PING-001.91-MS
 trojan://a6292090-afe1-4640-97a7-4f1d1d877cf1@104.25.255.254:443?security=tls&sni=hdfy8c1.foriran.me&type=grpc&serviceName=8bHUAD5IX0lC5KffvrsN6rqb#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.25.255.254:443 📡 PING-001.88-MS
 trojan://qG9K8AGnn9XH5jUqeFu96g@104.16.123.175:2083?security=tls&sni=cdn13.cdn2cdn.com&type=ws&host=cdn13.cdn2cdn.com&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.123.175:2083 📡 PING-001.88-MS
@@ -604,3 +602,5 @@ ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@156.146.38.163:443#%F0%9F%87%BA%F0%9F%87%B
 trojan://wkmY1R4EcP@66.42.84.121:443?security=tls&sni=z-v2-002797.kailib.com#%F0%9F%87%BA%F0%9F%87%B8US-66.42.84.121-0244
 vmess://ewogICAgImFkZCI6ICJhdXRoLnNwZWVkdGVzdC5uZXQiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJuZWxseS5ob21lcyIsCiAgICAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2xpbmt2d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTEwNC4xNi4yMTYuMjQxLTE2MTIiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJuZWxseS5ob21lcyIKfQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y3A5WjNpV25KWjI=@205.134.180.151:443#%F0%9F%87%BA%F0%9F%87%B8US-205.134.180.151-0917
+vmess://ewogICAgImFkZCI6ICJiYWNrZW5kLmFwcC1icm93c2VyLm9yZyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogImJhY2tlbmQuYXBwLWJyb3dzZXIub3JnIiwKICAgICJpZCI6ICI1MjBhNWY0NS1kMzU0LTQyZjQtYTY1OC0xOGRiYzM3NTQ2NDUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvZndzIiwKICAgICJwb3J0IjogMjA4NywKICAgICJwcyI6ICLwn4+BUkVMQVktMTcyLjY3LjEzNi4yNDQtMTM3OSIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+vmess://ewogICAgImFkZCI6ICIxMDQuMjEuNy4xNjIiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJiYWNrZW5kLmFwcC1icm93c2VyLm9yZyIsCiAgICAiaWQiOiAiNTIwYTVmNDUtZDM1NC00MmY0LWE2NTgtMThkYmMzNzU0NjQ1IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2Z3cyIsCiAgICAicG9ydCI6IDIwODcsCiAgICAicHMiOiAi8J+PgVJFTEFZLTEwNC4yMS43LjE2Mi0xMzM3IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
