@@ -4,6 +4,9 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://ff406666-f618-499a-8c0b-4d01af7e1340@172.234.56.111:443?security=tls&sni=fr2-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇫🇷 FR-172.234.56.111:443 📡 PING-114.32-MS
+vless://27f103cb-a32f-477b-a7f0-07714b41a1de@5.9.228.8:58835?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-5.9.228.8:58835 📡 PING-115.35-MS
+vless://a25dc186-ea0d-4699-9e24-60a52181e22f@49.13.116.247:2083?security=tls&sni=a.lars1.nl&type=grpc&serviceName=@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam#🔒 VL-GRPC-TLS 🇩🇪 DE-49.13.116.247:2083 📡 PING-115.55-MS
 vless://0c5ab0db-9c8e-42d0-a782-819ad01fe7ce@168.119.49.232:50287?security=none&type=tcp&host=www.speedtest.com&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-168.119.49.232:50287 📡 PING-115.61-MS
 vless://ff406666-f618-499a-8c0b-4d01af7e1340@172.234.56.111:2003?security=tls&sni=fr2-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇫🇷 FR-172.234.56.111:2003 📡 PING-116.39-MS
 vless://454f84df-724d-442a-a4a2-698a6d63f946@193.70.112.90:443?security=tls&sni=fr3-full.privateip.net&type=ws&path=%2fvless&allowInsecure=1#🔒 VL-WS-TLS 🇫🇷 FR-193.70.112.90:443 📡 PING-116.57-MS
@@ -601,6 +604,3 @@ vless://78943e0c-83bb-4af7-8727-bc2a213eb30d@104.31.16.85:2095?security=none&typ
 vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@173.245.59.100:443?security=tls&sni=pages.20230619.love&type=ws&host=pages.20230619.love&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-173.245.59.100:443 📡 PING-002.72-MS
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@154.197.75.205:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇨 SC-154.197.75.205:443 📡 PING-002.72-MS
 vless://db1eeace-797f-4d75-ac27-9a97acda853d@172.67.167.116:443?security=tls&sni=pikk.minusober.com&type=ws&path=%2Fpikk&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-172.67.167.116:443 📡 PING-002.72-MS
-vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@104.21.59.95:443?security=tls&sni=w1.sylar8.eu.org&type=ws&host=w1.sylar8.eu.org&path=TELEGRAM...PROXY_MTM%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.59.95:443 📡 PING-002.72-MS
-vless://5a5d9654-2f1e-4537-b3ca-e76168b2e03f@104.21.76.15:443?security=tls&sni=wlma.jeremaih-talik.workers.dev&type=ws&host=wlma.jeremaih-talik.workers.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.76.15:443 📡 PING-002.72-MS
-vless://7392f52d-65e7-4e2e-acb9-c3ac791d387b@104.21.46.215:2087?security=tls&sni=we10.nativelands.info&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.46.215:2087 📡 PING-002.72-MS
