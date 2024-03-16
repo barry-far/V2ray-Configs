@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+trojan://telegram-id-privatevpns@3.126.31.200:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#德国+黑森州法兰克福Amazon数据中心
+trojan://6x8HcghsjS@103.214.68.57:10003?sni=yes998.chickenkiller.com#韩国+蘑菇主机BGP数据中心
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjEwNC4yMS4yMjQuMjkiLCAicG9ydCI6IDgwLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI3MDIyOTgyZi1kYTRjLTQ4YzktYzY2MC1iMjMxNWFiZGNmN2UiLCAiaG9zdCI6ICJhLnByYXB0MS5pciIsICJwYXRoIjogIi8/ZWQ9MjA0OCZUZWxlZ3JhbVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRmM0BXYW5nQ2FpXzgifQ==
 trojan://telegram-id-directvpn@3.21.4.152:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#美国+Amazon+EC2服务器
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjEwNC4yMS4yMjEuMjQ0IiwgInBvcnQiOiAiODAiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI3MDIyOTgyZi1kYTRjLTQ4YzktYzY2MC1iMjMxNWFiZGNmN2UiLCAiaG9zdCI6ICJhLnByYXB0MS5pciIsICJwYXRoIjogIi8/ZWQ9MjA0OCJ9
@@ -602,5 +604,3 @@ vless://1cd59a82-6434-4fbc-87a5-065652788921@23.227.60.130:2095?encryption=none&
 vless://8054253e-4288-4ca6-916d-f40277304739@www.speedtest.net:2087?alpn=h2%2Chttp%2F1.1&encryption=none&mode=multi&security=tls&serviceName=Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY&sni=mn.moienmusic.space&type=grpc#رایگان | VLESS | @polproxy | CA🇨🇦 | 0️⃣3️⃣
 vless://7e29f2e2-e0ec-47c5-94ec-38ef90f7a106@104.24.0.28:2053?alpn=http%2F1.1&encryption=none&fp=chrome&host=guq22.oxnetwORKs.LiNK&path=vless-ws%2F%3Fed%3D2048&security=tls&sni=guq22.oxnetwORKs.LiNK&type=ws#رایگان | VLESS | @Outlinev2rayNG | CA🇨🇦 | 0️⃣2️⃣
 vless://SVNTEAM@176.31.24.10:80?encryption=none&host=SVNTEAM-V2ray-PO.xn--fhq0la447aac5504dea701axr1g.Com&path=%2FSVNTEAM%3Fed%3D1048&security=none&type=ws#رایگان | VLESS | @Outlinev2rayNG | FR🇫🇷 | 0️⃣6️⃣
-vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@104.21.28.62:443?encryption=none&host=edgu.pureboy.eu.org&path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&security=tls&sni=edgu.pureboy.eu.org&type=ws#رایگان | VLESS | @v2rayng_vpnrog | CA🇨🇦 | 0️⃣1️⃣
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.28.62:443?encryption=none&host=3k.pureboy.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=3k.pureboy.eu.org&type=ws#رایگان | VLESS | @v2rayng_vpnrog | CA🇨🇦 | 0️⃣3️⃣
