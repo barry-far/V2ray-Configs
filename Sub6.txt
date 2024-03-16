@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://d3a12e79-ef42-4268-b367-42eeb3494e60@104.26.14.85:2083?security=tls&sni=hagh.pages.dev&type=ws&host=hagh.pages.dev&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.14.85:2083 📡 PING-005.12-MS
-vless://a08af424-ca39-44bc-aaaf-f8cef9b24be0@172.67.213.169:2096?security=tls&sni=de.melov2ray.shop&type=ws&path=%2Fmelov2ray&fp=chrome&alpn=http%2F1.1%2Ch2#🔒 VL-WS-TLS 🇺🇸 US-172.67.213.169:2096 📡 PING-005.12-MS
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@172.67.177.100:443?security=tls&sni=edge.020770.xyz&type=ws&host=edge.020770.xyz&path=%2Fvless%2Fb0138d55-a493-4dc3-9932-c6f0391707c1%3F@kingoclubs--@kingoclubs--@kingoclubs--@kingoclubs--@kingoclubs--@kingoclubs--@kingoclubs--@kingoclubs--@kingoclubs--@kingoclubs--@kingoclubs--@kingoclubs--@kingoclubs--@kingoclubs--@kingoclubs--@kingoclubsed#🔒 VL-WS-TLS 🇺🇸 US-172.67.177.100:443 📡 PING-005.12-MS
 vless://8ac6dc1b-e6d8-4e36-a019-487c8a48ad64@172.67.223.33:80?security=none&type=ws&path=%2Fwss24345%3Fed%3D5038#🔒 VL-WS-NONE 🇺🇸 US-172.67.223.33:80 📡 PING-005.12-MS
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@86.38.214.101:2096?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-86.38.214.101:2096 📡 PING-005.12-MS
@@ -604,3 +602,5 @@ trojan://telegram-id-privatevpns@35.157.75.13:22222?security=tls&sni=trojan.burg
 trojan://telegram-id-privatevpns@13.39.202.47:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-13.39.202.47:22222 📡 PING-091.16-MS
 trojan://0453eb8b-8b3a-42c5-9040-cb1495279898@95.164.68.116:443?security=tls&sni=cdn.appsflyer.com&type=grpc#🔒 TR-GRPC-TLS 🇩🇪 DE-95.164.68.116:443 📡 PING-092.02-MS
 trojan://6f10dc62-43b2-490a-97d8-2ba746706928@178.128.193.212:443?#🔒 TR-TCP-NA 🇩🇪 DE-178.128.193.212:443 📡 PING-092.06-MS
+trojan://telegram-id-privatevpns@13.36.185.127:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇫🇷 FR-13.36.185.127:22222 📡 PING-092.12-MS
+trojan://telegram-id-directvpn@35.156.159.93:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-35.156.159.93:22222 📡 PING-093.87-MS
