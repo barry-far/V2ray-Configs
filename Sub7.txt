@@ -4,6 +4,19 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+trojan://telegram-id-directvpn@3.66.149.146:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.66.149.146:22222 📡 PING-088.08-MS
+trojan://telegram-id-directvpn@15.188.253.64:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-15.188.253.64:22222 📡 PING-088.18-MS
+trojan://fc1e07b5-840b-4446-8232-94b0606f2e0d@193.70.112.90:443?#🔒 TR-TCP-NA 🇫🇷 FR-193.70.112.90:443 📡 PING-088.44-MS
+trojan://6f10dc62-43b2-490a-97d8-2ba746706928@178.128.193.212:443?#🔒 TR-TCP-NA 🇩🇪 DE-178.128.193.212:443 📡 PING-088.55-MS
+trojan://dca8105b-8d7a-41f6-aa6c-bc47696899df@51.75.77.237:443?#🔒 TR-TCP-NA 🇩🇪 DE-51.75.77.237:443 📡 PING-089.36-MS
+trojan://telegram-id-privatevpns@54.216.78.69:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇮🇪 IE-54.216.78.69:22222 📡 PING-089.79-MS
+trojan://telegram-id-privatevpns@54.155.55.207:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp#🔒 TR-TCP-TLS 🇮🇪 IE-54.155.55.207:22222 📡 PING-089.89-MS
+trojan://telegram-id-privatevpns@52.210.210.139:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-52.210.210.139:22222 📡 PING-089.90-MS
+trojan://telegram-id-privatevpns@99.81.36.133:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-99.81.36.133:22222 📡 PING-089.92-MS
+trojan://a55acae0-e1eb-11ee-bc55-1239d0255272@51.210.182.170:443?#🔒 TR-TCP-NA 🇫🇷 FR-51.210.182.170:443 📡 PING-090.07-MS
+trojan://telegram-id-privatevpns@13.36.251.37:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-13.36.251.37:22222 📡 PING-090.41-MS
+trojan://332623f6-3cba-4574-b8de-803f7b3968ee@172.233.50.248:443?#🔒 TR-TCP-NA 🇳🇱 NL-172.233.50.248:443 📡 PING-090.44-MS
+trojan://0453eb8b-8b3a-42c5-9040-cb1495279898@95.164.68.116:443?security=tls&sni=cdn.appsflyer.com&type=grpc#🔒 TR-GRPC-TLS 🇩🇪 DE-95.164.68.116:443 📡 PING-092.28-MS
 trojan://telegram-id-directvpn@35.156.159.93:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-35.156.159.93:22222 📡 PING-092.53-MS
 trojan://telegram-id-privatevpns@18.153.122.13:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇩🇪 DE-18.153.122.13:22222 📡 PING-092.76-MS
 trojan://telegram-id-directvpn@18.203.128.22:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-18.203.128.22:22222 📡 PING-093.16-MS
@@ -591,16 +604,3 @@ ss://BugFreeNet4=@104.21.73.32:2087#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.73.32
 ss://SVNTEAM=@104.18.202.232:8080#🔒 SS-TCP-NA 🏴‍☠️ NA-104.18.202.232:8080 📡 PING-000.81-MS
 ss://WANCLOUDFA==@104.31.16.235:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.31.16.235:443 📡 PING-000.76-MS
 ss://SVNTEAM=@104.18.203.232:8080#🔒 SS-TCP-NA 🏴‍☠️ NA-104.18.203.232:8080 📡 PING-000.75-MS
-ss://SVNTEAM=@172.67.204.84:8080#🔒 SS-TCP-NA 🇺🇸 US-172.67.204.84:8080 📡 PING-000.73-MS
-ss://VPNCUSTOMIZE@104.18.202.232:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.18.202.232:80 📡 PING-000.73-MS
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@54.36.174.181:6679#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:6679 📡 PING-000.00-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMZUZzVHhoT0xtNmloM1J5VnExT3Zk@92.243.27.51:9802#🔒 SS-TCP-NA 🇫🇷 FR-92.243.27.51:9802 📡 PING-000.00-MS
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@145.239.6.202:4444#🔒 SS-TCP-NA 🇬🇧 GB-145.239.6.202:4444 📡 PING-000.00-MS
-ss://YWVzLTEyOC1nY206dGVsOkBaRURNT0RFT04=@209.38.160.45:25365#🔒 SS-TCP-NA 🇬🇧 GB-209.38.160.45:25365 📡 PING-000.00-MS
-ss://bm9uZTpjYWFjYmFiLWFhY2ItYWJjYS1iY2FkLWFjY2JhY2FiY2JiYQ==@127.0.0.1:8080#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
-vmess://ewogICAgICAgICAgICAidiI6ICIyIiwKICAgICAgICAgICAgInBzIjogIuabtOaWsOS6jiAwMy0xNiAxNjoyOCBieSBodHRwczovL2dpdGh1Yi5jb20vdHMtc2YvZmx5IiwKICAgICAgICAgICAgImFkZCI6ICIxMjcuMS4xLjEyNyIsCiAgICAgICAgICAgICJwb3J0IjogIjgwIiwKICAgICAgICAgICAgImlkIjogIjYwMjczNmU0LWEyZTgtNGViMy05ZmM5LTdjNzA4MjkyNTM2NSIsCiAgICAgICAgICAgICJhaWQiOiAiMCIsCiAgICAgICAgICAgICJzY3kiOiAiYXV0byIsCiAgICAgICAgICAgICJuZXQiOiAidGNwIiwKICAgICAgICAgICAgInR5cGUiOiAibm9uZSIsCiAgICAgICAgICAgICJob3N0IjogIiIsCiAgICAgICAgICAgICJwYXRoIjogIiIsCiAgICAgICAgICAgICJ0bHMiOiAiIiwKICAgICAgICAgICAgInNuaSI6ICIiLAogICAgICAgICAgICAiYWxwbiI6ICIiLAogICAgICAgICAgICAiZnAiOiAiIgogICAgICAgICAgfQogICAgICAgIA==
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvSAyLjJNQi9zIiwiYWRkIjoiMTA0LjIxLjI4LjYyIiwicG9ydCI6IjQ0MyIsImlkIjoiMGQ5Nzc2ZGQtZTEyZS00YTVlLTliZjItOGNjZWIxYjUwMmYxIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoicHQxLXZtZXNzLnNzaG1heC54eXoiLCJwYXRoIjoiL3ZtZXNzIiwidGxzIjoidGxzIiwic25pIjoicHQxLXZtZXNzLnNzaG1heC54eXoiLCJ0ZXN0X25hbWUiOiJVU+e+juWbvSJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OGVkNjBkZi0wMzZkLTRhNmYtOTQ0My1hNTNkZDJjY2U3ZjI=@kr2.indianonlinejob2.com:20014#%F0%9F%87%A8%F0%9F%87%B3%E5%B9%BF%E4%B8%9C
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NmY5ZjRlNS1hODhkLTQwYjItYTFhZS02Yjc1MGI3MWE4YmI=@hk05.jjjjjj.icu:43217#%F0%9F%87%A8%F0%9F%87%B3%E6%B1%9F%E8%8B%8F
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTIiLCJhZGQiOiIxMDQuMjEuMjM2LjY0IiwicG9ydCI6IjgwIiwiaWQiOiI3MDIyOTgyZi1kYTRjLTQ4YzktYzY2MC1iMjMxNWFiZGNmN2UiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiYS5wcmFwdDEuaXIiLCJwYXRoIjoiLz9lZD0yMDQ4JlRlbGVncmFt8J+HqPCfh7MgQFdhbmdDYWkwOCIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IlVT576O5Zu9MiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNjEwNWJiZC1iZTBkLTQ1YjItODJhZC0zMWZkMTA3MWMxZDI=@service.ouluyun9803.com:20003#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD
