@@ -4,10 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@134.195.196.3:8888#%F0%9F%87%AA%F0%9F%87%BA%20%E6%AC%A7%E6%B4%B2%28%E6%AC%A2%E8%BF%8E%E8%AE%A2%E9%98%85Youtube%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B%29
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@169.197.142.99:8090#%F0%9F%87%AA%F0%9F%87%BA%20%E6%AC%A7%E6%B4%B2%28%E6%AC%A2%E8%BF%8E%E8%AE%A2%E9%98%85Youtube%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B%29
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@134.195.196.81:5000#%F0%9F%87%AA%F0%9F%87%BA%20%E6%AC%A7%E6%B4%B2%28%E6%AC%A2%E8%BF%8E%E8%AE%A2%E9%98%85Youtube%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B%29
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@134.195.196.68:6379#%F0%9F%87%AA%F0%9F%87%BA%20%E6%AC%A7%E6%B4%B2%28%E6%AC%A2%E8%BF%8E%E8%AE%A2%E9%98%85Youtube%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B%29
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@169.197.142.4:8000#%F0%9F%87%AA%F0%9F%87%BA%20%E6%AC%A7%E6%B4%B2%28%E6%AC%A2%E8%BF%8E%E8%AE%A2%E9%98%85Youtube%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B%29
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@134.195.196.68:9101#%F0%9F%87%AA%F0%9F%87%BA%20%E6%AC%A7%E6%B4%B2%28%E6%AC%A2%E8%BF%8E%E8%AE%A2%E9%98%85Youtube%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B%29
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@134.195.196.3:8118#%F0%9F%87%AA%F0%9F%87%BA%20%E6%AC%A7%E6%B4%B2%28%E6%AC%A2%E8%BF%8E%E8%AE%A2%E9%98%85Youtube%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B%29
@@ -604,3 +600,7 @@ vless://35a6d9dd-70a6-4de6-83c4-2c9aa93a214d@178.128.193.212:2003?security=tls&s
 vless://2902aaf1-9578-42c8-d172-7846d18fb8b2@45.143.199.89:28735?security=tls&sni=uk.unoix.co&type=grpc&serviceName=vpn-xw.t.me&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🇬🇧 GB-45.143.199.89:28735 📡 PING-134.96-MS
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@52.141.25.42:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇰🇷 KR-52.141.25.42:443 📡 PING-135.02-MS
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@121.131.91.22:33890?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇰🇷 KR-121.131.91.22:33890 📡 PING-135.26-MS
+vless://8a9ce148-5976-4543-8679-dc9ac25ecebc@188.119.112.242:2003?security=tls&sni=nl-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇳🇱 NL-188.119.112.242:2003 📡 PING-135.54-MS
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@129.154.212.181:44699?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=TG%40ZDYZ2%E5%81%B7%E8%8A%82%E7%82%B9%E6%AD%BB%E5%90%97&fp=random#🔒 VL-WS-TLS 🇰🇷 KR-129.154.212.181:44699 📡 PING-135.56-MS
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@144.24.78.162:443?security=tls&sni=qf8R77hvGctJ6YsbFNHPV1W1MtrHf0Duuv2JBMaj9a2O5LJw4jHdapok0Q9XYAO.8abt4g7er2zh1xw.cfd&type=ws&host=qf8R77hvGctJ6YsbFNHPV1W1MtrHf0Duuv2JBMaj9a2O5LJw4jHdapok0Q9XYAO.8abt4g7er2zh1xw.cfd&path=%2F&fp=chrome#🔒 VL-WS-TLS 🇰🇷 KR-144.24.78.162:443 📡 PING-135.70-MS
+vless://86cb9a9b-dc2e-45d6-b35d-7ce1daa32a15@193.122.113.210:34237?security=tls&sni=dns68.shift.cloudns.org&type=ws&host=dns68.shift.cloudns.org&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇰🇷 KR-193.122.113.210:34237 📡 PING-136.01-MS
