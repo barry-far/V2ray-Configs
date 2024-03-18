@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://3e124a84-d46a-4108-a00a-9a8605fbeb42@51.75.77.237:443?security=tls&sni=de-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇩🇪 DE-51.75.77.237:443 📡 PING-088.02-MS
 vless://b620525a-5e9b-49d7-ca9e-c30d03b928b0@162.19.189.17:8443?security=tls&sni=snapppay.ir&type=grpc&serviceName=vpn_xw.t.me&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇫🇷 FR-162.19.189.17:8443 📡 PING-088.10-MS
 vless://ff406666-f618-499a-8c0b-4d01af7e1340@172.234.56.111:2003?security=tls&sni=fr2-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇫🇷 FR-172.234.56.111:2003 📡 PING-088.15-MS
 vless://ff406666-f618-499a-8c0b-4d01af7e1340@172.234.56.111:443?security=tls&sni=fr2-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇫🇷 FR-172.234.56.111:443 📡 PING-088.39-MS
@@ -603,4 +604,3 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.19.66:80?type=ws&host=us1.rt
 vless://17f80121-6d23-48be-90a4-ef67664ab0d6@91.193.58.1:2052?security=none&type=ws&host=%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7%E4%BE%AF%E8%B5%9B%E5%9B%A0mdmd8.v2rayng-mmd.cfd.&path=%2F%3Fed%3D2053#🔒 VL-WS-NONE 🇬🇧 GB-91.193.58.1:2052 📡 PING-001.80-MS
 vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@162.159.252.77:2083?security=tls&sni=pages.20230619.love&type=ws&host=pages.20230619.love&path=telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai_8%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.252.77:2083 📡 PING-001.80-MS
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.21.78:80?type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.21.78:80 📡 PING-001.80-MS
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.3.10:80?type=ws&host=fucken.aws&path=%2F%3Fed%3D2048#🔒 VL-WS-NA 🇺🇸 US-151.101.3.10:80 📡 PING-001.79-MS
