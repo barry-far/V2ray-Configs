@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+trojan://FF45F361-BA08-4E36-DFB9-171D6F8CF228@83.229.82.135:60606?security=tls&sni=nl.stealthtunnel.net&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇳🇱 NL-83.229.82.135:60606 📡 PING-083.96-MS
+trojan://telegram-id-directvpn@35.181.150.93:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-35.181.150.93:22222 📡 PING-084.18-MS
 trojan://wkmY1R4EcP@78.141.221.194:443?security=tls&sni=z-v2-002750.kailib.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇳🇱 NL-78.141.221.194:443 📡 PING-084.58-MS
 trojan://telegram-id-privatevpns@13.37.76.17:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇫🇷 FR-13.37.76.17:22222 📡 PING-084.82-MS
 trojan://0b6499ea-c60e-436f-b63b-6dae4bf54779@188.119.112.242:443?#🔒 TR-TCP-NA 🇳🇱 NL-188.119.112.242:443 📡 PING-084.88-MS
@@ -602,5 +604,3 @@ ss://YWVzLTEyOC1nY206OGU1YjgyMjktODI1NS00YzQ2LWFhMjMtMTQ2N2ZjNGExMGE2@183.240.18
 ss://YWVzLTEyOC1nY206OGU1YjgyMjktODI1NS00YzQ2LWFhMjMtMTQ2N2ZjNGExMGE2@183.240.180.228:12006#🔒 SS-TCP-NA 🇨🇳 CN-183.240.180.228:12006 📡 PING-331.63-MS
 ss://YWVzLTEyOC1nY206OGU1YjgyMjktODI1NS00YzQ2LWFhMjMtMTQ2N2ZjNGExMGE2@183.240.180.228:12007#🔒 SS-TCP-NA 🇨🇳 CN-183.240.180.228:12007 📡 PING-336.72-MS
 ss://YWVzLTEyOC1nY206OGU1YjgyMjktODI1NS00YzQ2LWFhMjMtMTQ2N2ZjNGExMGE2@183.240.180.228:12018#🔒 SS-TCP-NA 🇨🇳 CN-183.240.180.228:12018 📡 PING-338.16-MS
-ss://YWVzLTEyOC1nY206OGU1YjgyMjktODI1NS00YzQ2LWFhMjMtMTQ2N2ZjNGExMGE2@183.240.180.228:12020#🔒 SS-TCP-NA 🇨🇳 CN-183.240.180.228:12020 📡 PING-341.26-MS
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.68.134.9:2375#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:2375 📡 PING-047.98-MS
