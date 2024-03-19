@@ -4,11 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-trojan://telegram-id-directvpn@54.93.126.137:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-54.93.126.137:22222 📡 PING-098.05-MS
-trojan://telegram-id-privatevpns@3.120.29.213:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.120.29.213:22222 📡 PING-098.13-MS
-trojan://FF45F361-BA08-4E36-DFB9-171D6F8CF228@65.20.96.142:60606?security=tls&sni=sp1.stealthtunnel.net&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇪🇸 ES-65.20.96.142:60606 📡 PING-098.86-MS
-trojan://2959e4f7-7589-4a40-9b96-1be750ac7845@51.83.186.142:80?security=tls&sni=pl1.trojanvh.xyz&type=tcp#🔒 TR-TCP-TLS 🇵🇱 PL-51.83.186.142:80 📡 PING-103.38-MS
-trojan://FF45F361-BA08-4E36-DFB9-171D6F8CF228@65.20.101.118:60606?security=tls&sni=sp1.stealthtunnel.net&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇪🇸 ES-65.20.101.118:60606 📡 PING-105.69-MS
 trojan://0b1371aa-649d-41dc-9126-338c87936500@95.164.33.62:443?security=tls&sni=sourceforge.net&type=ws&host=se1.trojanvpn.de&path=/websocket#🔒 TR-WS-TLS 🇸🇪 SE-95.164.33.62:443 📡 PING-105.97-MS
 trojan://79412735-17ed-4e2e-9264-b7738413120e@95.164.46.235:443?#🔒 TR-TCP-NA 🇮🇹 IT-95.164.46.235:443 📡 PING-106.85-MS
 trojan://FF45F361-BA08-4E36-DFB9-171D6F8CF228@208.85.17.182:60606?security=tls&sni=sp1.stealthtunnel.net&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇪🇸 ES-208.85.17.182:60606 📡 PING-107.15-MS
@@ -604,3 +599,8 @@ ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.121.43.142:9101#🔒 SS-TCP-NA 🇺
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.65:8080#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.65:8080 📡 PING-027.97-MS
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@167.88.63.61:8118#🔒 SS-TCP-NA 🇺🇸 US-167.88.63.61:8118 📡 PING-027.96-MS
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@167.88.63.61:5001#🔒 SS-TCP-NA 🇺🇸 US-167.88.63.61:5001 📡 PING-027.95-MS
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.121.43.65:443#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.65:443 📡 PING-027.90-MS
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.51:2376#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.51:2376 📡 PING-027.89-MS
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.121.43.97:8091#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.97:8091 📡 PING-027.83-MS
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@216.39.248.152:8080#🔒 SS-TCP-NA 🇺🇸 US-216.39.248.152:8080 📡 PING-022.66-MS
+ss://YWVzLTI1Ni1nY206YVNFLzI2QzlNamwrTHJuRXdYa0t2NkVySDl5ZklsdDlTZmZYQ0FFRENrcz0=@51.222.205.252:2443#🔒 SS-TCP-NA 🇨🇦 CA-51.222.205.252:2443 📡 PING-022.12-MS

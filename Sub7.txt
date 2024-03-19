@@ -4,11 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://f89b0ca5-0642-44c0-c733-cddc46c0d779@172.67.138.56:2096?security=tls&sni=arxx.amshvip.ir&type=grpc&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.138.56:2096 📡 PING-005.11-MS
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.208.23:443?security=tls&sni=baipiao123.stunning-bassoon.pages.dev&type=ws&host=baipiao123.stunning-bassoon.pages.dev&path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.208.23:443 📡 PING-005.11-MS
-vless://b6b02a7b-bd89-49c9-ad68-99c8192daf55@104.21.3.79:2087?security=tls&sni=clash.mmdargon.top&type=ws&host=clash.mmdargon.top&path=%2F&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.3.79:2087 📡 PING-005.11-MS
-vless://446bef91-46ec-4feb-b8f1-79a4597b1801@104.21.29.151:443?security=tls&sni=PpAl03.ShemaR-CoLlINS.WOrKeRs.DeV&type=ws&host=pPal03.SHEMaR-COlliNS.workers.dEv&path=%2F6e4vS_Yv9_sbSUjC%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.29.151:443 📡 PING-005.11-MS
-vless://14d396c8-740f-4ac3-9ce2-aa7652428ed0@104.21.20.102:80?security=none&type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.20.102:80 📡 PING-005.11-MS
 vless://b4414a88-aeba-4fe4-ae85-3df934280be8@104.16.148.244:443?security=tls&sni=bpB.NIrEviL.iR&type=ws&host=bPb.nIrEVIL.Ir&path=%2FPfqdNwxpBlUbqzMi%3Fed%3D2048&fp=randomized&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.148.244:443 📡 PING-005.11-MS
 vless://611fdfbc-2e51-4fb3-b742-a7c900ebcb0f@172.67.0.34:443?security=tls&sni=ss61.nimserver.top&type=ws&host=ss61.nimserver.top&path=%2Fvless#🔒 VL-WS-TLS 🇺🇸 US-172.67.0.34:443 📡 PING-005.11-MS
 vless://a1bf1953-4791-4ba9-ae32-53713d781836@172.67.174.129:443?security=tls&sni=yekshabbamohsendaiimmd.ephoria-maria.monster&type=ws&host=yekshabbamohsendaiimmd.ephoria-maria.monster&path=/&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.67.174.129:443 📡 PING-005.11-MS
@@ -604,3 +599,8 @@ trojan://telegram-id-directvpn@18.153.231.92:22222?security=tls&sni=trojan.burge
 trojan://7eaaa3c4-f971-4662-bfb3-e4477a8f4e6e@172.234.56.111:443?#🔒 TR-TCP-NA 🇫🇷 FR-172.234.56.111:443 📡 PING-095.97-MS
 trojan://FF45F361-BA08-4E36-DFB9-171D6F8CF228@65.20.101.221:60606?security=tls&sni=sp1.stealthtunnel.net&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇪🇸 ES-65.20.101.221:60606 📡 PING-096.99-MS
 trojan://FF45F361-BA08-4E36-DFB9-171D6F8CF228@208.76.221.184:60606?security=tls&sni=sp1.stealthtunnel.net&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇪🇸 ES-208.76.221.184:60606 📡 PING-097.29-MS
+trojan://telegram-id-directvpn@54.93.126.137:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-54.93.126.137:22222 📡 PING-098.05-MS
+trojan://telegram-id-privatevpns@3.120.29.213:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.120.29.213:22222 📡 PING-098.13-MS
+trojan://FF45F361-BA08-4E36-DFB9-171D6F8CF228@65.20.96.142:60606?security=tls&sni=sp1.stealthtunnel.net&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇪🇸 ES-65.20.96.142:60606 📡 PING-098.86-MS
+trojan://2959e4f7-7589-4a40-9b96-1be750ac7845@51.83.186.142:80?security=tls&sni=pl1.trojanvh.xyz&type=tcp#🔒 TR-TCP-TLS 🇵🇱 PL-51.83.186.142:80 📡 PING-103.38-MS
+trojan://FF45F361-BA08-4E36-DFB9-171D6F8CF228@65.20.101.118:60606?security=tls&sni=sp1.stealthtunnel.net&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇪🇸 ES-65.20.101.118:60606 📡 PING-105.69-MS
