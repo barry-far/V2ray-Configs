@@ -4,6 +4,12 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+trojan://09833a6f-4d46-426e-87fe-7793a5489f84@foreign04.lovehjq.xyz:46527?security=tls&sni=lovehjq.xyz&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%202
+trojan://09833a6f-4d46-426e-87fe-7793a5489f84@144.24.87.186:46521?security=tls&sni=lovehjq.xyz&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%204
+trojan://09833a6f-4d46-426e-87fe-7793a5489f84@144.24.87.186:46527?security=tls&sni=lovehjq.xyz&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%205
+trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@36.228.203.34:443?security=tls&sni=glc-tw1.windowsupdatea.com&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3%20Taiwan%207
+trojan://09833a6f-4d46-426e-87fe-7793a5489f84@foreign01.lovehjq.xyz:46521?security=tls&sni=lovehjq.xyz&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%203
+trojan://pjdnqv@aws-us-dallas-1.f1rocketnode.com:443?security=tls&sni=aws-us-dallas-1.f1rocketnode.com&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20294
 trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@download1tw.windowsupdatea.com:443?security=tls&sni=glc-tw1.windowsupdatea.com&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3%20Taiwan%208
 trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@141.193.68.81:443?security=tls&sni=glc-us3.windowsupdatea.com&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20303
 
@@ -598,9 +604,3 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.105.152:80?type=ws&host=us1.
 vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@172.67.44.123:8443?security=tls&sni=pages.20230619.love&type=ws&host=pages.20230619.love&path=telegram%F0%9F%87%AE%F0%9F%87%B7+%40vpn_proxy66+%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-172.67.44.123:8443 📡 PING-005.82-MS
 vless://5b653b1c-dc8b-402d-ae67-f3d039d61f20@172.67.141.223:8443?security=tls&sni=vpnproxy66.v2panel.workers.dev&type=ws&host=vpnproxy66.v2panel.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-172.67.141.223:8443 📡 PING-005.81-MS
 vless://621a731b-87e9-41a5-f417-65f1cff63242@172.67.133.87:2053?security=tls&sni=fl20.korda.top&type=grpc&serviceName=fl20.korda.top&fp=chrome#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.133.87:2053 📡 PING-005.80-MS
-vless://1fa54f4f-27e3-4a30-ac5f-e1dada9d59bd@104.21.69.44:443?security=tls&sni=gol.kanal-tel-nufilter.site&type=grpc&serviceName=Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.69.44:443 📡 PING-005.80-MS
-vless://052bbb88-ea8e-4999-ae48-683e644a3348@195.85.59.95:80?security=none&type=ws&host=vss.jinqianweb.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇨🇾 CY-195.85.59.95:80 📡 PING-005.77-MS
-vless://3a902fed-ad08-4a60-d005-e78be1140431@63.141.128.8:8443?security=tls&sni=jadiid.nufilter.store&type=grpc&serviceName=Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER&fp=firefox&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🇺🇸 US-63.141.128.8:8443 📡 PING-005.77-MS
-vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@104.19.174.72:443?security=tls&sni=pages.20230619.love&type=ws&host=pages.20230619.love&path=Path%2FTelegram@V2ray_alpha%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.174.72:443 📡 PING-005.76-MS
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.228.3:80?type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.228.3:80 📡 PING-005.75-MS
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.182.8:80?type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.182.8:80 📡 PING-005.75-MS
