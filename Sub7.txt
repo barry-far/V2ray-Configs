@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://99bcf31c-4485-4e9b-ac44-2da5d199a40a@188.114.97.77:443?security=tls&sni=be1-vless.sshmax.xyz&type=ws&path=%2Fvless#🔒 VL-WS-TLS 🇳🇱 NL-188.114.97.77:443 📡 PING-016.23-MS
 vless://5b2bad9a-139f-4985-891f-00956573c448@172.64.171.35:80?security=none&sni=hello-world-bitter-silence-09ff.conig57303.workers.dev&type=ws&host=hello-world-bitter-silence-09ff.conig57303.workers.DEV&path=vless-ws%2F%3Fed%3D2048&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-NONE 🇺🇸 US-172.64.171.35:80 📡 PING-016.23-MS
 vless://6e643b53-f30a-443d-a069-c5826f365403@162.159.138.232:2087?security=tls&sni=sni2.tohid3aeed.com&type=ws&host=sni2.tohid3aeed.com&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.138.232:2087 📡 PING-016.22-MS
 vless://81946054-eadf-4a06-b770-a3075ff6668e@104.21.94.98:443?security=tls&sni=lonn.copenhagencafes.com&type=ws&path=%2Flonn&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.94.98:443 📡 PING-016.22-MS
@@ -603,4 +604,3 @@ trojan://FF45F361-BA08-4E36-DFB9-171D6F8CF228@208.85.17.206:60606?security=tls&s
 trojan://0453eb8b-8b3a-42c5-9040-cb1495279898@95.164.68.116:443?security=tls&sni=cdn.appsflyer.com&type=grpc#🔒 TR-GRPC-TLS 🇩🇪 DE-95.164.68.116:443 📡 PING-145.34-MS
 trojan://a55acae0-e1eb-11ee-bc55-1239d0255272@51.210.182.170:443?#🔒 TR-TCP-NA 🇫🇷 FR-51.210.182.170:443 📡 PING-145.92-MS
 trojan://telegram-id-privatevpns@3.68.139.230:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.68.139.230:22222 📡 PING-146.78-MS
-trojan://fc1e07b5-840b-4446-8232-94b0606f2e0d@193.70.112.90:443?#🔒 TR-TCP-NA 🇫🇷 FR-193.70.112.90:443 📡 PING-147.01-MS
