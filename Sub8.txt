@@ -4,10 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-trojan://87f2224c-59b9-4e05-b9d4-7cacd8ff54c3@94.131.117.240:443?#🔒 TR-TCP-NA 🇪🇸 ES-94.131.117.240:443 📡 PING-115.32-MS
-trojan://d0d67bba-a71d-4e3e-8469-1d214198ad34@95.164.116.35:443?#🔒 TR-TCP-NA 🇹🇷 TR-95.164.116.35:443 📡 PING-118.82-MS
-trojan://2997d686-d910-441b-a15c-c8d11c366025@185.234.66.155:2053?security=tls&sni=ftp.debian.org&type=tcp#🔒 TR-TCP-TLS 🇹🇷 TR-185.234.66.155:2053 📡 PING-118.97-MS
-trojan://a12eb3c7-6d4a-417c-be46-76678f2b25ca@45.140.169.83:30002?security=tls&sni=ru01.freeflyingcloud.xyz&type=tcp#🔒 TR-TCP-TLS 🇷🇺 RU-45.140.169.83:30002 📡 PING-127.43-MS
 trojan://96589a7c-c83f-4b42-b31c-d714627857f3@45.67.229.110:2053?security=tls&sni=ftp.debian.org&type=tcp#🔒 TR-TCP-TLS 🇲🇩 MD-45.67.229.110:2053 📡 PING-141.47-MS
 trojan://wzsNzCmSSp@78.109.193.161:2087?security=none&type=ws&path=%40Vpn_vetiver+%40Vpn_vetiver+%40Vpn_vetiver+%40Vpn_vetiver+%40Vpn_vetiver+%40Vpn_vetiver+%40Vpn_vetiver+%40Vpn_vetiver+%40Vpn_vetiver+%40Vpn_vetiver+%40Vpn_vetiver+%40Vpn_vetiver+%40Vpn_vetiver+%40Vpn_vetiver+%40Vpn_vetiver+%40Vpn_vetiver#🔒 TR-WS-NONE 🇮🇷 IR-78.109.193.161:2087 📡 PING-155.88-MS
 trojan://b247eab0-6288-4dd5-a5b6-aa7924806a7f@139.162.112.174:443?#🔒 TR-TCP-NA 🇯🇵 JP-139.162.112.174:443 📡 PING-160.87-MS
@@ -604,3 +600,7 @@ ss://SVNTEAM=@172.67.204.84:8080#🔒 SS-TCP-NA 🇺🇸 US-172.67.204.84:8080 �
 ss://BugFreeNet4=@172.67.139.54:2087#🔒 SS-TCP-NA 🇺🇸 US-172.67.139.54:2087 📡 PING-005.49-MS
 ss://WANCLOUDFA==@104.31.16.235:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.31.16.235:443 📡 PING-005.45-MS
 ss://BugFreeNet4=@104.21.73.32:2087#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.73.32:2087 📡 PING-005.41-MS
+ss://SVNTEAM=@172.67.204.84:2096#🔒 SS-TCP-NA 🇺🇸 US-172.67.204.84:2096 📡 PING-005.34-MS
+ss://VPNCUSTOMIZE@188.114.98.224:443#🔒 SS-TCP-NA 🇳🇱 NL-188.114.98.224:443 📡 PING-005.25-MS
+ss://SVNTEAM=@104.21.69.44:2096#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.69.44:2096 📡 PING-005.17-MS
+ss://SVNTEAM=@104.18.203.232:8080#🔒 SS-TCP-NA 🏴‍☠️ NA-104.18.203.232:8080 📡 PING-005.16-MS
