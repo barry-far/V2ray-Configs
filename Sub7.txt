@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://f50b488a-ddf3-45d5-8521-8b2236ffb656@162.159.136.232:8443?security=tls&sni=v2net-iran-v2ray-nl.jojotala.monster&type=grpc&serviceName=@V2net_iran,@V2net_iran,@V2net_iran,@V2net_iran,@V2net_iran,@V2net_iran,@V2net_iran,@V2net_iran,@V2net_iran,@V2net_iran,@V2net_iran,@V2net_iran,@V2net_iran,@V2net_iran,@V2net_iran,@V2net_iran,@V2net_iran&fp=edge&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.136.232:8443 📡 PING-016.23-MS
+vless://fa74c6c6-5e0a-43f6-9997-ed0e10dc10bc@162.159.138.43:80?type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.138.43:80 📡 PING-016.23-MS
 vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@104.22.48.253:80?security=none&type=ws&host=ehda.sajaditsme.com&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.48.253:80 📡 PING-016.23-MS
 vless://978d4b69-0d1e-458d-89e2-acff6f2f54ef@172.67.196.36:2087?security=tls&sni=d49.raiofa.ir&type=grpc&allowInsecure=1#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.196.36:2087 📡 PING-016.23-MS
 vless://62a20821-7cec-4572-a0bb-8a38b39fcdb6@63.141.128.34:443?security=tls&sni=Ht-P-S-t-Me-V2ray-420.jOiN-pRivAtE.Ir&type=grpc&serviceName=@ExpressVPN_420@ExpressVPN_420@ExpressVPN_420@ExpressVPN_420@ExpressVPN_420@ExpressVPN_420@ExpressVPN_420@ExpressVPN_420@ExpressVPN_420@ExpressVPN_420@ExpressVPN_420@ExpressVPN_420@ExpressVPN_420@ExpressVPN_420@ExpressVPN_420@ExpressVPN_420@ExpressVPN_420@ExpressVPN_420&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇺🇸 US-63.141.128.34:443 📡 PING-016.23-MS
@@ -602,5 +604,3 @@ trojan://telegram-id-directvpn@51.21.79.124:22222?security=tls&sni=trojan.burger
 trojan://telegram-id-privatevpns@13.53.251.107:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.53.251.107:22222 📡 PING-152.54-MS
 trojan://fbc32105-ffe1-4b01-82f4-bf53a8a71717@172.105.167.229:443?#🔒 TR-TCP-NA 🇦🇺 AU-172.105.167.229:443 📡 PING-153.18-MS
 trojan://94ddbcbf-f976-4fa4-b563-b913e7d5766c@194.156.98.99:443?#🔒 TR-TCP-NA 🇭🇰 HK-194.156.98.99:443 📡 PING-155.23-MS
-trojan://0b1371aa-649d-41dc-9126-338c87936500@95.164.33.62:443?security=tls&sni=sourceforge.net&type=ws&host=se1.trojanvpn.de&path=/websocket#🔒 TR-WS-TLS 🇸🇪 SE-95.164.33.62:443 📡 PING-155.98-MS
-trojan://fc1e07b5-840b-4446-8232-94b0606f2e0d@193.70.112.90:443?#🔒 TR-TCP-NA 🇫🇷 FR-193.70.112.90:443 📡 PING-156.05-MS
