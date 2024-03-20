@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://2516da3d-90cd-4cf1-a16d-ebd0bc237c97@104.22.51.162:443?security=tls&sni=XI.xn--69-pv2cl2k5x3fipr.site&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.22.51.162:443 📡 PING-001.67-MS
-vless://ec2e8ff7-e794-4ac4-9585-7ad28f188269@216.205.52.121:2053?security=tls&sni=ec2e8ffV2ray7-e794-4ac4-9585-7ad28f188269btoche.pages.dev&type=ws&host=btoche.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-216.205.52.121:2053 📡 PING-001.67-MS
 vless://43951cd8-c36c-4f4e-b697-2b834a3aa401@104.27.35.10:2053?security=tls&sni=miza-grpc-c2894dcc979a990558f9e84851626b6fe41a66c8.mitsonic.com&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.27.35.10:2053 📡 PING-001.67-MS
 vless://cc5d41c6-2d31-4903-ba72-e70ad5e4c864@162.159.133.234:2095?security=none&type=ws&host=my-channel-zedmodeon.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FZEDMODEON-ZEDMODEON-ZEDMODEON#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.133.234:2095 📡 PING-001.67-MS
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@104.21.13.195:8443?security=tls&sni=test006.pages.dev&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.13.195:8443 📡 PING-001.67-MS
@@ -604,3 +602,5 @@ trojan://05ba9aa4-8bfa-4bc8-8b17-8c99781f245d@178.128.193.212:443?#🔒 TR-TCP-N
 trojan://f37a931d-7092-48fe-b82f-a98da3040eb2@95.164.68.116:2053?security=tls&sni=ftp.debian.org&type=tcp#🔒 TR-TCP-TLS 🇩🇪 DE-95.164.68.116:2053 📡 PING-151.65-MS
 trojan://telegram-id-privatevpns@3.68.139.230:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.68.139.230:22222 📡 PING-153.02-MS
 trojan://7eaaa3c4-f971-4662-bfb3-e4477a8f4e6e@172.234.56.111:443?#🔒 TR-TCP-NA 🇫🇷 FR-172.234.56.111:443 📡 PING-153.49-MS
+trojan://f1e100a1ed1943db94744f515f49fe7c@183.179.168.53:443?security=tls&sni=www.gpt123.one&type=tcp#🔒 TR-TCP-TLS 🇭🇰 HK-183.179.168.53:443 📡 PING-153.96-MS
+trojan://telegram-id-privatevpns@35.157.203.208:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp#🔒 TR-TCP-TLS 🇩🇪 DE-35.157.203.208:22222 📡 PING-153.99-MS
