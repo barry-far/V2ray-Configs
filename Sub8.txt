@@ -4,6 +4,13 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://89554934-88b8-483d-819a-be384cae98dc@104.18.12.130:8080?security=none&type=ws&host=xw.xn--90aadgeab8beybgvm2fza1en8a.tech.&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.12.130:8080 📡 PING-008.27-MS
+vless://5a88142e-8e08-4f6d-aa99-db0da4bc401f@104.21.1.239:2083?security=tls&sni=amir2.yalda24.com&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.1.239:2083 📡 PING-008.27-MS
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.80.111.38:2096?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=TG%40ZDYZ2&fp=random#🔒 VL-WS-TLS 🇩🇪 DE-45.80.111.38:2096 📡 PING-008.27-MS
+vless://67291f73-393b-43d2-9898-e28f402f60f7@104.19.193.39:2087?security=tls&sni=www.orchidpharmedi.com&type=grpc&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.19.193.39:2087 📡 PING-008.27-MS
+vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@188.114.99.243:443?security=tls&sni=w1.sylar8.eu.org&type=ws&host=w1.sylar8.eu.org&path=Path%2FTelegram%40proxy_mtm%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇳🇱 NL-188.114.99.243:443 📡 PING-008.27-MS
+vless://ffffffff-eeae-4311-b37c-b2a67847fed2@104.21.81.237:443?security=tls&sni=watashi.free.de.mnhacker.eu.org&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.81.237:443 📡 PING-008.27-MS
+vless://5e981e02-09cb-4589-c232-2b9c2101bcdd@104.21.66.61:8443?security=tls&sni=cloudflare-microsoft-b2n-apple-com-yahoo-net-111.io-com-de-dev.org&type=ws&host=gt40.io-com-de-dev.org&path=%2FTelegram+@Netazad22+Telegram+@Netazad22+Telegram+@Netazad22+Telegram+@Netazad22+Telegram+@Netazad22+Telegram+@Netazad22+Telegram+@Netazad22+Telegram+@Netazad22+Telegram+@Netazad22+Telegram+@Netazad22+Telegram+@Netazad22+Telegram+@Netazad22+Telegram+@Netazad22+Telegram+@Netazad22+Telegram+@Netazad22+Telegram+@Netazad22&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.66.61:8443 📡 PING-008.27-MS
 vless://ea2c6257-bb4d-4362-89c3-a2d798de40ff@104.20.224.95:2083?security=tls&sni=fan.kostala.org&type=ws&host=fan.kostala.org&path=%2F?Telegram:@Rk_filtershking,@Rk_filtershking,@Rk_filtershking,@Rk_filtershking,@Rk_filtershking,@Rk_filtershking,@Rk_filtershking,@Rk_filtershking,@Rk_filtershking,@Rk_filtershking,@Rk_filtershking,@Rk_filtershking,@Rk_filtershking,@Rk_filtershking,@Rk_filtershking,@Rk_filtershking,@Rk_filtershking,@VPNwedbaz&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.224.95:2083 📡 PING-008.26-MS
 vless://174c0991-9add-47a5-a906-ce1a93f31348@108.165.216.106:443?security=tls&sni=worker-bitter-flower-60b7.yecij66657.workers.Dev&type=ws&host=worker-bitter-flower-60b7.yecij66657.workers.Dev&path=%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-108.165.216.106:443 📡 PING-008.26-MS
 vless://4c994c18-eec3-46da-8905-a66a82f91462@104.21.67.173:2083?security=tls&sni=de2.dailybodymind.com&type=grpc&serviceName=de2.dailybodymind.com&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.67.173:2083 📡 PING-008.26-MS
@@ -597,10 +604,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQSTF4bVZ0Tlk4WU1QYjg2bmF6RHZJ@83.217.9.216:3
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@51.77.53.200:9102#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:9102 📡 PING-171.59-MS
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@51.77.53.200:2375#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:2375 📡 PING-172.07-MS
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@54.36.174.181:8090#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:8090 📡 PING-172.10-MS
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@54.36.174.181:8119#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:8119 📡 PING-172.17-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpORGcyWVdJeg==@95.164.35.90:8139#🔒 SS-TCP-NA 🇵🇱 PL-95.164.35.90:8139 📡 PING-172.21-MS
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@51.77.53.200:6679#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:6679 📡 PING-172.35-MS
-ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@103.172.116.94:9033#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.94:9033 📡 PING-172.53-MS
-ss://YWVzLTI1Ni1jZmI6TnZTOE40VmY4cUFHUFNDTA==@103.172.116.90:9046#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9046 📡 PING-172.55-MS
-ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@103.172.116.90:9014#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9014 📡 PING-172.56-MS
-ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@103.172.116.79:9042#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9042 📡 PING-172.56-MS
