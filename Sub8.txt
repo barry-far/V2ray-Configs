@@ -4,10 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-trojan://telegram-id-privatevpns@52.47.93.170:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-52.47.93.170:22222 📡 PING-085.56-MS
-trojan://telegram-id-privatevpns@35.181.87.186:22222?security=tls&sni=google.com&type=tcp&alpn=http/1.1&allowInsecure=1#🔒 TR-TCP-TLS 🇫🇷 FR-35.181.87.186:22222 📡 PING-085.80-MS
-trojan://a55acae0-e1eb-11ee-bc55-1239d0255272@51.210.182.170:443?#🔒 TR-TCP-NA 🇫🇷 FR-51.210.182.170:443 📡 PING-085.90-MS
-trojan://telegram-id-directvpn@44.240.111.57:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-44.240.111.57:22222 📡 PING-086.35-MS
 trojan://e96f263f-8788-44fa-8bb1-25fb4a8c2a6d@141.94.115.231:443?#🔒 TR-TCP-NA 🇫🇷 FR-141.94.115.231:443 📡 PING-087.86-MS
 trojan://0453eb8b-8b3a-42c5-9040-cb1495279898@95.164.68.116:443?security=tls&sni=cdn.appsflyer.com&type=grpc#🔒 TR-GRPC-TLS 🇩🇪 DE-95.164.68.116:443 📡 PING-089.46-MS
 trojan://f37a931d-7092-48fe-b82f-a98da3040eb2@95.164.68.116:2053?security=tls&sni=ftp.debian.org&type=tcp#🔒 TR-TCP-TLS 🇩🇪 DE-95.164.68.116:2053 📡 PING-089.72-MS
@@ -604,3 +600,7 @@ ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.68.134.9:8000#🔒 SS-TCP-NA �
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.68.134.9:8119#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:8119 📡 PING-041.31-MS
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@156.146.38.163:443#🔒 SS-TCP-NA 🇺🇸 US-156.146.38.163:443 📡 PING-040.24-MS
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.134.94.175:8119#🔒 SS-TCP-NA 🇺🇸 US-23.134.94.175:8119 📡 PING-038.57-MS
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.68.134.9:8008#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:8008 📡 PING-038.36-MS
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.68.134.9:5003#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:5003 📡 PING-038.22-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@198.58.127.149:8080#🔒 SS-TCP-NA 🇺🇸 US-198.58.127.149:8080 📡 PING-034.55-MS
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@167.88.63.61:9102#🔒 SS-TCP-NA 🇺🇸 US-167.88.63.61:9102 📡 PING-032.71-MS
