@@ -4,6 +4,9 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+trojan://your_password@52.56.183.187:443?security=tls&sni=aws-uk-london-1.f1rocketnode.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇬🇧 GB-52.56.183.187:443 📡 PING-136.14-MS
+trojan://SUBytHXyrH@209.250.231.220:50050?security=none&type=tcp&path=%2F&headerType=http#🔒 TR-TCP-NONE 🇬🇧 GB-209.250.231.220:50050 📡 PING-136.83-MS
+trojan://acb05e97-0ce2-4ba4-996a-bcd1c1f6b578@192.53.168.192:443?#🔒 TR-TCP-NA 🇦🇺 AU-192.53.168.192:443 📡 PING-137.35-MS
 trojan://fbc32105-ffe1-4b01-82f4-bf53a8a71717@172.105.167.229:443?#🔒 TR-TCP-NA 🇦🇺 AU-172.105.167.229:443 📡 PING-137.64-MS
 trojan://7c252929-6ac0-4681-a835-e52af701f151@36.233.198.122:13989?security=tls&sni=c11.twtc.dynu.net&type=tcp#🔒 TR-TCP-TLS 🇹🇼 TW-36.233.198.122:13989 📡 PING-139.23-MS
 trojan://telegram-id-privatevpns@18.175.6.150:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇬🇧 GB-18.175.6.150:22222 📡 PING-139.74-MS
@@ -601,6 +604,3 @@ ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.68.134.9:8008#🔒 SS-TCP-NA 🇺�
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.68.134.9:8119#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:8119 📡 PING-040.27-MS
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.68.134.9:8000#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:8000 📡 PING-040.23-MS
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@156.146.38.163:443#🔒 SS-TCP-NA 🇺🇸 US-156.146.38.163:443 📡 PING-040.03-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@198.58.127.149:8080#🔒 SS-TCP-NA 🇺🇸 US-198.58.127.149:8080 📡 PING-038.26-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNzhBanFLc3ZvNTdBS3oyV2w2Nm1n@162.221.207.62:443#🔒 SS-TCP-NA 🇨🇦 CA-162.221.207.62:443 📡 PING-022.43-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4am9DdHd3c05IdEtNeENibFBkQ2xP@149.40.62.115:443#🔒 SS-TCP-NA 🇩🇪 DE-149.40.62.115:443 📡 PING-022.00-MS
