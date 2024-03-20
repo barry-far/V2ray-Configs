@@ -4,13 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://a663bbab-4e9e-4080-b8ab-edd59fe1fdce@104.24.37.148:443?security=tls&sni=max-allnet.hiroman5445.ir&type=grpc&serviceName=DvVRTw2k71qNhriZyCPvusI&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.24.37.148:443 📡 PING-005.11-MS
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.20.17:80?type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.20.17:80 📡 PING-005.11-MS
-vless://fa74c6c6-5e0a-43f6-9997-ed0e10dc10bc@172.67.194.188:80?type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg#🔒 VL-WS-NA 🇺🇸 US-172.67.194.188:80 📡 PING-005.11-MS
-vless://bebc1346-3436-4dc1-95be-a0f51daa0841@162.159.62.20:8443?security=tls&sni=cloudflare-microsoft-b2n-apple-com-yahoo-net-11.zeroonevpn.com&type=ws&host=11.zeroonevpn.com&path=%2FTelegram+%40Netazad22+Telegram+%40Netazad22+Telegram+%40Netazad22+Telegram+%40Netazad22+Telegram+%40Netazad22+Telegram+%40Netazad22+Telegram+%40Netazad22+Telegram+%40Netazad22+Telegram+%40Netazad22+Telegram+%40Netazad22+Telegram+%40Netazad22+Telegram+%40Netazad22+Telegram+%40Netazad22+Telegram+%40Netazad22+Telegram+%40Netazad22+Telegram+%40Netazad22&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.62.20:8443 📡 PING-005.11-MS
-vless://d6f79630-aa94-4536-b2ef-899b5acb3b49@172.67.156.27:443?security=tls&sni=unmanliest.appreviewcenter.com&type=ws&host=unmanliest.appreviewcenter.com&path=%2Fnimws#🔒 VL-WS-TLS 🇺🇸 US-172.67.156.27:443 📡 PING-005.11-MS
-vless://fa74c6c6-5e0a-43f6-9997-ed0e10dc10bc@162.159.129.32:80?type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.129.32:80 📡 PING-005.11-MS
-vless://fa74c6c6-5e0a-43f6-9997-ed0e10dc10bc@172.67.180.178:80?type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg#🔒 VL-WS-NA 🇺🇸 US-172.67.180.178:80 📡 PING-005.11-MS
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.212.93:80?type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-198.41.212.93:80 📡 PING-005.11-MS
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@5.182.84.47:2096?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇷🇺 RU-5.182.84.47:2096 📡 PING-005.11-MS
 vless://e4e7b149-8bd8-4266-8cbb-0987604dbc87@66.81.247.16:443?security=tls&sni=toujiediansigema.5112233.xyz&type=ws&path=tg%40juzibaipiao%E5%81%B7%E8%8A%82%E7%82%B9%E6%AD%BB%E5%90%97#🔒 VL-WS-TLS 🇺🇸 US-66.81.247.16:443 📡 PING-005.11-MS
@@ -604,3 +597,10 @@ trojan://telegram-id-privatevpns@18.175.6.150:22222?security=tls&sni=trojan.burg
 trojan://your_password@52.56.183.187:443?security=tls&sni=aws-uk-london-1.f1rocketnode.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇬🇧 GB-52.56.183.187:443 📡 PING-082.21-MS
 trojan://e16f0b29-bc4e-4ba5-9499-314824d7c8de@172.233.50.248:443?#🔒 TR-TCP-NA 🇳🇱 NL-172.233.50.248:443 📡 PING-083.56-MS
 trojan://telegram-id-directvpn@13.38.154.137:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-13.38.154.137:22222 📡 PING-083.95-MS
+trojan://telegram-id-privatevpns@15.237.68.5:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇫🇷 FR-15.237.68.5:22222 📡 PING-083.97-MS
+trojan://telegram-id-privatevpns@15.188.242.223:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-15.188.242.223:22222 📡 PING-083.97-MS
+trojan://telegram-id-privatevpns@35.181.87.186:22222?security=tls&sni=google.com&type=tcp&alpn=http/1.1&allowInsecure=1#🔒 TR-TCP-TLS 🇫🇷 FR-35.181.87.186:22222 📡 PING-084.01-MS
+trojan://FF45F361-BA08-4E36-DFB9-171D6F8CF228@83.229.82.135:60606?security=tls&sni=nl.stealthtunnel.net&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇳🇱 NL-83.229.82.135:60606 📡 PING-084.40-MS
+trojan://telegram-id-privatevpns@52.47.93.170:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-52.47.93.170:22222 📡 PING-085.59-MS
+trojan://telegram-id-directvpn@44.240.111.57:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-44.240.111.57:22222 📡 PING-086.53-MS
+trojan://0453eb8b-8b3a-42c5-9040-cb1495279898@95.164.68.116:443?security=tls&sni=cdn.appsflyer.com&type=grpc#🔒 TR-GRPC-TLS 🇩🇪 DE-95.164.68.116:443 📡 PING-088.56-MS
