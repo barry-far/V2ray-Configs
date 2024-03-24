@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://247d34ab-ae3f-4871-8251-22d7510c2489@89.117.109.175:13932?security=none&type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NONE 🇬🇧 GB-89.117.109.175:13932 📡 PING-100.25-MS
 vless://863c13c1-cbdb-4281-972f-8f15baed72b7@66.245.196.244:6030?security=none&type=ws#🔒 VL-WS-NONE 🇬🇧 GB-66.245.196.244:6030 📡 PING-100.44-MS
 vless://bc2777aa-7791-4e0a-ad00-8afe7837ff2c@172.233.47.246:47874?security=none&type=grpc#🔒 VL-GRPC-NONE 🇳🇱 NL-172.233.47.246:47874 📡 PING-100.67-MS
 vless://d12b0058-7514-49e4-a717-2bd099a602a8@136.244.100.241:443?security=tls&sni=s1.kinglionir.one&type=grpc&serviceName=443vless#🔒 VL-GRPC-TLS 🇳🇱 NL-136.244.100.241:443 📡 PING-100.84-MS
@@ -603,4 +604,3 @@ vless://b2677a57-f9d6-49ca-84ff-7df7011a67b1@172.83.73.232:8443?security=tls&sni
 vless://ca2d9996-0a16-49d0-b6ca-2d020473dcc2@172.67.201.44:80?security=none&type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg#🔒 VL-WS-NONE 🇺🇸 US-172.67.201.44:80 📡 PING-004.14-MS
 vless://01a7ed92-3ff7-4872-84a8-fcb4757783c7@104.22.10.28:443?security=tls&sni=rsfndc1.freelines.net&type=grpc&serviceName=2sg8k6ktNBzuCJ7tOInMZQZNim&host=rsfndc1.freelines.net&path=2sg8k6ktNBzuCJ7tOInMZQZNim&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.22.10.28:443 📡 PING-004.01-MS
 vless://ca2d9996-0a16-49d0-b6ca-2d020473dcc2@172.67.170.189:80?security=none&type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg#🔒 VL-WS-NONE 🇺🇸 US-172.67.170.189:80 📡 PING-003.78-MS
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.45.2:2087?security=tls&sni=zsf-5fa.pages.dev&type=ws&host=zsf-5fa.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-172.66.45.2:2087 📡 PING-003.72-MS
