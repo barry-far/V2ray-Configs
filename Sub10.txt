@@ -4,6 +4,13 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:5600#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:5600 📡 PING-099.96-MS
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@149.202.82.172:8000#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:8000 📡 PING-099.96-MS
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@51.68.206.229:8080#🔒 SS-TCP-NA 🇬🇧 GB-51.68.206.229:8080 📡 PING-099.99-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.227:8080#🔒 SS-TCP-NA 🇺🇸 US-45.158.171.227:8080 📡 PING-099.99-MS
+ss://YWVzLTI1Ni1nY206UTNqOFYzaklFTmt6czhaRQ==@51.178.206.74:42905#🔒 SS-TCP-NA 🇫🇷 FR-51.178.206.74:42905 📡 PING-099.99-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.212:8080#🔒 SS-TCP-NA 🇺🇸 US-45.158.171.212:8080 📡 PING-100.04-MS
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@51.158.150.168:4444#🔒 SS-TCP-NA 🇫🇷 FR-51.158.150.168:4444 📡 PING-100.69-MS
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@149.202.82.172:7001#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:7001 📡 PING-100.78-MS
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@149.202.82.172:8091#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:8091 📡 PING-100.80-MS
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@51.158.150.210:5498#🔒 SS-TCP-NA 🇫🇷 FR-51.158.150.210:5498 📡 PING-100.86-MS
@@ -597,10 +604,3 @@ vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@172.66.209.117:443/?type=ws&encrypt
 
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@188.114.97.1:443/?type=ws&encryption=none&host=current.ircp.online&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.online&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8C%90%20Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray%20%286%29
 
-vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@103.21.244.5:443/?type=ws&encryption=none&host=current.ircp.online&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.online&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8C%90%20Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray%20%287%29
-
-vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.27.91.235:443/?type=ws&encryption=none&host=current.ircp.online&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.online&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8C%90%20Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray%20%288%29
-
-vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@188.114.97.143:443/?type=ws&encryption=none&host=current.ircp.online&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.online&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8C%90%20Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray%20%289%29
-
-vmess://ewogICAgImFkZCI6ICI4OTU1Lm91dGxpbmUtdnBuLmNsb3VkIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAibGluZGUwNi5pbmRpYXZpZGVvLnNicyIsCiAgICAiaWQiOiAiZWRiYjEwNTktMTYzMy00MjcxLWI2NmUtZWQ0ZmJhNDdhMWJmIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2xpbmt3cyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4+BUkVMQVktMTA0LjIxLjE1LjM2LTAyMjMiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJsaW5kZTA2LmluZGlhdmlkZW8uc2JzIgp9
