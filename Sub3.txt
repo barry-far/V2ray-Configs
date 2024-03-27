@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://629e109d-fb34-48ff-af19-34bd8c5725b0@136.244.117.39:2096?security=none&type=tcp&host=speedtest.net&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇫🇷 FR-136.244.117.39:2096 📡 PING-099.88-MS
 vless://4a87b9b5-bebc-4f07-ac20-4517396f10d0@141.94.115.231:443?security=tls&sni=fr-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇫🇷 FR-141.94.115.231:443 📡 PING-100.24-MS
 vless://c0fa6e21-58ed-48ac-ab93-444a820b3f2e@188.119.112.242:2003?security=tls&sni=nl-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇳🇱 NL-188.119.112.242:2003 📡 PING-100.92-MS
 vless://4a87b9b5-bebc-4f07-ac20-4517396f10d0@141.94.115.231:2003?security=tls&sni=fr-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇫🇷 FR-141.94.115.231:2003 📡 PING-101.11-MS
@@ -604,3 +603,4 @@ vless://4e4e5a66-d757-4cd7-a4dc-47dde85e4180@154.197.75.98:8080?security=none&ty
 vless://bfa53ab9-3ef9-41dc-9c9c-0aa0a45670d7@104.18.200.203:2095?security=none&type=ws&host=f303.xn--gmq282ekfhyys3gs.com.&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.200.203:2095 📡 PING-002.11-MS
 vless://f4cec6cc-6177-423c-90f8-2ad9f0dd996b@104.21.20.148:2096?security=tls&sni=vpnct.arvancode.eu.org&type=ws&host=vpnct.arvancode.eu.org&path=Telegram@SINABIGO%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.20.148:2096 📡 PING-002.10-MS
 vless://aec1f59b-dfd6-448e-a3aa-9f71782c1b70@172.67.132.47:443?security=tls&sni=speed.infinitetdm.com&type=ws&path=%2F&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-172.67.132.47:443 📡 PING-002.10-MS
+vless://7f55b425-a623-439b-bbd5-0b1778162054@172.67.193.36:80?security=none&type=ws&host=V2rayGodVip.xn--oor7hj4iyes9ldmi6b99k5zcm7ge8wfuhdo4cd8m61eqretu4en5hcvkerw.Site.&path=%40V2rayGodVip%3DTelegram%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-172.67.193.36:80 📡 PING-002.10-MS
