@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.64.89.170:443?security=tls&sni=3k.pureboy.eu.org&type=ws&host=3k.pureboy.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-172.64.89.170:443 📡 PING-008.43-MS
-vless://5d597030-946b-4d8a-8029-a11ca16a8fef@162.159.128.233:2053?security=tls&sni=cdn.abatash.store&type=grpc&serviceName=2053vless&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.128.233:2053 📡 PING-008.43-MS
 vless://d3c01de9-57a1-48a8-8712-ca0407efa1e0@172.67.217.61:2082?security=none&type=ws&host=x2ray-team.bigbang87.sbs&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-172.67.217.61:2082 📡 PING-008.43-MS
 vless://ac41fb92-b7a8-4147-a028-51793c64a3ee@104.21.17.94:443?security=tls&sni=PPaL03.pPAl03Tel.WOrKERS.dev&type=ws&host=pPAl03.PpAl03tEL.wORkErS.dEv&path=%2FkEPCq3b5p-_KoW76%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.17.94:443 📡 PING-008.43-MS
 vless://eaa0d1c9-c9b7-4a83-ba61-24c21aadca56@151.101.130.219:80?security=none&type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg#🔒 VL-WS-NONE 🇺🇸 US-151.101.130.219:80 📡 PING-008.43-MS
@@ -604,3 +602,5 @@ ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@149.202.82.172:8000#🔒 SS-TCP-NA
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.68.206.229:8118#🔒 SS-TCP-NA 🇬🇧 GB-51.68.206.229:8118 📡 PING-148.46-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpORGcyWVdJeg==@95.164.35.90:1443#🔒 SS-TCP-NA 🇵🇱 PL-95.164.35.90:1443 📡 PING-149.39-MS
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@217.182.198.219:5000#🔒 SS-TCP-NA 🇩🇪 DE-217.182.198.219:5000 📡 PING-150.46-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpORGcyWVdJeg==@95.164.35.90:8388#🔒 SS-TCP-NA 🇵🇱 PL-95.164.35.90:8388 📡 PING-151.16-MS
+ss://YWVzLTI1Ni1jZmI6S0JHalpZY3k0U3lSU2htQQ==@217.30.10.70:9044#🔒 SS-TCP-NA 🇵🇱 PL-217.30.10.70:9044 📡 PING-151.92-MS
