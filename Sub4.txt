@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://68011e9f-8148-44c4-9832-a29c523ab8fe@88.99.85.0:443?security=reality&sni=fortune.com&type=grpc&fp=chrome&pbk=gkwRWhULbKuhdrYtRpu1THmVeqwj47UZAga3aanYin4&sid=70ce7883#🔒 VL-GRPC-RLT 🇩🇪 DE-88.99.85.0:443 📡 PING-141.57-MS
+vless://ae5aed77-be23-4f6c-bd51-c73745038952@185.142.238.222:8443?security=reality&flow=xtls-rprx-vision&sni=maps.google.com&type=tcp&fp=chrome&pbk=NbtOWq_km9k_SKgCJatXla3Jl7gGKVbjQ-GAtGg4bEk&sid=bfde1c85a6a4112a#🔒 VL-TCP-RLT 🇳🇱 NL-185.142.238.222:8443 📡 PING-143.02-MS
 vless://726c07cf-7f1d-4881-ff60-6f7570849d5b@145.239.202.23:2023?security=reality&flow=xtls-rprx-vision&sni=flutter.dev&type=tcp&fp=chrome&pbk=U8JQJBdz6C3wKU78Kyzi7hGCkDy_3NRie2uh1qwdP2A&sid=fafab539#🔒 VL-TCP-RLT 🇬🇧 GB-145.239.202.23:2023 📡 PING-143.09-MS
 vless://6c877f5e-de88-487f-9c35-3158178a8fdd@45.156.25.214:777?security=reality&flow=xtls-rprx-vision&sni=www.z4car.com&type=tcp&fp=chrome&pbk=qWY8r82gxj_HTKHco58xRRz8FpyZHZqyDVXycgpuynY&sid=d4dbb8#🔒 VL-TCP-RLT 🇷🇺 RU-45.156.25.214:777 📡 PING-145.82-MS
 vless://a09373e2-e120-457d-9ec9-ea7fe8bedb52@185.125.171.13:443?security=reality&flow=xtls-rprx-vision&sni=partner.g2.com&type=tcp&fp=edge&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&alpn=h3,h2,http/1.1#🔒 VL-TCP-RLT 🇳🇴 NO-185.125.171.13:443 📡 PING-148.97-MS
@@ -602,5 +604,3 @@ vless://6894ca9d-6922-4a9a-b60e-69419b01847e@188.114.98.76:443?security=tls&sni=
 vless://075f16a0-94e1-4d28-aeb6-25ada85821bd@172.67.178.254:2087?security=tls&sni=de64.dailybodymind.com&type=grpc&serviceName=de64.dailybodymind.com&fp=chrome#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.178.254:2087 📡 PING-008.89-MS
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@104.21.75.79:443?security=tls&sni=edge.020770.xyz&type=ws&host=edge.020770.xyz&path=%2Fvless%2Fb0138d55-a493-4dc3-9932-c6f0391707c1%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.75.79:443 📡 PING-008.89-MS
 vless://16119723-bc37-4121-bd17-a8aea9be9886@172.66.44.106:8443?security=tls&sni=ahjksdaury9425yaohduiy9gsdr4.pages.dev&type=ws&path=Telegram%40SINABIGO%40SINABIGO%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-172.66.44.106:8443 📡 PING-008.88-MS
-vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@104.21.17.28:443?security=tls&sni=prophetquran20.xyz&type=ws&path=%2Fcurrent_time&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.17.28:443 📡 PING-008.88-MS
-vless://652ea903-8902-4329-89bd-2d29930e2d9d@160.153.0.179:80?security=none&type=ws&host=shhproxy.xn--85-pv2cl2k5x3fipr.org&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-160.153.0.179:80 📡 PING-008.88-MS
