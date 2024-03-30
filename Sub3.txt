@@ -4,9 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://eb308323-6d99-4fbe-83f7-859cfa938ce9@es-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20Vless%20WS%20@V2rayStore
-vless://d2c20844-fa6a-4f40-a0c0-1fca458dde1b@sg-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20WS%20@V2rayStore
-vless://967dcd29-6290-43af-803c-a2c081930a8e@sg2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20WS%20@V2rayStore
 vless://cd37e48f-b356-4bc2-9104-c4ed5b4abe8c@sg3-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20WS%20@V2rayStore
 vless://c0fa6e21-58ed-48ac-ab93-444a820b3f2e@nl-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Vless%20WS%20@V2rayStore
 vless://5f2ce06f-838c-4b5c-93d8-5021e1e3dec2@nl2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Vless%20WS%20@V2rayStore
@@ -604,3 +601,6 @@ vless://e4527384-4f20-4378-95dc-403996f12588@85.159.229.8:2087?security=reality&
 vless://ae5aed77-be23-4f6c-bd51-c73745038952@185.142.238.222:8443?security=reality&flow=xtls-rprx-vision&sni=maps.google.com&type=tcp&fp=chrome&pbk=NbtOWq_km9k_SKgCJatXla3Jl7gGKVbjQ-GAtGg4bEk&sid=bfde1c85a6a4112a#🔒 VL-TCP-RLT 🇳🇱 NL-185.142.238.222:8443 📡 PING-085.19-MS
 vless://d8253715-9664-4c3b-9ecd-e4805c8430f8@37.59.166.156:48576?security=reality&sni=ea.com&type=grpc&fp=chrome&pbk=i-TBCDM3b7W2NE5JavNy7XBTsQwIjYD7qG9VEVfnxjg&sid=b1b454f6#🔒 VL-GRPC-RLT 🇫🇷 FR-37.59.166.156:48576 📡 PING-085.87-MS
 vless://8aea43f9-77a8-4089-9402-428f623cc6f7@45.63.119.42:567?security=reality&sni=kodular.io&type=http&path=%2F&fp=chrome&pbk=L-3BNMN89itwyzSnsv4WihvszKdDONmUN9ewQYDMN1Y&sid=a63e2394f0e08731#🔒 VL-HTTP-RLT 🇩🇪 DE-45.63.119.42:567 📡 PING-089.57-MS
+vless://6c877f5e-de88-487f-9c35-3158178a8fdd@45.156.25.214:777?security=reality&flow=xtls-rprx-vision&sni=www.z4car.com&type=tcp&fp=chrome&pbk=qWY8r82gxj_HTKHco58xRRz8FpyZHZqyDVXycgpuynY&sid=d4dbb8#🔒 VL-TCP-RLT 🇷🇺 RU-45.156.25.214:777 📡 PING-090.88-MS
+vless://2d108394-56db-4523-a8ae-bd7ba6de10cc@167.235.143.177:443?security=reality&sni=upmusics.com&type=grpc&fp=chrome&pbk=Kb87OWrViwqYeR7NV3xg406NRviqZ6d0MdzcGf89qjI&sid=57b65cc1b228c7c1#🔒 VL-GRPC-RLT 🇩🇪 DE-167.235.143.177:443 📡 PING-091.35-MS
+vless://324f2064-d39e-4570-8405-81adcb6d827a@49.13.192.157:5555?security=reality&sni=www.sourceforge.net&type=grpc&fp=randomized&pbk=vHlFJfSPB7t2b3NbFX-YFGB5sD5L6HeUehGBsWO12yY&sid=9d09dee45e5b7a86#🔒 VL-GRPC-RLT 🇩🇪 DE-49.13.192.157:5555 📡 PING-091.46-MS
