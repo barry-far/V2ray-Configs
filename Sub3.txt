@@ -4,9 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://c7c8cc65-a0a1-4d52-8d9f-626915f385b7@us2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Vless%20WS%20@V2rayStore
-vless://93bdbc56-059a-4818-a6b8-f6229c27214e@vn-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fvless#%F0%9F%87%BB%F0%9F%87%B3%20Vietnam%20Vless%20WS%20@V2rayStore
-vless://a6fd1240-d87b-4ea2-bacd-ac329b54bc43@tr-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20Vless%20WS%20@V2rayStore
 vless://4a3a2a49-388c-4263-ba6a-893181d72b62@kz-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20Vless%20WS%20@V2rayStore
 vless://7d5953d8-cd09-4c49-a4ca-6b9210871f95@uk-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20Vless%20WS%20@V2rayStore
 vless://010aac2b-9851-4acf-b2fc-1a420c644ceb@uk2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20Vless%20WS%20@V2rayStore
@@ -604,3 +601,6 @@ trojan://09833a6f-4d46-426e-87fe-7793a5489f84@foreign01.lovehjq.xyz:46521?securi
 trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@108.181.22.161:443?security=tls&sni=glc-us2.windowsupdatea.com&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US-108.181.22.161-0235
 trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@108.181.22.161:443?security=tls&sni=glc-us2.windowsupdatea.com&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US-108.181.22.161-0235
 trojan://pjdnqv@aws-us-dallas-1.f1rocketnode.com:443?security=tls&sni=aws-us-dallas-1.f1rocketnode.com&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US-15.181.201.80-0127
+trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@108.181.24.37:443?security=tls&sni=glc-us1.windowsupdatea.com&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US-108.181.24.37-0090
+trojan://09833a6f-4d46-426e-87fe-7793a5489f84@144.24.87.186:46521?security=tls&sni=lovehjq.xyz&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7KR-144.24.87.186-8278
+trojan://09833a6f-4d46-426e-87fe-7793a5489f84@144.24.87.186:46527?security=tls&sni=lovehjq.xyz&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7KR-144.24.87.186-8279
