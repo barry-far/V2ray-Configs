@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+trojan://telegram-id-directvpn@15.156.32.210:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇨🇦 CA-15.156.32.210:22222 📡 PING-019.49-MS
+trojan://telegram-id-directvpn@99.79.91.58:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇨🇦 CA-99.79.91.58:22222 📡 PING-018.66-MS
 trojan://f6181a66-12ac-43a7-abbe-d3cb8fb4ab7c@172.105.25.249:443?#🔒 TR-TCP-NA 🇨🇦 CA-172.105.25.249:443 📡 PING-016.43-MS
 trojan://telegram-id-directvpn@3.14.211.153:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇺🇸 US-3.14.211.153:22222 📡 PING-013.71-MS
 trojan://telegram-id-directvpn@3.21.30.152:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇺🇸 US-3.21.30.152:22222 📡 PING-012.20-MS
@@ -602,5 +604,3 @@ vless://c3e1ba33-4fcc-45bc-aa87-d4faeb8e761b@www.visa.com:443?alpn=h2%2Chttp%2F1
 vless://--ELiV2RAY-ELiV2RAY--@23.227.60.87:80?host=EliV2ray.naziitness.com.&path=%2F&security=none&type=ws#رایگان | VLESS | @EliV2ray | CA🇨🇦 | 0️⃣7️⃣
 vless://Parsashonam-31@www.speedtest.net:8080?encryption=none&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&path=%2F&security=none&type=ws#رایگان | VLESS | @Parsashonam | CA🇨🇦 | 0️⃣1️⃣
 vless://Parsashonam-28@190.93.247.247:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=mail.offch.blog&path=%2F&security=tls&sni=mail.offch.blog&type=ws#رایگان | VLESS | @Parsashonam | CR🇨🇷 | 0️⃣2️⃣
-vless://Parsashonam-30@www.speedtest.net:8080?encryption=none&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&path=%2F&security=none&type=ws#رایگان | VLESS | @Parsashonam | CA🇨🇦 | 0️⃣3️⃣
-vless://Parsashonam-27@190.93.247.247:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=mail.offch.blog&path=%2F&security=tls&sni=mail.offch.blog&type=ws#رایگان | VLESS | @Parsashonam | CR🇨🇷 | 0️⃣4️⃣
