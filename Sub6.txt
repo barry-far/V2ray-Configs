@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://88aeb18c-37ad-433f-8b1e-cd01d8ea60e0@89.116.250.142:2096?security=tls&sni=fl69.korda.top&type=grpc&serviceName=fl69.korda.top&fp=chrome#🔒 VL-GRPC-TLS 🇱🇹 LT-89.116.250.142:2096 📡 PING-008.50-MS
-vless://5ef01b16-ca53-4516-9d0e-6f9f3e6da0d0@172.64.141.33:2087?security=tls&sni=al.moienmusic.space&type=grpc&serviceName=Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🇺🇸 US-172.64.141.33:2087 📡 PING-008.50-MS
 vless://b404b4e8-9164-4c7e-acbd-ea8ec0aee464@104.21.27.167:2087?security=tls&sni=www.RxV2ray.sbs&type=grpc&serviceName=%40RxV2ray%2C%40RxV2ray%2C%40RxV2ray%2C%40RxV2ray%2C%40RxV2ray%2C%40RxV2ray%2C%40RxV2ray%2C%40RxV2ray%2C%40RxV2ray&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.27.167:2087 📡 PING-008.50-MS
 vless://ffe29e85-7b16-432b-dfda-ca87c0a98320@172.67.178.254:2053?security=tls&sni=de67.dailybodymind.com&type=grpc&serviceName=de67.dailybodymind.com&fp=chrome#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.178.254:2053 📡 PING-008.50-MS
 vless://446bef91-46ec-4feb-b8f1-79a4597b1801@172.67.149.105:443?security=tls&sni=PPal03.ShemAr-cOLlins.workerS.dEv&type=ws&host=ppal03.SHEMAR-COLlIns.WORkeRS.dEv&path=%2FxMf1-J7xXpfxrLnk%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-172.67.149.105:443 📡 PING-008.50-MS
@@ -604,3 +602,5 @@ trojan://79412735-17ed-4e2e-9264-b7738413120e@95.164.46.235:443?#🔒 TR-TCP-NA 
 trojan://acb05e97-0ce2-4ba4-996a-bcd1c1f6b578@192.53.168.192:443?#🔒 TR-TCP-NA 🇦🇺 AU-192.53.168.192:443 📡 PING-151.81-MS
 trojan://telegram-id-privatevpns@16.170.29.172:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp#🔒 TR-TCP-TLS 🇸🇪 SE-16.170.29.172:22222 📡 PING-152.34-MS
 trojan://telegram-id-privatevpns@18.195.25.17:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-18.195.25.17:22222 📡 PING-155.94-MS
+trojan://telegram-id-privatevpns@3.66.182.40:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.66.182.40:22222 📡 PING-156.08-MS
+trojan://telegram-id-directvpn@51.21.59.175:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-51.21.59.175:22222 📡 PING-156.15-MS
