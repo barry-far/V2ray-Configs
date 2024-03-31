@@ -4,370 +4,386 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vmess://eyJhZGQiOiAiMTQ5LjI4LjQ5LjE3NCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMDRiZjMxNGUtZTQwYS00ZDA1LTlmYWEtMGE2YmFkZWQyYTIyIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIyNDY2MyIsICJwcyI6ICJcdWQ4M2RcdWRkMTIgVk0tVENQLU5BIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVUy0xNDkuMjguNDkuMTc0OjI0NjYzIFx1ZDgzZFx1ZGNlMSBQSU5HLTAyOC4wOS1NUyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMtMTA3LjE5MS40Mi4yMDU6NDIyOTAgXHVkODNkXHVkY2UxIFBJTkctMDI4LjA4LU1TIiwgImFkZCI6ICIxMDcuMTkxLjQyLjIwNSIsICJwb3J0IjogIjQyMjkwIiwgImlkIjogIjVmNjI0Y2NhLTVlYmMtNDg3Yi1jNzQwLTNmYTdmOGEwZmRjNSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIn0=
-vmess://eyJhZGQiOiAiNjYuMTM1LjI4LjI1MiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMDY3MDljNDgtOTg0My00OTQwLWE1MzYtY2RmOTA5Mjg1ZWZjIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI0MTQxNCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRkMTIgVk0tVENQLU5BIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVUy02Ni4xMzUuMjguMjUyOjQxNDE0IFx1ZDgzZFx1ZGNlMSBQSU5HLTAyNy45OS1NUyJ9
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMtMTQ5LjI4LjIyNi4yMDI6Mzc5ODUgXHVkODNkXHVkY2UxIFBJTkctMDI3Ljk2LU1TIiwgImFkZCI6ICIxNDkuMjguMjI2LjIwMiIsICJwb3J0IjogMzc5ODUsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJhMzZkNWYwZS1mNTI5LTRjODMtOTI3OS1mNGM0Y2U1NTcwMzEiLCAic25pIjogIiJ9
-vmess://eyJhZGQiOiAiMTQ5LjI4LjIzMy43MyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMzUyOTcwYTMtNDFjMi00ZDU3LTkyNWYtNDUyZDc2YmE2ZDIzIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIyNTQ4NyIsICJwcyI6ICJcdWQ4M2RcdWRkMTIgVk0tVENQLU5BIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVUy0xNDkuMjguMjMzLjczOjI1NDg3IFx1ZDgzZFx1ZGNlMSBQSU5HLTAyNy45My1NUyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMtMTQ5LjI4LjM2LjE2NzozNzY2NCBcdWQ4M2RcdWRjZTEgUElORy0wMjcuNjMtTVMiLCAiYWRkIjogIjE0OS4yOC4zNi4xNjciLCAicG9ydCI6IDM3NjY0LCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiMTE2MjE3ZTMtYmU4Yi00YTExLTgyNmMtYjMyNDc5ZjY3MTY2IiwgInNuaSI6ICIifQ==
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMtMTQ5LjI4LjIzNi40NDo0NzUwNyBcdWQ4M2RcdWRjZTEgUElORy0wMjcuNjEtTVMiLCAiYWRkIjogIjE0OS4yOC4yMzYuNDQiLCAicG9ydCI6IDQ3NTA3LCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiZGQzN2Y2ZGEtMGJlZC00MzQ0LWE4OGEtMTc0NGRjYWNjMjZiIn0=
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMtMTQ5LjI4LjIyNC41MDozMDIxMCBcdWQ4M2RcdWRjZTEgUElORy0wMjcuNTktTVMiLCAiYWRkIjogIjE0OS4yOC4yMjQuNTAiLCAicG9ydCI6ICIzMDIxMCIsICJpZCI6ICI3YTg1YWIzNS0xNDFhLTRjMmMtY2NjMy00ODNhYzdhZDkwMWYiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIiwgImZwIjogIiJ9
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMtMTQwLjgyLjQxLjIwOjI1MDIzIFx1ZDgzZFx1ZGNlMSBQSU5HLTAyNy41OS1NUyIsICJhZGQiOiAiMTQwLjgyLjQxLjIwIiwgInBvcnQiOiAiMjUwMjMiLCAiaWQiOiAiMTMwNjYwNmUtOWRjOC00Yzk5LWZiYjItZDA0NmZjMTdkYzVlIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIifQ==
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMtMTQ5LjI4LjQ2LjI1MjoxODExOCBcdWQ4M2RcdWRjZTEgUElORy0wMjcuNTEtTVMiLCAiYWRkIjogIjE0OS4yOC40Ni4yNTIiLCAicG9ydCI6IDE4MTE4LCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiZTIyMzg3NmQtYWU3MC00ODg5LWY2Y2YtMTUwOTdhMDA4ODg4IiwgInNuaSI6ICIifQ==
-vmess://eyJhZGQiOiAiMTQ5LjI4LjQ5LjI1MSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMTYxMDc1YTktOGU5Zi00NzNhLWUwY2UtN2E1YWU5ZDQ0YTI3IiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIzNjU1MCIsICJwcyI6ICJcdWQ4M2RcdWRkMTIgVk0tVENQLU5BIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVUy0xNDkuMjguNDkuMjUxOjM2NTUwIFx1ZDgzZFx1ZGNlMSBQSU5HLTAyNy41MS1NUyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMtMTQwLjgyLjIuMzQ6MjM2NzAgXHVkODNkXHVkY2UxIFBJTkctMDI3LjQ5LU1TIiwgImFkZCI6ICIxNDAuODIuMi4zNCIsICJwb3J0IjogIjIzNjcwIiwgImlkIjogIjQyM2Y2NDQzLWYxZTktNGU4NC1kODk1LWExNGJhZGM1OWU4OCIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIn0=
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMtNDUuNzcuMTQ2LjU4OjIyMTMxIFx1ZDgzZFx1ZGNlMSBQSU5HLTAyNy40MS1NUyIsICJhZGQiOiAiNDUuNzcuMTQ2LjU4IiwgInBvcnQiOiAiMjIxMzEiLCAiaWQiOiAiYWQ0MmQ1ODYtZGNkMS00NjI5LWQ0OWItYTZmMmQ4MjFhZDM5IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIifQ==
-vmess://eyJhZGQiOiAiMjA3LjE0OC4yMi4xNTIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImY0YmJlNDRmLTUzNWItNDIzNC1iOWYyLTViODhmN2RiYTkwNiIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNTI2ODYiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMtMjA3LjE0OC4yMi4xNTI6NTI2ODYgXHVkODNkXHVkY2UxIFBJTkctMDI3LjM1LU1TIn0=
-vmess://eyJhZGQiOiAiMjA3LjE0OC4zMC42OSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMzY1NTYyNTAtZTY4OS00MDJiLWNjZjktZGQ1YmVmM2I1MmQzIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIyMzIzMCIsICJwcyI6ICJcdWQ4M2RcdWRkMTIgVk0tVENQLU5BIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVUy0yMDcuMTQ4LjMwLjY5OjIzMjMwIFx1ZDgzZFx1ZGNlMSBQSU5HLTAyNy4yOS1NUyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-vmess://eyJhZGQiOiAiMTA3LjE5MS4zNi4xNDgiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjVmNmEzMmEwLTU2MWMtNDQwZS1hNDNlLTMwYjRkODYxYjBlNCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMzg4NDgiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMtMTA3LjE5MS4zNi4xNDg6Mzg4NDggXHVkODNkXHVkY2UxIFBJTkctMDI3LjAzLU1TIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMtMTA4LjYxLjg0LjY6MTU5MzcgXHVkODNkXHVkY2UxIFBJTkctMDI2LjM5LU1TIiwgImFkZCI6ICIxMDguNjEuODQuNiIsICJwb3J0IjogIjE1OTM3IiwgImlkIjogImVmMjM5YzJmLTkxMDUtNGNmOS1jOTljLWI3MGQyNTk4MjM5MCIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIn0=
-vmess://eyJhZGQiOiAiMjMuMjYuNjcuNDAiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImRmMGE5NTViLTkxMzEtNGNmYi05NDVlLTM4MjFjMGFiNzNmMyIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMTQzNDQiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMtMjMuMjYuNjcuNDA6MTQzNDQgXHVkODNkXHVkY2UxIFBJTkctMDI1LjkzLU1TIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
-vmess://eyJhZGQiOiAiMjA1LjIzNC4yMzEuMTM1IiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICJlNTRmNDkwMi1iZDU3LTQyNDEtZWIwNy00ZmEwMTRiZWMwNGQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2Rhc2RmZXIiLCAicG9ydCI6IDU4NzIzLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVdTLU5BIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVUy0yMDUuMjM0LjIzMS4xMzU6NTg3MjMgXHVkODNkXHVkY2UxIFBJTkctMDIzLjM2LU1TIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIn0=
-vmess://eyJhZGQiOiAiMjA1LjIzNC4yMzEuMTQ4IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIyNjA4NzdjOC1lOTcwLTQ0YjUtOTdmZS05ZWYwMDUyMTU4ZDUiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjM1MDAwIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGQxMiBWTS1UQ1AtTkEgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFVTLTIwNS4yMzQuMjMxLjE0ODozNTAwMCBcdWQ4M2RcdWRjZTEgUElORy0wMjMuMjYtTVMifQ==
-vmess://eyJhZGQiOiAiMTA3LjE3Mi4yNS4xMzIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImUyY2ZkNTA0LWI1MWYtNDJhNC1jYzE4LTY2NWY4MmYyNTQ5YyIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMTgxMTciLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMtMTA3LjE3Mi4yNS4xMzI6MTgxMTcgXHVkODNkXHVkY2UxIFBJTkctMDE1LjYzLU1TIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMtMTM3LjIyMC42MS4yMTE6NTE5OTAgXHVkODNkXHVkY2UxIFBJTkctMDE1LjUyLU1TIiwgImFkZCI6ICIxMzcuMjIwLjYxLjIxMSIsICJwb3J0IjogNTE5OTAsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICIwNWRiZDYzMy0xMWNlLTRmOGMtZGI5ZC0wMmViNjBlYjRkYjkiLCAic25pIjogIiJ9
-vmess://eyJhZGQiOiAiMjA3LjE0OC4xMC4yNDgiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjIzMmFlYjFlLTdkNjctNGE5MS05Mzc5LTRkYTFmNDkxNzY5MSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNDc5MTgiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRkMTIgVk0tVENQLU5BIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVUy0yMDcuMTQ4LjEwLjI0ODo0NzkxOCBcdWQ4M2RcdWRjZTEgUElORy0wMTIuMDUtTVMifQ==
-vmess://eyJhZGQiOiAiMTk4LjU3LjI3LjIxMiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIyMjMyNCIsICJwcyI6ICJcdWQ4M2RcdWRkMTIgVk0tVENQLU5BIFx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiBDQS0xOTguNTcuMjcuMjEyOjIyMzI0IFx1ZDgzZFx1ZGNlMSBQSU5HLTAxMS4zOS1NUyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMtMTQ5LjI4LjEyMC4yMTg6MjQ3MjEgXHVkODNkXHVkY2UxIFBJTkctMDA0LjU1LU1TIiwgImFkZCI6ICIxNDkuMjguMTIwLjIxOCIsICJwb3J0IjogMjQ3MjEsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI1MzhmNDVhOC1jZmViLTRjMjktOTkwMy1mOGNjZWM1NzUxNjAiLCAic25pIjogIiJ9
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMtMTQ5LjI4LjExNS4xMTY6MjkyNTMgXHVkODNkXHVkY2UxIFBJTkctMDAyLjc1LU1TIiwgImFkZCI6ICIxNDkuMjguMTE1LjExNiIsICJwb3J0IjogIjI5MjUzIiwgImlkIjogImQwMzZhNmUzLTcwYTItNGM0NS1kYTU3LWZmODQxZjY3YWJjNiIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIn0=
-vmess://eyJhZGQiOiAiMTcyLjY3LjE1MC4xNzMiLCAiYWlkIjogMCwgImhvc3QiOiAidTA0LnRrMzMyMi5jb20iLCAiaWQiOiAiYmZjY2QyYTQtYTQyMS00ZDRmLWY1NjQtYTA4MWY0YTEyZDdlIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi91MDQiLCAicG9ydCI6IDIwNTMsICJwcyI6ICJcdWQ4M2RcdWRkMTIgVk0tV1MtVExTIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVUy0xNzIuNjcuMTUwLjE3MzoyMDUzIFx1ZDgzZFx1ZGNlMSBQSU5HLTAwMi43My1NUyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogInUwNC50azMzMjIuY29tIiwgImFsbG93aW5zZWN1cmUiOiAxfQ==
-vmess://eyJhZGQiOiAiMTQ5LjI4LjEyNy4xNDgiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImViZTdjNzNkLTZhMDEtNDk3OS1kN2RmLTg5NjE1MGNiZjc4NCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNTQxNzMiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMtMTQ5LjI4LjEyNy4xNDg6NTQxNzMgXHVkODNkXHVkY2UxIFBJTkctMDAyLjcwLU1TIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMtNDUuNzYuMTguMTk3OjIwNzAzIFx1ZDgzZFx1ZGNlMSBQSU5HLTAwMi42MS1NUyIsICJhZGQiOiAiNDUuNzYuMTguMTk3IiwgInBvcnQiOiAiMjA3MDMiLCAiaWQiOiAiYWU3MTBiZjMtMjI5YS00ZjMxLWQ5OTAtOTcxYjgzMWM4OTg1IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIifQ==
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMtMTQ5LjI4LjExNC44OjQxMDA5IFx1ZDgzZFx1ZGNlMSBQSU5HLTAwMi40Ny1NUyIsICJhZGQiOiAiMTQ5LjI4LjExNC44IiwgInBvcnQiOiAiNDEwMDkiLCAiaWQiOiAiZjcyMGJhMjUtODNkNi00NGI1LWZlYTEtYjJhNDY2MjNmMjY5IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIifQ==
-vmess://eyJhZGQiOiAiMTA0LjIxLjQ3LjE3MCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJjbG91ZGZsYXJlLmI0YS1kZXZzLm9yZyIsICJpZCI6ICIwYTQwYmNlYi02YTMwLTRkYTItYjkwYi0yYWU1ZWQwMThlOTgiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2Nsb3VkZmxhcmUiLCAicG9ydCI6ICIyMDgzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJjbG91ZGZsYXJlLmI0YS1kZXZzLm9yZyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRkMTIgVk0tV1MtVExTIFx1ZDgzY1x1ZGZmNFx1MjAwZFx1MjYyMFx1ZmUwZiBOQS0xMDQuMjEuNDcuMTcwOjIwODMgXHVkODNkXHVkY2UxIFBJTkctMDAyLjQ2LU1TIn0=
-vmess://eyJhZGQiOiAiMTA0LjIxLjI1LjgiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiaG9zdCI6ICJmcjItdm1lc3Muc3NobWF4Lnh5eiIsICJpZCI6ICIyMjk5OWYwYS0yMGIwLTQ4NWQtYjAwMC1mYTU5NTg2OTQwZjkiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3ZtZXNzIiwgInBvcnQiOiAiMjA5NiIsICJwcyI6ICJcdWQ4M2RcdWRkMTIgVk0tV1MtVExTIFx1ZDgzY1x1ZGZmNFx1MjAwZFx1MjYyMFx1ZmUwZiBOQS0xMDQuMjEuMjUuODoyMDk2IFx1ZDgzZFx1ZGNlMSBQSU5HLTAwMi40MC1NUyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiZnIyLXZtZXNzLnNzaG1heC54eXoiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
-vmess://eyJhZGQiOiAiMTcyLjY3LjcxLjE2MCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJvYmRpaS5jZmQiLCAiaWQiOiAiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVdTLVRMUyBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMtMTcyLjY3LjcxLjE2MDo0NDMgXHVkODNkXHVkY2UxIFBJTkctMDAyLjI4LU1TIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJvYmRpaS5jZmQiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVdTLU5BIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVUy0xNzIuNjcuMjIzLjI0MjoyMDg2IFx1ZDgzZFx1ZGNlMSBQSU5HLTAwMi4xNy1NUyIsICJhZGQiOiAiMTcyLjY3LjIyMy4yNDIiLCAicG9ydCI6ICIyMDg2IiwgImlkIjogIjdkOTNlOTkyLTQ4Y2YtNDJkNC04NGY4LTc1NzY4ZTgxNWE0YyIsICJhaWQiOiAiMCIsICJzY3kiOiBudWxsLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYWRtaW4uYXJ6b25ob3N0LmlyIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAidGVzdF9uYW1lIjogIlVTXHU3ZjhlXHU1NmZkNiJ9
-vmess://eyJhZGQiOiAiMTA0LjIxLjY5LjQ0IiwgImFpZCI6ICIwIiwgImFscG4iOiAiaDIiLCAiZnAiOiAiY2hyb21lIiwgImhvc3QiOiAiIiwgImlkIjogIjYxNmVhZjVkLTcyYjEtNGRjOC04YzU4LWI4MDBiOGQ5ZjhmZSIsICJuZXQiOiAiZ3JwYyIsICJwYXRoIjogIlZQTkhPTUVTIiwgInBvcnQiOiAiODQ0MyIsICJwcyI6ICJcdWQ4M2RcdWRkMTIgVk0tR1JQQy1UTFMgXHVkODNjXHVkZmY0XHUyMDBkXHUyNjIwXHVmZTBmIE5BLTEwNC4yMS42OS40NDo4NDQzIFx1ZDgzZFx1ZGNlMSBQSU5HLTAwMi4wNy1NUyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiZnJhZ21lbnQua2Fyb3AuaG9tZXMiLCAidGxzIjogInRscyIsICJ0eXBlIjogImd1biIsICJ2IjogIjIifQ==
-vmess://eyJhZGQiOiAiMTUxLjEwMS42Ny4xMCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJubXNsLmtwIiwgImlkIjogIjY2Y2NiMTFmLTc1YTctNDI4Mi04YTYwLTMxZmVkNDQ3NDAxZCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvYXJpZXM/ZWQ9MjA0OCIsICJwb3J0IjogIjgwIiwgInBzIjogIlx1ZDgzZFx1ZGQxMiBWTS1XUy1OQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMtMTUxLjEwMS42Ny4xMDo4MCBcdWQ4M2RcdWRjZTEgUElORy0wMDEuODAtTVMiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
-vmess://eyJhZGQiOiAiMTcyLjY3LjEzNi4yNDQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiYmFja2VuZC5hcHAtYnJvd3Nlci5vcmciLCAiaWQiOiAiNTIwYTVmNDUtZDM1NC00MmY0LWE2NTgtMThkYmMzNzU0NjQ1IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9md3MiLCAicG9ydCI6ICIyMDg3IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJiYWNrZW5kLmFwcC1icm93c2VyLm9yZyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRkMTIgVk0tV1MtVExTIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVUy0xNzIuNjcuMTM2LjI0NDoyMDg3IFx1ZDgzZFx1ZGNlMSBQSU5HLTAwMS43Mi1NUyJ9
-vmess://eyJhZGQiOiAiMTA0LjE3LjE5Mi4xMDAiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiaG9zdCI6ICJycG1seWJnenNnMi55b2ZuaGtmYy54eXoiLCAiaWQiOiAiMTdjODJiNDUtZGZmMC00N2JiLTllMGMtMDdlZjA3ZjY3MDA1IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi92aWRlby8zWUtmekd3NCIsICJwb3J0IjogIjIwNTIiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVdTLU5BIFx1ZDgzY1x1ZGZmNFx1MjAwZFx1MjYyMFx1ZmUwZiBOQS0xMDQuMTcuMTkyLjEwMDoyMDUyIFx1ZDgzZFx1ZGNlMSBQSU5HLTAwMS43MC1NUyJ9
-vmess://eyJhZGQiOiAiMTcyLjY3LjE3MC4xMDMiLCAiYWlkIjogMCwgImhvc3QiOiAieWFnaG9vYjU1ZnJlZW5vZGVzLnJlcGFjbzY5NDM3NDAzLndvcmtlcnMuZGV2IiwgImlkIjogIjc2MjIxYmZiLWU5MmYtNGU4MC04MWM1LTZmZTQ4ZjUwYWMwYiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvZ2x3ZWlkZi5zYnMvbGlua3dzIiwgInBvcnQiOiAyMDk1LCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVdTLU5BIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVUy0xNzIuNjcuMTcwLjEwMzoyMDk1IFx1ZDgzZFx1ZGNlMSBQSU5HLTAwMS42OC1NUyIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVdTLU5BIFx1ZDgzY1x1ZGZmNFx1MjAwZFx1MjYyMFx1ZmUwZiBOQS0xNjIuMTU5LjQuODo4MDgwIFx1ZDgzZFx1ZGNlMSBQSU5HLTAwMS41OC1NUyIsICJhZGQiOiAiMTYyLjE1OS40LjgiLCAicG9ydCI6ICI4MDgwIiwgImlkIjogImVmOGM5NTRlLTAxNGYtNGIzNi04MjczLTliNTA4NmFmYWIzNCIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiYmlibGlvZ3JhcGhpYy1zd29yZC1zZXF1ZW5jZS1hZHZlcnRpc2Vycy50cnljbG91ZGZsYXJlLmNvbSIsICJwYXRoIjogImVmOGM5NTRlLTAxNGYtNGIzNi04MjczLTliNTA4NmFmYWIzNC12bSIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAidGVzdF9uYW1lIjogIlVTXHU3ZjhlXHU1NmZkMTgifQ==
-vmess://eyJhZGQiOiAiMTA0LjE3LjEyNy41MCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJ1czRCYjVvU2dKQS5memJxZnJzZS54eXoiLCAiaWQiOiAiNjdkOGIxYjktMWM5Zi00YThiLThkZGMtMGI5ZWMyZGIyZDZjIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi92aWRlby9DdVR5ODd6QXpWLyIsICJwb3J0IjogIjIwODIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVdTLU5BIFx1ZDgzY1x1ZGZmNFx1MjAwZFx1MjYyMFx1ZmUwZiBOQS0xMDQuMTcuMTI3LjUwOjIwODIgXHVkODNkXHVkY2UxIFBJTkctMDAxLjUxLU1TIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
-vmess://eyJhZGQiOiAiMTA0LjIxLjEuMjgiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAidXMtY2NzLnl1amkyMDIyLmV1Lm9yZyIsICJpZCI6ICI0YjVlNDU2NS0zMjJmLTQyMjMtYTg5MS03OGE4NGYxODk3MjYiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL1hTamVnNzNvNlpkc2hlYWhDYjVKRyIsICJwb3J0IjogIjg4ODAiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVdTLU5BIFx1ZDgzY1x1ZGZmNFx1MjAwZFx1MjYyMFx1ZmUwZiBOQS0xMDQuMjEuMS4yODo4ODgwIFx1ZDgzZFx1ZGNlMSBQSU5HLTAwMS40OC1NUyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
-vmess://eyJhZGQiOiAiMTcyLjIzNC4xNy4yMTgiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjcyMzFmNDU4LTM1NTMtNDVjMC04MTY3LWMwNDAwZWM1ZTBjMSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNTM3MzQiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMtMTcyLjIzNC4xNy4yMTg6NTM3MzQgXHVkODNkXHVkY2UxIFBJTkctMDAxLjQ1LU1TIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
-vmess://eyJhZGQiOiAiMTgzLjIzNy4yMC4xNTgiLCAiYWlkIjogIjY0IiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjQxMjQyIiwgInBzIjogIlx1ZDgzZFx1ZGQxMiBWTS1UQ1AtTkEgXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIENOLTE4My4yMzcuMjAuMTU4OjQxMjQyIFx1ZDgzZFx1ZGNlMSBQSU5HLTAwMC4wMC1NUyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
-vmess://eyJhZGQiOiAiMTI3LjAuMC4xIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImJjY2JhYWEtYWNhYi1jYmFhLWFkYmMtY2NjYmJhYWJhYWNiIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6IDgwODAsICJwcyI6ICJcdWQ4M2RcdWRjNjhcdWQ4M2NcdWRmZmJcdTIwMGRcdWQ4M2RcdWRjYmIgREVWRUxPUEVELUJZIFNPUk9VU0gtTUlSWkFFSSBcdWQ4M2RcdWRjY2MgRk9MTE9XLUNPTlRBQ1QgU1lEU1JTTVJaIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
-trojan://abaccab-aabc-cbaa-cadb-bcabbcaacbca@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 MON-13-FARVARDIN-1403 🕑 00:19
-trojan://cbcabaa-baca-acba-dabc-bcabcabcabac@127.0.0.1:2080?security=tls&type=tcp#⚠️ UNDER CONSTRUCTION 🔴 REPORT TECHNICAL ISSUES 🟢 SUGGEST FEATURE ENHANCEMENT
-trojan://af087a9c-39cb-4df6-9099-a652a147149f@192.9.239.232:30018?security=tls&sni=us03.freeflyingcloud.xyz&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-192.9.239.232:30018 📡 PING-052.30-MS
-trojan://telegram-id-directvpn@34.213.191.154:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇺🇸 US-34.213.191.154:22222 📡 PING-070.06-MS
-trojan://telegram-id-directvpn@3.130.146.236:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇺🇸 US-3.130.146.236:22222 📡 PING-080.85-MS
-trojan://telegram-id-directvpn@46.137.40.192:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-46.137.40.192:22222 📡 PING-086.68-MS
-trojan://telegram-id-privatevpns@34.247.97.241:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-34.247.97.241:22222 📡 PING-086.71-MS
-trojan://telegram-id-directvpn@63.34.129.168:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-63.34.129.168:22222 📡 PING-087.10-MS
-trojan://telegram-id-privatevpns@52.210.205.174:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp#🔒 TR-TCP-TLS 🇮🇪 IE-52.210.205.174:22222 📡 PING-087.17-MS
-trojan://telegram-id-privatevpns@54.74.78.193:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-54.74.78.193:22222 📡 PING-087.44-MS
-trojan://48ac328a-d9e7-481c-b749-a0d0d66a749c@198.244.190.189:443?#🔒 TR-TCP-NA 🇬🇧 GB-198.244.190.189:443 📡 PING-093.64-MS
-trojan://64228596-6837-482f-91e6-452734bd3a65@46.101.75.66:443?#🔒 TR-TCP-NA 🇬🇧 GB-46.101.75.66:443 📡 PING-095.49-MS
-trojan://telegram-id-directvpn@13.41.143.151:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇬🇧 GB-13.41.143.151:22222 📡 PING-097.58-MS
-trojan://telegram-id-directvpn@13.41.213.84:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-13.41.213.84:22222 📡 PING-099.19-MS
-trojan://e96f263f-8788-44fa-8bb1-25fb4a8c2a6d@141.94.115.231:443?#🔒 TR-TCP-NA 🇫🇷 FR-141.94.115.231:443 📡 PING-099.93-MS
-trojan://0b6499ea-c60e-436f-b63b-6dae4bf54779@188.119.112.242:443?#🔒 TR-TCP-NA 🇳🇱 NL-188.119.112.242:443 📡 PING-101.02-MS
-trojan://wkmY1R4EcP@78.141.221.194:443?security=tls&sni=z-v2-002750.kailib.com&type=tcp#🔒 TR-TCP-TLS 🇳🇱 NL-78.141.221.194:443 📡 PING-101.19-MS
-trojan://telegram-id-privatevpns@18.169.39.51:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-18.169.39.51:22222 📡 PING-101.28-MS
-trojan://73440da0-ed8d-11ee-873e-1239d0255272@51.210.182.170:443?#🔒 TR-TCP-NA 🇫🇷 FR-51.210.182.170:443 📡 PING-101.78-MS
-trojan://telegram-id-privatevpns@13.36.79.202:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-13.36.79.202:22222 📡 PING-102.52-MS
-trojan://763faeec-72b7-4849-8509-2565993078be@142.93.226.128:443?#🔒 TR-TCP-NA 🇳🇱 NL-142.93.226.128:443 📡 PING-102.54-MS
-trojan://telegram-id-privatevpns@52.47.134.116:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-52.47.134.116:22222 📡 PING-103.13-MS
-trojan://telegram-id-privatevpns@15.237.207.153:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-15.237.207.153:22222 📡 PING-103.77-MS
-trojan://0453eb8b-8b3a-42c5-9040-cb1495279898@95.164.68.116:443?sni=cdn.appsflyer.com&type=grpc#🔒 TR-GRPC-NA 🇩🇪 DE-95.164.68.116:443 📡 PING-105.82-MS
-trojan://fa7f425f-7f66-4994-93ef-7eb05e047d1a@164.90.167.242:443?#🔒 TR-TCP-NA 🇩🇪 DE-164.90.167.242:443 📡 PING-106.12-MS
-trojan://fc1e07b5-840b-4446-8232-94b0606f2e0d@193.70.112.90:443?#🔒 TR-TCP-NA 🇫🇷 FR-193.70.112.90:443 📡 PING-107.36-MS
-trojan://1e92ebcc-d5f4-4eff-a6f8-00f66cf039d1@172.232.62.234:443?#🔒 TR-TCP-NA 🇫🇷 FR-172.232.62.234:443 📡 PING-108.16-MS
-trojan://telegram-id-privatevpns@3.64.167.182:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.64.167.182:22222 📡 PING-108.99-MS
-trojan://telegram-id-privatevpns@18.195.25.17:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-18.195.25.17:22222 📡 PING-109.17-MS
-trojan://telegram-id-directvpn@52.58.109.136:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-52.58.109.136:22222 📡 PING-110.33-MS
-trojan://telegram-id-privatevpns@3.72.136.5:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.72.136.5:22222 📡 PING-110.68-MS
-trojan://895afd17-1136-4ca2-9f8a-246f2c35d5ab@51.75.77.237:443?#🔒 TR-TCP-NA 🇩🇪 DE-51.75.77.237:443 📡 PING-111.14-MS
-trojan://a6292090-afe1-4640-97a7-4f1d1d877cf1@95.179.128.114:443?security=tls&sni=hdfy8d1.cpi1.eu.org&type=grpc&serviceName=8bHUAD5IX0lC5KffvrsN6rqb#🔒 TR-GRPC-TLS 🇳🇱 NL-95.179.128.114:443 📡 PING-113.39-MS
-trojan://0b1371aa-649d-41dc-9126-338c87936500@95.164.33.62:443?sni=sourceforge.net&type=ws&host=se1.trojanvpn.de&path=/websocket#🔒 TR-WS-NA 🇸🇪 SE-95.164.33.62:443 📡 PING-119.63-MS
-trojan://telegram-id-privatevpns@13.49.155.216:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.49.155.216:22222 📡 PING-124.77-MS
-trojan://79412735-17ed-4e2e-9264-b7738413120e@95.164.46.235:443?#🔒 TR-TCP-NA 🇮🇹 IT-95.164.46.235:443 📡 PING-125.30-MS
-trojan://telegram-id-privatevpns@13.53.161.174:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.53.161.174:22222 📡 PING-125.39-MS
-trojan://telegram-id-directvpn@13.49.62.182:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.49.62.182:22222 📡 PING-125.47-MS
-trojan://telegram-id-directvpn@51.21.17.66:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-51.21.17.66:22222 📡 PING-125.51-MS
-trojan://telegram-id-privatevpns@16.16.33.64:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp#🔒 TR-TCP-TLS 🇸🇪 SE-16.16.33.64:22222 📡 PING-125.54-MS
-trojan://f2548fc1-c023-49dc-8030-dbf4888aff69@195.123.213.46:443?#🔒 TR-TCP-NA 🇱🇻 LV-195.123.213.46:443 📡 PING-130.56-MS
-trojan://87f2224c-59b9-4e05-b9d4-7cacd8ff54c3@94.131.117.240:443?#🔒 TR-TCP-NA 🇪🇸 ES-94.131.117.240:443 📡 PING-132.33-MS
-trojan://d0d67bba-a71d-4e3e-8469-1d214198ad34@95.164.116.35:443?#🔒 TR-TCP-NA 🇹🇷 TR-95.164.116.35:443 📡 PING-135.63-MS
-trojan://cadf7475-3388-4cf9-baa2-b07739126a43@45.140.169.83:30002?security=tls&sni=ru01.freeflyingcloud.xyz&type=tcp#🔒 TR-TCP-TLS 🇷🇺 RU-45.140.169.83:30002 📡 PING-142.66-MS
-trojan://3605f0fa-dc88-4b80-8083-b73eb108007e@139.162.112.174:443?#🔒 TR-TCP-NA 🇯🇵 JP-139.162.112.174:443 📡 PING-145.67-MS
-trojan://telegram-id-privatevpns@3.78.57.115:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.78.57.115:22222 📡 PING-159.61-MS
-trojan://telegram-id-privatevpns@3.11.118.97:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-3.11.118.97:22222 📡 PING-160.18-MS
-trojan://telegram-id-privatevpns@35.177.168.209:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-35.177.168.209:22222 📡 PING-160.18-MS
-trojan://telegram-id-privatevpns@18.133.56.223:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp#🔒 TR-TCP-TLS 🇬🇧 GB-18.133.56.223:22222 📡 PING-160.21-MS
-trojan://telegram-id-directvpn@13.36.197.168:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-13.36.197.168:22222 📡 PING-160.23-MS
-trojan://telegram-id-privatevpns@13.51.126.22:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.51.126.22:22222 📡 PING-160.25-MS
-trojan://telegram-id-privatevpns@35.181.187.255:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-35.181.187.255:22222 📡 PING-160.87-MS
-trojan://4844a5e0-1a2e-424d-8718-d9bc561332d8@132.145.82.117:24852?security=tls&sni=kr01.freeflyingcloud.xyz&type=tcp#🔒 TR-TCP-TLS 🇰🇷 KR-132.145.82.117:24852 📡 PING-173.51-MS
-trojan://4d3e7a56-7129-49c9-a1bc-068efde4728a@114.37.139.157:9489?security=tls&sni=b13.ntbq.dynu.net#🔒 TR-TCP-TLS 🇹🇼 TW-114.37.139.157:9489 📡 PING-175.32-MS
-trojan://4d3e7a56-7129-49c9-a1bc-068efde4728a@36.226.146.206:19489?security=tls&sni=b22.ntbq.dynu.net&type=tcp#🔒 TR-TCP-TLS 🇹🇼 TW-36.226.146.206:19489 📡 PING-176.24-MS
-trojan://4d3e7a56-7129-49c9-a1bc-068efde4728a@220.141.143.6:13761?security=tls&sni=ty11t.twty.dynu.net&type=tcp#🔒 TR-TCP-TLS 🇹🇼 TW-220.141.143.6:13761 📡 PING-178.85-MS
-trojan://acb05e97-0ce2-4ba4-996a-bcd1c1f6b578@192.53.168.192:443?#🔒 TR-TCP-NA 🇦🇺 AU-192.53.168.192:443 📡 PING-187.31-MS
-trojan://5eb5bdf9-4a70-4890-b2ca-8b2b79792639@113.52.123.210:10443?sni=macau.hapchung.com#🔒 TR-TCP-NA 🇲🇴 MO-113.52.123.210:10443 📡 PING-194.52-MS
-trojan://sYZmonbPTS@146.190.83.142:39414?security=tls&sni=m.facebook.net&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-146.190.83.142:39414 📡 PING-206.87-MS
-trojan://FdiVDAituq@128.199.193.14:28856?security=none&type=ws&path=%2F#🔒 TR-WS-NONE 🇸🇬 SG-128.199.193.14:28856 📡 PING-207.02-MS
-trojan://AI1pVmFmSK@146.190.83.142:44826?security=tls&sni=m.zoom.us&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-146.190.83.142:44826 📡 PING-207.47-MS
-trojan://0SDimA6Syo@146.190.83.142:41899?security=tls&sni=m.youtube.net&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-146.190.83.142:41899 📡 PING-207.75-MS
-trojan://b3965d2d-3b82-45cc-927b-1336aca3f3fe@139.162.49.215:443?#🔒 TR-TCP-NA 🇸🇬 SG-139.162.49.215:443 📡 PING-208.34-MS
-trojan://aa485bb6-493e-461a-a27d-caff3a10725e@172.104.63.96:443?#🔒 TR-TCP-NA 🇸🇬 SG-172.104.63.96:443 📡 PING-208.34-MS
-trojan://tqkhA8Ziem@146.190.83.142:56226?security=tls&sni=android.googleapis.com&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-146.190.83.142:56226 📡 PING-209.37-MS
-trojan://i43MaExgud@146.190.104.17:443?security=tls&sni=aka.ms&type=ws&path=%2F&alpn=http/1.1#🔒 TR-WS-TLS 🇸🇬 SG-146.190.104.17:443 📡 PING-209.44-MS
-trojan://mSAudEmfwc@146.190.83.142:52977?security=tls&sni=m.instagram.com&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-146.190.83.142:52977 📡 PING-209.60-MS
-trojan://alNcKwdlz3@146.190.83.142:43007?security=tls&sni=static.whatsapp.net&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-146.190.83.142:43007 📡 PING-211.46-MS
-trojan://bc52625d-e3f7-4191-bf89-8db421a96a46@139.162.39.206:443?#🔒 TR-TCP-NA 🇸🇬 SG-139.162.39.206:443 📡 PING-211.77-MS
-trojan://oZAugtgF5T@146.190.87.238:443?security=tls&sni=aka.ms&type=ws&host=aka.ms&path=%2F#🔒 TR-WS-TLS 🇸🇬 SG-146.190.87.238:443 📡 PING-213.85-MS
-trojan://5a92d674-308c-4d95-b283-28383e63a59b@103.9.77.6:443?#🔒 TR-TCP-NA 🇻🇳 VN-103.9.77.6:443 📡 PING-214.67-MS
-trojan://yu7AvNL9rW@212.33.206.111:80?security=none&type=tcp#🔒 TR-TCP-NONE 🇮🇷 IR-212.33.206.111:80 📡 PING-259.03-MS
-trojan://499c3578-7317-4c6f-984b-fa0437cdf8c4@95.164.114.43:443?#🔒 TR-TCP-NA 🇰🇿 KZ-95.164.114.43:443 📡 PING-260.25-MS
-trojan://pjdnqv@15.181.201.80:443?security=tls&sni=aws-us-dallas-1.f1rocketnode.com&type=tcp&fp=chrome#🔒 TR-TCP-TLS 🇺🇸 US-15.181.201.80:443 📡 PING-041.10-MS
-trojan://telegram-id-directvpn@3.134.233.187:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇺🇸 US-3.134.233.187:22222 📡 PING-030.12-MS
-trojan://xxoo@138.197.5.103:443?security=tls&sni=us.blazeppn.info&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-138.197.5.103:443 📡 PING-027.55-MS
-trojan://96bb652f-98cf-4207-aa5f-0eea485f39a9@45.79.9.231:443?#🔒 TR-TCP-NA 🇺🇸 US-45.79.9.231:443 📡 PING-025.95-MS
-trojan://2d2ce807-1584-4601-9716-d0fc2eaf1e64@50.116.21.188:443?#🔒 TR-TCP-NA 🇺🇸 US-50.116.21.188:443 📡 PING-025.81-MS
-trojan://telegram-id-directvpn@15.156.150.188:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇨🇦 CA-15.156.150.188:22222 📡 PING-022.63-MS
-trojan://telegram-id-directvpn@15.156.27.63:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇨🇦 CA-15.156.27.63:22222 📡 PING-021.46-MS
-trojan://f6181a66-12ac-43a7-abbe-d3cb8fb4ab7c@172.105.25.249:443?#🔒 TR-TCP-NA 🇨🇦 CA-172.105.25.249:443 📡 PING-013.50-MS
-trojan://b4e8771997c94732acbc9ec4d19c2589@104.16.159.4:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=6b777a91&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.4:443 📡 PING-009.39-MS
-trojan://4aec4e7f8cf8454ea4613659822e1a61@104.16.159.10:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=6b777a91&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.10:443 📡 PING-003.63-MS
-trojan://e8105dfd24414268b6c7652c63731097@198.41.220.20:443?security=tls&sni=avianrecruit.com&type=ws&host=avianrecruit.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.20:443 📡 PING-003.51-MS
-trojan://559c3b5f-3dd1-47e4-94ad-017cb392a7ba@162.159.133.234:443?security=tls&sni=de1.trojanvpn.de&type=ws&host=de1.trojanvpn.dE&path=/path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.133.234:443 📡 PING-003.08-MS
-trojan://6dCf6Syv1FwpjcAoCB2vfQ@104.21.25.193:2083?security=tls&sni=cdn15.cdn2cdn.com&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.25.193:2083 📡 PING-002.96-MS
-trojan://5019a410-e7f4-11ee-b17a-1239d0255272@172.67.159.13:443?security=tls&sni=fr1.test3.net&type=ws&host=fr1.test3.net&path=%2Fhowdy#🔒 TR-WS-TLS 🇺🇸 US-172.67.159.13:443 📡 PING-002.88-MS
-trojan://241f01b9-8dfc-474f-8342-3fbd5c46417e@172.67.192.61:2087?security=tls&sni=grpcfr.arminhadadi.site&type=grpc&serviceName=grpc#🔒 TR-GRPC-TLS 🇺🇸 US-172.67.192.61:2087 📡 PING-002.74-MS
-trojan://4732adfa16c6450bbef87264e41332db@104.16.192.138:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=6b777a91&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.192.138:443 📡 PING-002.74-MS
-trojan://4732adfa16c6450bbef87264e41332db@104.16.159.7:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=6b777a91&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.7:443 📡 PING-002.69-MS
-trojan://984e400bf5d541b7b0815913fe0c432a@104.19.171.7:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=6b777a91&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.171.7:443 📡 PING-002.65-MS
-trojan://4aec4e7f8cf8454ea4613659822e1a61@104.17.147.8:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=6b777a91&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.8:443 📡 PING-002.64-MS
-trojan://a966a7ae-ac21-472d-be60-7726b724fc5d@172.67.196.164:443?security=tls&sni=erorbpn.arminhadadi.onflashdrive.app&type=grpc&serviceName=grpc#🔒 TR-GRPC-TLS 🇺🇸 US-172.67.196.164:443 📡 PING-002.60-MS
-trojan://a966a7ae-ac21-472d-be60-7726b724fc5d@104.21.68.153:443?security=tls&sni=erorbpn.arminhadadi.onflashdrive.app&type=grpc&serviceName=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.21.68.153:443 📡 PING-002.59-MS
-trojan://qG9K8AGnn9XH5jUqeFu96g@104.16.123.175:2083?security=tls&sni=cdn13.cdn2cdn.com&type=ws&host=cdn13.cdn2cdn.com&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.123.175:2083 📡 PING-002.57-MS
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.16.192.146:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.192.146:443 📡 PING-002.53-MS
-trojan://b0b861c2c85346a389b9e95769c3cba4@104.17.61.8:443?security=tls&sni=jobsapplyworld.com&type=ws&host=jobsapplyworld.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.61.8:443 📡 PING-002.53-MS
-trojan://242a3d8eee5e4ed1a6bfa4141d549a25@198.41.220.2:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=6b777a91&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.2:443 📡 PING-002.42-MS
-trojan://5528de7e9efc37a45714fe24d7c2d7a5d19dc55a1ad162a7372d7595a14e998f@172.67.143.221:443?security=tls&sni=m1.ifixripper.link&type=grpc#🔒 TR-GRPC-TLS 🇺🇸 US-172.67.143.221:443 📡 PING-002.37-MS
-trojan://f0eb8c92ce8946aaba856569cff1a16b@104.16.192.158:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=6b777a91&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.192.158:443 📡 PING-002.35-MS
-trojan://ce8b8b30ebba45f2a38dd608b85e8628@104.16.159.9:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.9:443 📡 PING-002.33-MS
-trojan://1ZTbMoSRnm@104.17.239.159:2083?security=tls&sni=mIkAsa.mEgAfAiR.sToRe&type=grpc&serviceName=/Telegram:@MikasaVPN&fp=firefox&alpn=h3,h2,http/1.1#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.17.239.159:2083 📡 PING-002.33-MS
-trojan://dba20dcb635e430fa4d3bfc303a149d2@104.16.159.3:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=6b777a91&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.3:443 📡 PING-002.25-MS
-trojan://241f01b9-8dfc-474f-8342-3fbd5c46417e@104.21.51.242:2087?security=tls&sni=grpcfr.arminhadadi.site&type=grpc&serviceName=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.21.51.242:2087 📡 PING-002.23-MS
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.17.147.1:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=6b777a91&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.1:443 📡 PING-002.21-MS
-trojan://984e400bf5d541b7b0815913fe0c432a@104.19.171.9:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.171.9:443 📡 PING-002.21-MS
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.17.147.11:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.11:443 📡 PING-002.15-MS
-trojan://5019a410-e7f4-11ee-b17a-1239d0255272@104.21.41.21:443?security=tls&sni=fr1.test3.net&type=ws&host=fr1.test3.net&path=%2Fhowdy#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.41.21:443 📡 PING-002.11-MS
-trojan://dba20dcb635e430fa4d3bfc303a149d2@190.93.246.247:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=6b777a91&fp=chrome#🔒 TR-WS-TLS 🇨🇷 CR-190.93.246.247:443 📡 PING-002.08-MS
-trojan://b17fa17d-13a0-4e8a-a398-8e549ea8b208@23.227.38.11:443?sni=syndication-statutes-wanted-logo.trycloudflare.com&type=ws&path=/argox-tr&allowInsecure=1#🔒 TR-WS-NA 🇨🇦 CA-23.227.38.11:443 📡 PING-002.08-MS
-trojan://b4e8771997c94732acbc9ec4d19c2589@198.41.220.8:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=6b777a91&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.8:443 📡 PING-002.05-MS
-trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.17.215.2:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.215.2:443 📡 PING-002.03-MS
-trojan://b0b861c2c85346a389b9e95769c3cba4@198.41.220.16:443?security=tls&sni=avianrecruit.com&type=ws&host=avianrecruit.com&path=6b777a91&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.16:443 📡 PING-002.01-MS
-trojan://559c3b5f-3dd1-47e4-94ad-017cb392a7ba@104.26.8.202:443?security=tls&sni=de1.trojanvpn.de&type=ws&host=de1.trojanvpn.dE&path=%2Fpath%2FAlfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.8.202:443 📡 PING-001.99-MS
-trojan://4732adfa16c6450bbef87264e41332db@104.17.147.4:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=6b777a91&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.4:443 📡 PING-001.99-MS
-trojan://984e400bf5d541b7b0815913fe0c432a@104.16.159.5:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.5:443 📡 PING-001.94-MS
-trojan://71409d3e488548e8bb076d229778f008@104.17.147.77:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.77:443 📡 PING-001.93-MS
-trojan://f0eb8c92ce8946aaba856569cff1a16b@104.16.192.6:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=6b777a91&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.192.6:443 📡 PING-001.91-MS
-trojan://cb1f26aa437d4bfa9b841d28503ce8cc@198.41.220.5:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.5:443 📡 PING-001.91-MS
-trojan://1ZTbMoSRnm@172.67.10.53:2083?security=tls&sni=mikasa.megafair.store&type=ws&host=mikasa.megafair.store&path=%2F%40MikasaVPN%2F%3Fed%3D2048&fp=firefox&alpn=h3,h2,http/1.1#🔒 TR-WS-TLS 🇺🇸 US-172.67.10.53:2083 📡 PING-001.86-MS
-trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?security=tls&sni=cdn-21.gsmxreality.com&type=grpc&serviceName=443trojan#🔒 TR-GRPC-TLS 🇺🇸 US-172.67.204.84:443 📡 PING-001.86-MS
-trojan://1ZTbMoSRnm@188.42.89.174:2083?security=tls&sni=mIkAsa.mEgAfAiR.sToRe&type=grpc&serviceName=/Telegram:@MikasaVPN&fp=firefox&alpn=h3,h2,http/1.1#🔒 TR-GRPC-TLS 🇱🇺 LU-188.42.89.174:2083 📡 PING-001.84-MS
-trojan://f0eb8c92ce8946aaba856569cff1a16b@104.19.171.3:443?security=tls&sni=sherasheba.com&type=ws&host=sherasheba.com&path=6b777a91&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.171.3:443 📡 PING-001.84-MS
-trojan://01596265-168b-46a7-bcb7-25662c7a9546@188.114.98.0:443?sni=hdfy7c1.foriran2.eu.org&type=grpc&serviceName=fYn1ncaQMA1foaK1hpquM&allowInsecure=1#🔒 TR-GRPC-NA 🇳🇱 NL-188.114.98.0:443 📡 PING-001.77-MS
-trojan://4aec4e7f8cf8454ea4613659822e1a61@104.19.159.144:443?security=tls&sni=avianrecruit.com&type=ws&host=avianrecruit.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.159.144:443 📡 PING-001.76-MS
-trojan://559c3b5f-3dd1-47e4-94ad-017cb392a7ba@162.159.134.234:443?security=tls&sni=de1.trojanvpn.de&type=ws&host=de1.trojanvpn.dE&path=/path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.134.234:443 📡 PING-001.74-MS
-trojan://6d0a8340-e07e-11ee-ab83-1239d0255272@104.21.69.44:443?security=tls&sni=us1.test3.net&type=ws&host=us1.test3.net&path=%2Fhowdy#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.69.44:443 📡 PING-001.73-MS
-trojan://1ZTbMoSRnm@185.146.173.59:2083?security=tls&sni=mIkAsa.mEgAfAiR.sToRe&type=grpc&serviceName=/Telegram:@MikasaVPN&fp=firefox&alpn=h3,h2,http/1.1#🔒 TR-GRPC-TLS 🇸🇪 SE-185.146.173.59:2083 📡 PING-001.72-MS
-trojan://242a3d8eee5e4ed1a6bfa4141d549a25@198.41.220.12:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=6b777a91&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.12:443 📡 PING-001.70-MS
-trojan://2cba4104747d49d18319e5ade1b93ab5@198.41.220.10:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.10:443 📡 PING-001.62-MS
-trojan://cb1f26aa437d4bfa9b841d28503ce8cc@104.16.159.2:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=6b777a91&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.2:443 📡 PING-001.62-MS
-trojan://bccbaaa-acab-cbaa-adbc-cccbbaabaacb@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
-ss://bm9uZTphYmFjY2FiLWFhYmMtY2JhYS1jYWRiLWJjYWJiY2FhY2JjYQ==@127.0.0.1:1080#🔄 LATEST-UPDATE 📅 MON-13-FARVARDIN-1403 🕑 00:19
-ss://bm9uZTpjYmNhYmFhLWJhY2EtYWNiYS1kYWJjLWJjYWJjYWJjYWJhYw==@127.0.0.1:2080#⚠️ UNDER CONSTRUCTION 🔴 REPORT TECHNICAL ISSUES 🟢 SUGGEST FEATURE ENHANCEMENT
-ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@204.44.108.234:16899#🔒 SS-TCP-NA 🇺🇸 US-204.44.108.234:16899 📡 PING-050.28-MS
-ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@45.154.3.165:16899#🔒 SS-TCP-NA 🇺🇸 US-45.154.3.165:16899 📡 PING-050.50-MS
-ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@137.175.66.154:16899#🔒 SS-TCP-NA 🇺🇸 US-137.175.66.154:16899 📡 PING-050.57-MS
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.143:4444#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.143:4444 📡 PING-050.99-MS
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@67.220.86.148:8000#🔒 SS-TCP-NA 🇺🇸 US-67.220.86.148:8000 📡 PING-051.36-MS
-ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@104.168.43.243:16899#🔒 SS-TCP-NA 🇺🇸 US-104.168.43.243:16899 📡 PING-051.37-MS
-ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@38.54.94.191:16899#🔒 SS-TCP-NA 🇺🇸 US-38.54.94.191:16899 📡 PING-051.40-MS
-ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@45.152.84.131:16899#🔒 SS-TCP-NA 🇺🇸 US-45.152.84.131:16899 📡 PING-051.53-MS
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@67.220.86.72:8882#🔒 SS-TCP-NA 🇺🇸 US-67.220.86.72:8882 📡 PING-051.59-MS
-ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@174.136.205.47:16899#🔒 SS-TCP-NA 🇺🇸 US-174.136.205.47:16899 📡 PING-052.20-MS
-ss://YWVzLTI1Ni1nY206RHVFNkdwbGFhcA==@24.199.103.101:35678#🔒 SS-TCP-NA 🇺🇸 US-24.199.103.101:35678 📡 PING-052.21-MS
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@169.197.142.216:6679#🔒 SS-TCP-NA 🇺🇸 US-169.197.142.216:6679 📡 PING-053.46-MS
-ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@154.44.0.232:16899#🔒 SS-TCP-NA 🇺🇸 US-154.44.0.232:16899 📡 PING-054.39-MS
-ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@192.3.251.156:16899#🔒 SS-TCP-NA 🇺🇸 US-192.3.251.156:16899 📡 PING-054.87-MS
-ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@107.174.11.85:16899#🔒 SS-TCP-NA 🇺🇸 US-107.174.11.85:16899 📡 PING-054.87-MS
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.186.125.168:443#🔒 SS-TCP-NA 🇺🇸 US-54.186.125.168:443 📡 PING-059.73-MS
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.245.36.10:443#🔒 SS-TCP-NA 🇺🇸 US-54.245.36.10:443 📡 PING-069.11-MS
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@138.186.142.4:989#🔒 SS-TCP-NA 🇵🇦 PA-138.186.142.4:989 📡 PING-084.46-MS
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@23.92.127.134:989#🔒 SS-TCP-NA 🇮🇪 IE-23.92.127.134:989 📡 PING-087.48-MS
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@23.92.127.133:989#🔒 SS-TCP-NA 🇮🇪 IE-23.92.127.133:989 📡 PING-087.56-MS
-ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@104.234.69.244:16899#🔒 SS-TCP-NA 🇨🇦 CA-104.234.69.244:16899 📡 PING-089.50-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6T3dXYVdRQWtveUk5a3pMUEJqcE9o@149.248.76.129:28824#🔒 SS-TCP-NA 🇺🇸 US-149.248.76.129:28824 📡 PING-092.67-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLM2Zzc3cyR0ZVcVR3anQ0SGxzV2p2@51.140.34.50:35276#🔒 SS-TCP-NA 🇬🇧 GB-51.140.34.50:35276 📡 PING-092.78-MS
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.68.206.229:8118#🔒 SS-TCP-NA 🇬🇧 GB-51.68.206.229:8118 📡 PING-094.36-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@52.56.201.59:443#🔒 SS-TCP-NA 🇬🇧 GB-52.56.201.59:443 📡 PING-096.88-MS
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@51.68.206.229:8080#🔒 SS-TCP-NA 🇬🇧 GB-51.68.206.229:8080 📡 PING-097.67-MS
-ss://YWVzLTI1Ni1nY206S2tEelkxMDFPZQ==@51.195.149.115:45816#🔒 SS-TCP-NA 🇫🇷 FR-51.195.149.115:45816 📡 PING-098.45-MS
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@149.202.82.172:9102#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:9102 📡 PING-098.62-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQkVCalhVNlNrMFVLNFQ2@3.11.154.255:443#🔒 SS-TCP-NA 🇬🇧 GB-3.11.154.255:443 📡 PING-099.28-MS
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@149.202.82.172:8009#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:8009 📡 PING-100.00-MS
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@149.202.82.172:5003#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:5003 📡 PING-100.16-MS
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@51.158.150.210:5498#🔒 SS-TCP-NA 🇫🇷 FR-51.158.150.210:5498 📡 PING-100.61-MS
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#🔒 SS-TCP-NA 🇳🇱 NL-109.201.152.181:443 📡 PING-100.79-MS
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:3389#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:3389 📡 PING-100.82-MS
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@149.202.82.172:443#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:443 📡 PING-101.24-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptSlJCbjFid0VyMXlBblo3dTBNS2dn@92.243.27.51:9802#🔒 SS-TCP-NA 🇫🇷 FR-92.243.27.51:9802 📡 PING-101.73-MS
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@149.202.82.172:8119#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:8119 📡 PING-102.69-MS
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@149.202.82.172:8091#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:8091 📡 PING-103.07-MS
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@149.202.82.172:8000#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:8000 📡 PING-103.26-MS
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@149.202.82.172:4444#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:4444 📡 PING-104.02-MS
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@149.202.82.172:5500#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:5500 📡 PING-104.05-MS
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.235.55.42:989#🔒 SS-TCP-NA 🇮🇲 IM-37.235.55.42:989 📡 PING-104.18-MS
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@217.182.198.219:2375#🔒 SS-TCP-NA 🇩🇪 DE-217.182.198.219:2375 📡 PING-104.92-MS
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@217.182.198.219:3306#🔒 SS-TCP-NA 🇩🇪 DE-217.182.198.219:3306 📡 PING-105.47-MS
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@217.182.198.219:3389#🔒 SS-TCP-NA 🇩🇪 DE-217.182.198.219:3389 📡 PING-105.58-MS
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:5600#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:5600 📡 PING-105.94-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZjhqZE9JS2t4UldNVWVPZlhQZW84@109.107.172.30:28190#🔒 SS-TCP-NA 🇳🇱 NL-109.107.172.30:28190 📡 PING-106.28-MS
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@217.182.198.219:2376#🔒 SS-TCP-NA 🇩🇪 DE-217.182.198.219:2376 📡 PING-106.54-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQjFPdXpFcXFSbVdESlZ5akNDMVNEVkRRcUh6MlFHNFJ4dTlMdFFrajg4PQ==@3.121.216.213:2087#🔒 SS-TCP-NA 🇩🇪 DE-3.121.216.213:2087 📡 PING-106.75-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0ZXN0@188.64.62.202:17598#🔒 SS-TCP-NA 🇩🇪 DE-188.64.62.202:17598 📡 PING-108.02-MS
-ss://YWVzLTEyOC1nY206VGVsZWdyYW06QFpFRE1PREVPTg==@116.203.145.67:2096#🔒 SS-TCP-NA 🇩🇪 DE-116.203.145.67:2096 📡 PING-108.40-MS
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@217.182.198.219:5000#🔒 SS-TCP-NA 🇩🇪 DE-217.182.198.219:5000 📡 PING-109.06-MS
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@77.72.5.150:989#🔒 SS-TCP-NA 🇬🇧 GB-77.72.5.150:989 📡 PING-111.06-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.178.87.37:805#🔒 SS-TCP-NA 🇫🇷 FR-51.178.87.37:805 📡 PING-111.27-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOR1F6TXpReg==@94.131.111.32:8388#🔒 SS-TCP-NA 🇩🇪 DE-94.131.111.32:8388 📡 PING-111.47-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVeG00QUR3ZnRLZFhxNXFSQTRaZkhT@49.13.10.50:1194#🔒 SS-TCP-NA 🇩🇪 DE-49.13.10.50:1194 📡 PING-111.56-MS
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@156.146.62.160:443#🔒 SS-TCP-NA 🇨🇭 CH-156.146.62.160:443 📡 PING-113.88-MS
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@77.72.5.113:989#🔒 SS-TCP-NA 🇬🇧 GB-77.72.5.113:989 📡 PING-114.73-MS
-ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@5.188.181.201:9041#🔒 SS-TCP-NA 🇪🇸 ES-5.188.181.201:9041 📡 PING-115.09-MS
-ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@5.188.181.201:9037#🔒 SS-TCP-NA 🇪🇸 ES-5.188.181.201:9037 📡 PING-116.54-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0cFdWYklWSXV3NExLOXd2TWdjSFc1@193.228.128.143:27981#🔒 SS-TCP-NA 🇪🇪 EE-193.228.128.143:27981 📡 PING-116.93-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOQzdqT1JWTnJydVYvKzMrUHdPSnJubk9lRzduNzVYMQ==@89.19.216.18:8388#🔒 SS-TCP-NA 🇳🇱 NL-89.19.216.18:8388 📡 PING-119.64-MS
-ss://YWVzLTI1Ni1jZmI6S0JHalpZY3k0U3lSU2htQQ==@217.30.10.70:9044#🔒 SS-TCP-NA 🇵🇱 PL-217.30.10.70:9044 📡 PING-121.66-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpORGcyWVdJeg==@95.164.35.90:1443#🔒 SS-TCP-NA 🇵🇱 PL-95.164.35.90:1443 📡 PING-121.82-MS
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@54.36.174.181:5000#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:5000 📡 PING-122.21-MS
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:5000#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:5000 📡 PING-122.67-MS
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@54.36.174.181:8080#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:8080 📡 PING-122.75-MS
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@54.36.174.181:8118#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:8118 📡 PING-122.76-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUMFRJbDhBVzBPOTBvTFNsU2FYNzRG@193.17.183.40:65492#🔒 SS-TCP-NA 🇪🇸 ES-193.17.183.40:65492 📡 PING-123.07-MS
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#🔒 SS-TCP-NA 🇸🇪 SE-121.127.46.147:989 📡 PING-123.48-MS
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@54.36.174.181:5500#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:5500 📡 PING-124.56-MS
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@54.36.174.181:5003#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:5003 📡 PING-124.62-MS
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@54.36.174.181:8881#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:8881 📡 PING-124.65-MS
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@54.36.174.181:6679#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:6679 📡 PING-125.09-MS
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@54.36.174.181:5601#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:5601 📡 PING-125.22-MS
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@54.36.174.181:6697#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:6697 📡 PING-125.65-MS
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@54.36.174.181:8882#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:8882 📡 PING-126.33-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVVUV4Z0ptNWRxdXlJYVRTS3VxeWg4@46.29.234.164:8670#🔒 SS-TCP-NA 🇱🇹 LT-46.29.234.164:8670 📡 PING-126.76-MS
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@51.77.53.200:9101#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:9101 📡 PING-127.92-MS
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@54.36.174.181:9101#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:9101 📡 PING-128.25-MS
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.90.61.153:989#🔒 SS-TCP-NA 🇳🇴 NO-185.90.61.153:989 📡 PING-131.00-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVWG9HV3lqd0RWWklsMVdNdUh0eFNp@139.28.220.18:5700#🔒 SS-TCP-NA 🇫🇮 FI-139.28.220.18:5700 📡 PING-131.07-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYN2VvRUJyQVJXc0JVaVZmY2hWRWRI@185.77.217.121:443#🔒 SS-TCP-NA 🇫🇮 FI-185.77.217.121:443 📡 PING-131.49-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjSjZEdUhsM2dEbXpMWjJXNDN5MldV@212.113.106.76:61992#🔒 SS-TCP-NA 🇦🇹 AT-212.113.106.76:61992 📡 PING-131.98-MS
-ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@213.183.63.69:9025#🔒 SS-TCP-NA 🇧🇬 BG-213.183.63.69:9025 📡 PING-132.42-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNbVF4WVRabQ==@91.194.161.7:8388#🔒 SS-TCP-NA 🇮🇸 IS-91.194.161.7:8388 📡 PING-134.53-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3NWRyQUw3UGZDSXdRMnljVXVvRHNWMkxz@212.113.106.243:13022#🔒 SS-TCP-NA 🇦🇹 AT-212.113.106.243:13022 📡 PING-136.44-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsckpWWUhDaVpBM1ZkUmNrRVdRblNn@109.107.189.185:17397#🔒 SS-TCP-NA 🇷🇺 RU-109.107.189.185:17397 📡 PING-137.54-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoVUw5Rm1FR0JwVkJjdnF1REhaaENw@195.2.76.71:60422#🔒 SS-TCP-NA 🇷🇺 RU-195.2.76.71:60422 📡 PING-139.45-MS
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.164.35.9:989#🔒 SS-TCP-NA 🇧🇦 BA-185.164.35.9:989 📡 PING-140.38-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5c2gxMXR1MjNpNFJiUDljYVVNZ0ZU@65.108.142.67:47146#🔒 SS-TCP-NA 🇫🇮 FI-65.108.142.67:47146 📡 PING-140.98-MS
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@31.171.153.181:989#🔒 SS-TCP-NA 🇦🇱 AL-31.171.153.181:989 📡 PING-141.81-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFZ2c3MllXZE9sYVpRSHZOQ2E2cFRzdzBUZGs4L1B5RHZQSUgwc2tkN1N3PQ==@3.66.227.110:2087#🔒 SS-TCP-NA 🇩🇪 DE-3.66.227.110:2087 📡 PING-142.11-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZmJlYjY2OGY0ODQxNGY2@45.139.24.63:57456#🔒 SS-TCP-NA 🇷🇺 RU-45.139.24.63:57456 📡 PING-142.59-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRcDQxbEoxT0JmY0Y0YVRSS29Ma1JV@195.2.85.32:56901#🔒 SS-TCP-NA 🇷🇺 RU-195.2.85.32:56901 📡 PING-142.96-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:811#🔒 SS-TCP-NA 🇯🇵 JP-185.172.113.182:811 📡 PING-143.32-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MzVkMjFiMC01MzIyLTRhNzctOGFmZi00YWZmNjMzNjQyYjA=@103.106.228.152:61001#🔒 SS-TCP-NA 🇯🇵 JP-103.106.228.152:61001 📡 PING-143.49-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:800#🔒 SS-TCP-NA 🇯🇵 JP-185.172.113.182:800 📡 PING-143.51-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:810#🔒 SS-TCP-NA 🇯🇵 JP-185.172.113.182:810 📡 PING-143.52-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzOFgxVWlqV3NFU2ZBYk5PU1dhOTRv@89.187.28.20:443#🔒 SS-TCP-NA 🇯🇵 JP-89.187.28.20:443 📡 PING-143.81-MS
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.183.180.49:443#🔒 SS-TCP-NA 🇯🇵 JP-18.183.180.49:443 📡 PING-144.01-MS
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.195.10.194:443#🔒 SS-TCP-NA 🇯🇵 JP-52.195.10.194:443 📡 PING-144.58-MS
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.183.228.15:443#🔒 SS-TCP-NA 🇯🇵 JP-18.183.228.15:443 📡 PING-144.69-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:812#🔒 SS-TCP-NA 🇯🇵 JP-185.172.113.182:812 📡 PING-145.55-MS
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.77.89.124:443#🔒 SS-TCP-NA 🇯🇵 JP-35.77.89.124:443 📡 PING-146.00-MS
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.249.1.223:443#🔒 SS-TCP-NA 🇯🇵 JP-54.249.1.223:443 📡 PING-146.11-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:801#🔒 SS-TCP-NA 🇯🇵 JP-185.172.113.182:801 📡 PING-146.12-MS
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.177.138.167:443#🔒 SS-TCP-NA 🇯🇵 JP-18.177.138.167:443 📡 PING-146.19-MS
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.112.216.180:443#🔒 SS-TCP-NA 🇯🇵 JP-13.112.216.180:443 📡 PING-146.75-MS
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.72.14.217:443#🔒 SS-TCP-NA 🇯🇵 JP-35.72.14.217:443 📡 PING-146.77-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4ampIaGhXeXlJUUFsMVdIV2t6ZHhs@176.123.1.241:8576#🔒 SS-TCP-NA 🇲🇩 MD-176.123.1.241:8576 📡 PING-146.98-MS
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.115.234.77:443#🔒 SS-TCP-NA 🇯🇵 JP-13.115.234.77:443 📡 PING-147.57-MS
-ss://YWVzLTI1Ni1nY206ZlZkb3Z2S0JsQzA2cE83cw==@195.20.17.224:34282#🔒 SS-TCP-NA 🇮🇱 IL-195.20.17.224:34282 📡 PING-153.75-MS
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.112.241.19:443#🔒 SS-TCP-NA 🇯🇵 JP-3.112.241.19:443 📡 PING-154.93-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJZnRVaWlLaGtqSzlaQ3Rwc3RnRG16@147.45.49.6:36997#🔒 SS-TCP-NA 🇷🇺 RU-147.45.49.6:36997 📡 PING-155.13-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvZExsSUphKy83TlZxWWhVTGl3NGVBZ3R5RHBVUWpyMWxYZ0wxMDY3TmpZPQ==@35.158.250.132:2087#🔒 SS-TCP-NA 🇩🇪 DE-35.158.250.132:2087 📡 PING-159.04-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEbU1RVW1JN3BnUURucldxTFhDMDBM@94.228.165.234:15214#🔒 SS-TCP-NA 🇵🇱 PL-94.228.165.234:15214 📡 PING-167.04-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpadTVzVmRoUElUa0lJMVJmOWJVVGp0MHdzMW5rczR2Z0JvSGhlN1F4d0VrMGozQWk=@146.185.198.44:51348#🔒 SS-TCP-NA 🇷🇺 RU-146.185.198.44:51348 📡 PING-172.55-MS
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.125.19.50:443#🔒 SS-TCP-NA 🇰🇷 KR-13.125.19.50:443 📡 PING-172.91-MS
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.34.200.94:443#🔒 SS-TCP-NA 🇰🇷 KR-3.34.200.94:443 📡 PING-174.00-MS
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.180.156.133:443#🔒 SS-TCP-NA 🇰🇷 KR-54.180.156.133:443 📡 PING-174.09-MS
-ss://YWVzLTEyOC1nY206Q2F0dWx1czExRA==@188.253.6.232:50000#🔒 SS-TCP-NA 🇹🇼 TW-188.253.6.232:50000 📡 PING-177.29-MS
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.120.231.45:989#🔒 SS-TCP-NA 🇨🇴 CO-190.120.231.45:989 📡 PING-178.95-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMGI1Wm9FUm96S0c0ZHIwVmEzRFhiQ1VVUXh1VUJqSVo5RjgwcXFJdmYwPQ==@186.233.118.171:5600#🔒 SS-TCP-NA 🇧🇷 BR-186.233.118.171:5600 📡 PING-183.17-MS
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.103.176.29:989#🔒 SS-TCP-NA 🇦🇷 AR-190.103.176.29:989 📡 PING-194.97-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplSTBTaEFnWHA2STdNVmVRMnVmMTQ4@188.94.155.82:35152#🔒 SS-TCP-NA 🇰🇿 KZ-188.94.155.82:35152 📡 PING-195.16-MS
-ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA==@103.172.116.79:9064#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9064 📡 PING-207.52-MS
-ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA==@103.172.116.103:9064#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9064 📡 PING-207.76-MS
-ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ==@103.172.116.103:9006#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9006 📡 PING-207.76-MS
-ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@103.172.116.79:9041#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9041 📡 PING-207.80-MS
-ss://YWVzLTI1Ni1jZmI6S0JHalpZY3k0U3lSU2htQQ==@103.172.116.79:9044#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9044 📡 PING-209.92-MS
-ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA==@103.172.116.79:9027#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9027 📡 PING-209.97-MS
-ss://YWVzLTI1Ni1jZmI6VlA4WlB4UXBKdFpSQ2pmWg==@103.172.116.79:9080#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9080 📡 PING-210.21-MS
-ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ==@103.172.116.79:9000#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9000 📡 PING-210.45-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxcTdSTkthSWsyd1lPOGZFUG1FWDB2V1E3VmErUVJUQQ==@91.192.81.21:8388#🔒 SS-TCP-NA 🇸🇬 SG-91.192.81.21:8388 📡 PING-212.97-MS
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@47.129.9.69:443#🔒 SS-TCP-NA 🇸🇬 SG-47.129.9.69:443 📡 PING-216.08-MS
-ss://YWVzLTI1Ni1jZmI6ZjhucEtnTnpka3NzMnl0bg==@103.172.116.79:9088#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9088 📡 PING-220.73-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYV2o1RjVNYmxxRThWTFRzVk9xbTY0@65.20.78.250:37262#🔒 SS-TCP-NA 🇮🇳 IN-65.20.78.250:37262 📡 PING-225.20-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5Tkp1Z2tTZTZ5b1BGSmlTNGR2TFJSZzA3SzkySkV2QUpTUmZMcjc1Vkh4ZDdLTTU=@209.182.232.30:51348#🔒 SS-TCP-NA 🇮🇳 IN-209.182.232.30:51348 📡 PING-228.44-MS
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@41.203.4.34:989#🔒 SS-TCP-NA 🇿🇦 ZA-41.203.4.34:989 📡 PING-233.32-MS
-ss://YWVzLTI1Ni1nY206cTA2Q2JraFZYeDdYVnYwRA==@95.164.19.233:17038#🔒 SS-TCP-NA 🇰🇿 KZ-95.164.19.233:17038 📡 PING-233.55-MS
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@74.121.191.98:989#🔒 SS-TCP-NA 🇺🇸 US-74.121.191.98:989 📡 PING-049.55-MS
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.75.136.33:6697#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.33:6697 📡 PING-048.41-MS
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.114.114.225:2375#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.225:2375 📡 PING-048.21-MS
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.75.137.105:8090#🔒 SS-TCP-NA 🇺🇸 US-38.75.137.105:8090 📡 PING-048.14-MS
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.75.136.33:8882#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.33:8882 📡 PING-048.13-MS
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.75.136.33:6379#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.33:6379 📡 PING-048.13-MS
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.75.136.135:7001#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.135:7001 📡 PING-048.11-MS
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.143:443#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.143:443 📡 PING-048.05-MS
-ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@103.114.161.86:16899#🔒 SS-TCP-NA 🇺🇸 US-103.114.161.86:16899 📡 PING-047.84-MS
-ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@204.93.162.143:16899#🔒 SS-TCP-NA 🇺🇸 US-204.93.162.143:16899 📡 PING-047.48-MS
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.75.136.108:8091#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.108:8091 📡 PING-047.48-MS
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.75.137.164:2375#🔒 SS-TCP-NA 🇺🇸 US-38.75.137.164:2375 📡 PING-047.38-MS
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.75.136.108:2375#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.108:2375 📡 PING-047.32-MS
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.75.136.108:7306#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.108:7306 📡 PING-047.31-MS
-ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@104.194.74.199:16899#🔒 SS-TCP-NA 🇺🇸 US-104.194.74.199:16899 📡 PING-047.30-MS
-ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@204.93.164.95:16899#🔒 SS-TCP-NA 🇺🇸 US-204.93.164.95:16899 📡 PING-047.27-MS
-ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@204.93.164.187:16899#🔒 SS-TCP-NA 🇺🇸 US-204.93.164.187:16899 📡 PING-047.08-MS
-ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@204.93.164.41:16899#🔒 SS-TCP-NA 🇺🇸 US-204.93.164.41:16899 📡 PING-047.04-MS
-ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@172.245.205.50:16899#🔒 SS-TCP-NA 🇺🇸 US-172.245.205.50:16899 📡 PING-034.17-MS
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.107.226.132:5003#🔒 SS-TCP-NA 🇺🇸 US-38.107.226.132:5003 📡 PING-032.05-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZmJlYjY2OGY0ODQxNGY2@104.167.197.23:57456#🔒 SS-TCP-NA 🇺🇸 US-104.167.197.23:57456 📡 PING-031.91-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2elIzc0JZSktJVEVuZUdqZ3ZpN1Zs@23.26.133.154:443#🔒 SS-TCP-NA 🇺🇸 US-23.26.133.154:443 📡 PING-030.86-MS
-ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@45.77.223.124:16899#🔒 SS-TCP-NA 🇺🇸 US-45.77.223.124:16899 📡 PING-029.82-MS
-ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@45.63.10.69:16899#🔒 SS-TCP-NA 🇺🇸 US-45.63.10.69:16899 📡 PING-028.47-MS
-ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@66.135.11.73:16899#🔒 SS-TCP-NA 🇺🇸 US-66.135.11.73:16899 📡 PING-028.17-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiU0RkNXJUZnJlWWpHUlRPY2k3bTlB@157.245.15.16:1012#🔒 SS-TCP-NA 🇺🇸 US-157.245.15.16:1012 📡 PING-027.47-MS
-ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@66.135.21.20:16899#🔒 SS-TCP-NA 🇺🇸 US-66.135.21.20:16899 📡 PING-027.42-MS
-ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@144.202.2.250:16899#🔒 SS-TCP-NA 🇺🇸 US-144.202.2.250:16899 📡 PING-027.01-MS
-ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@172.245.205.50:30129#🔒 SS-TCP-NA 🇺🇸 US-172.245.205.50:30129 📡 PING-026.73-MS
-ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@157.254.231.189:16899#🔒 SS-TCP-NA 🇺🇸 US-157.254.231.189:16899 📡 PING-026.34-MS
-ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@23.26.67.40:16899#🔒 SS-TCP-NA 🇺🇸 US-23.26.67.40:16899 📡 PING-025.82-MS
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.68.135.18:5500#🔒 SS-TCP-NA 🇺🇸 US-38.68.135.18:5500 📡 PING-024.32-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@169.197.141.186:801#🔒 SS-TCP-NA 🇺🇸 US-169.197.141.186:801 📡 PING-024.30-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:807#🔒 SS-TCP-NA 🇨🇦 CA-134.195.196.178:807 📡 PING-023.67-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoZ0xDZ2ZMUmdCNmQ=@205.134.180.145:443#🔒 SS-TCP-NA 🇺🇸 US-205.134.180.145:443 📡 PING-022.55-MS
-ss://YWVzLTI1Ni1jZmI6Z1lDWVhma1VRRXMyVGFKUQ==@194.116.173.21:9038#🔒 SS-TCP-NA 🇺🇸 US-194.116.173.21:9038 📡 PING-022.06-MS
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.68.134.9:7001#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:7001 📡 PING-020.86-MS
-ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@138.91.113.228:16899#🔒 SS-TCP-NA 🇺🇸 US-138.91.113.228:16899 📡 PING-020.76-MS
-ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@138.91.113.228:30129#🔒 SS-TCP-NA 🇺🇸 US-138.91.113.228:30129 📡 PING-020.58-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJQ1RPdFJPanJBcUlvdHNFWVRHOE5j@45.153.48.114:443#🔒 SS-TCP-NA 🇨🇦 CA-45.153.48.114:443 📡 PING-019.54-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMTNTN2RvWGFyMEE=@205.134.180.137:443#🔒 SS-TCP-NA 🇺🇸 US-205.134.180.137:443 📡 PING-019.49-MS
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.121.43.97:6697#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.97:6697 📡 PING-016.99-MS
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.248:8882#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.248:8882 📡 PING-016.76-MS
-ss://bm9uZTpiY2NiYWFhLWFjYWItY2JhYS1hZGJjLWNjY2JiYWFiYWFjYg==@127.0.0.1:8080#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMtNDUuNzYuMTguMTk3OjIwNzAzIFx1ZDgzZFx1ZGNlMSBQSU5HLTAyMS4wOC1NUyIsICJhZGQiOiAiNDUuNzYuMTguMTk3IiwgInBvcnQiOiAiMjA3MDMiLCAiaWQiOiAiYWU3MTBiZjMtMjI5YS00ZjMxLWQ5OTAtOTcxYjgzMWM4OTg1IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIifQ==
+vmess://eyJhZGQiOiAiMjA3LjE0OC4xMC4yNDgiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjIzMmFlYjFlLTdkNjctNGE5MS05Mzc5LTRkYTFmNDkxNzY5MSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNDc5MTgiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRkMTIgVk0tVENQLU5BIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVUy0yMDcuMTQ4LjEwLjI0ODo0NzkxOCBcdWQ4M2RcdWRjZTEgUElORy0wMjEuMDMtTVMifQ==
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMtMTQ5LjI4LjIyOC4yMTU6MjIxOTUgXHVkODNkXHVkY2UxIFBJTkctMDE2LjQ0LU1TIiwgImFkZCI6ICIxNDkuMjguMjI4LjIxNSIsICJwb3J0IjogMjIxOTUsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJmODY1YmM0My1iMTI5LTQ0M2UtZDAwYS03ZDMwM2IyNWM0YTIiLCAic25pIjogIiJ9
+vmess://eyJhZGQiOiAiMTQ5LjI4LjIzNi42IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI1MjQyMTU4YS02MWVkLTQyODItOWRlOC03NDM4NTBmMWE3N2YiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjQ0NDY0IiwgInBzIjogIlx1ZDgzZFx1ZGQxMiBWTS1UQ1AtTkEgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFVTLTE0OS4yOC4yMzYuNjo0NDQ2NCBcdWQ4M2RcdWRjZTEgUElORy0wMTQuMTUtTVMiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMtMTA3LjE5MS40Mi4yMDU6NDIyOTAgXHVkODNkXHVkY2UxIFBJTkctMDEzLjk0LU1TIiwgImFkZCI6ICIxMDcuMTkxLjQyLjIwNSIsICJwb3J0IjogIjQyMjkwIiwgImlkIjogIjVmNjI0Y2NhLTVlYmMtNDg3Yi1jNzQwLTNmYTdmOGEwZmRjNSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIn0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMtMTQ0LjIwMi42Ljg4OjM1NTE1IFx1ZDgzZFx1ZGNlMSBQSU5HLTAxMy43Ni1NUyIsICJhZGQiOiAiMTQ0LjIwMi42Ljg4IiwgInBvcnQiOiAiMzU1MTUiLCAiaWQiOiAiNWIzZjUyMTctZDljZi00MmVjLWMxNGUtOGY5NDkyMTk2MTU4IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIifQ==
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMtMTQ5LjI4LjIyNi4yMDI6Mzc5ODUgXHVkODNkXHVkY2UxIFBJTkctMDEzLjY3LU1TIiwgImFkZCI6ICIxNDkuMjguMjI2LjIwMiIsICJwb3J0IjogMzc5ODUsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJhMzZkNWYwZS1mNTI5LTRjODMtOTI3OS1mNGM0Y2U1NTcwMzEiLCAic25pIjogIiJ9
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMtMTQ5LjI4LjM2LjE2NzozNzY2NCBcdWQ4M2RcdWRjZTEgUElORy0wMTMuNjMtTVMiLCAiYWRkIjogIjE0OS4yOC4zNi4xNjciLCAicG9ydCI6IDM3NjY0LCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiMTE2MjE3ZTMtYmU4Yi00YTExLTgyNmMtYjMyNDc5ZjY3MTY2IiwgInNuaSI6ICIifQ==
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMtMTQ5LjI4LjQ2LjI1MjoxODExOCBcdWQ4M2RcdWRjZTEgUElORy0wMTMuNDktTVMiLCAiYWRkIjogIjE0OS4yOC40Ni4yNTIiLCAicG9ydCI6IDE4MTE4LCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiZTIyMzg3NmQtYWU3MC00ODg5LWY2Y2YtMTUwOTdhMDA4ODg4IiwgInNuaSI6ICIifQ==
+vmess://eyJhZGQiOiAiMjA3LjE0OC4zMC42OSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMzY1NTYyNTAtZTY4OS00MDJiLWNjZjktZGQ1YmVmM2I1MmQzIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIyMzIzMCIsICJwcyI6ICJcdWQ4M2RcdWRkMTIgVk0tVENQLU5BIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVUy0yMDcuMTQ4LjMwLjY5OjIzMjMwIFx1ZDgzZFx1ZGNlMSBQSU5HLTAxMy40Mi1NUyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMtMTczLjE5OS4xMTQuMjE1OjUxNjcxIFx1ZDgzZFx1ZGNlMSBQSU5HLTAxMy40Mi1NUyIsICJhZGQiOiAiMTczLjE5OS4xMTQuMjE1IiwgInBvcnQiOiAiNTE2NzEiLCAiaWQiOiAiMzM4YWU4NGEtNzdkMy00NDM4LWJiZGQtMTQ0NDEwNWRhZDIwIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiJ9
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMtMTQwLjgyLjQxLjY3OjMzMTEwIFx1ZDgzZFx1ZGNlMSBQSU5HLTAxMy40MC1NUyIsICJhZGQiOiAiMTQwLjgyLjQxLjY3IiwgInBvcnQiOiAiMzMxMTAiLCAiaWQiOiAiYmI1ZGY5OTQtNjc0ZS00YzZhLThmZWUtYTBlMWNmODUxZWJlIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIifQ==
+vmess://eyJhZGQiOiAiMTQwLjgyLjQuODEiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImViNjM0MGRkLTljNDgtNDI3Zi1lYmRhLWI1NDhjNGI3OTQyYiIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNDU5NzAiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMtMTQwLjgyLjQuODE6NDU5NzAgXHVkODNkXHVkY2UxIFBJTkctMDEzLjMyLU1TIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
+vmess://eyJhZGQiOiAiMTQ5LjI4LjQ5LjI1MSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMTYxMDc1YTktOGU5Zi00NzNhLWUwY2UtN2E1YWU5ZDQ0YTI3IiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIzNjU1MCIsICJwcyI6ICJcdWQ4M2RcdWRkMTIgVk0tVENQLU5BIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVUy0xNDkuMjguNDkuMjUxOjM2NTUwIFx1ZDgzZFx1ZGNlMSBQSU5HLTAxMy4wNS1NUyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
+vmess://eyJhZGQiOiAiMjA4LjE2Ny4yNDUuMTAiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjI2NzYyNTk2LTVhYTctNDIxMi1lYzQ4LWY4NWEzZDViOTExOCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMzA4MzUiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMtMjA4LjE2Ny4yNDUuMTA6MzA4MzUgXHVkODNkXHVkY2UxIFBJTkctMDEyLjkzLU1TIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+vmess://eyJhZGQiOiAiMTQ5LjI4LjQ5LjE3NCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMDRiZjMxNGUtZTQwYS00ZDA1LTlmYWEtMGE2YmFkZWQyYTIyIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIyNDY2MyIsICJwcyI6ICJcdWQ4M2RcdWRkMTIgVk0tVENQLU5BIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVUy0xNDkuMjguNDkuMTc0OjI0NjYzIFx1ZDgzZFx1ZGNlMSBQSU5HLTAxMi43NS1NUyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMtMTQ5LjI4LjIzNS4yMjk6MzM2NjYgXHVkODNkXHVkY2UxIFBJTkctMDEyLjYzLU1TIiwgImFkZCI6ICIxNDkuMjguMjM1LjIyOSIsICJwb3J0IjogMzM2NjYsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICIwYWM1MTIwMy1kMGJhLTQwMWItODdlMC03ZTJlNTYyODAxYzIiLCAic25pIjogIiJ9
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMtMTQ5LjI4LjIyNC41MDozMDIxMCBcdWQ4M2RcdWRjZTEgUElORy0wMTIuNjMtTVMiLCAiYWRkIjogIjE0OS4yOC4yMjQuNTAiLCAicG9ydCI6ICIzMDIxMCIsICJpZCI6ICI3YTg1YWIzNS0xNDFhLTRjMmMtY2NjMy00ODNhYzdhZDkwMWYiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIiwgImZwIjogIiJ9
+vmess://eyJhZGQiOiAiMjA3LjI0Ni4xMjUuMTY1IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIzMDdlNGY2OS03YjczLTRlZDEtZTFmZS1kNjg3YzMyNGUwMjUiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjM0MTAyIiwgInBzIjogIlx1ZDgzZFx1ZGQxMiBWTS1UQ1AtTkEgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFVTLTIwNy4yNDYuMTI1LjE2NTozNDEwMiBcdWQ4M2RcdWRjZTEgUElORy0wMTIuMzYtTVMiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+vmess://eyJhZGQiOiAiMjA1LjIzNC4yMzEuMTM1IiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICJlNTRmNDkwMi1iZDU3LTQyNDEtZWIwNy00ZmEwMTRiZWMwNGQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2Rhc2RmZXIiLCAicG9ydCI6IDU4NzIzLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVdTLU5BIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVUy0yMDUuMjM0LjIzMS4xMzU6NTg3MjMgXHVkODNkXHVkY2UxIFBJTkctMDEyLjMwLU1TIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIn0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMtNDUuNzcuMTQ2LjU4OjIyMTMxIFx1ZDgzZFx1ZGNlMSBQSU5HLTAxMi4wNS1NUyIsICJhZGQiOiAiNDUuNzcuMTQ2LjU4IiwgInBvcnQiOiAiMjIxMzEiLCAiaWQiOiAiYWQ0MmQ1ODYtZGNkMS00NjI5LWQ0OWItYTZmMmQ4MjFhZDM5IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIifQ==
+vmess://eyJhZGQiOiAiMjA3LjE0OC4yMi4xNTIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImY0YmJlNDRmLTUzNWItNDIzNC1iOWYyLTViODhmN2RiYTkwNiIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNTI2ODYiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMtMjA3LjE0OC4yMi4xNTI6NTI2ODYgXHVkODNkXHVkY2UxIFBJTkctMDExLjk3LU1TIn0=
+vmess://eyJhZGQiOiAiMjMuMjYuNjcuNDAiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImRmMGE5NTViLTkxMzEtNGNmYi05NDVlLTM4MjFjMGFiNzNmMyIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMTQzNDQiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMtMjMuMjYuNjcuNDA6MTQzNDQgXHVkODNkXHVkY2UxIFBJTkctMDExLjk3LU1TIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+vmess://eyJhZGQiOiAiMTQwLjgyLjQyLjE4MyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMmUxOGI5NjYtYTdkZS00OGUxLWQ5OTEtNWRkYjYzNDEwZGY2IiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI1NTE2MCIsICJwcyI6ICJcdWQ4M2RcdWRkMTIgVk0tVENQLU5BIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVUy0xNDAuODIuNDIuMTgzOjU1MTYwIFx1ZDgzZFx1ZGNlMSBQSU5HLTAxMS45My1NUyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMtMTQ5LjI4LjQ2LjE0NzoyNTg3NSBcdWQ4M2RcdWRjZTEgUElORy0wMTEuOTItTVMiLCAiYWRkIjogIjE0OS4yOC40Ni4xNDciLCAicG9ydCI6IDI1ODc1LCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiMTljMmUxZGMtOGRkNy00M2UzLThhZDEtMjAxZDQxYWE2MDVjIiwgInNuaSI6ICIifQ==
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMtMTQwLjgyLjQxLjIwOjI1MDIzIFx1ZDgzZFx1ZGNlMSBQSU5HLTAxMS44MS1NUyIsICJhZGQiOiAiMTQwLjgyLjQxLjIwIiwgInBvcnQiOiAiMjUwMjMiLCAiaWQiOiAiMTMwNjYwNmUtOWRjOC00Yzk5LWZiYjItZDA0NmZjMTdkYzVlIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIifQ==
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMtMjA4LjE2Ny4yNDIuMTYyOjIzOTMwIFx1ZDgzZFx1ZGNlMSBQSU5HLTAxMS44MC1NUyIsICJhZGQiOiAiMjA4LjE2Ny4yNDIuMTYyIiwgInBvcnQiOiAyMzkzMCwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjMzOGMwZmRhLTZlNDgtNGEwYy1kMmQxLWY1OWJkZGNiOWJhYyIsICJzbmkiOiAiIn0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMtMTA4LjYxLjg0LjY6MTU5MzcgXHVkODNkXHVkY2UxIFBJTkctMDExLjYwLU1TIiwgImFkZCI6ICIxMDguNjEuODQuNiIsICJwb3J0IjogIjE1OTM3IiwgImlkIjogImVmMjM5YzJmLTkxMDUtNGNmOS1jOTljLWI3MGQyNTk4MjM5MCIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIn0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMtMTQwLjgyLjIuMzQ6MjM2NzAgXHVkODNkXHVkY2UxIFBJTkctMDExLjU4LU1TIiwgImFkZCI6ICIxNDAuODIuMi4zNCIsICJwb3J0IjogIjIzNjcwIiwgImlkIjogIjQyM2Y2NDQzLWYxZTktNGU4NC1kODk1LWExNGJhZGM1OWU4OCIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIn0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMtMTA4LjYxLjE1OC4yNDM6NTQ0NDUgXHVkODNkXHVkY2UxIFBJTkctMDExLjU2LU1TIiwgImFkZCI6ICIxMDguNjEuMTU4LjI0MyIsICJwb3J0IjogIjU0NDQ1IiwgImlkIjogIjk0ZjA2YjliLTZhYmMtNDZhOC1jYWE0LTQ1N2MyYjRjMmUwMyIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIn0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMtMjA3LjE0OC4zMS4xNjc6MzA1ODcgXHVkODNkXHVkY2UxIFBJTkctMDExLjUyLU1TIiwgImFkZCI6ICIyMDcuMTQ4LjMxLjE2NyIsICJwb3J0IjogIjMwNTg3IiwgImlkIjogIjU1MjE5MjE0LTlmMmQtNDkxNC1mYmFmLWIxYjQ0NGM4NWIwZSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIn0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMtMjA3LjI0Ni44OS43NDoyMTA2OCBcdWQ4M2RcdWRjZTEgUElORy0wMTEuNTItTVMiLCAiYWRkIjogIjIwNy4yNDYuODkuNzQiLCAicG9ydCI6ICIyMTA2OCIsICJpZCI6ICI1NWY2M2VlZS03NjE1LTQ0ZmQtOTBhNS0wNjJmM2E1MzJiYTgiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogImF1dG8iLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIiwgImZwIjogIiJ9
+vmess://eyJhZGQiOiAiMTA0LjIzOC4xMzMuMTEyIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJjZjhkZTBlOS1mYzNjLTQ2YWItZWRhMS1iNWIxMjkxM2FhMDciLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjM0MTIwIiwgInBzIjogIlx1ZDgzZFx1ZGQxMiBWTS1UQ1AtTkEgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFVTLTEwNC4yMzguMTMzLjExMjozNDEyMCBcdWQ4M2RcdWRjZTEgUElORy0wMTEuNDgtTVMiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+vmess://eyJhZGQiOiAiNjYuMTM1LjI4LjI1MiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMDY3MDljNDgtOTg0My00OTQwLWE1MzYtY2RmOTA5Mjg1ZWZjIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI0MTQxNCIsICJwcyI6ICJcdWQ4M2RcdWRkMTIgVk0tVENQLU5BIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVUy02Ni4xMzUuMjguMjUyOjQxNDE0IFx1ZDgzZFx1ZGNlMSBQSU5HLTAxMS40Ny1NUyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
+vmess://eyJhZGQiOiAiMTQ5LjI4LjIzMy43MyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMzUyOTcwYTMtNDFjMi00ZDU3LTkyNWYtNDUyZDc2YmE2ZDIzIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIyNTQ4NyIsICJwcyI6ICJcdWQ4M2RcdWRkMTIgVk0tVENQLU5BIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVUy0xNDkuMjguMjMzLjczOjI1NDg3IFx1ZDgzZFx1ZGNlMSBQSU5HLTAxMS4yMS1NUyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMtMTQ5LjI4LjIzNi40NDo0NzUwNyBcdWQ4M2RcdWRjZTEgUElORy0wMTEuMTQtTVMiLCAiYWRkIjogIjE0OS4yOC4yMzYuNDQiLCAicG9ydCI6IDQ3NTA3LCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiZGQzN2Y2ZGEtMGJlZC00MzQ0LWE4OGEtMTc0NGRjYWNjMjZiIn0=
+vmess://eyJhZGQiOiAiMTA3LjE5MS4zNi4xNDgiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjVmNmEzMmEwLTU2MWMtNDQwZS1hNDNlLTMwYjRkODYxYjBlNCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMzg4NDgiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMtMTA3LjE5MS4zNi4xNDg6Mzg4NDggXHVkODNkXHVkY2UxIFBJTkctMDEwLjk4LU1TIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
+vmess://eyJhZGQiOiAiMjA1LjIzNC4yMzEuMTQ4IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIyNjA4NzdjOC1lOTcwLTQ0YjUtOTdmZS05ZWYwMDUyMTU4ZDUiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjM1MDAwIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGQxMiBWTS1UQ1AtTkEgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFVTLTIwNS4yMzQuMjMxLjE0ODozNTAwMCBcdWQ4M2RcdWRjZTEgUElORy0wMTAuODgtTVMifQ==
+vmess://eyJhZGQiOiAiMTQ5LjI4LjYzLjI0OSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNjQzMGZjNTQtYmJhZC00MDJiLWFlZjEtZjc5ZWRhYzkxZWZjIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIzODYyMiIsICJwcyI6ICJcdWQ4M2RcdWRkMTIgVk0tVENQLU5BIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVUy0xNDkuMjguNjMuMjQ5OjM4NjIyIFx1ZDgzZFx1ZGNlMSBQSU5HLTAxMC42Ny1NUyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
+vmess://eyJhZGQiOiAiMTA0LjIxLjQuMTQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiYWRtaW4uYXJ6b25ob3N0LmlyIiwgImlkIjogIjdkOTNlOTkyLTQ4Y2YtNDJkNC04NGY4LTc1NzY4ZTgxNWE0YyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiMjA4NiIsICJwcyI6ICJcdWQ4M2RcdWRkMTIgVk0tV1MtTkEgXHVkODNjXHVkZmY0XHUyMDBkXHUyNjIwXHVmZTBmIE5BLTEwNC4yMS40LjE0OjIwODYgXHVkODNkXHVkY2UxIFBJTkctMDA1Ljc4LU1TIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
+vmess://eyJhZGQiOiAiMTA0LjE3LjEyNy41MCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJ1czRCYjVvU2dKQS5memJxZnJzZS54eXoiLCAiaWQiOiAiNjdkOGIxYjktMWM5Zi00YThiLThkZGMtMGI5ZWMyZGIyZDZjIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi92aWRlby9DdVR5ODd6QXpWLyIsICJwb3J0IjogIjIwODIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVdTLU5BIFx1ZDgzY1x1ZGZmNFx1MjAwZFx1MjYyMFx1ZmUwZiBOQS0xMDQuMTcuMTI3LjUwOjIwODIgXHVkODNkXHVkY2UxIFBJTkctMDA1LjcxLU1TIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
+vmess://eyJhZGQiOiAiMTA0LjIxLjI1LjgiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiaG9zdCI6ICJmcjItdm1lc3Muc3NobWF4Lnh5eiIsICJpZCI6ICIyMjk5OWYwYS0yMGIwLTQ4NWQtYjAwMC1mYTU5NTg2OTQwZjkiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3ZtZXNzIiwgInBvcnQiOiAiMjA5NiIsICJwcyI6ICJcdWQ4M2RcdWRkMTIgVk0tV1MtVExTIFx1ZDgzY1x1ZGZmNFx1MjAwZFx1MjYyMFx1ZmUwZiBOQS0xMDQuMjEuMjUuODoyMDk2IFx1ZDgzZFx1ZGNlMSBQSU5HLTAwNS43MS1NUyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiZnIyLXZtZXNzLnNzaG1heC54eXoiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
+vmess://eyJhZGQiOiAiMTcyLjY3LjcxLjE2MCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJvYmRpaS5jZmQiLCAiaWQiOiAiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVdTLVRMUyBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMtMTcyLjY3LjcxLjE2MDo0NDMgXHVkODNkXHVkY2UxIFBJTkctMDA1LjYyLU1TIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJvYmRpaS5jZmQiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
+vmess://eyJhZGQiOiAiMTcyLjY3LjEzNi4yNDQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiYmFja2VuZC5hcHAtYnJvd3Nlci5vcmciLCAiaWQiOiAiNTIwYTVmNDUtZDM1NC00MmY0LWE2NTgtMThkYmMzNzU0NjQ1IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9md3MiLCAicG9ydCI6ICIyMDg3IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJiYWNrZW5kLmFwcC1icm93c2VyLm9yZyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRkMTIgVk0tV1MtVExTIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVUy0xNzIuNjcuMTM2LjI0NDoyMDg3IFx1ZDgzZFx1ZGNlMSBQSU5HLTAwNS42MS1NUyJ9
+vmess://eyJhZGQiOiAiMTA0LjIxLjY5LjQ0IiwgImFpZCI6ICIwIiwgImFscG4iOiAiaDIiLCAiZnAiOiAiY2hyb21lIiwgImhvc3QiOiAiIiwgImlkIjogIjYxNmVhZjVkLTcyYjEtNGRjOC04YzU4LWI4MDBiOGQ5ZjhmZSIsICJuZXQiOiAiZ3JwYyIsICJwYXRoIjogIlZQTkhPTUVTIiwgInBvcnQiOiAiODQ0MyIsICJwcyI6ICJcdWQ4M2RcdWRkMTIgVk0tR1JQQy1UTFMgXHVkODNjXHVkZmY0XHUyMDBkXHUyNjIwXHVmZTBmIE5BLTEwNC4yMS42OS40NDo4NDQzIFx1ZDgzZFx1ZGNlMSBQSU5HLTAwNS40NC1NUyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiZnJhZ21lbnQua2Fyb3AuaG9tZXMiLCAidGxzIjogInRscyIsICJ0eXBlIjogImd1biIsICJ2IjogIjIifQ==
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVdTLU5BIFx1ZDgzY1x1ZGZmNFx1MjAwZFx1MjYyMFx1ZmUwZiBOQS0xMDQuMjYuNC41Nzo4MCBcdWQ4M2RcdWRjZTEgUElORy0wMDUuMzMtTVMiLCAiYWRkIjogIjEwNC4yNi40LjU3IiwgInBvcnQiOiAiODAiLCAiaWQiOiAiYmQ4YzQxYTgtNzU5OC00YzI4LTk5NjUtNTIyNTQ1ZTE0ODkyIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJzc3JzdWIudjAzLnNzcnN1Yi5jb20iLCAicGF0aCI6ICIvYXBpL3YzL2Rvd25sb2FkLmdldEZpbGUiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgInRlc3RfbmFtZSI6ICJVU1x1N2Y4ZVx1NTZmZDE5In0=
+vmess://eyJhZGQiOiAiMTYyLjE1OS4yNDcuMjM1IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImhvc3QiOiAicnBtbHliZ3pzZzIueW9mbmhrZmMueHl6IiwgImlkIjogIjE3YzgyYjQ1LWRmZjAtNDdiYi05ZTBjLTA3ZWYwN2Y2NzAwNSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdmlkZW8vM1lLZnpHdzQiLCAicG9ydCI6ICIyMDUyIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGQxMiBWTS1XUy1OQSBcdWQ4M2NcdWRmZjRcdTIwMGRcdTI2MjBcdWZlMGYgTkEtMTYyLjE1OS4yNDcuMjM1OjIwNTIgXHVkODNkXHVkY2UxIFBJTkctMDA1LjMyLU1TIn0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVdTLU5BIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVUy0xNzIuNjQuMzMuMTAwOjgwODAgXHVkODNkXHVkY2UxIFBJTkctMDA1LjI1LU1TIiwgImFkZCI6ICIxNzIuNjQuMzMuMTAwIiwgInBvcnQiOiAiODA4MCIsICJpZCI6ICJlZjhjOTU0ZS0wMTRmLTRiMzYtODI3My05YjUwODZhZmFiMzQiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImJpYmxpb2dyYXBoaWMtc3dvcmQtc2VxdWVuY2UtYWR2ZXJ0aXNlcnMudHJ5Y2xvdWRmbGFyZS5jb20iLCAicGF0aCI6ICJlZjhjOTU0ZS0wMTRmLTRiMzYtODI3My05YjUwODZhZmFiMzQtdm0iLCAidGxzIjogIiIsICJzbmkiOiAiIiwgInRlc3RfbmFtZSI6ICJVU1x1N2Y4ZVx1NTZmZDE4In0=
+vmess://eyJhZGQiOiAiMTcyLjY3LjE3MS4xNzUiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAibmluZS5iNGEtZGV2cy5vcmciLCAiaWQiOiAiMTAxNmNiYzAtMDNjMi00ZTExLWI1OTAtMjk2YjAxZjI2OWFjIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9ud3MiLCAicG9ydCI6ICIyMDgzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJuaW5lLmI0YS1kZXZzLm9yZyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRkMTIgVk0tV1MtVExTIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVUy0xNzIuNjcuMTcxLjE3NToyMDgzIFx1ZDgzZFx1ZGNlMSBQSU5HLTAwNS4yNC1NUyJ9
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVdTLU5BIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVUy0xNzIuNjcuMjE0LjMzOjIwOTUgXHVkODNkXHVkY2UxIFBJTkctMDA1LjIxLU1TIiwgImFkZCI6ICIxNzIuNjcuMjE0LjMzIiwgInBvcnQiOiAiMjA5NSIsICJpZCI6ICI3YTczN2Y0MS1iNzkyLTQyNjAtOTRmZi0zZDg2NGRhNjdiODAiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiIsICJzbmkiOiAiIiwgInRlc3RfbmFtZSI6ICJVU1x1N2Y4ZVx1NTZmZDE2In0=
+vmess://eyJhZGQiOiAiMTcyLjY3LjE1MC4xNzMiLCAiYWlkIjogMCwgImhvc3QiOiAidTA0LnRrMzMyMi5jb20iLCAiaWQiOiAiYmZjY2QyYTQtYTQyMS00ZDRmLWY1NjQtYTA4MWY0YTEyZDdlIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi91MDQiLCAicG9ydCI6IDIwNTMsICJwcyI6ICJcdWQ4M2RcdWRkMTIgVk0tV1MtVExTIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVUy0xNzIuNjcuMTUwLjE3MzoyMDUzIFx1ZDgzZFx1ZGNlMSBQSU5HLTAwNS4xNS1NUyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogInUwNC50azMzMjIuY29tIiwgImFsbG93aW5zZWN1cmUiOiAxfQ==
+vmess://eyJhZGQiOiAiMTI3LjAuMC4xIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImFhY2JiYWMtYmNhYS1hYmNhLWNiYWQtY2NhY2FjYWJiYWJiIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6IDgwODAsICJwcyI6ICJcdWQ4M2RcdWRjNjhcdWQ4M2NcdWRmZmJcdTIwMGRcdWQ4M2RcdWRjYmIgREVWRUxPUEVELUJZIFNPUk9VU0gtTUlSWkFFSSBcdWQ4M2RcdWRjY2MgRk9MTE9XLUNPTlRBQ1QgU1lEU1JTTVJaIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
+trojan://baacbac-caba-acab-cabd-acaccbbacabb@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 MON-13-FARVARDIN-1403 🕑 01:18
+trojan://abcabca-baca-caba-bacd-abaccacbbacb@127.0.0.1:2080?security=tls&type=tcp#⚠️ UNDER CONSTRUCTION 🔴 REPORT TECHNICAL ISSUES 🟢 SUGGEST FEATURE ENHANCEMENT
+trojan://telegram-id-directvpn@3.134.233.187:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇺🇸 US-3.134.233.187:22222 📡 PING-050.33-MS
+trojan://telegram-id-directvpn@46.137.40.192:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-46.137.40.192:22222 📡 PING-070.45-MS
+trojan://telegram-id-directvpn@63.34.129.168:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-63.34.129.168:22222 📡 PING-070.49-MS
+trojan://telegram-id-privatevpns@52.212.241.82:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-52.212.241.82:22222 📡 PING-070.72-MS
+trojan://telegram-id-privatevpns@34.247.97.241:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-34.247.97.241:22222 📡 PING-070.82-MS
+trojan://telegram-id-privatevpns@52.210.205.174:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp#🔒 TR-TCP-TLS 🇮🇪 IE-52.210.205.174:22222 📡 PING-070.84-MS
+trojan://af087a9c-39cb-4df6-9099-a652a147149f@192.9.239.232:30018?security=tls&sni=us03.freeflyingcloud.xyz&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-192.9.239.232:30018 📡 PING-074.57-MS
+trojan://telegram-id-privatevpns@54.74.78.193:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-54.74.78.193:22222 📡 PING-076.22-MS
+trojan://64228596-6837-482f-91e6-452734bd3a65@46.101.75.66:443?#🔒 TR-TCP-NA 🇬🇧 GB-46.101.75.66:443 📡 PING-078.09-MS
+trojan://telegram-id-directvpn@34.213.191.154:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇺🇸 US-34.213.191.154:22222 📡 PING-078.93-MS
+trojan://telegram-id-privatevpns@18.133.56.223:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-18.133.56.223:22222 📡 PING-080.06-MS
+trojan://telegram-id-directvpn@13.41.213.84:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-13.41.213.84:22222 📡 PING-080.43-MS
+trojan://telegram-id-directvpn@13.41.143.151:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇬🇧 GB-13.41.143.151:22222 📡 PING-080.54-MS
+trojan://telegram-id-privatevpns@18.169.39.51:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-18.169.39.51:22222 📡 PING-080.75-MS
+trojan://telegram-id-privatevpns@3.11.118.97:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-3.11.118.97:22222 📡 PING-081.23-MS
+trojan://telegram-id-privatevpns@35.177.168.209:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-35.177.168.209:22222 📡 PING-081.88-MS
+trojan://73440da0-ed8d-11ee-873e-1239d0255272@51.210.182.170:443?#🔒 TR-TCP-NA 🇫🇷 FR-51.210.182.170:443 📡 PING-082.04-MS
+trojan://48ac328a-d9e7-481c-b749-a0d0d66a749c@198.244.190.189:443?#🔒 TR-TCP-NA 🇬🇧 GB-198.244.190.189:443 📡 PING-082.08-MS
+trojan://e96f263f-8788-44fa-8bb1-25fb4a8c2a6d@141.94.115.231:443?#🔒 TR-TCP-NA 🇫🇷 FR-141.94.115.231:443 📡 PING-082.98-MS
+trojan://telegram-id-privatevpns@35.181.187.255:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-35.181.187.255:22222 📡 PING-083.05-MS
+trojan://telegram-id-privatevpns@13.36.79.202:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-13.36.79.202:22222 📡 PING-083.08-MS
+trojan://1e92ebcc-d5f4-4eff-a6f8-00f66cf039d1@172.232.62.234:443?#🔒 TR-TCP-NA 🇫🇷 FR-172.232.62.234:443 📡 PING-084.39-MS
+trojan://wkmY1R4EcP@78.141.221.194:443?security=tls&sni=z-v2-002750.kailib.com&type=tcp#🔒 TR-TCP-TLS 🇳🇱 NL-78.141.221.194:443 📡 PING-084.44-MS
+trojan://telegram-id-directvpn@13.36.197.168:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-13.36.197.168:22222 📡 PING-084.45-MS
+trojan://telegram-id-privatevpns@52.47.134.116:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-52.47.134.116:22222 📡 PING-084.63-MS
+trojan://a6292090-afe1-4640-97a7-4f1d1d877cf1@95.179.128.114:443?security=tls&sni=hdfy8d1.cpi1.eu.org&type=grpc&serviceName=8bHUAD5IX0lC5KffvrsN6rqb#🔒 TR-GRPC-TLS 🇳🇱 NL-95.179.128.114:443 📡 PING-084.68-MS
+trojan://0b6499ea-c60e-436f-b63b-6dae4bf54779@188.119.112.242:443?#🔒 TR-TCP-NA 🇳🇱 NL-188.119.112.242:443 📡 PING-084.87-MS
+trojan://763faeec-72b7-4849-8509-2565993078be@142.93.226.128:443?#🔒 TR-TCP-NA 🇳🇱 NL-142.93.226.128:443 📡 PING-085.63-MS
+trojan://telegram-id-privatevpns@15.237.207.153:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-15.237.207.153:22222 📡 PING-085.90-MS
+trojan://fa7f425f-7f66-4994-93ef-7eb05e047d1a@164.90.167.242:443?#🔒 TR-TCP-NA 🇩🇪 DE-164.90.167.242:443 📡 PING-088.54-MS
+trojan://fc1e07b5-840b-4446-8232-94b0606f2e0d@193.70.112.90:443?#🔒 TR-TCP-NA 🇫🇷 FR-193.70.112.90:443 📡 PING-089.79-MS
+trojan://0453eb8b-8b3a-42c5-9040-cb1495279898@95.164.68.116:443?sni=cdn.appsflyer.com&type=grpc#🔒 TR-GRPC-NA 🇩🇪 DE-95.164.68.116:443 📡 PING-090.53-MS
+trojan://895afd17-1136-4ca2-9f8a-246f2c35d5ab@51.75.77.237:443?#🔒 TR-TCP-NA 🇩🇪 DE-51.75.77.237:443 📡 PING-090.64-MS
+trojan://telegram-id-privatevpns@18.195.25.17:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-18.195.25.17:22222 📡 PING-091.37-MS
+trojan://telegram-id-privatevpns@3.72.136.5:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.72.136.5:22222 📡 PING-091.65-MS
+trojan://telegram-id-privatevpns@3.64.167.182:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.64.167.182:22222 📡 PING-093.00-MS
+trojan://telegram-id-directvpn@3.75.13.174:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.75.13.174:22222 📡 PING-093.06-MS
+trojan://telegram-id-directvpn@52.58.109.136:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-52.58.109.136:22222 📡 PING-093.37-MS
+trojan://79412735-17ed-4e2e-9264-b7738413120e@95.164.46.235:443?#🔒 TR-TCP-NA 🇮🇹 IT-95.164.46.235:443 📡 PING-104.29-MS
+trojan://0b1371aa-649d-41dc-9126-338c87936500@95.164.33.62:443?sni=sourceforge.net&type=ws&host=se1.trojanvpn.de&path=/websocket#🔒 TR-WS-NA 🇸🇪 SE-95.164.33.62:443 📡 PING-104.56-MS
+trojan://telegram-id-directvpn@51.21.17.66:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-51.21.17.66:22222 📡 PING-108.25-MS
+trojan://telegram-id-directvpn@13.49.62.182:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.49.62.182:22222 📡 PING-108.86-MS
+trojan://telegram-id-privatevpns@13.53.161.174:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.53.161.174:22222 📡 PING-108.88-MS
+trojan://telegram-id-privatevpns@16.16.33.64:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp#🔒 TR-TCP-TLS 🇸🇪 SE-16.16.33.64:22222 📡 PING-109.30-MS
+trojan://f2548fc1-c023-49dc-8030-dbf4888aff69@195.123.213.46:443?#🔒 TR-TCP-NA 🇱🇻 LV-195.123.213.46:443 📡 PING-114.56-MS
+trojan://87f2224c-59b9-4e05-b9d4-7cacd8ff54c3@94.131.117.240:443?#🔒 TR-TCP-NA 🇪🇸 ES-94.131.117.240:443 📡 PING-115.12-MS
+trojan://d0d67bba-a71d-4e3e-8469-1d214198ad34@95.164.116.35:443?#🔒 TR-TCP-NA 🇹🇷 TR-95.164.116.35:443 📡 PING-118.52-MS
+trojan://cadf7475-3388-4cf9-baa2-b07739126a43@45.140.169.83:30002?security=tls&sni=ru01.freeflyingcloud.xyz&type=tcp#🔒 TR-TCP-TLS 🇷🇺 RU-45.140.169.83:30002 📡 PING-127.09-MS
+trojan://telegram-id-privatevpns@13.49.155.216:22222?sni=trojan.burgerip.co.uk#🔒 TR-TCP-NA 🇸🇪 SE-13.49.155.216:22222 📡 PING-146.55-MS
+trojan://3605f0fa-dc88-4b80-8083-b73eb108007e@139.162.112.174:443?#🔒 TR-TCP-NA 🇯🇵 JP-139.162.112.174:443 📡 PING-158.85-MS
+trojan://telegram-id-privatevpns@3.78.57.115:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.78.57.115:22222 📡 PING-159.31-MS
+trojan://telegram-id-privatevpns@13.51.126.22:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.51.126.22:22222 📡 PING-159.72-MS
+trojan://V_kT5VVzTK4gfCCxQipNAA@185.226.116.254:8608?security=none&type=tcp&headerType=http#🔒 TR-TCP-NONE 🇮🇷 IR-185.226.116.254:8608 📡 PING-170.05-MS
+trojan://499c3578-7317-4c6f-984b-fa0437cdf8c4@95.164.114.43:443?#🔒 TR-TCP-NA 🇰🇿 KZ-95.164.114.43:443 📡 PING-176.51-MS
+trojan://4844a5e0-1a2e-424d-8718-d9bc561332d8@132.145.82.117:24852?security=tls&sni=kr01.freeflyingcloud.xyz&type=tcp#🔒 TR-TCP-TLS 🇰🇷 KR-132.145.82.117:24852 📡 PING-177.74-MS
+trojan://4d3e7a56-7129-49c9-a1bc-068efde4728a@114.37.139.157:9489?security=tls&sni=b13.ntbq.dynu.net#🔒 TR-TCP-TLS 🇹🇼 TW-114.37.139.157:9489 📡 PING-186.88-MS
+trojan://4d3e7a56-7129-49c9-a1bc-068efde4728a@220.141.143.6:13761?security=tls&sni=ty11t.twty.dynu.net&type=tcp#🔒 TR-TCP-TLS 🇹🇼 TW-220.141.143.6:13761 📡 PING-187.61-MS
+trojan://4d3e7a56-7129-49c9-a1bc-068efde4728a@36.226.146.206:19489?security=tls&sni=b22.ntbq.dynu.net&type=tcp#🔒 TR-TCP-TLS 🇹🇼 TW-36.226.146.206:19489 📡 PING-188.42-MS
+trojan://632b0d6b-aabf-4751-b523-321da2a9b03c@192.53.168.192:443?#🔒 TR-TCP-NA 🇦🇺 AU-192.53.168.192:443 📡 PING-198.78-MS
+trojan://5eb5bdf9-4a70-4890-b2ca-8b2b79792639@113.52.123.210:10443?sni=macau.hapchung.com#🔒 TR-TCP-NA 🇲🇴 MO-113.52.123.210:10443 📡 PING-201.51-MS
+trojan://oZAugtgF5T@146.190.87.238:443?security=tls&sni=aka.ms&type=ws&host=aka.ms&path=%2F#🔒 TR-WS-TLS 🇸🇬 SG-146.190.87.238:443 📡 PING-215.30-MS
+trojan://tqkhA8Ziem@146.190.83.142:56226?security=tls&sni=android.googleapis.com&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-146.190.83.142:56226 📡 PING-219.47-MS
+trojan://AI1pVmFmSK@146.190.83.142:44826?security=tls&sni=m.zoom.us&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-146.190.83.142:44826 📡 PING-219.62-MS
+trojan://i43MaExgud@146.190.104.17:443?security=tls&sni=aka.ms&type=ws&path=%2F&alpn=http/1.1#🔒 TR-WS-TLS 🇸🇬 SG-146.190.104.17:443 📡 PING-220.05-MS
+trojan://aa485bb6-493e-461a-a27d-caff3a10725e@172.104.63.96:443?#🔒 TR-TCP-NA 🇸🇬 SG-172.104.63.96:443 📡 PING-220.15-MS
+trojan://b3965d2d-3b82-45cc-927b-1336aca3f3fe@139.162.49.215:443?#🔒 TR-TCP-NA 🇸🇬 SG-139.162.49.215:443 📡 PING-221.07-MS
+trojan://5a92d674-308c-4d95-b283-28383e63a59b@103.9.77.6:443?#🔒 TR-TCP-NA 🇻🇳 VN-103.9.77.6:443 📡 PING-221.90-MS
+trojan://FdiVDAituq@128.199.193.14:28856?security=none&type=ws&path=%2F#🔒 TR-WS-NONE 🇸🇬 SG-128.199.193.14:28856 📡 PING-222.34-MS
+trojan://mSAudEmfwc@146.190.83.142:52977?security=tls&sni=m.instagram.com&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-146.190.83.142:52977 📡 PING-223.43-MS
+trojan://0SDimA6Syo@146.190.83.142:41899?security=tls&sni=m.youtube.net&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-146.190.83.142:41899 📡 PING-223.59-MS
+trojan://sYZmonbPTS@146.190.83.142:39414?security=tls&sni=m.facebook.net&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-146.190.83.142:39414 📡 PING-223.79-MS
+trojan://alNcKwdlz3@146.190.83.142:43007?security=tls&sni=static.whatsapp.net&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-146.190.83.142:43007 📡 PING-223.95-MS
+trojan://bc52625d-e3f7-4191-bf89-8db421a96a46@139.162.39.206:443?#🔒 TR-TCP-NA 🇸🇬 SG-139.162.39.206:443 📡 PING-225.64-MS
+trojan://yu7AvNL9rW@212.33.206.111:80?security=none&type=tcp#🔒 TR-TCP-NONE 🇮🇷 IR-212.33.206.111:80 📡 PING-290.22-MS
+trojan://pjdnqv@15.181.201.80:443?security=tls&sni=aws-us-dallas-1.f1rocketnode.com&type=tcp&fp=chrome#🔒 TR-TCP-TLS 🇺🇸 US-15.181.201.80:443 📡 PING-039.03-MS
+trojan://96bb652f-98cf-4207-aa5f-0eea485f39a9@45.79.9.231:443?#🔒 TR-TCP-NA 🇺🇸 US-45.79.9.231:443 📡 PING-037.37-MS
+trojan://2d2ce807-1584-4601-9716-d0fc2eaf1e64@50.116.21.188:443?#🔒 TR-TCP-NA 🇺🇸 US-50.116.21.188:443 📡 PING-035.25-MS
+trojan://telegram-id-directvpn@15.156.27.63:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇨🇦 CA-15.156.27.63:22222 📡 PING-022.93-MS
+trojan://telegram-id-directvpn@15.156.150.188:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇨🇦 CA-15.156.150.188:22222 📡 PING-022.48-MS
+trojan://f6181a66-12ac-43a7-abbe-d3cb8fb4ab7c@172.105.25.249:443?#🔒 TR-TCP-NA 🇨🇦 CA-172.105.25.249:443 📡 PING-020.10-MS
+trojan://telegram-id-directvpn@3.130.146.236:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇺🇸 US-3.130.146.236:22222 📡 PING-015.31-MS
+trojan://xxoo@138.197.5.103:443?security=tls&sni=us.blazeppn.info&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-138.197.5.103:443 📡 PING-011.64-MS
+trojan://f0eb8c92ce8946aaba856569cff1a16b@104.16.192.158:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=6b777a91&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.192.158:443 📡 PING-005.73-MS
+trojan://qG9K8AGnn9XH5jUqeFu96g@104.16.123.175:2083?security=tls&sni=cdn13.cdn2cdn.com&type=ws&host=cdn13.cdn2cdn.com&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.123.175:2083 📡 PING-005.72-MS
+trojan://f0eb8c92ce8946aaba856569cff1a16b@104.16.192.6:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=6b777a91&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.192.6:443 📡 PING-005.65-MS
+trojan://5528de7e9efc37a45714fe24d7c2d7a5d19dc55a1ad162a7372d7595a14e998f@172.67.143.221:443?security=tls&sni=m1.ifixripper.link&type=grpc#🔒 TR-GRPC-TLS 🇺🇸 US-172.67.143.221:443 📡 PING-005.59-MS
+trojan://5019a410-e7f4-11ee-b17a-1239d0255272@104.21.41.21:443?security=tls&sni=fr1.test3.net&type=ws&host=fr1.test3.net&path=%2Fhowdy#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.41.21:443 📡 PING-005.56-MS
+trojan://1ZTbMoSRnm@185.146.173.59:2083?security=tls&sni=mIkAsa.mEgAfAiR.sToRe&type=grpc&serviceName=/Telegram:@MikasaVPN&fp=firefox&alpn=h3,h2,http/1.1#🔒 TR-GRPC-TLS 🇸🇪 SE-185.146.173.59:2083 📡 PING-005.53-MS
+trojan://a966a7ae-ac21-472d-be60-7726b724fc5d@104.21.68.153:443?security=tls&sni=erorbpn.arminhadadi.onflashdrive.app&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.21.68.153:443 📡 PING-005.53-MS
+trojan://e8105dfd24414268b6c7652c63731097@198.41.220.20:443?security=tls&sni=avianrecruit.com&type=ws&host=avianrecruit.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.20:443 📡 PING-005.52-MS
+trojan://6d0a8340-e07e-11ee-ab83-1239d0255272@104.21.69.44:443?security=tls&sni=us1.test3.net&type=ws&host=us1.test3.net&path=%2Fhowdy#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.69.44:443 📡 PING-005.50-MS
+trojan://559c3b5f-3dd1-47e4-94ad-017cb392a7ba@104.26.8.202:443?security=tls&sni=de1.trojanvpn.de&type=ws&host=de1.trojanvpn.dE&path=%2Fpath%2FAlfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.8.202:443 📡 PING-005.49-MS
+trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?security=tls&sni=cdn-21.gsmxreality.com&type=grpc&serviceName=443trojan#🔒 TR-GRPC-TLS 🇺🇸 US-172.67.204.84:443 📡 PING-005.46-MS
+trojan://4aec4e7f8cf8454ea4613659822e1a61@104.17.147.8:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=6b777a91&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.8:443 📡 PING-005.44-MS
+trojan://a966a7ae-ac21-472d-be60-7726b724fc5d@172.67.196.164:443?security=tls&sni=erorbpn.arminhadadi.onflashdrive.app&type=grpc&serviceName=grpc#🔒 TR-GRPC-TLS 🇺🇸 US-172.67.196.164:443 📡 PING-005.44-MS
+trojan://4aec4e7f8cf8454ea4613659822e1a61@104.19.159.144:443?security=tls&sni=avianrecruit.com&type=ws&host=avianrecruit.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.159.144:443 📡 PING-005.43-MS
+trojan://242a3d8eee5e4ed1a6bfa4141d549a25@198.41.220.2:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=6b777a91&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.2:443 📡 PING-005.43-MS
+trojan://b4e8771997c94732acbc9ec4d19c2589@104.16.159.4:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=6b777a91&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.4:443 📡 PING-005.42-MS
+trojan://559c3b5f-3dd1-47e4-94ad-017cb392a7ba@162.159.134.234:443?security=tls&sni=de1.trojanvpn.de&type=ws&host=de1.trojanvpn.dE&path=/path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.134.234:443 📡 PING-005.41-MS
+trojan://cb1f26aa437d4bfa9b841d28503ce8cc@104.16.159.2:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=6b777a91&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.2:443 📡 PING-005.39-MS
+trojan://242a3d8eee5e4ed1a6bfa4141d549a25@198.41.220.12:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=6b777a91&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.12:443 📡 PING-005.38-MS
+trojan://2cba4104747d49d18319e5ade1b93ab5@198.41.220.10:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.10:443 📡 PING-005.37-MS
+trojan://5019a410-e7f4-11ee-b17a-1239d0255272@172.67.159.13:443?security=tls&sni=fr1.test3.net&type=ws&host=fr1.test3.net&path=%2Fhowdy#🔒 TR-WS-TLS 🇺🇸 US-172.67.159.13:443 📡 PING-005.34-MS
+trojan://b0b861c2c85346a389b9e95769c3cba4@104.17.61.8:443?security=tls&sni=jobsapplyworld.com&type=ws&host=jobsapplyworld.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.61.8:443 📡 PING-005.34-MS
+trojan://4732adfa16c6450bbef87264e41332db@104.17.147.4:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=6b777a91&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.4:443 📡 PING-005.34-MS
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.17.147.11:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.11:443 📡 PING-005.33-MS
+trojan://6dCf6Syv1FwpjcAoCB2vfQ@104.21.25.193:2083?security=tls&sni=cdn15.cdn2cdn.com&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.25.193:2083 📡 PING-005.33-MS
+trojan://984e400bf5d541b7b0815913fe0c432a@104.19.171.9:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.171.9:443 📡 PING-005.32-MS
+trojan://4732adfa16c6450bbef87264e41332db@104.16.192.138:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=6b777a91&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.192.138:443 📡 PING-005.30-MS
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.16.192.146:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.192.146:443 📡 PING-005.30-MS
+trojan://dba20dcb635e430fa4d3bfc303a149d2@190.93.246.247:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=6b777a91&fp=chrome#🔒 TR-WS-TLS 🇨🇷 CR-190.93.246.247:443 📡 PING-005.28-MS
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.17.147.1:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=6b777a91&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.1:443 📡 PING-005.28-MS
+trojan://4732adfa16c6450bbef87264e41332db@104.16.159.7:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=6b777a91&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.7:443 📡 PING-005.27-MS
+trojan://559c3b5f-3dd1-47e4-94ad-017cb392a7ba@162.159.133.234:443?security=tls&sni=de1.trojanvpn.de&type=ws&host=de1.trojanvpn.dE&path=/path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.133.234:443 📡 PING-005.25-MS
+trojan://b17fa17d-13a0-4e8a-a398-8e549ea8b208@23.227.38.11:443?sni=syndication-statutes-wanted-logo.trycloudflare.com&type=ws&path=/argox-tr&allowInsecure=1#🔒 TR-WS-NA 🇨🇦 CA-23.227.38.11:443 📡 PING-005.24-MS
+trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.17.215.2:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.215.2:443 📡 PING-005.24-MS
+trojan://b0b861c2c85346a389b9e95769c3cba4@198.41.220.16:443?security=tls&sni=avianrecruit.com&type=ws&host=avianrecruit.com&path=6b777a91&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.16:443 📡 PING-005.23-MS
+trojan://241f01b9-8dfc-474f-8342-3fbd5c46417e@104.21.51.242:2087?security=tls&sni=grpcfr.arminhadadi.site&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.21.51.242:2087 📡 PING-005.22-MS
+trojan://01596265-168b-46a7-bcb7-25662c7a9546@188.114.98.0:443?sni=hdfy7c1.foriran2.eu.org&type=grpc&serviceName=fYn1ncaQMA1foaK1hpquM&allowInsecure=1#🔒 TR-GRPC-NA 🇳🇱 NL-188.114.98.0:443 📡 PING-005.20-MS
+trojan://cb1f26aa437d4bfa9b841d28503ce8cc@198.41.220.5:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.5:443 📡 PING-005.20-MS
+trojan://dba20dcb635e430fa4d3bfc303a149d2@104.16.159.3:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=6b777a91&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.3:443 📡 PING-005.20-MS
+trojan://1ZTbMoSRnm@172.67.10.53:2083?security=tls&sni=mikasa.megafair.store&type=ws&host=mikasa.megafair.store&path=%2F%40MikasaVPN%2F%3Fed%3D2048&fp=firefox&alpn=h3,h2,http/1.1#🔒 TR-WS-TLS 🇺🇸 US-172.67.10.53:2083 📡 PING-005.19-MS
+trojan://b4e8771997c94732acbc9ec4d19c2589@198.41.220.8:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=6b777a91&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.8:443 📡 PING-005.19-MS
+trojan://1ZTbMoSRnm@104.17.239.159:2083?security=tls&sni=mIkAsa.mEgAfAiR.sToRe&type=grpc&serviceName=/Telegram:@MikasaVPN&fp=firefox&alpn=h3,h2,http/1.1#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.17.239.159:2083 📡 PING-005.19-MS
+trojan://ce8b8b30ebba45f2a38dd608b85e8628@104.16.159.9:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.9:443 📡 PING-005.19-MS
+trojan://4aec4e7f8cf8454ea4613659822e1a61@104.16.159.10:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=6b777a91&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.10:443 📡 PING-005.18-MS
+trojan://1ZTbMoSRnm@188.42.89.174:2083?security=tls&sni=mIkAsa.mEgAfAiR.sToRe&type=grpc&serviceName=/Telegram:@MikasaVPN&fp=firefox&alpn=h3,h2,http/1.1#🔒 TR-GRPC-TLS 🇱🇺 LU-188.42.89.174:2083 📡 PING-005.16-MS
+trojan://984e400bf5d541b7b0815913fe0c432a@104.16.159.5:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.5:443 📡 PING-005.16-MS
+trojan://f0eb8c92ce8946aaba856569cff1a16b@104.19.171.3:443?security=tls&sni=sherasheba.com&type=ws&host=sherasheba.com&path=6b777a91&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.171.3:443 📡 PING-005.15-MS
+trojan://241f01b9-8dfc-474f-8342-3fbd5c46417e@172.67.192.61:2087?security=tls&sni=grpcfr.arminhadadi.site&type=grpc#🔒 TR-GRPC-TLS 🇺🇸 US-172.67.192.61:2087 📡 PING-005.13-MS
+trojan://984e400bf5d541b7b0815913fe0c432a@104.19.171.7:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=6b777a91&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.171.7:443 📡 PING-005.12-MS
+trojan://71409d3e488548e8bb076d229778f008@104.17.147.77:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.77:443 📡 PING-005.10-MS
+trojan://aacbbac-bcaa-abca-cbad-ccacacabbabb@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
+ss://bm9uZTpiYWFjYmFjLWNhYmEtYWNhYi1jYWJkLWFjYWNjYmJhY2FiYg==@127.0.0.1:1080#🔄 LATEST-UPDATE 📅 MON-13-FARVARDIN-1403 🕑 01:18
+ss://bm9uZTphYmNhYmNhLWJhY2EtY2FiYS1iYWNkLWFiYWNjYWNiYmFjYg==@127.0.0.1:2080#⚠️ UNDER CONSTRUCTION 🔴 REPORT TECHNICAL ISSUES 🟢 SUGGEST FEATURE ENHANCEMENT
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@204.44.108.234:16899#🔒 SS-TCP-NA 🇺🇸 US-204.44.108.234:16899 📡 PING-051.48-MS
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.143:443#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.143:443 📡 PING-059.19-MS
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@104.194.74.199:16899#🔒 SS-TCP-NA 🇺🇸 US-104.194.74.199:16899 📡 PING-059.39-MS
+ss://YWVzLTI1Ni1nY206RHVFNkdwbGFhcA==@24.199.103.101:35678#🔒 SS-TCP-NA 🇺🇸 US-24.199.103.101:35678 📡 PING-059.91-MS
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@204.93.162.143:16899#🔒 SS-TCP-NA 🇺🇸 US-204.93.162.143:16899 📡 PING-060.94-MS
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@67.220.86.72:8882#🔒 SS-TCP-NA 🇺🇸 US-67.220.86.72:8882 📡 PING-062.09-MS
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@174.136.205.47:16899#🔒 SS-TCP-NA 🇺🇸 US-174.136.205.47:16899 📡 PING-062.96-MS
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.75.136.33:6379#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.33:6379 📡 PING-063.01-MS
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.75.136.33:8882#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.33:8882 📡 PING-063.04-MS
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@38.54.94.191:16899#🔒 SS-TCP-NA 🇺🇸 US-38.54.94.191:16899 📡 PING-063.21-MS
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.114.114.225:2375#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.225:2375 📡 PING-063.21-MS
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.75.136.135:7001#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.135:7001 📡 PING-063.22-MS
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.143:4444#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.143:4444 📡 PING-063.27-MS
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.75.137.105:8090#🔒 SS-TCP-NA 🇺🇸 US-38.75.137.105:8090 📡 PING-063.30-MS
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.75.136.108:7306#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.108:7306 📡 PING-063.31-MS
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.75.136.33:6697#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.33:6697 📡 PING-063.34-MS
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.75.137.164:2375#🔒 SS-TCP-NA 🇺🇸 US-38.75.137.164:2375 📡 PING-063.37-MS
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.75.136.108:8091#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.108:8091 📡 PING-063.38-MS
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.75.136.108:2375#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.108:2375 📡 PING-063.59-MS
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@204.93.164.95:16899#🔒 SS-TCP-NA 🇺🇸 US-204.93.164.95:16899 📡 PING-064.80-MS
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@204.93.164.187:16899#🔒 SS-TCP-NA 🇺🇸 US-204.93.164.187:16899 📡 PING-064.98-MS
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@204.93.164.41:16899#🔒 SS-TCP-NA 🇺🇸 US-204.93.164.41:16899 📡 PING-064.99-MS
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@103.114.161.86:16899#🔒 SS-TCP-NA 🇺🇸 US-103.114.161.86:16899 📡 PING-065.96-MS
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@67.220.86.148:8000#🔒 SS-TCP-NA 🇺🇸 US-67.220.86.148:8000 📡 PING-066.09-MS
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@154.44.0.232:16899#🔒 SS-TCP-NA 🇺🇸 US-154.44.0.232:16899 📡 PING-066.11-MS
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@74.121.191.98:989#🔒 SS-TCP-NA 🇺🇸 US-74.121.191.98:989 📡 PING-066.50-MS
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@169.197.142.216:6679#🔒 SS-TCP-NA 🇺🇸 US-169.197.142.216:6679 📡 PING-066.84-MS
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@45.152.84.131:16899#🔒 SS-TCP-NA 🇺🇸 US-45.152.84.131:16899 📡 PING-070.28-MS
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@104.168.43.243:16899#🔒 SS-TCP-NA 🇺🇸 US-104.168.43.243:16899 📡 PING-070.44-MS
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@192.3.251.156:16899#🔒 SS-TCP-NA 🇺🇸 US-192.3.251.156:16899 📡 PING-072.23-MS
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@107.174.11.85:16899#🔒 SS-TCP-NA 🇺🇸 US-107.174.11.85:16899 📡 PING-072.27-MS
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.120.231.45:989#🔒 SS-TCP-NA 🇨🇴 CO-190.120.231.45:989 📡 PING-072.56-MS
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@137.175.66.154:16899#🔒 SS-TCP-NA 🇺🇸 US-137.175.66.154:16899 📡 PING-074.62-MS
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@23.92.127.134:989#🔒 SS-TCP-NA 🇮🇪 IE-23.92.127.134:989 📡 PING-074.81-MS
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@23.92.127.133:989#🔒 SS-TCP-NA 🇮🇪 IE-23.92.127.133:989 📡 PING-074.97-MS
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@179.49.5.114:989#🔒 SS-TCP-NA 🇪🇨 EC-179.49.5.114:989 📡 PING-075.84-MS
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.68.206.229:8118#🔒 SS-TCP-NA 🇬🇧 GB-51.68.206.229:8118 📡 PING-077.72-MS
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@77.72.5.150:989#🔒 SS-TCP-NA 🇬🇧 GB-77.72.5.150:989 📡 PING-077.77-MS
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@138.186.142.4:989#🔒 SS-TCP-NA 🇵🇦 PA-138.186.142.4:989 📡 PING-078.00-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLM2Zzc3cyR0ZVcVR3anQ0SGxzV2p2@51.140.34.50:35276#🔒 SS-TCP-NA 🇬🇧 GB-51.140.34.50:35276 📡 PING-078.75-MS
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@77.72.5.113:989#🔒 SS-TCP-NA 🇬🇧 GB-77.72.5.113:989 📡 PING-079.54-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6T3dXYVdRQWtveUk5a3pMUEJqcE9o@149.248.76.129:28824#🔒 SS-TCP-NA 🇺🇸 US-149.248.76.129:28824 📡 PING-079.64-MS
+ss://YWVzLTI1Ni1nY206S2tEelkxMDFPZQ==@51.195.149.115:45816#🔒 SS-TCP-NA 🇫🇷 FR-51.195.149.115:45816 📡 PING-079.86-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQkVCalhVNlNrMFVLNFQ2@3.11.154.255:443#🔒 SS-TCP-NA 🇬🇧 GB-3.11.154.255:443 📡 PING-080.05-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3aXZyR0VIWTg4c1FrM0RQ@52.56.37.243:443#🔒 SS-TCP-NA 🇬🇧 GB-52.56.37.243:443 📡 PING-080.67-MS
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@45.154.3.165:16899#🔒 SS-TCP-NA 🇺🇸 US-45.154.3.165:16899 📡 PING-081.14-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@52.56.201.59:443#🔒 SS-TCP-NA 🇬🇧 GB-52.56.201.59:443 📡 PING-081.20-MS
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@149.202.82.172:5003#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:5003 📡 PING-081.48-MS
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:5600#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:5600 📡 PING-081.90-MS
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@51.68.206.229:8080#🔒 SS-TCP-NA 🇬🇧 GB-51.68.206.229:8080 📡 PING-082.02-MS
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@149.202.82.172:8009#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:8009 📡 PING-082.07-MS
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@149.202.82.172:9102#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:9102 📡 PING-082.07-MS
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.245.36.10:443#🔒 SS-TCP-NA 🇺🇸 US-54.245.36.10:443 📡 PING-082.57-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptSlJCbjFid0VyMXlBblo3dTBNS2dn@92.243.27.51:9802#🔒 SS-TCP-NA 🇫🇷 FR-92.243.27.51:9802 📡 PING-082.66-MS
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@149.202.82.172:5500#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:5500 📡 PING-082.86-MS
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@149.202.82.172:8000#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:8000 📡 PING-083.27-MS
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@51.158.150.210:5498#🔒 SS-TCP-NA 🇫🇷 FR-51.158.150.210:5498 📡 PING-084.44-MS
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#🔒 SS-TCP-NA 🇳🇱 NL-109.201.152.181:443 📡 PING-084.49-MS
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@149.202.82.172:443#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:443 📡 PING-085.88-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZjhqZE9JS2t4UldNVWVPZlhQZW84@109.107.172.30:28190#🔒 SS-TCP-NA 🇳🇱 NL-109.107.172.30:28190 📡 PING-086.30-MS
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:3389#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:3389 📡 PING-086.42-MS
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.186.125.168:443#🔒 SS-TCP-NA 🇺🇸 US-54.186.125.168:443 📡 PING-086.66-MS
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@149.202.82.172:8091#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:8091 📡 PING-087.44-MS
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@149.202.82.172:8119#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:8119 📡 PING-087.92-MS
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@149.202.82.172:4444#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:4444 📡 PING-087.94-MS
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.235.55.42:989#🔒 SS-TCP-NA 🇮🇲 IM-37.235.55.42:989 📡 PING-087.95-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOR1F6TXpReg==@94.131.111.32:8388#🔒 SS-TCP-NA 🇩🇪 DE-94.131.111.32:8388 📡 PING-088.68-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.178.87.37:805#🔒 SS-TCP-NA 🇫🇷 FR-51.178.87.37:805 📡 PING-089.98-MS
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@104.234.69.244:16899#🔒 SS-TCP-NA 🇨🇦 CA-104.234.69.244:16899 📡 PING-090.25-MS
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@217.182.198.219:2375#🔒 SS-TCP-NA 🇩🇪 DE-217.182.198.219:2375 📡 PING-090.54-MS
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@217.182.198.219:3306#🔒 SS-TCP-NA 🇩🇪 DE-217.182.198.219:3306 📡 PING-090.71-MS
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@217.182.198.219:3389#🔒 SS-TCP-NA 🇩🇪 DE-217.182.198.219:3389 📡 PING-090.72-MS
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@217.182.198.219:2376#🔒 SS-TCP-NA 🇩🇪 DE-217.182.198.219:2376 📡 PING-090.88-MS
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@217.182.198.219:5000#🔒 SS-TCP-NA 🇩🇪 DE-217.182.198.219:5000 📡 PING-091.06-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0ZXN0@188.64.62.202:17598#🔒 SS-TCP-NA 🇩🇪 DE-188.64.62.202:17598 📡 PING-091.17-MS
+ss://YWVzLTEyOC1nY206VGVsZWdyYW06QFpFRE1PREVPTg==@116.203.145.67:2096#🔒 SS-TCP-NA 🇩🇪 DE-116.203.145.67:2096 📡 PING-091.27-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFZ2c3MllXZE9sYVpRSHZOQ2E2cFRzdzBUZGs4L1B5RHZQSUgwc2tkN1N3PQ==@3.66.227.110:2087#🔒 SS-TCP-NA 🇩🇪 DE-3.66.227.110:2087 📡 PING-091.51-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQjFPdXpFcXFSbVdESlZ5akNDMVNEVkRRcUh6MlFHNFJ4dTlMdFFrajg4PQ==@3.121.216.213:2087#🔒 SS-TCP-NA 🇩🇪 DE-3.121.216.213:2087 📡 PING-091.55-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvZExsSUphKy83TlZxWWhVTGl3NGVBZ3R5RHBVUWpyMWxYZ0wxMDY3TmpZPQ==@35.158.250.132:2087#🔒 SS-TCP-NA 🇩🇪 DE-35.158.250.132:2087 📡 PING-092.65-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVeG00QUR3ZnRLZFhxNXFSQTRaZkhT@49.13.10.50:1194#🔒 SS-TCP-NA 🇩🇪 DE-49.13.10.50:1194 📡 PING-092.92-MS
+ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@5.188.181.201:9041#🔒 SS-TCP-NA 🇪🇸 ES-5.188.181.201:9041 📡 PING-095.52-MS
+ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@5.188.181.201:9037#🔒 SS-TCP-NA 🇪🇸 ES-5.188.181.201:9037 📡 PING-096.01-MS
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@156.146.62.160:443#🔒 SS-TCP-NA 🇨🇭 CH-156.146.62.160:443 📡 PING-096.92-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjSjZEdUhsM2dEbXpMWjJXNDN5MldV@212.113.106.76:61992#🔒 SS-TCP-NA 🇦🇹 AT-212.113.106.76:61992 📡 PING-101.19-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUMFRJbDhBVzBPOTBvTFNsU2FYNzRG@193.17.183.40:65492#🔒 SS-TCP-NA 🇪🇸 ES-193.17.183.40:65492 📡 PING-102.98-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpORGcyWVdJeg==@95.164.35.90:1443#🔒 SS-TCP-NA 🇵🇱 PL-95.164.35.90:1443 📡 PING-103.06-MS
+ss://YWVzLTI1Ni1jZmI6S0JHalpZY3k0U3lSU2htQQ==@217.30.10.70:9044#🔒 SS-TCP-NA 🇵🇱 PL-217.30.10.70:9044 📡 PING-105.14-MS
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.90.61.153:989#🔒 SS-TCP-NA 🇳🇴 NO-185.90.61.153:989 📡 PING-105.50-MS
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@54.36.174.181:8881#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:8881 📡 PING-106.00-MS
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@51.77.53.200:9101#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:9101 📡 PING-106.82-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3NWRyQUw3UGZDSXdRMnljVXVvRHNWMkxz@212.113.106.243:13022#🔒 SS-TCP-NA 🇦🇹 AT-212.113.106.243:13022 📡 PING-107.48-MS
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@54.36.174.181:5500#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:5500 📡 PING-108.42-MS
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@54.36.174.181:9101#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:9101 📡 PING-108.92-MS
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@54.36.174.181:5601#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:5601 📡 PING-108.94-MS
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@54.36.174.181:5003#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:5003 📡 PING-108.94-MS
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@54.36.174.181:8882#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:8882 📡 PING-109.06-MS
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:5000#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:5000 📡 PING-109.07-MS
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@54.36.174.181:8118#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:8118 📡 PING-109.26-MS
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@54.36.174.181:8080#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:8080 📡 PING-109.37-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVVUV4Z0ptNWRxdXlJYVRTS3VxeWg4@46.29.234.164:8670#🔒 SS-TCP-NA 🇱🇹 LT-46.29.234.164:8670 📡 PING-110.19-MS
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#🔒 SS-TCP-NA 🇸🇪 SE-121.127.46.147:989 📡 PING-110.42-MS
+ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@213.183.63.69:9025#🔒 SS-TCP-NA 🇧🇬 BG-213.183.63.69:9025 📡 PING-112.44-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMGI1Wm9FUm96S0c0ZHIwVmEzRFhiQ1VVUXh1VUJqSVo5RjgwcXFJdmYwPQ==@186.233.118.171:5600#🔒 SS-TCP-NA 🇧🇷 BR-186.233.118.171:5600 📡 PING-112.70-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVWG9HV3lqd0RWWklsMVdNdUh0eFNp@139.28.220.18:5700#🔒 SS-TCP-NA 🇫🇮 FI-139.28.220.18:5700 📡 PING-113.45-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYN2VvRUJyQVJXc0JVaVZmY2hWRWRI@185.77.217.121:443#🔒 SS-TCP-NA 🇫🇮 FI-185.77.217.121:443 📡 PING-114.14-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxTTFEYlVjUk9RNENlRGpjQ0VYNG9K@65.108.142.67:47146#🔒 SS-TCP-NA 🇫🇮 FI-65.108.142.67:47146 📡 PING-115.16-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0cFdWYklWSXV3NExLOXd2TWdjSFc1@193.228.128.143:27981#🔒 SS-TCP-NA 🇪🇪 EE-193.228.128.143:27981 📡 PING-121.37-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsckpWWUhDaVpBM1ZkUmNrRVdRblNn@109.107.189.185:17397#🔒 SS-TCP-NA 🇷🇺 RU-109.107.189.185:17397 📡 PING-121.47-MS
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.164.35.9:989#🔒 SS-TCP-NA 🇧🇦 BA-185.164.35.9:989 📡 PING-122.52-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoVUw5Rm1FR0JwVkJjdnF1REhaaENw@195.2.76.71:60422#🔒 SS-TCP-NA 🇷🇺 RU-195.2.76.71:60422 📡 PING-123.12-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4ampIaGhXeXlJUUFsMVdIV2t6ZHhs@176.123.1.241:8576#🔒 SS-TCP-NA 🇲🇩 MD-176.123.1.241:8576 📡 PING-123.16-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZmJlYjY2OGY0ODQxNGY2@45.139.24.63:57456#🔒 SS-TCP-NA 🇷🇺 RU-45.139.24.63:57456 📡 PING-125.00-MS
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@31.171.153.181:989#🔒 SS-TCP-NA 🇦🇱 AL-31.171.153.181:989 📡 PING-125.27-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRcDQxbEoxT0JmY0Y0YVRSS29Ma1JV@195.2.85.32:56901#🔒 SS-TCP-NA 🇷🇺 RU-195.2.85.32:56901 📡 PING-126.23-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNbVF4WVRabQ==@91.194.161.7:8388#🔒 SS-TCP-NA 🇮🇸 IS-91.194.161.7:8388 📡 PING-127.30-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOQzdqT1JWTnJydVYvKzMrUHdPSnJubk9lRzduNzVYMQ==@89.19.216.18:8388#🔒 SS-TCP-NA 🇳🇱 NL-89.19.216.18:8388 📡 PING-135.31-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEbU1RVW1JN3BnUURucldxTFhDMDBM@94.228.165.234:15214#🔒 SS-TCP-NA 🇵🇱 PL-94.228.165.234:15214 📡 PING-137.41-MS
+ss://YWVzLTI1Ni1nY206ZlZkb3Z2S0JsQzA2cE83cw==@195.20.17.224:34282#🔒 SS-TCP-NA 🇮🇱 IL-195.20.17.224:34282 📡 PING-139.15-MS
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.103.176.29:989#🔒 SS-TCP-NA 🇦🇷 AR-190.103.176.29:989 📡 PING-142.38-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpadTVzVmRoUElUa0lJMVJmOWJVVGp0MHdzMW5rczR2Z0JvSGhlN1F4d0VrMGozQWk=@146.185.198.44:51348#🔒 SS-TCP-NA 🇷🇺 RU-146.185.198.44:51348 📡 PING-145.13-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:800#🔒 SS-TCP-NA 🇯🇵 JP-185.172.113.182:800 📡 PING-150.16-MS
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.72.14.217:443#🔒 SS-TCP-NA 🇯🇵 JP-35.72.14.217:443 📡 PING-151.04-MS
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.77.89.124:443#🔒 SS-TCP-NA 🇯🇵 JP-35.77.89.124:443 📡 PING-151.68-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:810#🔒 SS-TCP-NA 🇯🇵 JP-185.172.113.182:810 📡 PING-153.91-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:811#🔒 SS-TCP-NA 🇯🇵 JP-185.172.113.182:811 📡 PING-154.11-MS
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.112.216.180:443#🔒 SS-TCP-NA 🇯🇵 JP-13.112.216.180:443 📡 PING-154.26-MS
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.183.180.49:443#🔒 SS-TCP-NA 🇯🇵 JP-18.183.180.49:443 📡 PING-154.48-MS
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.177.138.167:443#🔒 SS-TCP-NA 🇯🇵 JP-18.177.138.167:443 📡 PING-154.50-MS
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.115.234.77:443#🔒 SS-TCP-NA 🇯🇵 JP-13.115.234.77:443 📡 PING-155.40-MS
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.112.241.19:443#🔒 SS-TCP-NA 🇯🇵 JP-3.112.241.19:443 📡 PING-156.14-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:812#🔒 SS-TCP-NA 🇯🇵 JP-185.172.113.182:812 📡 PING-158.20-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MzVkMjFiMC01MzIyLTRhNzctOGFmZi00YWZmNjMzNjQyYjA=@103.106.228.152:61001#🔒 SS-TCP-NA 🇯🇵 JP-103.106.228.152:61001 📡 PING-158.41-MS
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.195.10.194:443#🔒 SS-TCP-NA 🇯🇵 JP-52.195.10.194:443 📡 PING-158.53-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:801#🔒 SS-TCP-NA 🇯🇵 JP-185.172.113.182:801 📡 PING-158.89-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzOFgxVWlqV3NFU2ZBYk5PU1dhOTRv@89.187.28.20:443#🔒 SS-TCP-NA 🇯🇵 JP-89.187.28.20:443 📡 PING-159.33-MS
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.183.228.15:443#🔒 SS-TCP-NA 🇯🇵 JP-18.183.228.15:443 📡 PING-159.49-MS
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.249.1.223:443#🔒 SS-TCP-NA 🇯🇵 JP-54.249.1.223:443 📡 PING-160.13-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJZnRVaWlLaGtqSzlaQ3Rwc3RnRG16@147.45.49.6:36997#🔒 SS-TCP-NA 🇷🇺 RU-147.45.49.6:36997 📡 PING-164.48-MS
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.103.179.23:989#🔒 SS-TCP-NA 🇲🇽 MX-190.103.179.23:989 📡 PING-170.42-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4TUtMdmxXU2RYM3U3M25INzg2azZy@188.94.155.82:35152#🔒 SS-TCP-NA 🇰🇿 KZ-188.94.155.82:35152 📡 PING-175.69-MS
+ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@15.184.10.33:443#🔒 SS-TCP-NA 🇧🇭 BH-15.184.10.33:443 📡 PING-181.52-MS
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.125.19.50:443#🔒 SS-TCP-NA 🇰🇷 KR-13.125.19.50:443 📡 PING-182.12-MS
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.180.156.133:443#🔒 SS-TCP-NA 🇰🇷 KR-54.180.156.133:443 📡 PING-185.76-MS
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.180.9.46:443#🔒 SS-TCP-NA 🇰🇷 KR-54.180.9.46:443 📡 PING-186.30-MS
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.34.200.94:443#🔒 SS-TCP-NA 🇰🇷 KR-3.34.200.94:443 📡 PING-186.34-MS
+ss://YWVzLTEyOC1nY206Q2F0dWx1czExRA==@188.253.6.232:50000#🔒 SS-TCP-NA 🇹🇼 TW-188.253.6.232:50000 📡 PING-186.70-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYV2o1RjVNYmxxRThWTFRzVk9xbTY0@65.20.78.250:37262#🔒 SS-TCP-NA 🇮🇳 IN-65.20.78.250:37262 📡 PING-204.28-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5Tkp1Z2tTZTZ5b1BGSmlTNGR2TFJSZzA3SzkySkV2QUpTUmZMcjc1Vkh4ZDdLTTU=@209.182.232.30:51348#🔒 SS-TCP-NA 🇮🇳 IN-209.182.232.30:51348 📡 PING-212.79-MS
+ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ==@103.172.116.103:9006#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9006 📡 PING-216.67-MS
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@41.203.4.34:989#🔒 SS-TCP-NA 🇿🇦 ZA-41.203.4.34:989 📡 PING-217.03-MS
+ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA==@103.172.116.79:9064#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9064 📡 PING-217.48-MS
+ss://YWVzLTI1Ni1jZmI6ZjhucEtnTnpka3NzMnl0bg==@103.172.116.79:9088#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9088 📡 PING-218.28-MS
+ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@103.172.116.79:9041#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9041 📡 PING-220.20-MS
+ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA==@103.172.116.103:9064#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9064 📡 PING-221.34-MS
+ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA==@103.172.116.79:9027#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9027 📡 PING-221.46-MS
+ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ==@103.172.116.79:9000#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9000 📡 PING-221.56-MS
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.250.61.18:443#🔒 SS-TCP-NA 🇸🇬 SG-13.250.61.18:443 📡 PING-221.88-MS
+ss://YWVzLTI1Ni1jZmI6S0JHalpZY3k0U3lSU2htQQ==@103.172.116.79:9044#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9044 📡 PING-224.29-MS
+ss://YWVzLTI1Ni1jZmI6VlA4WlB4UXBKdFpSQ2pmWg==@103.172.116.79:9080#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9080 📡 PING-225.16-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxcTdSTkthSWsyd1lPOGZFUG1FWDB2V1E3VmErUVJUQQ==@91.192.81.21:8388#🔒 SS-TCP-NA 🇸🇬 SG-91.192.81.21:8388 📡 PING-227.73-MS
+ss://YWVzLTI1Ni1nY206cTA2Q2JraFZYeDdYVnYwRA==@95.164.19.233:17038#🔒 SS-TCP-NA 🇰🇿 KZ-95.164.19.233:17038 📡 PING-234.83-MS
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@47.129.9.69:443#🔒 SS-TCP-NA 🇸🇬 SG-47.129.9.69:443 📡 PING-240.56-MS
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@62.12.116.66:989#🔒 SS-TCP-NA 🇰🇪 KE-62.12.116.66:989 📡 PING-291.21-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:807#🔒 SS-TCP-NA 🇨🇦 CA-134.195.196.178:807 📡 PING-041.34-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2elIzc0JZSktJVEVuZUdqZ3ZpN1Zs@23.26.133.154:443#🔒 SS-TCP-NA 🇺🇸 US-23.26.133.154:443 📡 PING-041.02-MS
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.68.135.18:5500#🔒 SS-TCP-NA 🇺🇸 US-38.68.135.18:5500 📡 PING-037.54-MS
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.68.134.9:7001#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:7001 📡 PING-037.52-MS
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.248:8882#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.248:8882 📡 PING-031.23-MS
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@172.245.205.50:16899#🔒 SS-TCP-NA 🇺🇸 US-172.245.205.50:16899 📡 PING-030.99-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJQ1RPdFJPanJBcUlvdHNFWVRHOE5j@45.153.48.114:443#🔒 SS-TCP-NA 🇨🇦 CA-45.153.48.114:443 📡 PING-028.34-MS
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.121.43.97:6697#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.97:6697 📡 PING-028.03-MS
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@172.245.205.50:30129#🔒 SS-TCP-NA 🇺🇸 US-172.245.205.50:30129 📡 PING-021.38-MS
+ss://YWVzLTI1Ni1jZmI6Z1lDWVhma1VRRXMyVGFKUQ==@194.116.173.21:9038#🔒 SS-TCP-NA 🇺🇸 US-194.116.173.21:9038 📡 PING-020.62-MS
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@66.135.11.73:16899#🔒 SS-TCP-NA 🇺🇸 US-66.135.11.73:16899 📡 PING-015.11-MS
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@66.135.21.20:16899#🔒 SS-TCP-NA 🇺🇸 US-66.135.21.20:16899 📡 PING-013.14-MS
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@144.202.2.250:16899#🔒 SS-TCP-NA 🇺🇸 US-144.202.2.250:16899 📡 PING-012.57-MS
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@45.77.223.124:16899#🔒 SS-TCP-NA 🇺🇸 US-45.77.223.124:16899 📡 PING-012.53-MS
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@157.254.231.189:16899#🔒 SS-TCP-NA 🇺🇸 US-157.254.231.189:16899 📡 PING-012.10-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiU0RkNXJUZnJlWWpHUlRPY2k3bTlB@157.245.15.16:1012#🔒 SS-TCP-NA 🇺🇸 US-157.245.15.16:1012 📡 PING-011.87-MS
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@45.63.10.69:16899#🔒 SS-TCP-NA 🇺🇸 US-45.63.10.69:16899 📡 PING-011.51-MS
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@23.26.67.40:16899#🔒 SS-TCP-NA 🇺🇸 US-23.26.67.40:16899 📡 PING-011.42-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@169.197.141.186:801#🔒 SS-TCP-NA 🇺🇸 US-169.197.141.186:801 📡 PING-011.13-MS
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.107.226.132:5003#🔒 SS-TCP-NA 🇺🇸 US-38.107.226.132:5003 📡 PING-010.87-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMTNTN2RvWGFyMEE=@205.134.180.137:443#🔒 SS-TCP-NA 🇺🇸 US-205.134.180.137:443 📡 PING-007.25-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoZ0xDZ2ZMUmdCNmQ=@205.134.180.145:443#🔒 SS-TCP-NA 🇺🇸 US-205.134.180.145:443 📡 PING-007.24-MS
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@138.91.113.228:30129#🔒 SS-TCP-NA 🇺🇸 US-138.91.113.228:30129 📡 PING-006.21-MS
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@138.91.113.228:16899#🔒 SS-TCP-NA 🇺🇸 US-138.91.113.228:16899 📡 PING-005.92-MS
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@54.36.174.181:5000#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:5000 📡 PING-000.00-MS
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@54.36.174.181:6697#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:6697 📡 PING-000.00-MS
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@54.36.174.181:6679#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:6679 📡 PING-000.00-MS
+ss://bm9uZTphYWNiYmFjLWJjYWEtYWJjYS1jYmFkLWNjYWNhY2FiYmFiYg==@127.0.0.1:8080#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
 vmess://ewogICAgICAgICAgICAidiI6ICIyIiwKICAgICAgICAgICAgInBzIjogIuabtOaWsOS6jiAwNC0wMSAwMDozMCBieSBodHRwczovL2dpdGh1Yi5jb20vdHMtc2YvZmx5IiwKICAgICAgICAgICAgImFkZCI6ICIxMjcuMS4xLjEyNyIsCiAgICAgICAgICAgICJwb3J0IjogIjgwIiwKICAgICAgICAgICAgImlkIjogIjYwMjczNmU0LWEyZTgtNGViMy05ZmM5LTdjNzA4MjkyNTM2NSIsCiAgICAgICAgICAgICJhaWQiOiAiMCIsCiAgICAgICAgICAgICJzY3kiOiAiYXV0byIsCiAgICAgICAgICAgICJuZXQiOiAidGNwIiwKICAgICAgICAgICAgInR5cGUiOiAibm9uZSIsCiAgICAgICAgICAgICJob3N0IjogIiIsCiAgICAgICAgICAgICJwYXRoIjogIiIsCiAgICAgICAgICAgICJ0bHMiOiAiIiwKICAgICAgICAgICAgInNuaSI6ICIiLAogICAgICAgICAgICAiYWxwbiI6ICIiLAogICAgICAgICAgICAiZnAiOiAiIgogICAgICAgICAgfQogICAgICAgIA==
 trojan://241f01b9-8dfc-474f-8342-3fbd5c46417e@172.67.192.61:2087?security=tls&type=grpc&sni=grpcfr.arminhadadi.site#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTIiLCJhZGQiOiIxMDQuMjEuMjI4LjQzIiwicG9ydCI6IjgwIiwiaWQiOiI3MDIyOTgyZi1kYTRjLTQ4YzktYzY2MC1iMjMxNWFiZGNmN2UiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiYS5wcmFwdDQuaXIiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IlVT576O5Zu9MiJ9
@@ -588,19 +604,3 @@ vmess://ewogICAgImFkZCI6ICIxMDMuMTc5LjE0Mi40NCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:811#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.178-0624
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:811#%F0%9F%87%AF%F0%9F%87%B5JP-185.172.113.182-0625
 vmess://ewogICAgImFkZCI6ICJtaXpiYW4uYXJ6b25ob3N0LmlyIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAibWl6YmFuLmFyem9uaG9zdC5pciIsCiAgICAiaWQiOiAiZTY5MGZmOWUtMTY3Ni00YmUzLWQxMzYtZGNhZTU4NmNiMWU3IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDIwODYsCiAgICAicHMiOiAi8J+PgVJFTEFZLTEwLjEwLjM0LjM2LTAxMzEiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:804#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.178-0632
-ss://YWVzLTI1Ni1jZmI6TnZTOE40VmY4cUFHUFNDTA==@103.172.116.103:9046#%F0%9F%87%B8%F0%9F%87%ACSG-103.172.116.103-0605
-vmess://ewogICAgImFkZCI6ICIxNzIuNjcuMjI5LjM5IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiY2E2LnRlaG1lMTAwLmZ1biIsCiAgICAiaWQiOiAiNThmZTE1NDItNTI5MC00MGFkLTgxNWEtNzc3MDdhODFhZmU1IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL0lPZWJoTE1obDFDVGJGSGJMOTVteWZSWDIiLAogICAgInBvcnQiOiAyMDg2LAogICAgInBzIjogIvCfj4FSRUxBWS0xNzIuNjcuMjI5LjM5LTIxMzEiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@47.129.9.69:443#%F0%9F%87%B8%F0%9F%87%ACSG-47.129.9.69-0596
-vmess://ewogICAgImFkZCI6ICIxNzIuNjcuMjI5LjM1IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiY2E2LnRlaG1lMTAwLmZ1biIsCiAgICAiaWQiOiAiNThmZTE1NDItNTI5MC00MGFkLTgxNWEtNzc3MDdhODFhZmU1IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL0lPZWJoTE1obDFDVGJGSGJMOTVteWZSWDIiLAogICAgInBvcnQiOiAyMDg2LAogICAgInBzIjogIvCfj4FSRUxBWS0xNzIuNjcuMjI5LjM1LTIwOTMiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@45.89.52.66:9037#%F0%9F%87%B9%F0%9F%87%B7TR-45.89.52.66-0586
-ss://YWVzLTI1Ni1jZmI6eTlWVVJ5TnpKV05SWUVHUQ==@103.172.116.103:9008#%F0%9F%87%B8%F0%9F%87%ACSG-103.172.116.103-0604
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@213.169.137.221:989#%F0%9F%87%A8%F0%9F%87%BECY-213.169.137.221-0617
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.180.156.133:443#%F0%9F%87%B0%F0%9F%87%B7KR-54.180.156.133-0621
-ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@45.89.52.66:9031#%F0%9F%87%B9%F0%9F%87%B7TR-45.89.52.66-8854
-ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@45.89.52.66:9041#%F0%9F%87%B9%F0%9F%87%B7TR-45.89.52.66-0590
-ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg==@45.89.52.66:9043#%F0%9F%87%B9%F0%9F%87%B7TR-45.89.52.66-8849
-ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@45.89.52.66:9042#%F0%9F%87%B9%F0%9F%87%B7TR-45.89.52.66-8850
-vmess://ewogICAgImFkZCI6ICIxMDQuMjEuMjMuMjMxIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAib25lYS5mbGhhLnJ1IiwKICAgICJpZCI6ICI3YTczN2Y0MS1iNzkyLTQyNjAtOTRmZi0zZDg2NGRhNjdiODAiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogMjA5NSwKICAgICJwcyI6ICLwn4+BUkVMQVktMTA0LjIxLjIzLjIzMS0wNTk5IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.125.31.113:443#%F0%9F%87%B0%F0%9F%87%B7KR-13.125.31.113-3299
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.201.24.53:443#%F0%9F%87%B0%F0%9F%87%B7KR-43.201.24.53-3518
