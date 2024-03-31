@@ -4,6 +4,14 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.30.209:80?type=ws&host=us1.rtacg.com&path=/&fp=chrome#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.30.209:80 📡 PING-005.16-MS
+vless://f567caa3-2222-43ad-b203-d6441c6142d8@199.181.197.42:2053?security=tls&sni=miza-grpc-1fd076e7db240eccd6bdf8cc31aa5fde.mitsonic.com&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🇺🇸 US-199.181.197.42:2053 📡 PING-005.16-MS
+vless://f567caa3-2222-43ad-b203-d6441c6142d8@162.159.143.199:2053?security=tls&sni=miza-grpc-1fd076e7db240eccd6bdf8cc31aa5fde.mitsonic.com&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.143.199:2053 📡 PING-005.16-MS
+vless://4c2fc19e-6f56-4218-9f90-91d431b37f50@104.18.13.130:8443?security=tls&sni=chanel.mmmahsv1.onflashdrive.app&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.13.130:8443 📡 PING-005.16-MS
+vless://d91d2391-4009-484f-ad23-36851e765251@172.67.73.216:80?security=none&type=ws&host=ip.xn--69-pv2cl2k5x3fipr.site&path=%2Ftel-ipV2Ray--tel-ipV2Ray--tel-ipV2Ray--tel-ipV2Ray%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-172.67.73.216:80 📡 PING-005.15-MS
+vless://3cbc7f82-974c-4472-be41-47bde81775fc@151.101.66.168:80?security=none&type=ws&host=aklisvpn.com&path=%2F%40aklisvpn#🔒 VL-WS-NONE 🇺🇸 US-151.101.66.168:80 📡 PING-005.15-MS
+vless://c0bbc158-739c-4056-ad08-e3f0372b993c@162.159.133.234:8080?security=none&type=ws&host=SHHPROXY-free.xn--69-pv2cl2k5x3fipr.org.&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.133.234:8080 📡 PING-005.15-MS
+vless://7e740a0b-2170-56d3-bd76-eef0e12afddd@172.67.176.179:2083?security=tls&sni=1.mahdiserverorg-0ef.woRkerS.DeV&type=ws&host=1.mahdiserverorg-0ef.woRkerS.DeV&path=vless-ws%2F%3Fed%3D2048&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.67.176.179:2083 📡 PING-005.15-MS
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.105.46:80?security=none&type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.105.46:80 📡 PING-005.15-MS
 vless://86cb9a9b-dc2e-45d6-b35d-7ce1daa32a15@172.64.229.35:8443?security=tls&sni=dns68.shift.cloudns.org&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-172.64.229.35:8443 📡 PING-005.15-MS
 vless://aabc3ef9-6968-4311-81b8-8cd0414c1904@141.101.113.110:80?security=none&type=ws&host=luact.zahedan.eu.org&path=Path%2FTelegram+%3A+%40v2ray1_ng--%40v2ray1_ng--%40v2ray1_ng--%40v2ray1_ng--%40v2ray1_ng--%40v2ray1_ng--%40v2ray1_ng--%40v2ray1_ng--%40v2ray1_ng--%40v2ray1_ng--%40v2ray1_ng--%40v2ray1_ng--%40v2ray1_ng--%40v2ray1_ng--%40v2ray1_ng%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-141.101.113.110:80 📡 PING-005.15-MS
@@ -596,11 +604,3 @@ trojan://telegram-id-privatevpns@13.36.79.202:22222?security=tls&sni=trojan.burg
 trojan://a4c2d97f-541e-4391-b2b2-5e5587981761@172.207.241.139:443?security=tls&sni=ru.mjt000.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇯🇵 JP-172.207.241.139:443 📡 PING-154.56-MS
 trojan://1fcee0f6-f908-49d2-b45f-b369c8a8ca41@139.162.112.174:443?#🔒 TR-TCP-NA 🇯🇵 JP-139.162.112.174:443 📡 PING-154.71-MS
 trojan://telegram-id-directvpn@13.50.83.117:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.50.83.117:22222 📡 PING-159.19-MS
-trojan://telegram-id-privatevpns@18.195.25.17:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-18.195.25.17:22222 📡 PING-159.66-MS
-trojan://telegram-id-privatevpns@16.16.33.64:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-16.16.33.64:22222 📡 PING-159.98-MS
-trojan://cadf7475-3388-4cf9-baa2-b07739126a43@45.140.169.83:30002?security=tls&sni=ru01.freeflyingcloud.xyz&type=tcp#🔒 TR-TCP-TLS 🇷🇺 RU-45.140.169.83:30002 📡 PING-163.84-MS
-trojan://5425aa49-ec9d-4df3-aaad-878270e78635@114.45.78.195:18912?security=tls&sni=ty12t.twty.dynu.net&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇹🇼 TW-114.45.78.195:18912 📡 PING-187.45-MS
-trojan://acb05e97-0ce2-4ba4-996a-bcd1c1f6b578@192.53.168.192:443?#🔒 TR-TCP-NA 🇦🇺 AU-192.53.168.192:443 📡 PING-198.85-MS
-trojan://5eb5bdf9-4a70-4890-b2ca-8b2b79792639@113.52.123.210:10443?sni=macau.hapchung.com#🔒 TR-TCP-NA 🇲🇴 MO-113.52.123.210:10443 📡 PING-199.77-MS
-trojan://sYZmonbPTS@146.190.83.142:39414?security=tls&sni=m.facebook.net&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-146.190.83.142:39414 📡 PING-215.43-MS
-trojan://alNcKwdlz3@146.190.83.142:43007?security=tls&sni=static.whatsapp.net&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-146.190.83.142:43007 📡 PING-215.85-MS
