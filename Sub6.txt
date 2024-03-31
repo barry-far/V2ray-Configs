@@ -4,6 +4,12 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://324f2064-d39e-4570-8405-81adcb6d827a@162.159.136.234:2083?security=tls&sni=re2.v2logy.xyz&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.136.234:2083 📡 PING-000.94-MS
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@147.78.140.193:2096?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=TG%40ZDYZ2&fp=random#🔒 VL-WS-TLS 🇧🇬 BG-147.78.140.193:2096 📡 PING-000.93-MS
+vless://0a8da4e2-5348-4cb1-bfbc-80ed29931e88@185.146.173.59:2096?security=tls&sni=chanel.mmmahsv1.onflashdrive.app&type=grpc#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.59:2096 📡 PING-000.93-MS
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.3.10:80?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🇺🇸 US-151.101.3.10:80 📡 PING-000.93-MS
+vless://f7753280-0c98-4c7e-ae87-104311fb04ab@104.21.69.44:2083?security=tls&sni=fd.bo3kot.com&type=grpc&serviceName=@MxV2ray,MxV2ray,MxV2ray,&fp=safari&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.69.44:2083 📡 PING-000.93-MS
+vless://b080f0cd-9c8f-4f88-b274-621e0624739c@104.31.16.94:80?security=none&type=ws&host=ir.kobide.ba.berenj.irani.softgozarir.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.31.16.94:80 📡 PING-000.93-MS
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.192.144:443?security=tls&sni=GOV.UK&type=ws&host=k.kp&path=%2Fproxy_mtm%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-151.101.192.144:443 📡 PING-000.93-MS
 vless://7f55b425-a623-439b-bbd5-0b1778162054@103.184.44.77:80?security=none&type=ws&host=v2raygodvip--free2.Azaronline.Org.&path=%40V2rayGodVip%3DTelegram%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇨🇳 CN-103.184.44.77:80 📡 PING-000.93-MS
 vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@188.114.99.243:443?security=tls&sni=w1.sylar8.eu.org&type=ws&host=w1.sylar8.eu.org&path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇳🇱 NL-188.114.99.243:443 📡 PING-000.93-MS
@@ -598,9 +604,3 @@ vmess://eyJhZGQiOiAiMTUyLjY5LjE5Ny43NCIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAi
 vmess://eyJhZGQiOiAiMTI3LjAuMC4xIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImFhY2NhYmItYWNiYS1hYmFjLWJjZGEtYWNhYmFjY2JjYmFiIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6IDgwODAsICJwcyI6ICJcdWQ4M2RcdWRjNjhcdWQ4M2NcdWRmZmJcdTIwMGRcdWQ4M2RcdWRjYmIgREVWRUxPUEVELUJZIFNPUk9VU0gtTUlSWkFFSSBcdWQ4M2RcdWRjY2MgRk9MTE9XLUNPTlRBQ1QgU1lEU1JTTVJaIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
 trojan://bacbcaa-aacb-caba-cdab-ccaaabbabcbc@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 SUN-12-FARVARDIN-1403 🕑 22:18
 trojan://acbacba-baac-cbaa-dabc-aabcbbcacbca@127.0.0.1:2080?security=tls&type=tcp#⚠️ UNDER CONSTRUCTION 🔴 REPORT TECHNICAL ISSUES 🟢 SUGGEST FEATURE ENHANCEMENT
-trojan://telegram-id-privatevpns@34.247.97.241:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-34.247.97.241:22222 📡 PING-066.14-MS
-trojan://telegram-id-privatevpns@63.34.84.223:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇮🇪 IE-63.34.84.223:22222 📡 PING-066.41-MS
-trojan://telegram-id-directvpn@63.34.129.168:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-63.34.129.168:22222 📡 PING-066.50-MS
-trojan://telegram-id-directvpn@46.137.40.192:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-46.137.40.192:22222 📡 PING-066.67-MS
-trojan://telegram-id-privatevpns@52.210.205.174:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp#🔒 TR-TCP-TLS 🇮🇪 IE-52.210.205.174:22222 📡 PING-066.67-MS
-trojan://telegram-id-privatevpns@52.209.252.83:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇮🇪 IE-52.209.252.83:22222 📡 PING-067.05-MS
