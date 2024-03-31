@@ -93,10 +93,10 @@ def main():
     elif os.path.exists(filename1):
         os.remove(filename1)
     for i in range(20):
-        filename = os.path.join(output_folder, f'Sub{i}.txt')
+        filename = os.path.join(output_folder, f'Sub{i+1}.txt')
         if os.path.exists(filename):
             os.remove(filename)
-        filename1 = os.path.join(base64_folder, f'Sub{i}_base64.txt')
+        filename1 = os.path.join(base64_folder, f'Sub{i+1}_base64.txt')
         if os.path.exists(filename1):
             os.remove(filename1)
     
