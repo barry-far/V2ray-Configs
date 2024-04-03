@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://77a571fb-4fd2-4b37-8596-2b7d9728bb5c@172.67.20.220:2096/?type=ws&encryption=none&host=vpnxw.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=vpnxw.pages.dev#%E2%97%80%EF%B8%8F1%40oneclickvpnkeys
 vmess://eyJhZGQiOiJib2xkZXItbWV0YWwtY29tbWEuZ2xpdGNoLm1lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJib2xkZXItbWV0YWwtY29tbWEuZ2xpdGNoLm1lIiwiaWQiOiJkYWM2MWJiOC00NjFjLTRhNGEtYjE0Yi01YTVmZjY5OTFmZWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZGFjNjFiYjgtNDYxYy00YTRhLWIxNGItNWE1ZmY2OTkxZmVlLXZtZXNzIiwicG9ydCI6IjQ0MyIsInBzIjoi4peA77iPMTBAb25lY2xpY2t2cG5rZXlzIiwic2N5IjoiYXV0byIsInNuaSI6ImJvbGRlci1tZXRhbC1jb21tYS5nbGl0Y2gubWUiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiJsaW5kZTA2LmluZGlhdmlkZW8uc2JzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJsaW5kZTA2LmluZGlhdmlkZW8uc2JzIiwiaWQiOiJlZGJiMTA1OS0xNjMzLTQyNzEtYjY2ZS1lZDRmYmE0N2ExYmYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoi4peA77iPMTlAb25lY2xpY2t2cG5rZXlzIiwic2N5IjoiYXV0byIsInNuaSI6ImxpbmRlMDYuaW5kaWF2aWRlby5zYnMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiIxNzIuNjcuMTYxLjc3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJsaW5kZTA2LmluZGlhdmlkZW8uc2JzIiwiaWQiOiJlZGJiMTA1OS0xNjMzLTQyNzEtYjY2ZS1lZDRmYmE0N2ExYmYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoi4peA77iPMThAb25lY2xpY2t2cG5rZXlzIiwic2N5IjoiYXV0byIsInNuaSI6ImxpbmRlMDYuaW5kaWF2aWRlby5zYnMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
@@ -603,4 +604,3 @@ vless://b6fbee49-a6bd-4d62-9b68-f85dacc09c17@207.154.251.167:443?security=tls&sn
 vless://30e76e45-35b2-426a-92f0-fbc200099f8b@68.183.79.25:443?security=tls&flow=xtls-rprx-vision&sni=de-freevmess.privateip.net&type=tcp&path=%2f&allowInsecure=1#🔒 VL-TCP-TLS 🇩🇪 DE-68.183.79.25:443 📡 PING-100.77-MS
 vless://c443463d-1612-4088-9f9c-cd0bdde5a398@137.74.218.149:17343?security=none&type=ws&host=speedtest.net&path=%2F#🔒 VL-WS-NONE 🇫🇷 FR-137.74.218.149:17343 📡 PING-100.85-MS
 vless://d2d87d6e-c8f6-44e3-ae59-1a73170ebff3@164.90.167.242:2003?security=tls&sni=de2-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇩🇪 DE-164.90.167.242:2003 📡 PING-101.08-MS
-vless://2c39c7ef-2ac3-4c5b-b3a7-d183aa704a6e@139.59.157.85:8080?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇩🇪 DE-139.59.157.85:8080 📡 PING-101.26-MS
