@@ -4,6 +4,19 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+trojan://telegram-id-privatevpns@79.125.41.59:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-79.125.41.59:22222 📡 PING-082.28-MS
+trojan://wkmY1R4EcP@45.76.130.173:443?security=tls&sni=z-v2-003289.kailib.com&type=tcp#🔒 TR-TCP-TLS 🇬🇧 GB-45.76.130.173:443 📡 PING-090.70-MS
+trojan://9498ad36-d4e6-4d4f-b17a-96ee479819c5@46.101.75.66:443?#🔒 TR-TCP-NA 🇬🇧 GB-46.101.75.66:443 📡 PING-091.49-MS
+trojan://telegram-id-privatevpns@3.9.55.35:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-3.9.55.35:22222 📡 PING-091.71-MS
+trojan://4b2b2050-688b-4faf-9973-518057926893@198.244.190.189:443?#🔒 TR-TCP-NA 🇬🇧 GB-198.244.190.189:443 📡 PING-091.85-MS
+trojan://telegram-id-privatevpns@13.43.207.221:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇬🇧 GB-13.43.207.221:22222 📡 PING-092.58-MS
+trojan://telegram-id-privatevpns@13.41.249.34:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-13.41.249.34:22222 📡 PING-093.62-MS
+trojan://telegram-id-privatevpns@13.41.6.193:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇬🇧 GB-13.41.6.193:22222 📡 PING-095.07-MS
+trojan://telegram-id-privatevpns@13.37.43.130:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-13.37.43.130:22222 📡 PING-096.15-MS
+trojan://c33883045c@198.244.252.93:443?sni=uk1.connecton.surf&type=tcp&allowInsecure=1#🔒 TR-TCP-NA 🇬🇧 GB-198.244.252.93:443 📡 PING-096.46-MS
+trojan://a6292090-afe1-4640-97a7-4f1d1d877cf1@95.179.128.114:443?security=tls&sni=hdfy8d1.cpi1.eu.org&type=grpc&serviceName=8bHUAD5IX0lC5KffvrsN6rqb#🔒 TR-GRPC-TLS 🇳🇱 NL-95.179.128.114:443 📡 PING-096.50-MS
+trojan://Mirza@20.19.39.117:443?#🔒 TR-TCP-NA 🇫🇷 FR-20.19.39.117:443 📡 PING-096.61-MS
+trojan://telegram-id-privatevpns@35.181.247.191:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-35.181.247.191:22222 📡 PING-097.13-MS
 trojan://wkmY1R4EcP@209.250.246.191:443?security=tls&sni=z-v2-003294.kailib.com&type=tcp#🔒 TR-TCP-TLS 🇳🇱 NL-209.250.246.191:443 📡 PING-097.49-MS
 trojan://TJCfE7Mx2YcA8kX8zg@149.50.75.62:4003?security=tls&sni=nl1.chuqiangtou.net&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇳🇱 NL-149.50.75.62:4003 📡 PING-097.68-MS
 trojan://979c34ad-710d-4446-bc95-0bfd397aaa78@142.93.226.128:443?#🔒 TR-TCP-NA 🇳🇱 NL-142.93.226.128:443 📡 PING-098.25-MS
@@ -591,16 +604,3 @@ vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@190.93.247.14:443/?type=ws&encrypti
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@172.66.209.117:443/?type=ws&encryption=none&host=current.ircp.online&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.online&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8C%90%20Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray%20%285%29
 
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@188.114.97.1:443/?type=ws&encryption=none&host=current.ircp.online&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.online&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8C%90%20Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray%20%286%29
-
-vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@103.21.244.5:443/?type=ws&encryption=none&host=current.ircp.online&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.online&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8C%90%20Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray%20%287%29
-
-vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.27.91.235:443/?type=ws&encryption=none&host=current.ircp.online&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.online&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8C%90%20Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray%20%288%29
-
-vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@188.114.97.143:443/?type=ws&encryption=none&host=current.ircp.online&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.online&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8C%90%20Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray%20%289%29
-
-vmess://ewogICAgImFkZCI6ICIxMDQuMjEuMTUuMjEyIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiZ2x3ZWlkZi5zYnMiLAogICAgImlkIjogIjc2MjIxYmZiLWU5MmYtNGU4MC04MWM1LTZmZTQ4ZjUwYWMwYiIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9saW5rd3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTEwNC4yMS4xNS4yMTItMDEyNCIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogImdsd2VpZGYuc2JzIgp9
-vmess://ewogICAgImFkZCI6ICJsaW5kZTA2LmluZGlhdmlkZW8uc2JzIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAibGluZGUwNi5pbmRpYXZpZGVvLnNicyIsCiAgICAiaWQiOiAiZWRiYjEwNTktMTYzMy00MjcxLWI2NmUtZWQ0ZmJhNDdhMWJmIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2xpbmt3cyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4+BUkVMQVktMTA0LjIxLjE1LjM2LTAxMDAiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJsaW5kZTA2LmluZGlhdmlkZW8uc2JzIgp9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoZ0xDZ2ZMUmdCNmQ=@205.134.180.145:443#%F0%9F%87%BA%F0%9F%87%B8US-205.134.180.145-0511
-vmess://ewogICAgImFkZCI6ICI4OTU1Lm91dGxpbmUtdnBuLmNsb3VkIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAibGluZGUwNi5pbmRpYXZpZGVvLnNicyIsCiAgICAiaWQiOiAiZWRiYjEwNTktMTYzMy00MjcxLWI2NmUtZWQ0ZmJhNDdhMWJmIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2xpbmt3cyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4+BUkVMQVktMTA0LjIxLjE1LjM2LTAxMzIiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJsaW5kZTA2LmluZGlhdmlkZW8uc2JzIgp9
-trojan://wkmY1R4EcP@45.63.110.20:443?security=tls&sni=z-v2-003281.kailib.com#%F0%9F%87%BA%F0%9F%87%B8US-45.63.110.20-0151
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMTNTN2RvWGFyMEE=@205.134.180.137:443#%F0%9F%87%BA%F0%9F%87%B8US-205.134.180.137-0510
