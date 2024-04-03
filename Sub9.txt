@@ -4,11 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-trojan://telegram-id-privatevpns@13.50.156.52:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.50.156.52:22222 📡 PING-153.24-MS
-trojan://telegram-id-privatevpns@16.171.89.111:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-16.171.89.111:22222 📡 PING-153.42-MS
-trojan://telegram-id-directvpn@16.170.76.33:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-16.170.76.33:22222 📡 PING-153.53-MS
-trojan://4f2f34cc-d2e9-4ca8-a687-68efe5ad5959@52.229.162.92:443?#🔒 TR-TCP-NA 🇭🇰 HK-52.229.162.92:443 📡 PING-154.05-MS
-trojan://fc1e07b5-840b-4446-8232-94b0606f2e0d@193.70.112.90:443?#🔒 TR-TCP-NA 🇫🇷 FR-193.70.112.90:443 📡 PING-154.08-MS
 trojan://d8fd60d7-4c50-47c8-9e2d-adf37ad81af4@20.2.144.183:443?#🔒 TR-TCP-NA 🇭🇰 HK-20.2.144.183:443 📡 PING-154.81-MS
 trojan://telegram-id-privatevpns@13.48.238.109:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.48.238.109:22222 📡 PING-156.13-MS
 trojan://8d1e94cd-23cf-4267-b630-c6894e6e1b4d@23.99.126.117:443?#🔒 TR-TCP-NA 🇭🇰 HK-23.99.126.117:443 📡 PING-156.55-MS
@@ -604,3 +599,8 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@195.154.169.198:989#%F0%9F%87%AB%F
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@195.154.185.174:989#%F0%9F%87%AB%F0%9F%87%B7FR-195.154.185.174-0537
 vmess://ewogICAgImFkZCI6ICIxMzAuMTYyLjQ3LjEyMyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiYjVmN2U5MzItZjczMC00YWQyLWI0MjUtNDA5NzdiOWRiMzMyIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3pCTFBvdSIsCiAgICAicG9ydCI6IDY4NTQsCiAgICAicHMiOiAi8J+HqfCfh6pERS0xMzAuMTYyLjQ3LjEyMy05Mzk3IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 vmess://ewogICAgImFkZCI6ICIxMzAuMTYyLjQ3LjEyMyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiYjVmN2U5MzItZjczMC00YWQyLWI0MjUtNDA5NzdiOWRiMzMyIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3pCTFBvdSIsCiAgICAicG9ydCI6IDY4NTQsCiAgICAicHMiOiAi8J+HqfCfh6pERS0xMzAuMTYyLjQ3LjEyMy05Mzk1IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@156.146.62.160:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.160-0545
+ss://YWVzLTI1Ni1jZmI6S0JHalpZY3k0U3lSU2htQQ==@217.30.10.70:9044#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-8921
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.180.12.81:989#%F0%9F%87%A6%F0%9F%87%B9AT-185.180.12.81-0548
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#%F0%9F%87%B8%F0%9F%87%AASE-121.127.46.147-0549
+trojan://telegram-id-directvpn@16.170.76.33:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-16.170.76.33-0097
