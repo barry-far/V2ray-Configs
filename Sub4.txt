@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://cc4d3871-e0ac-4024-b31c-18e630894016@185.17.136.177:2053?security=reality&sni=cdn.discordapp.com&type=grpc&serviceName=xyz&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒 VL-GRPC-RLT 🇹🇷 TR-185.17.136.177:2053 📡 PING-136.49-MS
-vless://eb97f94b-e61e-4f50-894e-4b27be7abfaa@89.221.224.166:8443?security=reality&sni=104.21.70.42&type=grpc&serviceName=grpc&fp=chrome&pbk=lknJ1qdh1naSh-NJX8O7oOdnFov8vOETpy2A6bVtiUk&sid=8545118da3a60b18#🔒 VL-GRPC-RLT 🇮🇸 IS-89.221.224.166:8443 📡 PING-142.02-MS
 vless://7cd826bc-c55e-425e-81ab-4c3b57ff86ad@45.140.146.223:8443?security=reality&sni=104.21.70.42&type=grpc&serviceName=grpc&fp=chrome&pbk=Nwzq9RGOMsQ0CrUo8Ks0ErJ8Cmd5lxqfyaVc2Zjlohw&sid=89078e599624ad88#🔒 VL-GRPC-RLT 🇲🇩 MD-45.140.146.223:8443 📡 PING-162.09-MS
 vless://d7a985ae-b140-4546-b08d-b977cdaefe7e@104.168.107.230:2052?security=reality&flow=xtls-rprx-vision&sni=debian.org&type=tcp&fp=chrome&pbk=8P_GXxLIbOuxHfrSGxY_Jr6oMvPy2dlhmAVGPCAoYGg&sid=be5696e1886a2a81#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:2052 📡 PING-035.97-MS
 vless://a90d8181-559e-45d0-98d8-699b6c749d4b@104.168.107.230:2058?security=reality&flow=xtls-rprx-vision&sni=theverge.com&type=tcp&fp=chrome&pbk=8P_GXxLIbOuxHfrSGxY_Jr6oMvPy2dlhmAVGPCAoYGg&sid=be5696e1886a2a81#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:2058 📡 PING-035.34-MS
@@ -604,3 +602,5 @@ vless://9dd404b2-6afa-4ab5-b15c-8a43b467a7a7@104.22.49.253:2086?security=none&ty
 vless://5faa94c6-ea27-4ea0-9e39-2de3d6ea9be1@104.21.33.85:8880?security=none&type=ws&host=channel-falcunargo.efa180b5d7.workers.Dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.33.85:8880 📡 PING-001.88-MS
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.247.142.245:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇬🇧 GB-94.247.142.245:443 📡 PING-001.88-MS
 vless://edbaaffe-e19c-4516-9e8f-a8feaba02983@162.159.136.232:2087?security=tls&sni=czechia-telegram.falcunargo3.onflashdrive.app&type=ws&host=czechia-telegram.falcunargo3.onflashdrive.app&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.136.232:2087 📡 PING-001.88-MS
+vless://a6292090-afe1-4640-97a7-4f1d1d877cf1@104.17.245.1:443?security=tls&sni=hdfy8c1.foriran.nl&type=ws&host=hdfy8c1.foriran.nl&path=/PvSPM3IicU6D349brWUw6a&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.245.1:443 📡 PING-001.88-MS
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.0.144:80?security=none&type=ws&host=binance.co.kp&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.0.144:80 📡 PING-001.87-MS
