@@ -4,11 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://e4527384-4f20-4378-95dc-403996f12588@85.159.229.8:2087?security=reality&sni=dash.cloudflare.com&type=grpc&fp=firefox&pbk=GicA8fPbS9LksttApqa8gzOstomRFncKNoYGLCOqQF8&sid=fc805835#🔒 VL-GRPC-RLT 🇮🇪 IE-85.159.229.8:2087 📡 PING-095.56-MS
-vless://fa2dedd2-9f9e-4905-bd00-555d0fa25702@165.22.120.153:443?security=reality&sni=speedtest.plutex.de&type=grpc&serviceName=new.vipstore.cfd&fp=randomized&pbk=Nln0pa_TGktLiJu3sKL-nxmGv-lZb1xGZ_Ig0wP_5R4&sid=98ed59f5#🔒 VL-GRPC-RLT 🇬🇧 GB-165.22.120.153:443 📡 PING-096.10-MS
-vless://ba5d6043-69ac-4ce5-a6b3-df43232d86c9@185.234.64.35:8443?security=reality&sni=104.21.70.42&type=grpc&serviceName=grpc&fp=chrome&pbk=yYaziJ3F14P5Zp-dpwVatnmT-Mn0L8lMIT_wcnsneVo&sid=147c31854f570778#🔒 VL-GRPC-RLT 🇫🇷 FR-185.234.64.35:8443 📡 PING-098.45-MS
-vless://d8253715-9664-4c3b-9ecd-e4805c8430f8@37.59.166.156:48576?security=reality&sni=ea.com&type=grpc&fp=chrome&pbk=i-TBCDM3b7W2NE5JavNy7XBTsQwIjYD7qG9VEVfnxjg&sid=b1b454f6#🔒 VL-GRPC-RLT 🇫🇷 FR-37.59.166.156:48576 📡 PING-098.95-MS
-vless://e2e43f72-8526-4529-b3e3-d07e8ec97969@45.140.167.94:8443?security=reality&sni=104.21.70.42&type=grpc&serviceName=grpc&fp=chrome&pbk=hBKZCo66xdiYDCZeaaD0bk7qFhNNn80UbMSu9gU-fDU&sid=6ef7b0f9de527519#🔒 VL-GRPC-RLT 🇬🇧 GB-45.140.167.94:8443 📡 PING-101.10-MS
 vless://9d5fd220-4f17-48e2-a833-5b1a62a3411c@24.144.78.189:10443?security=reality&flow=xtls-rprx-vision&sni=www.speedtest.net&type=tcp&fp=firefox&pbk=n8tbatLDMMjIgL42OziDdK-lQGi3M1hFz4xVtmOjuTE&sid=93a1f0fa#🔒 VL-TCP-RLT 🇳🇱 NL-24.144.78.189:10443 📡 PING-103.34-MS
 vless://4f21888f-3f80-47f3-9940-e2f75c96f4b3@5.75.212.232:2541?security=reality&flow=xtls-rprx-vision&sni=discordapp.com&type=tcp&fp=chrome&pbk=FdMFSpgEwT0nhczf37d-Z8gFgJtwyV4C_pJlnOTScUA#🔒 VL-TCP-RLT 🇩🇪 DE-5.75.212.232:2541 📡 PING-110.60-MS
 vless://687970f6-cd47-4fc2-91a4-6f0e4d49089f@31.41.33.139:45102?security=reality&flow=xtls-rprx-vision&sni=icloud.com&type=tcp&fp=chrome&pbk=FZ9taGSf9n6JNSUnjR7kilCKmfXMZHbbOf7skIDNUSQ&sid=9f935adfaf516589#🔒 VL-TCP-RLT 🇦🇱 AL-31.41.33.139:45102 📡 PING-125.07-MS
@@ -604,3 +599,8 @@ vless://ff044ba5-fe79-4752-8ed1-8487ef9b9558@104.18.1.84:443?security=tls&sni=wo
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@217.163.76.88:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=TG%40ZDYZ2&fp=random#🔒 VL-WS-TLS 🇬🇧 GB-217.163.76.88:443 📡 PING-001.90-MS
 vless://c918eb0e-51c3-4c08-8a08-125168818907@104.18.203.232:80?security=none&host=join&path=%40frev2ray#🔒 VL-TCP-NONE 🏴‍☠️ NA-104.18.203.232:80 📡 PING-001.89-MS
 vless://c2e50d5d-be28-45ab-aa6c-307cfd4881b2@162.159.138.232:443?security=tls&sni=Join-tElEGRAm-CHaNnEL-DisvPn.OnflaShDrIve.aPP&type=ws&host=JOin-tELEGram-CHAnNEl-diSVpn.ONfLASHdRIvE.ApP&path=@DisVpn,@DisVpn&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.138.232:443 📡 PING-001.89-MS
+vless://fa74c6c6-5e0a-43f6-9997-ed0e10dc10bc@104.26.15.85:80?type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg#🔒 VL-WS-NA 🏴‍☠️ NA-104.26.15.85:80 📡 PING-001.89-MS
+vless://91d9b8d8-2aab-4e1a-9573-0d59e9cd7f8e@188.114.97.3:8880?security=none&type=ws&host=falcunargo-channel.be3374a836.workers.Dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇳🇱 NL-188.114.97.3:8880 📡 PING-001.89-MS
+vless://51905fd3-29de-4b4e-b351-83542f1d5390@104.22.32.78:443?security=tls&sni=Bia.alLhub.Ltd&type=ws&host=Bia.alLhub.Ltd&path=%2Fproxy_mtm%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.32.78:443 📡 PING-001.89-MS
+vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@172.67.219.200:443?security=tls&sni=prophetquran20.xyz&type=ws&path=%2Fcurrent_time&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-172.67.219.200:443 📡 PING-001.89-MS
+vless://01a7ed92-3ff7-4872-84a8-fcb4757783c7@104.16.146.227:443?security=tls&sni=rsfrndc.cpionline.co&type=grpc&serviceName=2sg8k6ktNBzuCJ7tOInMZQZNim&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.146.227:443 📡 PING-001.89-MS
