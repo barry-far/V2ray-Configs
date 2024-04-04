@@ -4,17 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://5071806e-161a-44be-919b-4a4ee7339f7a@46.101.75.66:2003?security=tls&sni=uk2-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇬🇧 GB-46.101.75.66:2003 📡 PING-090.81-MS
-vless://33427be5-fad2-4436-bb58-666990dd78c3@198.244.190.189:443?security=tls&sni=uk-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇬🇧 GB-198.244.190.189:443 📡 PING-091.56-MS
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.43.100.119:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇬🇧 GB-13.43.100.119:22222 📡 PING-091.83-MS
-vless://33427be5-fad2-4436-bb58-666990dd78c3@198.244.190.189:2003?security=tls&sni=uk-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇬🇧 GB-198.244.190.189:2003 📡 PING-091.84-MS
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.42.186.14:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇬🇧 GB-13.42.186.14:22222 📡 PING-093.80-MS
-vless://a6e0a092-7fe6-4ff2-c409-e4d2ed3aa313@45.252.183.153:22367?type=tcp&host=zula.ir&headerType=http#🔒 VL-TCP-NA 🇳🇱 NL-45.252.183.153:22367 📡 PING-095.85-MS
-vless://6c2d7ceb-0854-426c-96c0-d72faba90f2c@172.233.62.23:443?security=tls&flow=xtls-rprx-vision&sni=nl-freevmess.privateip.net&type=tcp&path=%2f&allowInsecure=1#🔒 VL-TCP-TLS 🇳🇱 NL-172.233.62.23:443 📡 PING-096.07-MS
-vless://0b289153-48ea-45f0-b04d-5bc5c83ea082@188.119.112.242:2003?security=tls&sni=nl-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇳🇱 NL-188.119.112.242:2003 📡 PING-096.22-MS
-vless://f7e1a245-7e84-4f2d-afa4-838eaf765b35@95.179.145.225:443?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇳🇱 NL-95.179.145.225:443 📡 PING-096.22-MS
-vless://dd8eb46d-f970-4c8e-b667-104b7a732a6b@141.94.115.231:2003?security=tls&sni=fr-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇫🇷 FR-141.94.115.231:2003 📡 PING-096.72-MS
-vless://0b289153-48ea-45f0-b04d-5bc5c83ea082@188.119.112.242:443?security=tls&sni=nl-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇳🇱 NL-188.119.112.242:443 📡 PING-096.87-MS
 vless://4aeac197-6551-4fd9-bbe8-1eddd4b312fa@142.93.226.128:443?security=tls&sni=nl2-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇳🇱 NL-142.93.226.128:443 📡 PING-097.08-MS
 vless://4aeac197-6551-4fd9-bbe8-1eddd4b312fa@142.93.226.128:2003?security=tls&sni=nl2-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇳🇱 NL-142.93.226.128:2003 📡 PING-097.22-MS
 vless://e1a7b9d0-e99c-4ee0-b83f-4b7d824b974d@45.14.244.133:443?security=tls&sni=zoom.com&type=ws&path=/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇷🇺 RU-45.14.244.133:443 📡 PING-097.92-MS
@@ -604,3 +593,14 @@ vless://fa74c6c6-5e0a-43f6-9997-ed0e10dc10bc@66.235.200.3:80?type=ws&host=vmesso
 vless://a755aec8-94a1-4cf4-a125-642086f2d016@172.67.132.6:2096?security=tls&sni=channel.v2bamdad.tech&type=grpc&serviceName=BBjszEZzABSQuqxj4FxIzvwxUDoX&fp=chrome#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.132.6:2096 📡 PING-001.59-MS
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@188.114.97.43:443?security=tls&sni=test57.pages.dev&type=ws&host=test57.pages.dev&path=%2Ffreecodes#🔒 VL-WS-TLS 🇳🇱 NL-188.114.97.43:443 📡 PING-001.58-MS
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.71.206:80?type=ws&host=us1.rtacg.com&path=/&fp=chrome#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.71.206:80 📡 PING-001.58-MS
+vless://bdab18c1-d3f9-428c-a376-ca8cce0f1710@172.66.213.38:2082?security=none&type=ws&host=cdn54.nigc-ar.com&path=%2Fbackup#🔒 VL-WS-NONE 🇺🇸 US-172.66.213.38:2082 📡 PING-001.58-MS
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.70.186:80?type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.70.186:80 📡 PING-001.58-MS
+vless://77a571fb-4fd2-4b37-8596-2b7d9728bb5c@45.80.111.9:8880?security=none&type=ws&host=xw.r4d.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇩🇪 DE-45.80.111.9:8880 📡 PING-001.57-MS
+vless://53f27760-05f3-4c23-b31e-e71dc8cba606@162.159.135.232:8443?security=tls&sni=zU3-G6cd-seRVEr.onfLashDrIvE.APP&type=ws&host=zu3-G6CD-ServER.OnFLASHdriVE.ApP&path=%40V2ray1_NG%2C+%40V2ray1_NG&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.135.232:8443 📡 PING-001.57-MS
+vless://ee7eaf8a-29d5-4db2-a68f-d18abfe1ac3f@104.26.13.81:2053?security=tls&sni=ssl.sg-forum.info&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.26.13.81:2053 📡 PING-001.57-MS
+vless://f66dba35-4daa-48d9-bac4-16ad966611ea@104.21.61.217:8443?security=tls&sni=fIn.MeLOv2Ray.store&type=ws&path=%2Fmelo#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.61.217:8443 📡 PING-001.56-MS
+vless://7e29f2e2-e0ec-47c5-94ec-38ef90f7a106@185.176.26.1:8443?security=tls&sni=guq22.oXNETwORKs.lInk&type=ws&host=guq22.oXNETwORKs.lInk&path=vless-ws%2F%3Fed%3D2048&fp=safari&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇰🇿 KZ-185.176.26.1:8443 📡 PING-001.56-MS
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.238.40:80?type=ws&host=us1.rtacg.com&path=/&fp=chrome#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.238.40:80 📡 PING-001.55-MS
+vless://16015033-8b8d-4e6c-bfd3-71a3e72f1c9f@104.18.203.232:8080?type=ws&host=xn--047h.iman-v2ray.sbs.&path=/#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.203.232:8080 📡 PING-001.55-MS
+vless://d75307f2-e5ec-422f-8298-ca2cc086fb5f@162.159.135.234:2082?type=ws&host=yekshabba%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7%E4%BE%AF%E8%B5%9B%E5%9B%A0.ephoria-maria.monster.&path=/#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.135.234:2082 📡 PING-001.55-MS
+vless://f65c6d7d-f0a2-4ee4-f8fa-c60dbfa2bc7d@104.17.148.252:80?type=ws&host=bia-to-channel.unlimiteddev.xyz&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.148.252:80 📡 PING-001.55-MS
