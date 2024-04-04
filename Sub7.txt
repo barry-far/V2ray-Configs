@@ -4,21 +4,44 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-trojan://telegram-id-directvpn@52.38.127.37:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @DirectVPN | US🇺🇸 | 0️⃣1️⃣
-trojan://telegram-id-directvpn@3.142.67.17:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @DirectVPN | US🇺🇸 | 0️⃣2️⃣
-trojan://85bce006-4885-11ee-8792-f23c9164ca5d@004282c1-sbdj40-sdlngq-1n7jq.ru.z7zi.com:1007?security=tls&type=tcp#رایگان | TROJAN | @oneclickvpnkeys | RU🇷🇺 | 0️⃣1️⃣
+vless://e1a928be-e289-4aef-b92e-4106fabdf42f@104.21.59.125:80?host=mahi.kosnanatfilterchi.eu.org&path=%2F%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @V2FETCH | CA🇨🇦 | 0️⃣7️⃣
+vless://8b53a7ba-acac-4765-96af-c2b92d141281@web.bbv2ry.pics:443?alpn=http%2F1.1%2Ch2&fp=chrome&host=Skyy.bbv2ry.pics&path=%2F&security=tls&sni=Skyy.bbv2ry.pics&type=ws#رایگان | VLESS | @VpnSkyy | US🇺🇸 | 0️⃣1️⃣
+vless://ca544ad7-181d-408f-8f95-8ce7c51cd399@web.bbv2ry.pics:443?alpn=http%2F1.1%2Ch2&fp=chrome&host=Skyy.bbv2ry.pics&path=%2F&security=tls&sni=Skyy.bbv2ry.pics&type=ws#رایگان | VLESS | @VpnSkyy | US🇺🇸 | 0️⃣2️⃣
+vless://c3d41415-59cb-40eb-b721-ffa87f95e454@web.bbv2ry.pics:443?alpn=http%2F1.1%2Ch2&fp=chrome&host=Skyy.bbv2ry.pics&path=%2F&security=tls&sni=Skyy.bbv2ry.pics&type=ws#رایگان | VLESS | @VpnSkyy | US🇺🇸 | 0️⃣3️⃣
+vless://12e9debb-5f13-4981-b600-073f5e9307c9@web.bbv2ry.pics:443?alpn=http%2F1.1%2Ch2&fp=chrome&host=Sky1.bbv2ry.pics&path=%2F&security=tls&sni=Sky1.bbv2ry.pics&type=ws#رایگان | VLESS | @VpnSkyy | US🇺🇸 | 0️⃣4️⃣
+vless://d674009a-4a87-4180-a8fe-9a54f66bd7c9@198.41.209.216:443?encryption=none&host=vpn.restia.love&path=Path%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&sni=vpn.restia.love&type=ws#رایگان | VLESS | @ROMAX_VPN | CA🇨🇦 | 0️⃣1️⃣
+vless://bdab18c1-d3f9-428c-a376-ca8cce0f1710@172.66.213.38:2082?encryption=none&host=cdn54.nigc-ar.com&path=%2Fbackup&type=ws#رایگان | VLESS | @ROMAX_VPN | US🇺🇸 | 0️⃣2️⃣
+vless://225d8704-9e2a-47ac-893d-33cd46ed609a@tgju.org:8443?encryption=none&flow=&fp=random&host=join-sho-falcunargo-uk.falcunar.uk.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=join-sho-falcunargo-uk.falcunar.uk.eu.org&type=ws#رایگان | VLESS | @ROMAX_VPN | CA🇨🇦 | 0️⃣3️⃣
+vless://d342d11e-d424-4583-b36e-524ab1f0afa7@ed9485634jkfhggh.pages.dev:2083?encryption=none&flow=&path=%2F&security=tls&sni=ed9485634jkfhggh.pages.dev&type=ws#رایگان | VLESS | @ROMAX_VPN | CA🇨🇦 | 0️⃣4️⃣
+vless://a755aec8-94a1-4cf4-a125-642086f2d016@shiatv.net:2096?encryption=none&flow=&fp=chrome&security=tls&serviceName=BBjszEZzABSQuqxj4FxIzvwxUDoX&sni=channel.v2bamdad.tech&type=grpc#رایگان | VLESS | @ROMAX_VPN | CA🇨🇦 | 0️⃣5️⃣
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.146.100:443?encryption=none&host=baipiao163.stunning-bassoon.pages.dev&path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&security=tls&sni=baipiao163.stunning-bassoon.pages.dev&type=ws#رایگان | VLESS | @ROMAX_VPN | US🇺🇸 | 0️⃣7️⃣
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.64.174.30:443?encryption=none&host=3k.pureboy.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=3k.pureboy.eu.org&type=ws#رایگان | VLESS | @TVCminer | US🇺🇸 | 0️⃣1️⃣
+vless://225d8704-9e2a-47ac-893d-33cd46ed609a@104.26.15.85:8443?encryption=none&fp=random&host=join-sho-falcunargo-uk.falcunar.uk.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=join-sho-falcunargo-uk.falcunar.uk.eu.org&type=ws#رایگان | VLESS | @TVCminer | CA🇨🇦 | 0️⃣2️⃣
+vless://ee7eaf8a-29d5-4db2-a68f-d18abfe1ac3f@104.26.13.8:2053?alpn=h2&encryption=none&fp=chrome&security=tls&sni=ssl.sg-forum.info&type=grpc#رایگان | VLESS | @TVCminer | CA🇨🇦 | 0️⃣3️⃣
+vless://e4527384-4f20-4378-95dc-403996f12588@85.159.229.8:2087?encryption=none&fp=firefox&pbk=GicA8fPbS9LksttApqa8gzOstomRFncKNoYGLCOqQF8&security=reality&sid=fc805835&sni=dash.cloudflare.com&type=grpc#رایگان | REALITY | @TVCminer | IE🇮🇪 | 0️⃣4️⃣
+trojan://V_kT5VVzTK4gfCCxQipNAA@server2.cactusrobot.ir:8608?headerType=http&security=none&type=tcp#رایگان | TROJAN | @V2rayCollectorDonate | IR🇮🇷 | 0️⃣1️⃣
+trojan://telegram-id-privatevpns@13.49.28.198:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣1️⃣
+trojan://telegram-id-privatevpns@13.51.124.108:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣2️⃣
+trojan://telegram-id-directvpn@3.125.204.164:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @DirectVPN | DE🇩🇪 | 0️⃣1️⃣
+trojan://telegram-id-directvpn@52.38.127.37:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @DirectVPN | US🇺🇸 | 0️⃣2️⃣
+trojan://cb1f26aa437d4bfa9b841d28503ce8cc@104.19.171.5:443?host=jobscareerforlawyers.com&path=6b777a91&security=tls&sni=jobscareerforlawyers.com&type=ws#رایگان | TROJAN | @oneclickvpnkeys | CA🇨🇦 | 0️⃣1️⃣
+trojan://2cba4104747d49d18319e5ade1b93ab5@198.41.220.10:443?host=jobscareerforstudent.com&path=6b777a91&security=tls&sni=jobscareerforstudent.com&type=ws#رایگان | TROJAN | @oneclickvpnkeys | CA🇨🇦 | 0️⃣2️⃣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@141.11.189.239:8080#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40DeamNet_Proxy+%7C+NL%F0%9F%87%B3%F0%9F%87%B1+%7C+0%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0cFdWYklWSXV3NExLOXd2TWdjSFc1@193.228.128.143:27981#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40OutlineVpnOfficial+%7C+EE%F0%9F%87%AA%F0%9F%87%AA+%7C+0%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYd1dWUm1PMmtLdTZxSzFYbGloM0xmZTZMaDNSUmE5cg==@213.183.44.17:8388#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40OutlineVpnOfficial+%7C+DE%F0%9F%87%A9%F0%9F%87%AA+%7C+0%EF%B8%8F%E2%83%A32%EF%B8%8F%E2%83%A3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMGI1Wm9FUm96S0c0ZHIwVmEzRFhiQ1VVUXh1VUJqSVo5RjgwcXFJdmYwPQ==@186.233.118.171:5600#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40OutlineVpnOfficial+%7C+BR%F0%9F%87%A7%F0%9F%87%B7+%7C+0%EF%B8%8F%E2%83%A33%EF%B8%8F%E2%83%A3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3NWRyQUw3UGZDSXdRMnljVXVvRHNWMkxz@212.113.106.243:13022#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40OutlineVpnOfficial+%7C+AT%F0%9F%87%A6%F0%9F%87%B9+%7C+0%EF%B8%8F%E2%83%A34%EF%B8%8F%E2%83%A3
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.248:8882#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40OutlineVpnOfficial+%7C+US%F0%9F%87%BA%F0%9F%87%B8+%7C+0%EF%B8%8F%E2%83%A35%EF%B8%8F%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:805#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40OutlineVpnOfficial+%7C+CA%F0%9F%87%A8%F0%9F%87%A6+%7C+0%EF%B8%8F%E2%83%A34%EF%B8%8F%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3NWRyQUw3UGZDSXdRMnljVXVvRHNWMkxz@212.113.106.243:13022#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40OutlineVpnOfficial+%7C+AT%F0%9F%87%A6%F0%9F%87%B9+%7C+0%EF%B8%8F%E2%83%A35%EF%B8%8F%E2%83%A3
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.248:8882#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40OutlineVpnOfficial+%7C+US%F0%9F%87%BA%F0%9F%87%B8+%7C+0%EF%B8%8F%E2%83%A36%EF%B8%8F%E2%83%A3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptdEZYZ3BzYTcxUCsveUxKU1JIVnRaOGNGVklSRGhReFZVZ1h0OW5xSHhBPQ==@3.120.208.217:2087#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40forwardv2ray+%7C+DE%F0%9F%87%A9%F0%9F%87%AA+%7C+0%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVeG00QUR3ZnRLZFhxNXFSQTRaZkhT@49.13.10.50:1194#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40forwardv2ray+%7C+DE%F0%9F%87%A9%F0%9F%87%AA+%7C+0%EF%B8%8F%E2%83%A33%EF%B8%8F%E2%83%A3
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.121.43.142:4444#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40FAKEOFTVC+%7C+US%F0%9F%87%BA%F0%9F%87%B8+%7C+0%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@167.88.62.62:7307#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40FAKEOFTVC+%7C+US%F0%9F%87%BA%F0%9F%87%B8+%7C+0%EF%B8%8F%E2%83%A32%EF%B8%8F%E2%83%A3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.227:8080#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40FAKEOFTVC+%7C+US%F0%9F%87%BA%F0%9F%87%B8+%7C+0%EF%B8%8F%E2%83%A33%EF%B8%8F%E2%83%A3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPWjJWbVdSOXBJNzR6b0xzdGV4QWVl@51.140.37.163:34417#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40FAKEOFTVC+%7C+GB%F0%9F%87%AC%F0%9F%87%A7+%7C+0%EF%B8%8F%E2%83%A34%EF%B8%8F%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPWjJWbVdSOXBJNzR6b0xzdGV4QWVl@51.140.37.163:34417#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40FAKEOFTVC+%7C+GB%F0%9F%87%AC%F0%9F%87%A7+%7C+0%EF%B8%8F%E2%83%A33%EF%B8%8F%E2%83%A3
 ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@138.91.113.228:30129#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40proxy_mtm+%7C+US%F0%9F%87%BA%F0%9F%87%B8+%7C+0%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTFZWRnh4SEpTQk1kR2Rs@series-a2-me.samanehha.co:443#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40proxy_mtm+%7C+BH%F0%9F%87%A7%F0%9F%87%AD+%7C+0%EF%B8%8F%E2%83%A33%EF%B8%8F%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40proxy_mtm+%7C+BH%F0%9F%87%A7%F0%9F%87%AD+%7C+0%EF%B8%8F%E2%83%A34%EF%B8%8F%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40kingofilter+%7C+BH%F0%9F%87%A7%F0%9F%87%AD+%7C+0%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3
 tuic://
 hy2://
 hy2://
@@ -51,7 +74,7 @@ hy2://
             <div>
                Visit <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=mrpooya.top" target="_blank" rel="noopener noreferrer">cloudflare.com</a> for more information.
             </div>
-            <div class="mt-3">2024-04-04 15:49:39 UTC</div>
+            <div class="mt-3">2024-04-04 16:29:44 UTC</div>
         </header>
         <div class="my-8 bg-gradient-gray">
             <div class="w-240 lg:w-full mx-auto">
@@ -80,7 +103,7 @@ hy2://
     <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
     </a>
   </div>
-  <span class="md:block w-full truncate">Chicago</span>
+  <span class="md:block w-full truncate">Ashburn</span>
   <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
     <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=mrpooya.top" target="_blank" rel="noopener noreferrer">
     Cloudflare
@@ -128,12 +151,12 @@ hy2://
 
         <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">86f270a7ef546058</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">86f2ab5c7c9957f6</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">172.183.132.95</span>
+      <span class="hidden" id="cf-footer-ip">20.55.213.89</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=mrpooya.top" id="brand_link" target="_blank">Cloudflare</a></span>
