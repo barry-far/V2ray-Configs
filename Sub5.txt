@@ -4,6 +4,12 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://f24b09bc-cf4e-4052-aa8c-ac65aa0db285@172.67.163.103:2096?security=tls&sni=joinsever89.servernet.cfd&type=grpc&serviceName=@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.163.103:2096 📡 PING-002.14-MS
+vless://b04ecf8c-f9b5-4ef4-bb34-818d1c79ca48@162.159.153.2:2087?security=tls&sni=sweden-telegram.falcunargo3.onflashdrive.app&type=ws&host=sweden-telegram.falcunargo3.onflashdrive.app&path=Path%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.2:2087 📡 PING-002.13-MS
+vless://b75b3034-36ab-4979-beae-3d02db1b11ec@172.67.71.160:443?security=tls&sni=always-online1.lp-airdrop.top&type=ws&host=always-online1.lp-airdrop.top&path=Path%2FTelegram-channel-proxy_mtm%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-172.67.71.160:443 📡 PING-002.13-MS
+vless://5e7dd808-5af6-4c9f-b879-58ae0ec9557d@188.114.96.58:443?security=tls&sni=se2-vless.sshmax.xyz&type=ws&host=se2-vless.sshmax.xyz&path=%2Fvless#🔒 VL-WS-TLS 🇳🇱 NL-188.114.96.58:443 📡 PING-002.13-MS
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.193.21:80?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🇺🇸 US-151.101.193.21:80 📡 PING-002.11-MS
+vless://850d2f5b-8645-4787-a7fd-be99dfc8d47f@104.18.202.232:2082?type=ws&host=CDN.lyra-st.ir.&path=/te#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.202.232:2082 📡 PING-002.11-MS
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@172.66.209.117:443?security=tls&sni=current.ircp.online&type=ws&host=current.ircp.online&path=%2F%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-172.66.209.117:443 📡 PING-002.10-MS
 vless://8daf8455-c3cc-4717-8e5a-f36c82a9eb2a@172.67.208.209:2096?security=tls&sni=moon.norwaylovers.com&type=ws&path=%2Fmoon&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-172.67.208.209:2096 📡 PING-002.10-MS
 vless://81946054-eadf-4a06-b770-a3075ff6668e@104.21.94.98:443?security=tls&sni=lonn.copenhagencafes.com&type=ws&path=%2Flonn&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.94.98:443 📡 PING-002.09-MS
@@ -598,9 +604,3 @@ trojan://85bce006-4885-11ee-8792-f23c9164ca5d@176.32.35.167:1007?security=tls&sn
 trojan://telegram-id-directvpn@52.211.146.230:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-52.211.146.230:22222 📡 PING-143.85-MS
 trojan://3605f0fa-dc88-4b80-8083-b73eb108007e@139.162.112.174:443?#🔒 TR-TCP-NA 🇯🇵 JP-139.162.112.174:443 📡 PING-146.16-MS
 trojan://telegram-id-directvpn@16.171.201.29:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-16.171.201.29:22222 📡 PING-149.49-MS
-trojan://telegram-id-privatevpns@34.253.98.73:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-34.253.98.73:22222 📡 PING-149.97-MS
-trojan://telegram-id-privatevpns@13.37.34.124:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-13.37.34.124:22222 📡 PING-159.40-MS
-trojan://telegram-id-directvpn@15.237.146.221:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-15.237.146.221:22222 📡 PING-159.70-MS
-trojan://telegram-id-privatevpns@16.170.48.119:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-16.170.48.119:22222 📡 PING-159.80-MS
-trojan://telegram-id-privatevpns@13.48.231.105:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.48.231.105:22222 📡 PING-160.01-MS
-trojan://telegram-id-privatevpns@51.21.58.16:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-51.21.58.16:22222 📡 PING-160.03-MS
