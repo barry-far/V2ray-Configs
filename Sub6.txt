@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org&type=tcp&allowInsecure=1#🔒 TR-TCP-NA 🇳🇱 NL-185.236.233.111:2053 📡 PING-109.75-MS
 trojan://telegram-id-directvpn@54.93.67.119:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-54.93.67.119:22222 📡 PING-110.14-MS
 trojan://telegram-id-directvpn@18.199.189.81:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-18.199.189.81:22222 📡 PING-110.17-MS
 trojan://telegram-id-privatevpns@3.127.50.126:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.127.50.126:22222 📡 PING-110.63-MS
@@ -604,3 +603,4 @@ vless://eeb8d463-d838-4404-a927-081a00c6e3c7@dnschecker.org:443?alpn=h2%2Chttp%2
 vless://3a4a5eac-d4e3-4255-ad7c-b682f95fb61d@dnschecker.org:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=%40ipV2Ray&sni=dm.irandtehran.org&type=grpc#رایگان | VLESS | @ipV2Ray | CA🇨🇦 | 0️⃣2️⃣
 vless://15f986b7-33f7-40f5-8412-f6bb15765edf@dnschecker.org:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=%40ipV2Ray&sni=dm.irandtehran.org&type=grpc#رایگان | VLESS | @ipV2Ray | CA🇨🇦 | 0️⃣3️⃣
 vless://852097e6-305b-4496-a610-7a6127d82bae@dnschecker.org:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=%40ipV2Ray&sni=dm.irandtehran.org&type=grpc#رایگان | VLESS | @ipV2Ray | CA🇨🇦 | 0️⃣4️⃣
+vless://8a4de178-93bc-46ee-8efa-27a2d6ee7a9a@dnschecker.org:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=%40ipV2Ray&sni=dm.irandtehran.org&type=grpc#رایگان | VLESS | @ipV2Ray | CA🇨🇦 | 0️⃣5️⃣
