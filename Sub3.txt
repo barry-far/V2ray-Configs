@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://0df48c21-7286-4a60-a031-156fc51dc8b8@www.you.com:443?path=@proxy_n1,@proxy_n1/security=tls&encryption=none&host=fi1.v2vless.xyz&sni=fi1.v2vless.xyz&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://883e3548-ea2b-40c0-b7db-021d8426151b@104.18.154.42:8080?path=%40daily_configs-%40daily_configs-%40daily_configs-%40daily_configs&security=none&encryption=none&host=daily-configs-channel.%E7%BE%A9%E5%8B%99%E8%AD%A6%E5%93%A1.online.&type=ws#%40nim_vpn_ir%D9%87%D9%85%D8%B1%D8%A7%D9%87
 vless://b1cf50b1-c9c3-4438-af3a-e5410652a45c@4520.23faksf211234salfkkfok124asfaklsanfasfwsdhasdoihdwa1123dsfgsdf.site:50917?security=none&encryption=none&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://c2c67228-12cc-4f89-a0df-4eed7af9fc6d@104.21.92.1:2096?mode=gun&security=tls&encryption=none&alpn=http/1.1&fp=chrome&type=grpc&serviceName=&sni=tarasvalat.ps4lavazemjanebi.ir#[🇨🇦]t.me/ConfigsHub
 vless://7db7d535-2605-45e5-9e0d-415b59f69e6c@104.21.21.20:443?encryption=none&security=tls&sni=fr1-vless.sshmax.xyz&type=ws&host=fr1-vless.sshmax.xyz&path=%2Fvless#[🇨🇦]t.me/ConfigsHub
@@ -602,5 +604,3 @@ trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@89.163.220.99:443?security=tls&sni
 trojan://28c79056-ccfd-4cc1-93d4-c337cc782e65@89.221.224.94:80?security=tls&sni=is2-t.sshmax.xyz&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%205
 trojan://09833a6f-4d46-426e-87fe-7793a5489f84@foreign04.lovehjq.xyz:46527?security=tls&sni=lovehjq.xyz&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%202
 trojan://09833a6f-4d46-426e-87fe-7793a5489f84@144.24.87.186:46521?security=tls&sni=lovehjq.xyz&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%204
-trojan://09833a6f-4d46-426e-87fe-7793a5489f84@144.24.87.186:46527?security=tls&sni=lovehjq.xyz&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%205
-trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@36.228.203.34:443?security=tls&sni=glc-tw1.windowsupdatea.com&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3%20Taiwan%207
