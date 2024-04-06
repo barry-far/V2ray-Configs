@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://86cb9a9b-dc2e-45d6-b35d-7ce1daa32a15@172.64.229.31:8443?security=tls&sni=dns68.shift.cloudns.org&type=ws&host=dns68.shift.cloudns.org&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-172.64.229.31:8443 📡 PING-001.58-MS
-vless://b04ecf8c-f9b5-4ef4-bb34-818d1c79ca48@162.159.152.2:2087?security=tls&sni=sweden-telegram.falcunargo3.onflashdrive.app&type=ws&host=sweden-telegram.falcunargo3.onflashdrive.app&path=Path%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.2:2087 📡 PING-001.58-MS
 vless://fda14d7a-133e-4e32-acfb-62188fc91e32@104.21.72.249:443?security=tls&sni=bpb.feLix-gISlAsOn.WORkERs.dEv&type=ws&host=bPb.FElIx-GISLaSON.WoRKeRs.dev&path=/A_6KHU8Vu_P6XfjH?ed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.72.249:443 📡 PING-001.58-MS
 vless://dd50b2c5-6655-4203-8fc2-bfcb9c2ea880@185.146.173.0:443?security=tls&sni=virapn--3be7883659a1d2ba4c545dfdf85b61eda1.asiatechnicalwest.ir.&type=grpc&serviceName=@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN&fp=random&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.0:443 📡 PING-001.58-MS
 vless://036e45f9-98b9-4fee-ad40-e4729b64954b@104.21.25.32:443?security=tls&sni=pl2-vless.sshmax.xyz&type=ws&host=pl2-vless.sshmax.xyz&path=%2Fvless#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.25.32:443 📡 PING-001.58-MS
@@ -604,3 +602,5 @@ vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.1.21:80?security=none&type=
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.65.21:80?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🇺🇸 US-151.101.65.21:80 📡 PING-001.16-MS
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.193.21:80?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🇺🇸 US-151.101.193.21:80 📡 PING-001.16-MS
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.0.144:443?security=tls&sni=binance.co.kp&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-151.101.0.144:443 📡 PING-001.09-MS
+vless://aacbbca-baac-caab-dbca-ccbacaabbbac@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
+vmess://eyJhZGQiOiAiMTI3LjAuMC4xIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImFiYWFjYmMtYWJhYy1hY2JhLWJhY2QtY2JhY2JhYmJhY2NhIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6IDEwODAsICJwcyI6ICJcdWQ4M2RcdWRkMDQgTEFURVNULVVQREFURSBcdWQ4M2RcdWRjYzUgU0FULTE4LUZBUlZBUkRJTi0xNDAzIFx1ZDgzZFx1ZGQ1MSAxMDoxNiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=

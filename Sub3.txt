@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vmess://eyJhZGQiOiJza3lodDIudnBuZGF0YS52biIsImFpZCI6MCwiaG9zdCI6ImxpZW5xdWFuLmdhcmVuYS52biIsImlkIjoiZmJjY2ZlZDctMWFlYi00MTZhLWE0ZmQtN2FmMTc0N2Y5ZjNiIiwibmV0Ijoid3MiLCJwYXRoIjoiL1ZQTkRBVEEuVlBOIiwicG9ydCI6ODAsInBzIjoiW/Cfj4FddC5tZS9Db25maWdzSHViIiwic2N5IjoiYWVzLTEyOC1nY20iLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoyfQ==
-vmess://eyJhZGQiOiIxMDQuMTcuMjUuMSIsImFpZCI6MCwiaG9zdCI6ImtyLmNhdG5pcGJhbGxzLmdheSIsImlkIjoiODNjMTk0NjMtZjk2Ni00YWRiLWE3ZDgtYjEyNzgyNWZmYWIyIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjgwLCJwcyI6Ilvwn4eo8J+Hpl10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhZXMtMTI4LWdjbSIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOjJ9
 vmess://eyJhZGQiOiIxNzIuOTkuMTkwLjEwOSIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOjQ0MywicHMiOiJb8J+HrPCfh6dddC5tZS9Db25maWdzSHViIiwic2N5IjoiYWVzLTEyOC1nY20iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOjJ9
 vmess://eyJhZGQiOiJjZmNkbjIuc2FuZmVuY2RuOS5jb20iLCJhaWQiOjAsImhvc3QiOiI3bkFpNzRqSnNnMS55b2ZuaGtmYy54eXoiLCJpZCI6ImQwYTNlMDhhLWQyNmYtNDViZC1iYTNjLTYzODdmOTE4MjYzMyIsIm5ldCI6IndzIiwicGF0aCI6Ii92aWRlby9jOWVmeFJDaSIsInBvcnQiOjIwNTIsInBzIjoiW/Cfh6jwn4emXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImFlcy0xMjgtZ2NtIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6Mn0=
 vmess://eyJhZGQiOiJjZmNkbjMuc2FuZmVuY2RuOS5jb20iLCJhaWQiOjAsImhvc3QiOiJhZ3pianN6dWpwNC55b2ZuaGtmYy54eXoiLCJpZCI6ImQwYTNlMDhhLWQyNmYtNDViZC1iYTNjLTYzODdmOTE4MjYzMyIsIm5ldCI6IndzIiwicGF0aCI6Ii92aWRlby9pYkNUNno1NSIsInBvcnQiOjgwLCJwcyI6Ilvwn4eo8J+Hpl10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhZXMtMTI4LWdjbSIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOjJ9
@@ -604,3 +602,5 @@ trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@89.163.220.99:443?security=tls&sni
 trojan://28c79056-ccfd-4cc1-93d4-c337cc782e65@89.221.224.94:80?security=tls&sni=is2-t.sshmax.xyz&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%205
 trojan://09833a6f-4d46-426e-87fe-7793a5489f84@foreign04.lovehjq.xyz:46527?security=tls&sni=lovehjq.xyz&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%202
 trojan://09833a6f-4d46-426e-87fe-7793a5489f84@144.24.87.186:46521?security=tls&sni=lovehjq.xyz&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%204
+trojan://09833a6f-4d46-426e-87fe-7793a5489f84@144.24.87.186:46527?security=tls&sni=lovehjq.xyz&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%205
+trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@36.228.203.34:443?security=tls&sni=glc-tw1.windowsupdatea.com&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3%20Taiwan%207
