@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://64492cd4-b921-4ccb-a56d-c446550e0ee4@172.67.181.245:443?security=tls&sni=a.helga1.space&type=grpc&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.181.245:443 📡 PING-001.33-MS
+vless://303c4e48-948c-49e8-a78e-9c84d58435e5@172.67.163.209:443?security=tls&sni=ppAl03.fLORenCe-VonRUeden.WorKERs.dEv&type=ws&host=PpAL03.fLORENCE-vOnrueden.woRKERs.dEV&path=%2Fy4aHCb-U__GL7AOj%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-172.67.163.209:443 📡 PING-001.33-MS
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@104.21.76.11:443?security=tls&sni=test57.pages.dev&type=ws&host=test57.pages.dev&path=%2Ffreecodes#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.76.11:443 📡 PING-001.33-MS
 vless://4755a271-e240-41aa-b638-5bff727918e3@172.67.173.252:2087?security=tls&sni=selinc---4---selinc---4---selinc---selinc.borywdo.workers.dev&type=ws&host=selinc---4---selinc---4---selinc---selinc.borywdo.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=safari&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-172.67.173.252:2087 📡 PING-001.33-MS
 vless://58172a35-8d87-431f-bd4f-ad051e90a52c@198.41.199.166:8080?security=none&type=ws&host=auXteV.nIGC-Ar.cOM&path=%2Fbackup#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.199.166:8080 📡 PING-001.33-MS
@@ -602,5 +604,3 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@47.129.9.69:443#🔒 SS-TCP-NA 🇸🇬 SG
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.54.113.163:989#🔒 SS-TCP-NA 🇲🇾 MY-38.54.113.163:989 📡 PING-248.03-MS
 ss://YWVzLTI1Ni1nY206cTA2Q2JraFZYeDdYVnYwRA==@95.164.19.233:17038#🔒 SS-TCP-NA 🇰🇿 KZ-95.164.19.233:17038 📡 PING-248.47-MS
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.54.42.7:989#🔒 SS-TCP-NA 🇧🇩 BD-38.54.42.7:989 📡 PING-259.85-MS
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.93.51.34:989#🔒 SS-TCP-NA 🇲🇲 MM-154.93.51.34:989 📡 PING-264.38-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MnJheS1iZXN0X2lyYW4=@84.47.234.101:445#🔒 SS-TCP-NA 🇮🇷 IR-84.47.234.101:445 📡 PING-280.47-MS
