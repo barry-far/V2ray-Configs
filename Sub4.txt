@@ -4,6 +4,14 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@141.193.68.81:443?security=tls&sni=glc-us3.windowsupdatea.com&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US-141.193.68.81-2429
+trojan://09833a6f-4d46-426e-87fe-7793a5489f84@foreign01.lovehjq.xyz:46521?security=tls&sni=lovehjq.xyz&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7KR-144.24.87.186-8277
+trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@108.181.22.161:443?security=tls&sni=glc-us2.windowsupdatea.com&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US-108.181.22.161-0235
+trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@108.181.22.161:443?security=tls&sni=glc-us2.windowsupdatea.com&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US-108.181.22.161-0235
+trojan://pjdnqv@aws-us-dallas-1.f1rocketnode.com:443?security=tls&sni=aws-us-dallas-1.f1rocketnode.com&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US-15.181.201.80-0127
+trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@108.181.24.37:443?security=tls&sni=glc-us1.windowsupdatea.com&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US-108.181.24.37-0090
+trojan://09833a6f-4d46-426e-87fe-7793a5489f84@144.24.87.186:46521?security=tls&sni=lovehjq.xyz&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7KR-144.24.87.186-8278
+trojan://09833a6f-4d46-426e-87fe-7793a5489f84@144.24.87.186:46527?security=tls&sni=lovehjq.xyz&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7KR-144.24.87.186-8279
 trojan://09833a6f-4d46-426e-87fe-7793a5489f84@144.24.87.186:46521?security=tls&sni=lovehjq.xyz&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7KR-144.24.87.186-8278
 trojan://28c79056-ccfd-4cc1-93d4-c337cc782e65@89.221.224.94:80?security=tls&sni=is2-t.sshmax.xyz&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B8IS-89.221.224.94-0076
 trojan://28c79056-ccfd-4cc1-93d4-c337cc782e65@89.221.224.94:80?security=tls&sni=is2-t.sshmax.xyz&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B8IS-89.221.224.94-0076
@@ -596,11 +604,3 @@ vless://4a4339ad-f54d-4421-9a12-1c5613ee7c22@172.67.132.6:2096?security=tls&sni=
 vless://1da545b0-2395-4d5c-abe8-8aee6671c859@162.159.134.234:443?security=tls&sni=BPB-worKEr-paNel-aQX.paGES.DEV&type=ws&host=BpB-WOrkEr-panEl-aqx.paGES.Dev&path=%2F&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.134.234:443 📡 PING-008.83-MS
 vless://023215ec-bdfd-4dd7-ba08-41514d1f71c5@162.159.152.2:8443?security=tls&sni=emirates-telegram.falcunargo3.onflashdrive.app&type=ws&host=emirates-telegram.falcunargo3.onflashdrive.app&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.2:8443 📡 PING-008.83-MS
 vless://e77d1646-ad78-4bed-b45c-b8bbbabe99b5@172.67.214.21:443?security=tls&sni=sky.submub.sbs&type=ws&host=sky.submub.sbs&path=%2FTelegram%3A%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-172.67.214.21:443 📡 PING-008.83-MS
-vless://d6425c53-e63f-4c48-937f-af3dc4876e86@104.22.51.162:443?security=tls&sni=XI.xn--69-pv2cl2k5x3fipr.site&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.22.51.162:443 📡 PING-008.83-MS
-vless://a3e4650e-3e4b-4ba7-9050-262c6b642864@104.21.70.186:443?security=tls&sni=vip2.wagacim920.workers.dev&type=ws&host=vip2.wagacim920.workers.dev&path=%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.70.186:443 📡 PING-008.83-MS
-vless://adee0ebf-a208-4ecd-ef86-6b4592c0fcc8@172.64.140.33:8443?security=tls&sni=kafsh.savarkaraan.ir&type=grpc&serviceName=Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🇺🇸 US-172.64.140.33:8443 📡 PING-008.83-MS
-vless://64492cd4-b921-4ccb-a56d-c446550e0ee4@172.67.181.245:443?security=tls&sni=a.helga1.space&type=grpc&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.181.245:443 📡 PING-008.82-MS
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@217.163.76.88:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=TG%40ZDYZ2&fp=random#🔒 VL-WS-TLS 🇬🇧 GB-217.163.76.88:443 📡 PING-008.82-MS
-vless://89420825-e589-4735-bee1-6dc636fca343@104.21.90.210:8443?security=tls&sni=w3.sylarsun.eu.org&type=ws&host=w3.sylarsun.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.90.210:8443 📡 PING-008.82-MS
-vless://e206d2de-6122-4ec6-81cb-8ab7cb0834bd@172.67.66.177:443?security=tls&sni=burnabyhighstar.com&type=ws&host=hj-en.burnabyhighstar.com&path=%2Fhajmi%3Fed%3D2048&fp=firefox&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.67.66.177:443 📡 PING-008.82-MS
-vless://5ef01b16-ca53-4516-9d0e-6f9f3e6da0d0@104.21.74.214:2087?security=tls&sni=al.moienmusic.space&type=grpc&serviceName=Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.74.214:2087 📡 PING-008.82-MS
