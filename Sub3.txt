@@ -4,11 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@154.197.88.97:2053?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=juzibaipiao.5112233.xyz#[🏁]t.me/ConfigsHub
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@8.222.187.107:8443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=jd.wxgqlfx.top#[🏁]t.me/ConfigsHub
-vless://498a38ae-09f0-45f8-a0d7-06ed9d0c302e@172.66.44.149:2096?path=Path%2FTelegram%40SINABIGO%2F%3Fed%3D2048&security=tls&encryption=none&host=skdjfsklhfgd7fgy493toksjfog.pages.dev&fp=random&type=ws&sni=skdjfsklhfgd7fgy493toksjfog.pages.dev#[🇨🇦]t.me/ConfigsHub
-vmess://eyJhZGQiOiIxMDQuMTYuMjE3LjI0MSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibmVsbHkuaG9tZXMiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiW/Cfh6jwn4emXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiJuZWxseS5ob21lcyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.121.44:80?path=%2F&security=none&encryption=none&host=us3.rtacg.com&type=ws#[🇨🇦]t.me/ConfigsHub
 trojan://0e81a9cd-d849-4101-8d64-574c283207de@172.67.204.84:2083?path=%2Fwebsocket&security=tls&host=de1.trojanvpn.de&type=ws&sni=de1.trojanvpn.de#[🇨🇦]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.210.17.107:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇮
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@8.222.169.181:46458?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=jd.wxgqlfx.top#[🏁]t.me/ConfigsHub
@@ -604,3 +599,8 @@ vless://ed0d825f-508d-4ff1-9ae2-a80c84a375d5@172.105.25.249:443?security=tls&sni
 vless://ed0d825f-508d-4ff1-9ae2-a80c84a375d5@172.105.25.249:2003?security=tls&sni=ca-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇨🇦 CA-172.105.25.249:2003 📡 PING-062.71-MS
 vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@5.161.244.43:443?security=tls&sni=mt1.nabsk.com&type=ws&host=mt1.nabsk.com&path=%2Fusers%3Fed%3D2048&fp=ios&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-5.161.244.43:443 📡 PING-063.85-MS
 vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@5.161.143.118:80?security=none&type=ws&path=users%3Fed#🔒 VL-WS-NONE 🇺🇸 US-5.161.143.118:80 📡 PING-064.67-MS
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@167.114.67.25:443?security=tls&sni=Zmq3W3.taco-land.net&type=ws&host=Zmq3W3.taco-land.net&path=%2F&fp=chrome#🔒 VL-WS-TLS 🇨🇦 CA-167.114.67.25:443 📡 PING-067.91-MS
+vless://378ac207-38d3-4401-ba96-3a7931968bc5@148.113.175.147:80?security=none&type=ws&path=%2Fhttp#🔒 VL-WS-NONE 🇨🇦 CA-148.113.175.147:80 📡 PING-068.15-MS
+vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@5.161.138.37:443?security=tls&sni=ada36.qvqag.com&type=ws&path=%2Fusers%3Fed%3D2048&alpn=http%2F1.1&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-5.161.138.37:443 📡 PING-068.56-MS
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@192.99.54.60:443?security=tls&sni=Zmq3W3.taco-land.net&type=ws&host=Zmq3W3.taco-land.net&path=%2F&fp=chrome#🔒 VL-WS-TLS 🇨🇦 CA-192.99.54.60:443 📡 PING-068.85-MS
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.5.181.170:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇺🇸 US-52.5.181.170:22222 📡 PING-070.79-MS
