@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-trojan://pjdnqv@aws-us-dallas-1.f1rocketnode.com:443?security=tls&sni=aws-us-dallas-1.f1rocketnode.com&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US-15.181.201.80-0127
-trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@108.181.24.37:443?security=tls&sni=glc-us1.windowsupdatea.com&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US-108.181.24.37-0090
 trojan://09833a6f-4d46-426e-87fe-7793a5489f84@144.24.87.186:46521?security=tls&sni=lovehjq.xyz&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7KR-144.24.87.186-8278
 trojan://09833a6f-4d46-426e-87fe-7793a5489f84@144.24.87.186:46527?security=tls&sni=lovehjq.xyz&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7KR-144.24.87.186-8279
 trojan://09833a6f-4d46-426e-87fe-7793a5489f84@144.24.87.186:46521?security=tls&sni=lovehjq.xyz&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7KR-144.24.87.186-8278
@@ -604,3 +602,5 @@ vless://036e45f9-98b9-4fee-ad40-e4729b64954b@104.21.25.32:443?security=tls&sni=p
 vless://de036dbb-e0f2-41a0-dedc-b337f9475bee@198.41.209.216:2096?security=tls&sni=p1.ajdv2zi.site&type=ws&host=p1.ajdv2zi.site&path=/V2rayZi&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.209.216:2096 📡 PING-001.87-MS
 vless://30bacb3e-a515-42bc-9e0b-5241f32e8080@190.93.246.241:80?security=none&type=ws&host=119.xn--ok0ba23wca23lba986qumjx1g6pa134h6zc.info&path=%2F#🔒 VL-WS-NONE 🇨🇷 CR-190.93.246.241:80 📡 PING-001.87-MS
 vless://600bc198-ff12-4d5f-947b-33c1d8a00b3a@173.245.59.58:80?type=ws&host=VXzibrXAPqQ0KZ51uC0o.TahaRat.APp&path=/backup#🔒 VL-WS-NA 🇺🇸 US-173.245.59.58:80 📡 PING-001.87-MS
+vless://f6932063-d2d4-4756-a363-47b632a299c9@104.21.81.143:2087?security=tls&sni=kinghooman.vpnboy.cloud&type=ws&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.81.143:2087 📡 PING-001.87-MS
+vless://8ac4600b-8795-4360-e294-de4a294dfe18@104.31.16.17:443?security=tls&sni=dl1.spikevpn.cfd&type=grpc&serviceName=@spikevpn&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.31.16.17:443 📡 PING-001.87-MS
