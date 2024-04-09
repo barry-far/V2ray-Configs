@@ -4,6 +4,10 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://4d86eaee-0077-4f3f-b719-b1301777b590@104.26.4.132:80?type=ws&host=ww.2023hk.eu.org&path=/?ed%3D2048&fp=chrome#🔒 VL-WS-NA 🏴‍☠️ NA-104.26.4.132:80 📡 PING-001.68-MS
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@188.114.97.1:443?security=tls&sni=current.ircp.online&type=ws&host=current.ircp.online&path=%2F%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🇳🇱 NL-188.114.97.1:443 📡 PING-001.68-MS
+vless://8721355e-96d5-4bb9-a99b-b6119d6b1cd4@172.67.156.210:8443?security=tls&sni=uD2kp0fx53e15EHUFNo2LJ7mHRsDgTYET8xzmA7tXh40tR606ogTx280VN.PaGEs.dEv&type=ws&host=uD2kp0fx53e15EHUFNo2LJ7mHRsDgTYET8xzmA7tXh40tR606ogTx280VN.PaGEs.dEv&path=%2F%3Fed%3D%40Alpha_v2ray_fazayi%2C%40Alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40Alpha_v2ray_fazayi&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.67.156.210:8443 📡 PING-001.67-MS
+vless://e2443e49-e0ce-4628-808f-76469b53cf66@45.135.235.243:443?security=tls&sni=net1.zxv.biz.id&type=ws&host=net1.zxv.biz.id&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇨🇼 CW-45.135.235.243:443 📡 PING-001.66-MS
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@89.116.180.130:2053?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-89.116.180.130:2053 📡 PING-001.66-MS
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.195.10:80?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🇺🇸 US-151.101.195.10:80 📡 PING-001.65-MS
 vless://edadaf4b-3462-4e67-bbed-5c4ff728d48c@104.21.65.133:443?security=tls&sni=tr1-vless.sshmax.xyz&type=ws&host=tr1-vless.sshmax.xyz&path=%2F@AstroVPN_official-@AstroVPN_official-@AstroVPN_official-@AstroVPN_official-@AstroVPN_official-@AstroVPN_official-@AstroVPN_official-@AstroVPN_official-@AstroVPN_official-@AstroVPN_official-@AstroVPN_official-@AstroVPN_official%2Fvless#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.65.133:443 📡 PING-001.65-MS
@@ -600,7 +604,3 @@ vmess://ewogICAgImFkZCI6ICIxMDQuMTYuMjE3LjI0MSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1NL-109.201.152.181-0576
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@77.72.5.113:989#%F0%9F%87%AC%F0%9F%87%A7GB-77.72.5.113-0564
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.15.27.48:989#%F0%9F%87%AB%F0%9F%87%B7FR-51.15.27.48-0577
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.215:8080#%F0%9F%87%BA%F0%9F%87%B8US-45.158.171.215-0578
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@195.154.169.198:989#%F0%9F%87%AB%F0%9F%87%B7FR-195.154.169.198-0583
-vmess://ewogICAgImFkZCI6ICIxOC4yMzYuMTY4LjE3MyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiMDYzYzJjN2QtNTg3ZS00MmYzLWMzMDUtNjE5YmFjN2U1MGQwIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDIxMDI0LAogICAgInBzIjogIvCfh7rwn4e4VVMtMTguMjM2LjE2OC4xNzMtMDEzNyIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.159.111.208:989#%F0%9F%87%AB%F0%9F%87%B7FR-51.159.111.208-0585
