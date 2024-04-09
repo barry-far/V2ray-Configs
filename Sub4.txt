@@ -4,6 +4,10 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@108.181.22.161:443?security=tls&sni=glc-us2.windowsupdatea.com&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US-108.181.22.161-0235
+trojan://pjdnqv@aws-us-dallas-1.f1rocketnode.com:443?security=tls&sni=aws-us-dallas-1.f1rocketnode.com&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US-15.181.201.80-0127
+trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@108.181.24.37:443?security=tls&sni=glc-us1.windowsupdatea.com&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US-108.181.24.37-0090
+trojan://09833a6f-4d46-426e-87fe-7793a5489f84@144.24.87.186:46521?security=tls&sni=lovehjq.xyz&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7KR-144.24.87.186-8278
 trojan://09833a6f-4d46-426e-87fe-7793a5489f84@144.24.87.186:46527?security=tls&sni=lovehjq.xyz&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7KR-144.24.87.186-8279
 trojan://09833a6f-4d46-426e-87fe-7793a5489f84@144.24.87.186:46521?security=tls&sni=lovehjq.xyz&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7KR-144.24.87.186-8278
 trojan://28c79056-ccfd-4cc1-93d4-c337cc782e65@89.221.224.94:80?security=tls&sni=is2-t.sshmax.xyz&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B8IS-89.221.224.94-0076
@@ -600,7 +604,3 @@ vless://5ef01b16-ca53-4516-9d0e-6f9f3e6da0d0@104.21.74.214:2087?security=tls&sni
 vless://4d86eaee-0077-4f3f-b719-b1301777b590@162.159.245.194:8080?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.245.194:8080 📡 PING-005.51-MS
 vless://4d86eaee-0077-4f3f-b719-b1301777b590@162.159.129.170:80?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.129.170:80 📡 PING-005.51-MS
 vless://a0e33e35-ad8d-4226-8d95-3c2fec5f23c0@69.84.182.112:2053?security=tls&sni=isa.kasler.sbs&type=grpc&serviceName=%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%40ev2rayy&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇺🇸 US-69.84.182.112:2053 📡 PING-005.51-MS
-vless://25c5cbda-39e5-47ed-b36c-b87ffef2378d@104.18.8.38:443?security=tls&sni=worker-fancy-base-7d08.yajici1215.workers.DEV&type=ws&host=worker-fancy-base-7d08.yajici1215.workers.DEV&path=%2F%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.8.38:443 📡 PING-005.51-MS
-vless://2f4901e2-acb4-4d45-978c-7eb1d751dd5b@104.21.23.177:443?security=tls&sni=pPAl03.raNDal-rAynor.workerS.DEV&type=ws&host=pPAL03.raNdaL-rAyNOr.wORKErs.dEV&path=/ybLk-FfsdVJXqLAJ?ed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.23.177:443 📡 PING-005.51-MS
-vless://a51dcb8b-b5aa-42bc-9771-224ac25233f3@185.146.173.59:2086?security=none&type=ws&host=xn--047h.iman-v2ray.sbs.&path=%2F#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.59:2086 📡 PING-005.51-MS
-vless://0eccbc6c-2a80-4e4a-b6ed-b9f8e98ebf01@162.159.134.234:2083?security=tls&sni=re2.v2logy.xyz&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.134.234:2083 📡 PING-005.51-MS
