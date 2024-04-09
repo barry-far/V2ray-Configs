@@ -4,6 +4,12 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://33b240d5-e6e6-4c11-8a28-f74d2138f239@172.64.140.33:2096?security=tls&sni=joinsever89.servernet.cfd&type=grpc&serviceName=%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇺🇸 US-172.64.140.33:2096 📡 PING-001.78-MS
+vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@104.21.19.215:443?security=tls&sni=bypassfilter.wrevdav.workers.dev&type=ws&host=bypassfilter.wrevdav.workers.dev&path=%40bypass_filter%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.19.215:443 📡 PING-001.78-MS
+vless://696b71a6-f11e-402a-8879-a27ebd7afa0f@162.159.135.234:2083?security=tls&sni=re2.v2logy.xyz&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.135.234:2083 📡 PING-001.78-MS
+vless://2e19015e-e622-4544-9c12-f42533ce11e8@104.18.200.220:443?security=tls&sni=hetzner.nirevil.ir&type=ws&host=hetzner.nirevil.ir&path=%2F%3Fed%3D2048&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.200.220:443 📡 PING-001.78-MS
+vless://64d1abb4-d5f4-4fa8-bf46-0e0879683c8c@104.26.13.8:443?security=tls&sni=dhdjejwkksjdjckdoelapqpqjqbendjcncndnwnwkw.dota2sina.lol&type=grpc&serviceName=443vless&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.26.13.8:443 📡 PING-001.78-MS
+vless://19b020ae-dddd-4340-a2e7-34cbdb33d62e@[::ffff:185.146.173.59]:8080?security=none&type=ws&host=xn--047h.iman-v2ray.sbs.&path=%2F#🔒 VL-WS-NONE 🇸🇪 SE-[::ffff:185.146.173.59]:8080 📡 PING-001.78-MS
 vless://429b5f1b-d233-4fc2-e2c5-2bb73f0665fa@103.184.44.10:443?security=tls&sni=idirAfV2ray.rabinhood.net&type=grpc&serviceName=%40AfV2ray,%40AfV2ray,%40AfV2ray,%40AfV2ray,%40AfV2ray,%40AfV2ray,%40AfV2ray,%40AfV2ray,%40AfV2ray,%40AfV2ray,%40AfV2ray,%40AfV2ray&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇨🇳 CN-103.184.44.10:443 📡 PING-001.78-MS
 vless://cf428955-86c2-46b1-8cd7-f111666ff9fc@104.16.29.8:2053?security=tls&sni=sayhello.rokna.online&type=ws&path=%2Fbackup#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.29.8:2053 📡 PING-001.78-MS
 vless://51701e0e-a004-4f2c-9466-9cd2670465b3@104.31.16.95:8080?security=none&type=ws&host=uzA2KMsNyBLrRoJomW5L.NIgc-ar.nET&path=%2Fbackup#🔒 VL-WS-NONE 🏴‍☠️ NA-104.31.16.95:8080 📡 PING-001.78-MS
@@ -598,9 +604,3 @@ vless://ffdb4c0c-6ae9-4211-b0c9-9ead49202739@151.101.130.168:80?security=none&ty
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.128.144:443?security=tls&sni=GOV.UK&type=ws&host=k.kp&path=Path%2FTelegram%40proxy_mtm%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-151.101.128.144:443 📡 PING-001.03-MS
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.128.144:80?security=none&type=ws&host=binance.co.kp&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.128.144:80 📡 PING-001.00-MS
 vless://0c643809-f0b2-435f-b1c1-ef42c14618e2@151.101.130.219:80?security=none&type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg#🔒 VL-WS-NONE 🇺🇸 US-151.101.130.219:80 📡 PING-000.98-MS
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.129.21:80?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🇺🇸 US-151.101.129.21:80 📡 PING-000.96-MS
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.64.144:80?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🇺🇸 US-151.101.64.144:80 📡 PING-000.91-MS
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.0.144:443?security=tls&sni=binance.co.kp&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-151.101.0.144:443 📡 PING-000.91-MS
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.192.144:443?security=tls&sni=GOV.UK&type=ws&host=k.kp&path=Path%2FTelegram%40proxy_mtm%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-151.101.192.144:443 📡 PING-000.90-MS
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.67.10:80?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🇺🇸 US-151.101.67.10:80 📡 PING-000.87-MS
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.64.144:443?security=tls&sni=fucken.oracle&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-151.101.64.144:443 📡 PING-000.83-MS
