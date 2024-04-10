@@ -4,6 +4,14 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@194.36.55.198:8443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇬🇧 GB-194.36.55.198:8443 📡 PING-005.12-MS
+vless://25c5cbda-39e5-47ed-b36c-b87ffef2378d@104.18.8.38:443?security=tls&sni=worker-fancy-base-7d08.yajici1215.workers.DEV&type=ws&host=worker-fancy-base-7d08.yajici1215.workers.DEV&path=%2F%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.8.38:443 📡 PING-005.12-MS
+vless://aa2dc840-be38-4b4d-a002-ba234999fd55@162.159.153.55:8080?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.153.55:8080 📡 PING-005.12-MS
+vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.44.124:443?security=tls&sni=Telegram-ZTV2RAY.pages.dev&type=ws&host=Telegram-ZTV2RAY.pages.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.66.44.124:443 📡 PING-005.12-MS
+vless://aabc3ef9-6968-4311-81b8-8cd0414c1904@141.101.113.110:80?security=none&type=ws&path=Path%2FTelegram+%3A+%40v2ray1_ng--%40v2ray1_ng--%40v2ray1_ng--%40v2ray1_ng--%40v2ray1_ng--%40v2ray1_ng--%40v2ray1_ng--%40v2ray1_ng--%40v2ray1_ng--%40v2ray1_ng--%40v2ray1_ng--%40v2ray1_ng--%40v2ray1_ng--%40v2ray1_ng--%40v2ray1_ng%2F%3Fed#🔒 VL-WS-NONE 🏴‍☠️ NA-141.101.113.110:80 📡 PING-005.12-MS
+vless://44d6d51b-0ab6-4574-b07f-e6a621da9b59@172.64.148.133:443?security=tls&sni=05b16ab02c646989.koalalampour.space&type=ws&host=0f24ceec49d3c619.koalalampour.space&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-172.64.148.133:443 📡 PING-005.12-MS
+vless://d360d11e-d426-4583-b55e-524ab1f0afa9@104.26.4.60:2096?security=tls&sni=worker-gentle-waterfall-6de8.tigerhungry4.workers.dev&type=ws&host=worker-gentle-waterfall-6de8.tigerhungry4.workers.dev&path=/?ed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.4.60:2096 📡 PING-005.12-MS
+vless://44d6d51b-0ab6-4574-b07f-e6a621da9b59@104.18.39.123:443?security=tls&sni=05b16ab02c646989.koalalampour.space&type=ws&host=0f24ceec49d3c619.koalalampour.space&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.39.123:443 📡 PING-005.12-MS
 vless://4437af3d-9d06-4f36-86c6-bd41638a6657@172.67.202.194:443?security=tls&sni=pPAl03.fredeRIQuE-sTEuBeR.woRkERs.dEV&type=ws&host=PPaL03.FredERIQUE-STeubER.workERS.DeV&path=/s_32l-L18cLsxQMv?ed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.67.202.194:443 📡 PING-005.12-MS
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.192.144:443?security=tls&sni=k.kp&type=ws&path=Path%2FTelegram%40freevirgoolnet%2F%3Fed&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-151.101.192.144:443 📡 PING-005.12-MS
 vless://d8edd35e-fb4a-4611-92f3-0d2f7d49eaa1@172.67.166.116:443?security=tls&sni=fkrhkwrhkwrwhkhk.htbsehebdfthet5htedthdr.workers.dev&type=ws&host=fkrhkwrhkwrwhkhk.htbsehebdfthet5htedthdr.workers.dev#🔒 VL-WS-TLS 🇺🇸 US-172.67.166.116:443 📡 PING-005.12-MS
@@ -596,11 +604,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpadTVzVmRoUElUa0lJMVJmOWJVVGp0MHdzMW5rczR2Z0J
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:812#🔒 SS-TCP-NA 🇯🇵 JP-185.172.113.182:812 📡 PING-154.05-MS
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.195.237.101:443#🔒 SS-TCP-NA 🇯🇵 JP-52.195.237.101:443 📡 PING-154.56-MS
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.77.89.124:443#🔒 SS-TCP-NA 🇯🇵 JP-35.77.89.124:443 📡 PING-154.84-MS
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.69.81.42:443#🔒 SS-TCP-NA 🇯🇵 JP-52.69.81.42:443 📡 PING-155.90-MS
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.195.10.194:443#🔒 SS-TCP-NA 🇯🇵 JP-52.195.10.194:443 📡 PING-156.22-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzOFgxVWlqV3NFU2ZBYk5PU1dhOTRv@89.187.28.20:443#🔒 SS-TCP-NA 🇯🇵 JP-89.187.28.20:443 📡 PING-157.00-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTSjNSMmE4YjJHYUJiTDc2VTg4TGVR@31.14.118.38:24285#🔒 SS-TCP-NA 🇮🇷 IR-31.14.118.38:24285 📡 PING-159.03-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:810#🔒 SS-TCP-NA 🇯🇵 JP-185.172.113.182:810 📡 PING-159.05-MS
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.199.15.70:443#🔒 SS-TCP-NA 🇯🇵 JP-54.199.15.70:443 📡 PING-159.46-MS
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.195.225.184:443#🔒 SS-TCP-NA 🇯🇵 JP-52.195.225.184:443 📡 PING-159.54-MS
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.77.92.181:443#🔒 SS-TCP-NA 🇯🇵 JP-35.77.92.181:443 📡 PING-160.07-MS
