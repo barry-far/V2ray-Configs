@@ -4,6 +4,10 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://6d9da050-d734-402f-94f5-f3aea8b686d8@78.109.194.192:19903?security=none&type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-78.109.194.192:19903 📡 PING-294.23-MS
+vless://2513bd46-548c-481d-9082-7f1c690079fe@95.164.114.43:443?security=tls&sni=kz-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇰🇿 KZ-95.164.114.43:443 📡 PING-296.62-MS
+vless://2513bd46-548c-481d-9082-7f1c690079fe@95.164.114.43:2003?security=tls&sni=kz-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇰🇿 KZ-95.164.114.43:2003 📡 PING-297.12-MS
+vless://4bada4e0-0f18-4b3e-bdd9-94891134b9b1@170.114.46.78:443?security=tls&sni=cf.xujiang.link&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-170.114.46.78:443 📡 PING-305.52-MS
 vless://d342d11e-d424-4583-b36e-524ab1f0afa7@172.66.47.88:2087?security=tls&sni=ed9485634jkfhggh.pages.dev&type=ws&host=ed9485634jkfhggh.pages.dev&path=%2FTelegram@SINABIGO@SINABIGO@SINABIGO%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🇺🇸 US-172.66.47.88:2087 📡 PING-307.18-MS
 vless://4908bc65-1e89-41db-a0d0-daf57aa89681@193.111.235.137:26238?security=none&type=tcp&host=telewebion.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-193.111.235.137:26238 📡 PING-316.83-MS
 vless://f4cec6cc-6177-423c-90f8-2ad9f0dd996b@104.18.203.232:8443?security=tls&sni=vpnCt.arvancode.eu.Org&type=ws&host=vpnct.arvancode.eu.Org&path=%2FbShq2qgG8GnX8zqm%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.203.232:8443 📡 PING-317.97-MS
@@ -600,7 +604,3 @@ vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@199.181.197.115:443?security=tls&sn
 vless://600bc198-ff12-4d5f-947b-33c1d8a00b3a@173.245.59.16:80?security=none&type=ws&path=%2Fbackup#🔒 VL-WS-NONE 🇺🇸 US-173.245.59.16:80 📡 PING-002.98-MS
 vless://9bb74f9c-6385-4e90-9d16-aadf009575f8@172.66.47.145:2053?security=tls&sni=akfjw807r23raskodfjsf.pages.dev&type=ws&path=Telegram%40SINABIGO%40SINABIGO%40SINABIGO%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-172.66.47.145:2053 📡 PING-002.98-MS
 vless://e5ac81c6-37d6-4052-b342-f2586a3affaa@104.18.13.130:8443?security=tls&sni=ada.lowswol.com&type=ws&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.13.130:8443 📡 PING-002.98-MS
-vless://962a358c-85d9-443b-a813-2bc9e1223217@172.67.204.84:2087?security=tls&sni=Ht-P-S-t-Me-V2ray-421.jOiN-pRivAtE.Ir&type=grpc&serviceName=%40Academi_vpn+%40Academi_vpn+%40Academi_vpn+%40Academi_vpn+%40Academi_vpn+%40Academi_vpn+%40Academi_vpn+%40Academi_vpn+%40Academi_vpn+%40Academi_vpn+%40Academi_vpn+%40Academi_vpn+%40Academi_vpn+%40Academi_vpn+%40Academi_vpn+%40Academi_vpn+%40Academi_vpn+%40Academi_vpn&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.204.84:2087 📡 PING-002.98-MS
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.25.208.187:80?type=ws&host=us1.rtacg.com&path=/&fp=chrome#🔒 VL-WS-NA 🏴‍☠️ NA-104.25.208.187:80 📡 PING-002.97-MS
-vless://7e333f65-09bc-4ecb-bb47-b9e9aead2742@162.159.130.234:2087?security=tls&sni=re3.v2logy.xyz&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.130.234:2087 📡 PING-002.97-MS
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.238.228.212:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇪🇸 ES-185.238.228.212:443 📡 PING-002.97-MS
