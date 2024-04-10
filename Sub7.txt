@@ -4,11 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://6e3b6884-7195-4aa8-a8f7-c441afb91ae9@172.67.73.163:2053?security=tls&sni=h.protoeinpaitakht.com&type=grpc&serviceName=@HosseinStore_Za,@HosseinStore_Za,@HosseinStore_Za,@HosseinStore_Za,@HosseinStore_Za,@HosseinStore_Za,@HosseinStore_Za,@HosseinStore_Za,@HosseinStore_Za,@HosseinStore_Za,@HosseinStore_Za,@HosseinStore_Za&fp=firefox&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.73.163:2053 📡 PING-001.28-MS
-vless://bdc47e24-820a-4771-addd-3c7f85c5276b@172.67.73.163:2096?security=tls&sni=telgram-falcunargo-tr.falcunar.asso.eu.org&type=ws&host=telgram-falcunargo-tr.falcunar.asso.eu.org&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🇺🇸 US-172.67.73.163:2096 📡 PING-001.28-MS
-vless://e123f63c-1b2f-5ecf-8cb6-f35a2a99ee0c@172.67.145.78:2087?security=tls&sni=mahdiserver.bdlapzxv.WoRkeRs.DeV&type=ws&host=mahdiserver.bdlapzxv.WoRkeRs.DeV&path=vless-ws%2F%3Fed%3D2048&fp=safari&alpn=h2#🔒 VL-WS-TLS 🇺🇸 US-172.67.145.78:2087 📡 PING-001.28-MS
-vless://eaa0d1c9-c9b7-4a83-ba61-24c21aadca56@104.17.88.212:80?type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.88.212:80 📡 PING-001.28-MS
-vless://8c51bf40-3933-48df-a106-9053cbacc919@91.193.58.25:8080?security=none&type=ws&host=baraye-tarsidan-be-vaghte-bosidan.%E7%BE%A9%E5%8B%99%E8%AD%A6%E5%93%A1.online.&path=%40daily_configs-%40daily_configs-%40daily_configs-%40daily_configs#🔒 VL-WS-NONE 🇬🇧 GB-91.193.58.25:8080 📡 PING-001.28-MS
 vless://0a0b9604-f2a9-4d73-a698-8e2641d692ae@162.159.36.66:2053?security=tls&sni=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran.dewiw37019.workers.dev&type=ws&host=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran.dewiw37019.workers.dev&path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.36.66:2053 📡 PING-001.28-MS
 vless://51701e0e-a004-4f2c-9466-9cd2670465b3@104.31.16.90:8080?security=none&type=ws&host=uzA2KMsNyBLrRoJomW5L.NIgc-ar.nET&path=%2Fbackup#🔒 VL-WS-NONE 🏴‍☠️ NA-104.31.16.90:8080 📡 PING-001.28-MS
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@45.195.62.108:443?security=tls&sni=tg.dns68.cloudns.nz&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇫🇮 FI-45.195.62.108:443 📡 PING-001.28-MS
@@ -604,3 +599,8 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.195.225.184:443#🔒 SS-TCP-NA 🇯🇵
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpadTVzVmRoUElUa0lJMVJmOWJVVGp0MHdzMW5rczR2Z0JvSGhlN1F4d0VrMGozQWk=@146.185.198.44:51348#🔒 SS-TCP-NA 🇷🇺 RU-146.185.198.44:51348 📡 PING-158.48-MS
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.195.10.194:443#🔒 SS-TCP-NA 🇯🇵 JP-52.195.10.194:443 📡 PING-159.98-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTSjNSMmE4YjJHYUJiTDc2VTg4TGVR@31.14.118.38:24285#🔒 SS-TCP-NA 🇮🇷 IR-31.14.118.38:24285 📡 PING-160.23-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1U0ZpTnRqd3pDMXkyUU1QTmhyWEFUNWdrbkUxbWdIZ2dzcUw2Z1BrVUZQdldxckhDNjNVNXA1VkNOWkJrdFQ3Qk5veWtHZDFneFBaeTl6b1NzajZIcnc1WVYzWHZvUGg=@194.87.179.169:40928#🔒 SS-TCP-NA 🇨🇿 CZ-194.87.179.169:40928 📡 PING-160.23-MS
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.197.32.239:443#🔒 SS-TCP-NA 🇯🇵 JP-52.197.32.239:443 📡 PING-161.05-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:810#🔒 SS-TCP-NA 🇯🇵 JP-185.172.113.182:810 📡 PING-161.11-MS
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.248.173.222:443#🔒 SS-TCP-NA 🇯🇵 JP-54.248.173.222:443 📡 PING-161.32-MS
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.77.92.181:443#🔒 SS-TCP-NA 🇯🇵 JP-35.77.92.181:443 📡 PING-162.05-MS
