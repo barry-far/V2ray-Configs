@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://8cdf0d53-5e09-4a3f-b551-fe7a210a0033@104.26.6.89:443?security=tls&sni=dm.irandtehran.org&type=grpc&serviceName=@ipV2Ray&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.26.6.89:443 📡 PING-001.91-MS
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.64.89.170:443?security=tls&sni=3k.pureboy.eu.org&type=ws&host=3k.pureboy.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-172.64.89.170:443 📡 PING-001.91-MS
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.128.144:443?security=tls&sni=k.kp&type=ws&path=Path%2FTelegram%40proxy_mtm%2F%3Fed&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-151.101.128.144:443 📡 PING-001.91-MS
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.47.199:2096?security=tls&sni=8-2bw.pages.dev&type=ws&host=8-2bw.pages.dev&path=Telegram%40SINABIGO%40SINABIGO%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-172.66.47.199:2096 📡 PING-001.91-MS
 vless://4bec0064-137e-48e2-85a2-b2ef37732a8f@104.26.14.85:2087?security=tls&sni=98.hsza.site&type=grpc&serviceName=@HosseinStore_Za,@HosseinStore_Za,@HosseinStore_Za,@HosseinStore_Za,@HosseinStore_Za&fp=firefox#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.26.14.85:2087 📡 PING-001.91-MS
@@ -604,3 +602,5 @@ ss://YWVzLTI1Ni1jZmI6ZkcyYXJ0VW1IZk5UMmNYNw==@103.172.116.90:9018#🔒 SS-TCP-NA
 ss://YWVzLTI1Ni1jZmI6d2ZMQzJ5N3J6WnlDbXV5dA==@103.172.116.90:9093#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9093 📡 PING-206.53-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZjMwZGE1NC0zMTdmLTQ3MjYtOThiZC04YmM4ZWM4MTQwYzk=@139.59.119.251:20175#🔒 SS-TCP-NA 🇸🇬 SG-139.59.119.251:20175 📡 PING-207.10-MS
 ss://YWVzLTI1Ni1jZmI6YmY3djMzNEtLRFYzWURoSA==@103.172.116.90:9070#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9070 📡 PING-207.64-MS
+ss://YWVzLTI1Ni1jZmI6a1NQbXZ3ZEZ6R01NVzVwWQ==@103.172.116.79:9007#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9007 📡 PING-207.65-MS
+ss://YWVzLTI1Ni1jZmI6QmVqclF2dHU5c3FVZU51Wg==@103.172.116.79:9024#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9024 📡 PING-207.72-MS
