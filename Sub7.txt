@@ -4,9 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.219.76:80?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.219.76:80 📡 PING-001.65-MS
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@79.99.28.165:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇳🇱 NL-79.99.28.165:8443 📡 PING-001.65-MS
-vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@104.21.59.95:443?security=tls&sni=w1.sylar8.eu.org&type=ws&host=w1.sylar8.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.59.95:443 📡 PING-001.65-MS
 vless://5a81d44f-d283-46ba-b6b3-bac75fc50cc8@104.23.118.75:443?security=tls&sni=rS.gOlEsTaN-vpn.LInk.&type=ws&host=rS.gOlEsTaN-vpn.LInk.&path=%2F%3Fed%3D2048&fp=random&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.23.118.75:443 📡 PING-001.65-MS
 vless://4d86eaee-0077-4f3f-b719-b1301777b590@172.67.85.233:8080?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🇺🇸 US-172.67.85.233:8080 📡 PING-001.65-MS
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.26.0.165:80?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.0.165:80 📡 PING-001.64-MS
@@ -604,3 +601,6 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.184.62:989#🔒 SS-TCP-NA �
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZjMwZGE1NC0zMTdmLTQ3MjYtOThiZC04YmM4ZWM4MTQwYzk=@139.59.119.251:20177#🔒 SS-TCP-NA 🇸🇬 SG-139.59.119.251:20177 📡 PING-168.77-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWaUpxeENabW5pMDM1dUNUd0I5aTBS@45.82.13.138:15370#🔒 SS-TCP-NA 🇸🇪 SE-45.82.13.138:15370 📡 PING-168.89-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZjMwZGE1NC0zMTdmLTQ3MjYtOThiZC04YmM4ZWM4MTQwYzk=@139.59.119.251:20181#🔒 SS-TCP-NA 🇸🇬 SG-139.59.119.251:20181 📡 PING-168.96-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZjMwZGE1NC0zMTdmLTQ3MjYtOThiZC04YmM4ZWM4MTQwYzk=@139.59.119.251:20172#🔒 SS-TCP-NA 🇸🇬 SG-139.59.119.251:20172 📡 PING-169.06-MS
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.60.199.125:989#🔒 SS-TCP-NA 🇸🇬 SG-38.60.199.125:989 📡 PING-169.11-MS
+ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg==@103.172.116.79:9094#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9094 📡 PING-169.17-MS
