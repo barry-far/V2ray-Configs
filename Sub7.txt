@@ -4,9 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://36a8a97b-9380-4cfb-9248-4f71a09f454c@104.16.61.8:2053?security=tls&sni=ag.YaKariim.com&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.61.8:2053 📡 PING-001.90-MS
-vless://2e70e49e-d4bd-412d-f667-faa8ae1f154f@104.21.39.202:443?security=tls&sni=azmvm75.iranservicenet.pics&type=ws&path=%2Fws&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.39.202:443 📡 PING-001.90-MS
-vless://4d86eaee-0077-4f3f-b719-b1301777b590@162.159.245.194:8080?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.245.194:8080 📡 PING-001.90-MS
 vless://1582135f-ce66-4fcc-a231-4253db4ad098@162.159.134.233:8443?security=tls&sni=Nocdn.revil.link&type=grpc&serviceName=ORB&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.134.233:8443 📡 PING-001.90-MS
 vless://4d86eaee-0077-4f3f-b719-b1301777b590@162.159.136.142:80?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.136.142:80 📡 PING-001.90-MS
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.183.230:443?security=tls&sni=3k.pureboy.eu.org&type=ws#🔒 VL-WS-TLS 🇺🇸 US-172.67.183.230:443 📡 PING-001.90-MS
@@ -604,3 +601,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:812#🔒 S
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:811#🔒 SS-TCP-NA 🇯🇵 JP-185.172.113.182:811 📡 PING-144.21-MS
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.77.89.124:443#🔒 SS-TCP-NA 🇯🇵 JP-35.77.89.124:443 📡 PING-145.65-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:810#🔒 SS-TCP-NA 🇯🇵 JP-185.172.113.182:810 📡 PING-145.88-MS
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@31.171.153.181:989#🔒 SS-TCP-NA 🇦🇱 AL-31.171.153.181:989 📡 PING-146.02-MS
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@171.22.254.17:989#🔒 SS-TCP-NA 🇲🇹 MT-171.22.254.17:989 📡 PING-146.03-MS
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.248.173.222:443#🔒 SS-TCP-NA 🇯🇵 JP-54.248.173.222:443 📡 PING-147.19-MS
