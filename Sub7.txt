@@ -4,6 +4,11 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://7e333f65-09bc-4ecb-bb47-b9e9aead2742@162.159.130.234:2083?security=tls&sni=re2.v2logy.xyz&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.130.234:2083 📡 PING-001.41-MS
+vless://509759ae-26f9-42dc-90b0-1ba310c1697d@104.18.12.130:443?security=tls&sni=EliV2ray.naziitness.com&type=grpc&serviceName=@ELiV2RaY--@ELiV2RaY--@ELiV2RaY--@ELiV2RaY--@ELiV2RaY--@ELiV2RaY--@ELiV2RaY--@ELiV2RaY--@ELiV2RaY--@ELiV2RaY--@ELiV2RaY--@ELiV2RaY--@ELiV2RaY--@ELiV2RaY--@ELiV2RaY--@ELiV2RaY--@ELiV2RaY--@ELiV2RaY--@ELiV2RaY--@ELiV2RaY&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.12.130:443 📡 PING-001.41-MS
+vless://d674009a-4a87-4180-a8fe-9a54f66bd7c9@104.18.82.174:8443?security=tls&sni=vpn.restia.love&type=ws&host=vpn.restia.love&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.82.174:8443 📡 PING-001.41-MS
+vless://51701e0e-a004-4f2c-9466-9cd2670465b3@104.31.16.95:8080?security=none&type=ws&host=uzA2KMsNyBLrRoJomW5L.NIgc-ar.nET&path=%2Fbackup#🔒 VL-WS-NONE 🏴‍☠️ NA-104.31.16.95:8080 📡 PING-001.41-MS
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@79.99.28.150:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇳🇱 NL-79.99.28.150:8443 📡 PING-001.41-MS
 vless://4d86eaee-0077-4f3f-b719-b1301777b590@162.159.248.60:2082?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.248.60:2082 📡 PING-001.41-MS
 vless://4bada4e0-0f18-4b3e-bdd9-94891134b9b1@170.114.46.78:443?security=tls&sni=cf.xujiang.link&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-170.114.46.78:443 📡 PING-001.41-MS
 vless://40d3fdd7-e534-4762-a125-359484e522ef@104.21.65.172:443?security=tls&sni=Ppal03.mAgdalENa-gAyLorD.wORKERs.DEv&type=ws&host=Ppal03.magdaLEnA-gAYLoRd.wORKerS.Dev&path=/iQm7_H2r35FnS6Uu?ed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.65.172:443 📡 PING-001.41-MS
@@ -599,8 +604,3 @@ ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@54.36.174.181:5003#🔒 SS-TCP-NA 🇫
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@156.146.62.160:443#🔒 SS-TCP-NA 🇨🇭 CH-156.146.62.160:443 📡 PING-166.28-MS
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@54.36.174.181:6679#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:6679 📡 PING-166.30-MS
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@51.77.53.200:7306#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:7306 📡 PING-166.51-MS
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@54.36.174.181:5004#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:5004 📡 PING-166.53-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0cFdWYklWSXV3NExLOXd2TWdjSFc1@193.228.128.143:27981#🔒 SS-TCP-NA 🇪🇪 EE-193.228.128.143:27981 📡 PING-166.68-MS
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.184.60:989#🔒 SS-TCP-NA 🇭🇷 HR-46.183.184.60:989 📡 PING-167.28-MS
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.184.62:989#🔒 SS-TCP-NA 🇭🇷 HR-46.183.184.62:989 📡 PING-168.06-MS
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.184.61:989#🔒 SS-TCP-NA 🇭🇷 HR-46.183.184.61:989 📡 PING-168.09-MS
