@@ -4,9 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@108.181.22.161:443?security=tls&sni=glc-us2.windowsupdatea.com&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US-108.181.22.161-0235
-trojan://pjdnqv@aws-us-dallas-1.f1rocketnode.com:443?security=tls&sni=aws-us-dallas-1.f1rocketnode.com&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US-15.181.201.80-0127
-trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@108.181.24.37:443?security=tls&sni=glc-us1.windowsupdatea.com&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US-108.181.24.37-0090
 trojan://09833a6f-4d46-426e-87fe-7793a5489f84@144.24.87.186:46521?security=tls&sni=lovehjq.xyz&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7KR-144.24.87.186-8278
 trojan://09833a6f-4d46-426e-87fe-7793a5489f84@144.24.87.186:46527?security=tls&sni=lovehjq.xyz&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7KR-144.24.87.186-8279
 trojan://09833a6f-4d46-426e-87fe-7793a5489f84@144.24.87.186:46521?security=tls&sni=lovehjq.xyz&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7KR-144.24.87.186-8278
@@ -604,3 +601,6 @@ vless://702b8bc9-b775-4e7b-b9ae-5c36ebea9bc3@185.146.173.206:2087?security=tls&s
 vless://51701e0e-a004-4f2c-9466-9cd2670465b3@104.31.16.50:8080?security=none&type=ws&host=uzA2KMsNyBLrRoJomW5L.NIgc-ar.nET&path=%2Fbackup#🔒 VL-WS-NONE 🏴‍☠️ NA-104.31.16.50:8080 📡 PING-002.09-MS
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.20.59.204:80?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.59.204:80 📡 PING-002.09-MS
 vless://c7c08661-84bf-4e2a-be4a-3b3ac17638f7@154.197.75.98:80?security=none&type=ws&host=hey.xn--fhq0la447aac5504dea701axr1g.tech.&path=%2FV2RAYFAST_7V2RAYFAST_7V2RAYFAST_7V2RAYFAST_7V2RAYFAST_7V2RAYFAST_7V2RAYFAST_7V2RAYFAST_7V2RAYFAST_7V2RAYFAST_7V2RAYFAST_7V2RAYFAST_7V2RAYFAST_7V2RAYFAST_7V2RAYFAST_7V2RAYFAST_7V2RAYFAST_7#🔒 VL-WS-NONE 🇸🇨 SC-154.197.75.98:80 📡 PING-002.09-MS
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@79.99.28.165:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇳🇱 NL-79.99.28.165:8443 📡 PING-002.09-MS
+vless://e854ff2a-c301-4fed-b3be-31e4bc0a6c12@172.67.167.37:8443?security=tls&sni=v2raxx.hadiv2.shop&type=grpc&serviceName=%40V2RAXX&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.167.37:8443 📡 PING-002.09-MS
+vless://f65c6d7d-f0a2-4ee4-f8fa-c60dbfa2bc7d@198.41.215.205:80?type=ws&host=bia-to-channel.unlimiteddev.xyz&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-198.41.215.205:80 📡 PING-002.09-MS

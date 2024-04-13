@@ -4,9 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://920d0e13-fdd0-4a36-a044-a9086f123d7b@172.66.47.191:443?security=tls&sni=b4a3567c.servernett.pages.dev&type=ws&host=b4a3567c.servernett.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-172.66.47.191:443 📡 PING-001.62-MS
-vless://2e19015e-e622-4544-9c12-f42533ce11e8@104.22.51.45:443?security=tls&sni=REsilience.NiREvil.IR&type=ws&host=REsilience.NiREvil.IR&path=%2F%3Fed%3D2048&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.51.45:443 📡 PING-001.62-MS
-vless://2e19015e-e622-4544-9c12-f42533ce11e8@185.176.26.8:443?security=tls&sni=hetzner.nirevil.ir&type=ws&host=hetzner.nirevil.ir&path=%2F%3Fed%3D2048&alpn=http%2F1.1#🔒 VL-WS-TLS 🇰🇿 KZ-185.176.26.8:443 📡 PING-001.62-MS
 vless://92e2b36d-0bdd-4c05-b18f-de7bef26dd18@104.17.169.114:80?security=none&type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.169.114:80 📡 PING-001.62-MS
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.27.50:80?type=ws&host=us1.rtacg.com&path=/&fp=chrome#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.27.50:80 📡 PING-001.62-MS
 vless://f61875ea-a167-4c9f-9d2e-2ae3d104c267@188.114.98.224:443?security=tls&sni=max-allnet.hiroman5445.ir&type=grpc&serviceName=DvVRTw2k71qNhriZyCPvusI&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇳🇱 NL-188.114.98.224:443 📡 PING-001.62-MS
@@ -604,3 +601,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowQ2hTMDZOd3dTNXBHYmRlcWVKMms3@92.243.27.51:9
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#🔒 SS-TCP-NA 🇳🇱 NL-109.201.152.181:443 📡 PING-150.14-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@193.29.139.248:8080#🔒 SS-TCP-NA 🇳🇱 NL-193.29.139.248:8080 📡 PING-150.46-MS
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@149.202.82.172:8000#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:8000 📡 PING-151.44-MS
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@149.202.82.172:8008#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:8008 📡 PING-151.79-MS
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:3389#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:3389 📡 PING-152.04-MS
+ss://YWVzLTEyOC1nY206VGVsZWdyYW06QFpFRE1PREVPTg==@89.23.103.4:80#🔒 SS-TCP-NA 🇳🇱 NL-89.23.103.4:80 📡 PING-152.36-MS
