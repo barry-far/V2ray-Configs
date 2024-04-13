@@ -4,15 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://ecd404a2-70b2-4e89-8339-89536cdfae52@198.41.223.152:8080?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.223.152:8080 📡 PING-001.41-MS
-vless://c4603a86-8c9a-4230-8e4c-04945b160bdd@104.21.4.113:2096?security=tls&sni=channel.v2bamdad.tech&type=grpc&serviceName=BBjszEZzABSQuqxj4FxIzvwxUDoX&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.4.113:2096 📡 PING-001.41-MS
-vless://0ddfb4dd-d1f0-4416-8d5b-dd00e6d10d66@172.67.171.89:443?security=tls&sni=dk3-vless.sshmax.xyz&type=ws&host=dk3-vless.sshmax.xyz&path=%2Fvless#🔒 VL-WS-TLS 🇺🇸 US-172.67.171.89:443 📡 PING-001.41-MS
-vless://6d1b1cd1-7c05-49a8-8094-f483b34cd8de@104.18.202.232:8443?security=tls&sni=all3.savagev2ray.site&type=grpc&serviceName=@OhVpn,@OhVpn#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.202.232:8443 📡 PING-001.41-MS
-vless://f82268da-3010-42f6-a736-19b7e29563af@172.67.205.158:443?security=tls&sni=freeinir.freeinir.workers.dev&type=ws&host=freeinir.freeinir.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-172.67.205.158:443 📡 PING-001.41-MS
-vless://0f6577ff-8939-48d9-9c3f-e982130f0eda@104.16.219.230:8880?type=ws&host=codesokhari.ir#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.219.230:8880 📡 PING-001.41-MS
-vless://0d6a8df8-0bb2-4224-b7fd-b75daea1db79@172.67.155.102:2096?security=tls&sni=abo2.zirrr.com.tr&type=ws&host=abo2.zirrr.com.tr&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-172.67.155.102:2096 📡 PING-001.41-MS
-vless://39f074ad-53f4-4fea-a013-253ae6644a69@104.21.82.17:443?security=tls&sni=us1.v2vless.xyz&type=ws&host=us1.v2vless.xyz&path=%40AstroVPN_official/#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.82.17:443 📡 PING-001.40-MS
-vless://d24fa132-9fa3-4e13-9829-83ee6fda8f53@104.21.35.251:2053?security=tls&sni=neth1.vipstore.world&type=ws&path=%2F&fp=chrome&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.35.251:2053 📡 PING-001.40-MS
 vless://1828f1be-e261-46ad-a18d-d16b7bc9a82b@104.21.92.8:8443?security=tls&sni=sni.drghabe.ir&type=ws&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.92.8:8443 📡 PING-001.40-MS
 vless://f5a78514-1a94-486e-92a7-3bc9817095a6@104.21.34.74:443?security=tls&sni=nitriding.appreviewcenter.com&type=ws&path=%2Fnimws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.34.74:443 📡 PING-001.40-MS
 vless://51905fd3-29de-4b4e-b351-83542f1d5390@104.22.32.78:443?security=tls&sni=Bia.alLhub.Ltd&type=ws&host=Bia.alLhub.Ltd&path=Path%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.32.78:443 📡 PING-001.40-MS
@@ -604,3 +595,12 @@ trojan://c73406e2-1d3a-4724-a691-4d0b7f36cee9@95.164.46.235:443?#🔒 TR-TCP-NA 
 trojan://telegram-id-directvpn@16.170.77.222:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-16.170.77.222:22222 📡 PING-105.58-MS
 trojan://1a57ce8f-a4dd-474a-b00f-2f907290db90@195.123.213.46:443?#🔒 TR-TCP-NA 🇱🇻 LV-195.123.213.46:443 📡 PING-110.76-MS
 trojan://f8552bb4-47ed-4fa0-af14-ad8874ac4f9d@95.164.116.35:443?#🔒 TR-TCP-NA 🇹🇷 TR-95.164.116.35:443 📡 PING-116.92-MS
+trojan://85bce006-4885-11ee-8792-f23c9164ca5d@176.32.35.167:1007?#🔒 TR-TCP-NA 🇷🇺 RU-176.32.35.167:1007 📡 PING-123.37-MS
+trojan://fcc1a9dd-fa39-41a0-9751-b71d7e10f665@45.140.169.83:30002?security=tls&sni=ru01.freeflyingcloud.xyz&type=tcp#🔒 TR-TCP-TLS 🇷🇺 RU-45.140.169.83:30002 📡 PING-123.76-MS
+trojan://telegram-id-privatevpns@52.18.237.235:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-52.18.237.235:22222 📡 PING-136.48-MS
+trojan://telegram-id-privatevpns@13.48.182.215:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.48.182.215:22222 📡 PING-145.34-MS
+trojan://telegram-id-privatevpns@3.73.209.174:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.73.209.174:22222 📡 PING-146.68-MS
+trojan://wkmY1R4EcP@64.176.162.24:443?security=tls&sni=myket.ir&type=tcp#🔒 TR-TCP-TLS 🇮🇱 IL-64.176.162.24:443 📡 PING-148.99-MS
+trojan://f80aeaa7-e823-4a68-bbcd-b96b93a8bc7e@139.162.91.35:443?#🔒 TR-TCP-NA 🇯🇵 JP-139.162.91.35:443 📡 PING-155.00-MS
+trojan://15cNx34bm8@188.121.117.32:443?security=tls&sni=iranlir.speedtrade.top&type=tcp#🔒 TR-TCP-TLS 🇮🇷 IR-188.121.117.32:443 📡 PING-197.43-MS
+trojan://17fdf23d-2cc4-48bb-a8d4-6d0cabda51f9@95.164.114.43:443?#🔒 TR-TCP-NA 🇰🇿 KZ-95.164.114.43:443 📡 PING-206.52-MS
