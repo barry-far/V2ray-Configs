@@ -4,6 +4,12 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+trojan://47b1daf173@198.244.252.93:443?security=tls&sni=uk1.connecton.surf&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-198.244.252.93:443 📡 PING-094.48-MS
+trojan://your_password@52.56.183.187:443?security=tls&sni=aws-uk-london-1.f1rocketnode.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇬🇧 GB-52.56.183.187:443 📡 PING-095.96-MS
+trojan://1d7692c0-f51c-11ee-91eb-1239d0255272@51.38.65.155:443?#🔒 TR-TCP-NA 🇬🇧 GB-51.38.65.155:443 📡 PING-096.42-MS
+trojan://telegram-id-privatevpns@18.133.80.116:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-18.133.80.116:22222 📡 PING-096.64-MS
+trojan://telegram-id-privatevpns@18.171.51.96:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-18.171.51.96:22222 📡 PING-097.13-MS
+trojan://telegram-id-privatevpns@13.41.144.83:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇬🇧 GB-13.41.144.83:22222 📡 PING-097.95-MS
 trojan://telegram-id-directvpn@18.170.14.43:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-18.170.14.43:22222 📡 PING-098.66-MS
 trojan://telegram-id-privatevpns@13.41.83.28:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-13.41.83.28:22222 📡 PING-098.74-MS
 trojan://64559da0-f51c-11ee-8db0-1239d0255272@51.210.182.170:443?#🔒 TR-TCP-NA 🇫🇷 FR-51.210.182.170:443 📡 PING-099.50-MS
@@ -598,9 +604,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5QnZrdzVhdXBOeTg=@205.134.180.147:443#%F0%9F
 vmess://ewogICAgImFkZCI6ICIxNTUuMTM4LjI0Mi4yMDciLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjgxZjQwYzJjLWUzZTgtNGUwYS1jYjUxLTMzZGIyNWUyMGI5NyIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4e68J+HuFVTLTE1NS4xMzguMjQyLjIwNy0wNjQ3IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 trojan://xxoo@us.blazeppn.info:443?security=tls&sni=us.blazeppn.info#%F0%9F%87%BA%F0%9F%87%B8US-138.197.5.103-0097
 trojan://xxoo@138.197.5.103:443?security=tls&sni=us.blazeppn.info#%F0%9F%87%BA%F0%9F%87%B8US-138.197.5.103-0211
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoZ0xDZ2ZMUmdCNmQ=@205.134.180.145:443#%F0%9F%87%BA%F0%9F%87%B8US-205.134.180.145-0612
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZmJlYjY2OGY0ODQxNGY2@us.sptnk.space:57456#%F0%9F%87%BA%F0%9F%87%B8US-104.167.197.23-0645
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZmJlYjY2OGY0ODQxNGY2@104.167.197.23:57456#%F0%9F%87%BA%F0%9F%87%B8US-104.167.197.23-0635
-vmess://ewogICAgImFkZCI6ICJtZWdhYW4uaG9tZXMiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJtZWdhYW4uaG9tZXMiLAogICAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9saW5rdndzIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfj4FSRUxBWS0xMDQuMjEuMTAuMTM4LTAxODYiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-vmess://ewogICAgImFkZCI6ICIxNzMuMjQ1LjU4LjE5OSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogImFyc3VyZi5hcmthcmFpbi1jby53b3JrRVJzLkRFViIsCiAgICAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2tlbGxpZS5tYWtldXAvbGlua3Z3cyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4+BUkVMQVktMTczLjI0NS41OC4xOTktMTA1NCIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogImFyc3VyZi5hcmthcmFpbi1jby53b3JrRVJzLkRFViIKfQ==
-vmess://ewogICAgImFkZCI6ICIxNzMuMjQ1LjU4LjUiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJ3b3JrZXItZmxhdC1oYXQtMDBmMi5yYXZhcGltNDI2LndvcmtlcnMuZGV2IiwKICAgICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIva2VsbGllLm1ha2V1cC9saW5rdndzIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfj4FSRUxBWS0xNzMuMjQ1LjU4LjUtMTA1MSIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogIndvcmtlci1mbGF0LWhhdC0wMGYyLnJhdmFwaW00MjYud29ya2Vycy5kZXYiCn0=
