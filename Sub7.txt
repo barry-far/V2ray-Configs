@@ -4,6 +4,10 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://5b653b1c-dc8b-402d-ae67-f3d039d61f20@172.67.141.223:8443?security=tls&sni=vpnproxy66.v2panel.workers.dev&type=ws&host=vpnproxy66.v2panel.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-172.67.141.223:8443 📡 PING-001.45-MS
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.26.11.131:80?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.11.131:80 📡 PING-001.45-MS
+vless://729e9f33-82d4-45bb-93f5-5a016553e43a@172.67.165.99:443?security=tls&sni=de1.v2vless.xyz&type=ws&host=de1.v2vless.xyz&path=free/#🔒 VL-WS-TLS 🇺🇸 US-172.67.165.99:443 📡 PING-001.45-MS
+vless://f4cec6cc-6177-423c-90f8-2ad9f0dd996b@172.67.132.209:2096?security=tls&sni=vpnct.arvancode.eu.org&type=ws&host=vpnct.arvancode.eu.org&fp=firefox&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.67.132.209:2096 📡 PING-001.45-MS
 vless://64bf5cc8-b16f-4d52-9fcb-e64d95e2b28c@104.24.177.7:2096?security=tls&sni=V2ray-NAPSTERNET-IRANCELL-iran-fair-MKH.Snappfoodd.site&type=grpc&serviceName=Telegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAMTelegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAMTelegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAMgonTelegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAM#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.24.177.7:2096 📡 PING-001.45-MS
 vless://417ce651-8fd8-4667-b5cd-aa4980aff66a@104.21.11.95:443?security=tls&sni=v2ray-vmess-free.keitldp.workers.dev&type=ws&host=v2ray-vmess-free.keitldp.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.11.95:443 📡 PING-001.45-MS
 vless://00ab1ddf-249b-421e-8161-df9de884fbe4@[::ffff:6815:1777]:443?security=tls&sni=HarmoNY.RadicalizatiON.IR&type=ws&host=HarmoNY.RadicalizatiON.IR&path=%2F%3Fed&fp=safari&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-[::ffff:6815:1777]:443 📡 PING-001.45-MS
@@ -600,7 +604,3 @@ trojan://6eca62bd-4993-40f6-b696-81e2e9131409@142.93.226.128:443?#🔒 TR-TCP-NA
 trojan://telegram-id-directvpn@15.237.171.88:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-15.237.171.88:22222 📡 PING-082.29-MS
 trojan://telegram-id-privatevpns@13.36.26.223:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-13.36.26.223:22222 📡 PING-083.18-MS
 trojan://telegram-id-privatevpns@35.181.193.133:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-35.181.193.133:22222 📡 PING-083.78-MS
-trojan://telegram-id-directvpn@35.180.77.205:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-35.180.77.205:22222 📡 PING-083.84-MS
-trojan://bf2307e1-a58f-41c2-8392-d76197fc2866@188.119.112.242:443?#🔒 TR-TCP-NA 🇳🇱 NL-188.119.112.242:443 📡 PING-084.74-MS
-trojan://4933a155-2189-43b9-918a-034e0092afca@164.90.167.242:443?#🔒 TR-TCP-NA 🇩🇪 DE-164.90.167.242:443 📡 PING-085.76-MS
-trojan://0453eb8b-8b3a-42c5-9040-cb1495279898@95.164.68.116:443?sni=cdn.appsflyer.com&type=grpc#🔒 TR-GRPC-NA 🇩🇪 DE-95.164.68.116:443 📡 PING-085.92-MS
