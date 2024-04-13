@@ -4,9 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://aa2d3ca3-6a10-4382-aba6-659a99a5a6ac@104.18.126.30:443?security=tls&sni=cdnn1.mrcloner.online&type=ws&host=cdnn1.mrcloner.online&path=%2FoRpKG5AUs07fRwF&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.126.30:443 📡 PING-005.25-MS
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.58.216:2053?security=tls&sni=substest.nekohanaku.ru.eu.org&type=ws&host=substest.nekohanaku.ru.eu.org&path=%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%3Fed%3D2048&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.58.216:2053 📡 PING-005.25-MS
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.135.100:80?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.135.100:80 📡 PING-005.25-MS
 vless://0f0f7cc8-edcd-436d-bf9d-f7bfdb6ed9ca@104.21.4.14:2082?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.4.14:2082 📡 PING-005.25-MS
 vless://f0f74656-a205-4cd2-a85d-fd2996aabc4e@104.21.51.108:2096?security=tls&sni=soma.kazhwan.click&type=ws&path=%2Fws&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.51.108:2096 📡 PING-005.25-MS
 vless://be9eda2d-cb3b-44ec-98a9-23c77b791bb2@103.184.45.251:2053?security=tls&sni=zedmodeon-zedmodeon-zedmodeon.zedmodeon-zedmodeon.shop&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🇨🇳 CN-103.184.45.251:2053 📡 PING-005.25-MS
@@ -604,3 +601,6 @@ trojan://85bce006-4885-11ee-8792-f23c9164ca5d@176.32.35.167:1007?#🔒 TR-TCP-NA
 trojan://fcc1a9dd-fa39-41a0-9751-b71d7e10f665@45.140.169.83:30002?security=tls&sni=ru01.freeflyingcloud.xyz&type=tcp#🔒 TR-TCP-TLS 🇷🇺 RU-45.140.169.83:30002 📡 PING-130.52-MS
 trojan://telegram-id-privatevpns@54.170.91.93:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇮🇪 IE-54.170.91.93:22222 📡 PING-130.64-MS
 trojan://telegram-id-privatevpns@13.39.88.125:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-13.39.88.125:22222 📡 PING-140.29-MS
+trojan://f80aeaa7-e823-4a68-bbcd-b96b93a8bc7e@139.162.91.35:443?#🔒 TR-TCP-NA 🇯🇵 JP-139.162.91.35:443 📡 PING-156.05-MS
+trojan://58b489f2-58f3-41f2-bc5c-76bba7618468@94.131.117.240:443?#🔒 TR-TCP-NA 🇪🇸 ES-94.131.117.240:443 📡 PING-166.60-MS
+trojan://15cNx34bm8@188.121.117.32:443?security=tls&sni=iranlir.speedtrade.top&type=tcp#🔒 TR-TCP-TLS 🇮🇷 IR-188.121.117.32:443 📡 PING-197.31-MS
