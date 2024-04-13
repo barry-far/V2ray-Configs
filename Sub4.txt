@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://ea11001c-f391-42f9-9db8-7fa3fadf33b7@193.176.190.40:888?security=reality&flow=xtls-rprx-vision&sni=fortune.com&type=tcp&fp=chrome&pbk=brBI6hEf2HIzZjdTQsMtftQodJ3p3KVry5mzgVqvVkU&sid=8cd6d3c4#🔒 VL-TCP-RLT 🇷🇺 RU-193.176.190.40:888 📡 PING-085.00-MS
-vless://e9e9a6e9-36f4-4e5c-b8e7-697a7e163a89@95.164.68.37:8443?security=reality&sni=104.21.69.44&type=grpc&serviceName=grpc&fp=chrome&pbk=iOq9XFgvr8uyenRX9HUNjxrDpWVmfadlLcTZGXX0m0k&sid=836a980ffcbd9a64#🔒 VL-GRPC-RLT 🇩🇪 DE-95.164.68.37:8443 📡 PING-085.81-MS
 vless://e310b2f0-c3e3-4588-b0f1-1f61eca7183f@165.227.167.107:2020?security=reality&sni=yahoo.com&type=grpc&serviceName=.#🔒 VL-GRPC-RLT 🇩🇪 DE-165.227.167.107:2020 📡 PING-085.93-MS
 vless://8edb9134-6aa2-4c5d-cc30-59707dcb2382@136.244.80.9:443?security=reality&flow=xtls-rprx-vision&sni=njesf.com&type=tcp&fp=firefox&pbk=WB2zSIfoWI07jTy0pEDYGVUt0UXnsb7l8poww64iu04&sid=628bffbae2#🔒 VL-TCP-RLT 🇩🇪 DE-136.244.80.9:443 📡 PING-086.26-MS
 vless://8edb9134-6aa2-4c5d-cc30-59707dcb2382@108.61.179.242:443?security=reality&flow=xtls-rprx-vision&sni=njesf.com&type=tcp&fp=firefox&pbk=WB2zSIfoWI07jTy0pEDYGVUt0UXnsb7l8poww64iu04&sid=628bffbae2#🔒 VL-TCP-RLT 🇩🇪 DE-108.61.179.242:443 📡 PING-086.56-MS
@@ -604,3 +602,5 @@ vless://4c30c910-90fe-47d4-9adf-e4b493c0a7d4@88.216.66.126:2095?security=none&ty
 vless://e197794f-465d-4867-9f05-a8cc717f46cb@104.19.128.19:8443?security=tls&sni=mBm.MtM2000.iR&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.19.128.19:8443 📡 PING-003.47-MS
 vless://ffffffff-17ad-45e7-aaa1-f2baaa08e930@108.162.192.100:443?security=tls&sni=watashi.free.jppublic.moh539.link&type=ws&host=watashi.free.jppublic.moh539.link&path=Path%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-108.162.192.100:443 📡 PING-003.37-MS
 vless://f24ecb0f-31ad-49ac-bd69-c8b22b4de980@103.184.44.66:443?security=tls&sni=nimkAtV2ray.jonedel.com&type=grpc&serviceName=%40AfV2ray%2C%40AfV2ray%2C%40AfV2ray%2C%40AfV2ray%2C%40AfV2ray%2C%40AfV2ray%2C%40AfV2ray%2C%40AfV2ray%2C%40AfV2ray%2C%40AfV2ray%2C%40AfV2ray%2C%40AfV2ray&fp=chrome&alpn=http%2F1.1#🔒 VL-GRPC-TLS 🇨🇳 CN-103.184.44.66:443 📡 PING-003.29-MS
+vless://a6aa212b-a709-4d8e-aa92-c64387b45268@192.200.160.0:80?security=none&type=ws&path=%2Fkuikkuvpn#🔒 VL-WS-NONE 🇺🇸 US-192.200.160.0:80 📡 PING-003.24-MS
+vless://33c41da4-d771-43bc-bf39-9f558bf010b4@104.31.16.90:2053?security=tls&sni=mtnedjkqlaofrdCdfrgtGR.bazaars.pro&type=ws&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.90:2053 📡 PING-003.23-MS
