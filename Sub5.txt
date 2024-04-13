@@ -4,9 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://69698d6a-8c4c-4d63-a11d-b70e064d8fa6@15.156.226.178:22548?security=tls&sni=m.zoom.us&type=tcp&allowInsecure=1#🔒 VL-TCP-TLS 🇨🇦 CA-15.156.226.178:22548 📡 PING-021.27-MS
-vless://0e473634-eda1-40ab-b582-44e5af75fc24@172.64.165.14:2096?security=tls&sni=joinsever89.servernet.cfd&type=grpc&serviceName=@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇺🇸 US-172.64.165.14:2096 📡 PING-021.07-MS
-vless://33b240d5-e6e6-4c11-8a28-f74d2138f239@172.64.140.33:2096?security=tls&sni=joinsever89.servernet.cfd&type=grpc&serviceName=%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇺🇸 US-172.64.140.33:2096 📡 PING-021.02-MS
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.64.174.30:443?security=tls&sni=3k.pureboy.eu.org&type=ws&host=3k.pureboy.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-172.64.174.30:443 📡 PING-020.45-MS
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@167.114.67.25:443?security=tls&sni=Zmq3W3.taco-land.net&type=ws&host=Zmq3W3.taco-land.net&path=%2F&fp=chrome#🔒 VL-WS-TLS 🇨🇦 CA-167.114.67.25:443 📡 PING-020.44-MS
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@192.99.54.60:443?security=tls&sni=Zmq3W3.taco-land.net&type=ws&host=Zmq3W3.taco-land.net&path=%2F&fp=chrome#🔒 VL-WS-TLS 🇨🇦 CA-192.99.54.60:443 📡 PING-019.84-MS
@@ -604,3 +601,6 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@168.100.6.53:443?security=tls&sni=c
 vless://6847f901-3938-4083-9fd9-2de96bcb6b9f@104.31.16.98:443?security=tls&sni=hdfy2cdn1.cpionline.co&type=ws&host=hdfy2cdn1.cpionline.co&path=%2Fvncf0bfUuZ6QgIre2fcLjqskl#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.98:443 📡 PING-002.36-MS
 vless://ae866812-cf3d-49c9-8331-4e7d0c6c51d1@190.93.247.247:443?security=tls&sni=tl.ArV2ray.host&type=grpc&serviceName=%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray&fp=chrome#🔒 VL-GRPC-TLS 🇨🇷 CR-190.93.247.247:443 📡 PING-002.36-MS
 vless://d9fbb945-026e-496a-976b-574f8d1324db@104.19.212.113:80?security=none&type=ws&host=proxystore11.kodaksho.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.212.113:80 📡 PING-002.36-MS
+vless://5faa94c6-ea27-4ea0-9e39-2de3d6ea9be1@104.21.33.85:8880?security=none&type=ws&host=channel-falcunargo.efa180b5d7.workers.Dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.33.85:8880 📡 PING-002.36-MS
+vless://65fe46b8-8b0e-4e29-b8a2-573e48d2759e@104.18.202.232:2096?security=tls&sni=h.protoeinpaitakht.com&type=ws&path=%2F%40HosseinStore_Za%2C%40HosseinStore_Za%2C%40HosseinStore_Za%2C%40HosseinStore_Za%2C%40HosseinStore_Za&fp=firefox#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.202.232:2096 📡 PING-002.36-MS
+vless://1e691b39-c61e-4852-8e09-76caa98ec641@104.21.87.198:443?security=tls&sni=web.hedson.ir&type=ws&host=web.hedson.ir&path=%2FSx5rMfjvTADV0Cn3GUMhCIjBXqYlx&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.87.198:443 📡 PING-002.36-MS
