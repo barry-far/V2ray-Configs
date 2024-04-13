@@ -4,20 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-trojan://fc1e07b5-840b-4446-8232-94b0606f2e0d@193.70.112.90:443?#🔒 TR-TCP-NA 🇫🇷 FR-193.70.112.90:443 📡 PING-090.91-MS
-trojan://f37a931d-7092-48fe-b82f-a98da3040eb2@95.164.68.116:2053?type=tcp&allowInsecure=1#🔒 TR-TCP-NA 🇩🇪 DE-95.164.68.116:2053 📡 PING-091.18-MS
-trojan://3b9da79c-695c-4c53-8ced-8d824e311902@172.232.62.234:443?#🔒 TR-TCP-NA 🇫🇷 FR-172.232.62.234:443 📡 PING-091.50-MS
-trojan://8ea03cb9-e073-4904-8081-f43cb43fddac@51.75.77.237:443?#🔒 TR-TCP-NA 🇩🇪 DE-51.75.77.237:443 📡 PING-091.62-MS
-trojan://telegram-id-privatevpns@3.73.209.174:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.73.209.174:22222 📡 PING-092.85-MS
-trojan://telegram-id-privatevpns@3.68.140.21:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.68.140.21:22222 📡 PING-093.16-MS
-trojan://your_password@54.93.172.88:443?security=tls&sni=aws-ge-frankfurt-1.f1rocketnode.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇩🇪 DE-54.93.172.88:443 📡 PING-094.36-MS
-trojan://054d1d80-f51d-11ee-9824-1239d0255272@103.252.90.93:443?#🔒 TR-TCP-NA 🇫🇷 FR-103.252.90.93:443 📡 PING-095.81-MS
-trojan://wkmY1R4EcP@70.34.205.1:443?security=tls&sni=myket.ir&type=tcp#🔒 TR-TCP-TLS 🇸🇪 SE-70.34.205.1:443 📡 PING-102.15-MS
-trojan://telegram-id-privatevpns@51.20.38.153:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-51.20.38.153:22222 📡 PING-108.57-MS
-trojan://telegram-id-privatevpns@13.48.182.215:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.48.182.215:22222 📡 PING-109.00-MS
-trojan://telegram-id-privatevpns@51.21.38.121:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-51.21.38.121:22222 📡 PING-109.30-MS
-trojan://telegram-id-privatevpns@16.170.182.141:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-16.170.182.141:22222 📡 PING-109.31-MS
-trojan://c73406e2-1d3a-4724-a691-4d0b7f36cee9@95.164.46.235:443?#🔒 TR-TCP-NA 🇮🇹 IT-95.164.46.235:443 📡 PING-111.76-MS
 trojan://1a57ce8f-a4dd-474a-b00f-2f907290db90@195.123.213.46:443?#🔒 TR-TCP-NA 🇱🇻 LV-195.123.213.46:443 📡 PING-115.00-MS
 trojan://f8552bb4-47ed-4fa0-af14-ad8874ac4f9d@95.164.116.35:443?#🔒 TR-TCP-NA 🇹🇷 TR-95.164.116.35:443 📡 PING-121.30-MS
 trojan://85bce006-4885-11ee-8792-f23c9164ca5d@176.32.35.167:1007?#🔒 TR-TCP-NA 🇷🇺 RU-176.32.35.167:1007 📡 PING-127.22-MS
@@ -604,3 +590,17 @@ vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@188.114.97.1:443/?type=ws&encryptio
 
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@103.21.244.5:443/?type=ws&encryption=none&host=current.ircp.online&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.online&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8C%90%20Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray%20%287%29
 
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.27.91.235:443/?type=ws&encryption=none&host=current.ircp.online&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.online&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8C%90%20Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray%20%288%29
+
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@188.114.97.143:443/?type=ws&encryption=none&host=current.ircp.online&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.online&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8C%90%20Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray%20%289%29
+
+vmess://ewogICAgImFkZCI6ICJ1cy1iLnNieXQwMS5zaG9wIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAidXMtYi5zYnl0MDEuc2hvcCIsCiAgICAiaWQiOiAiOWM5YWZkMjEtZTNjZi00ZTZiLWEzNDItNTFlNGViNTJmMjI3IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3YycmF5IiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfj4FSRUxBWS0xNzIuNjcuMTQxLjE4MC0wMDczIiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5QnZrdzVhdXBOeTg=@205.134.180.147:443#%F0%9F%87%BA%F0%9F%87%B8US-205.134.180.147-0535
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZmJlYjY2OGY0ODQxNGY2@us.sptnk.space:57456#%F0%9F%87%BA%F0%9F%87%B8US-104.167.197.23-0540
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@156.146.38.163:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.163-0195
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoZ0xDZ2ZMUmdCNmQ=@205.134.180.145:443#%F0%9F%87%BA%F0%9F%87%B8US-205.134.180.145-0539
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZmJlYjY2OGY0ODQxNGY2@104.167.197.23:57456#%F0%9F%87%BA%F0%9F%87%B8US-104.167.197.23-0541
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y3A5WjNpV25KWjI=@205.134.180.151:443#%F0%9F%87%BA%F0%9F%87%B8US-205.134.180.151-0634
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@156.146.38.163:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.163-0532
+vmess://ewogICAgImFkZCI6ICIxNTUuMTM4LjI0Mi4yMDciLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjY3Nzk3YzZhLWU4OTgtNDliZC04ZjYxLTVmYjE1MjNjZTBiZCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA1NDMxNiwKICAgICJwcyI6ICLwn4e68J+HuFVTLTE1NS4xMzguMjQyLjIwNy0wMDkwIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
+vmess://ewogICAgImFkZCI6ICIxNTUuMTM4LjI0Mi4yMDciLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjgxZjQwYzJjLWUzZTgtNGUwYS1jYjUxLTMzZGIyNWUyMGI5NyIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4e68J+HuFVTLTE1NS4xMzguMjQyLjIwNy0wNTM2IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
