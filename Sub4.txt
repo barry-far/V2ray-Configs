@@ -4,10 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://16009be6-b3e5-4771-e8fb-bf41a8ceb665@216.128.182.123:19915?security=none&type=tcp#🔒 VL-TCP-NONE 🇨🇦 CA-216.128.182.123:19915 📡 PING-067.00-MS
-vless://c750d95b-aea8-45b4-bc04-39ac2a383450@172.105.25.249:2003?security=tls&sni=ca-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇨🇦 CA-172.105.25.249:2003 📡 PING-070.54-MS
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.97.127.232:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇨🇦 CA-3.97.127.232:22222 📡 PING-072.88-MS
-vless://69698d6a-8c4c-4d63-a11d-b70e064d8fa6@15.156.226.178:22548?security=tls&sni=m.zoom.us&type=tcp&allowInsecure=1#🔒 VL-TCP-TLS 🇨🇦 CA-15.156.226.178:22548 📡 PING-072.90-MS
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@99.79.3.180:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇨🇦 CA-99.79.3.180:22222 📡 PING-073.02-MS
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@167.114.67.25:443?security=tls&sni=Zmq3W3.taco-land.net&type=ws&host=Zmq3W3.taco-land.net&path=%2F&fp=chrome#🔒 VL-WS-TLS 🇨🇦 CA-167.114.67.25:443 📡 PING-074.49-MS
 vless://120bfa52-2f7d-4b0e-ff4a-59ed8d436e17@192.95.53.122:80?type=ws&host=viber.com&path=%2Fdl%2Findex.php#🔒 VL-WS-NA 🇨🇦 CA-192.95.53.122:80 📡 PING-074.55-MS
@@ -604,3 +600,7 @@ vless://678d94a3-33fb-4831-801b-9e5419c9c196@104.18.202.232:2053?security=tls&sn
 vless://6fb325b8-aad9-4141-a765-cd02385e3b1e@[::ffff:6812:cbe8]:2086?security=none&type=ws&host=xn--047h.iman-v2ray.sbs.&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-[::ffff:6812:cbe8]:2086 📡 PING-016.46-MS
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.105.211:80?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.105.211:80 📡 PING-016.45-MS
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.233.43:80?type=ws&host=us1.rtacg.com&path=/&fp=chrome#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.233.43:80 📡 PING-016.44-MS
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.77.215:80?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.77.215:80 📡 PING-016.44-MS
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.16.88:80?type=ws&host=us1.rtacg.com&path=/&fp=chrome#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.16.88:80 📡 PING-016.44-MS
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.34.145:80?type=ws&host=us1.rtacg.com&path=/&fp=chrome#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.34.145:80 📡 PING-016.44-MS
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.105.46:80?type=ws&host=us1.rtacg.com&path=/#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.105.46:80 📡 PING-016.43-MS
