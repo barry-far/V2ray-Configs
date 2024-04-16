@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.192.144:80?security=none&type=ws&host=k.kp&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.192.144:80 📡 PING-001.60-MS
 vless://8b224452-7473-4706-b7be-bb070b4a9255@104.21.7.27:443?security=tls&sni=reason.footballlovernews.com&type=ws&path=%2Freason#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.7.27:443 📡 PING-001.60-MS
 vless://f7ec83d7-c36a-4a10-e7f8-81d4da3f5de1@103.184.44.170:443?security=tls&sni=niimkAtV2ray.jonedel.com&type=grpc&serviceName=%40AfV2ray%2C%40AfV2ray%2C%40AfV2ray%2C%40AfV2ray%2C%40AfV2ray%2C%40AfV2ray%2C%40AfV2ray%2C%40AfV2ray%2C%40AfV2ray%2C%40AfV2ray%2C%40AfV2ray%2C%40AfV2ray&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇨🇳 CN-103.184.44.170:443 📡 PING-001.60-MS
 vless://25c5cbda-39e5-47ed-b36c-b87ffef2378d@104.18.8.38:443?security=tls&sni=worker-fancy-base-7d08.yajici1215.workers.DEV&type=ws&host=worker-fancy-base-7d08.yajici1215.workers.DEV&path=%2F%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.8.38:443 📡 PING-001.60-MS
@@ -603,4 +604,3 @@ ss://YWVzLTI1Ni1nY206YW1hem9uc2tyMDU=@13.250.63.15:443#🔒 SS-TCP-NA 🇸🇬 S
 ss://YWVzLTI1Ni1jZmI6Z1lDWVhma1VRRXMyVGFKUQ==@103.172.116.90:9038#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9038 📡 PING-216.35-MS
 ss://YWVzLTI1Ni1jZmI6TnZTOE40VmY4cUFHUFNDTA==@103.172.116.90:9046#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9046 📡 PING-216.64-MS
 ss://YWVzLTI1Ni1jZmI6d2ZMQzJ5N3J6WnlDbXV5dA==@103.172.116.94:9093#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.94:9093 📡 PING-217.19-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZjMwZGE1NC0zMTdmLTQ3MjYtOThiZC04YmM4ZWM4MTQwYzk=@139.59.119.251:20172#🔒 SS-TCP-NA 🇸🇬 SG-139.59.119.251:20172 📡 PING-218.43-MS
