@@ -4,6 +4,10 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+trojan://09833a6f-4d46-426e-87fe-7793a5489f84@foreign04.lovehjq.xyz:46527?security=tls&sni=lovehjq.xyz&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%202
+trojan://09833a6f-4d46-426e-87fe-7793a5489f84@144.24.87.186:46521?security=tls&sni=lovehjq.xyz&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%204
+trojan://09833a6f-4d46-426e-87fe-7793a5489f84@144.24.87.186:46527?security=tls&sni=lovehjq.xyz&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%205
+trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@36.228.203.34:443?security=tls&sni=glc-tw1.windowsupdatea.com&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3%20Taiwan%207
 trojan://09833a6f-4d46-426e-87fe-7793a5489f84@foreign01.lovehjq.xyz:46521?security=tls&sni=lovehjq.xyz&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%203
 trojan://pjdnqv@aws-us-dallas-1.f1rocketnode.com:443?security=tls&sni=aws-us-dallas-1.f1rocketnode.com&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20294
 trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@download1tw.windowsupdatea.com:443?security=tls&sni=glc-tw1.windowsupdatea.com&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3%20Taiwan%208
@@ -600,7 +604,3 @@ vless://5c423ba6-5451-44a3-bda8-7c7927e95c98@172.64.141.33:8443?security=tls&sni
 vless://99f18bdb-dc11-4eeb-8425-ea2ef055853e@172.66.44.57:443?security=tls&sni=de36777d.telbot.pages.dev&type=ws&host=de36777d.telbot.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-172.66.44.57:443 📡 PING-019.97-MS
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@192.99.54.60:443?security=tls&sni=Zmq3W3.taco-land.net&type=ws&host=Zmq3W3.taco-land.net&path=%2F&fp=chrome#🔒 VL-WS-TLS 🇨🇦 CA-192.99.54.60:443 📡 PING-019.91-MS
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@167.114.67.25:443?security=tls&sni=Zmq3W3.taco-land.net&type=ws&host=Zmq3W3.taco-land.net&path=%2F&fp=chrome#🔒 VL-WS-TLS 🇨🇦 CA-167.114.67.25:443 📡 PING-019.89-MS
-vless://378ac207-38d3-4401-ba96-3a7931968bc5@148.113.175.147:80?security=none&type=ws&path=%2Fhttp#🔒 VL-WS-NONE 🇨🇦 CA-148.113.175.147:80 📡 PING-019.60-MS
-vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@5.161.138.37:443?security=tls&sni=ada36.qvqag.com&type=ws&path=%2Fusers%3Fed#🔒 VL-WS-TLS 🇺🇸 US-5.161.138.37:443 📡 PING-018.70-MS
-vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@5.161.140.75:443?security=tls&sni=ada102.oshtd.com&type=ws&path=%2Fusers%3Fed%3D2048&alpn=http%2F1.1&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-5.161.140.75:443 📡 PING-018.57-MS
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.232.11:80?type=ws&host=us1.rtacg.com&path=/&fp=chrome#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.232.11:80 📡 PING-016.38-MS
