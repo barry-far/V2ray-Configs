@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+trojan://e8105dfd24414268b6c7652c63731097@198.41.202.5:443/?type=ws&host=avianrecruit.com&path=%2F6b777a91&security=tls&sni=avianrecruit.com&alpn=h2%2Chttp%2F1.1#[🇺🇸]t.me/ConfigsHub
+trojan://4732adfa16c6450bbef87264e41332db@104.16.192.138:443/?type=ws&host=jobscareerforlawyers.com&path=6b777a91&security=tls&sni=jobscareerforlawyers.com&allowInsecure=1#[🇨🇦]t.me/ConfigsHub
 vmess://eyJhZGQiOiJadWxhLmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnaXRodWIuY29tLnN0ZWFtcG93ZXJlZC5jb20ueG4tLWJiYWg0MzNibWE3YnkzY3NoYy5iZWFzdG1vZHNla2FsYS5jZmQuIiwiaWQiOiJmOTQxNmIzZS1lMGQ1LTQ4NzYtZmU5Ny00NmFhYzIwODIxMWEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6Ijg4ODAiLCJwcyI6Ilvwn4eo8J+Hpl10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 trojan://3812e840-fb47-11ee-a636-1239d0255272@104.21.69.44:443/?sni=us1.test3.net&type=ws&host=us1.test3.net&path=%2Fhowdy#[🇨🇦]t.me/ConfigsHub
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@23.227.60.7:443?path=%2F&security=tls&encryption=none&host=test43.pages.dev&type=ws&sni=test43.pages.dev#[🇨🇦]t.me/ConfigsHub
@@ -602,5 +604,3 @@ vless://d8253715-9664-4c3b-9ecd-e4805c8430f8@37.59.166.156:48576?security=realit
 vless://16747acc-95c8-44ba-9b66-3d8a0c035347@185.247.184.115:2096?security=reality&sni=dash.cloudflare.com&type=grpc&fp=firefox&pbk=c3R5_lORnQd1X3A2E0ulHJn396G2X_ZYIs66ldEVQWI&sid=28f58957#🔒 VL-GRPC-RLT 🇮🇹 IT-185.247.184.115:2096 📡 PING-147.99-MS
 vless://a09373e2-e120-457d-9ec9-ea7fe8bedb52@185.125.171.13:8443?security=reality&sni=partner.g2.com&type=grpc&serviceName=g2com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒 VL-GRPC-RLT 🇳🇴 NO-185.125.171.13:8443 📡 PING-148.87-MS
 vless://8e5689eb-de34-4b53-bb2a-bf9159d0ab04@35.220.197.160:443?security=reality&flow=xtls-rprx-vision&sni=www.icloud.com&type=tcp&fp=chrome&pbk=g-oxbqigzCaXqARxuyD2_vbTYeMD9zn8wnTo02S69QM#🔒 VL-TCP-RLT 🇭🇰 HK-35.220.197.160:443 📡 PING-150.20-MS
-vless://a09373e2-e120-457d-9ec9-ea7fe8bedb52@185.125.171.13:443?security=reality&flow=xtls-rprx-vision&sni=partner.g2.com&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒 VL-TCP-RLT 🇳🇴 NO-185.125.171.13:443 📡 PING-153.12-MS
-vless://4daf5037-c396-447b-a817-59ca3355c46a@185.17.136.169:8443?security=reality&sni=wordpress.org&type=grpc&serviceName=@Monjamed&fp=chrome&pbk=J0CUj7Ae6z0sq16diTikhJUTi_NIRc4jaEUH-4khoCc&sid=876b28ef#🔒 VL-GRPC-RLT 🇹🇷 TR-185.17.136.169:8443 📡 PING-166.38-MS
