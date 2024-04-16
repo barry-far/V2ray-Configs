@@ -4,11 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vmess://eyJhZGQiOiIxNzIuNjcuNzEuMTYwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJvYmRpaS5jZmQiLCJpZCI6IjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiJb8J+HqPCfh6ZddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6Im9iZGlpLmNmZCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@op.bilibili.ovh:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=k.kp&type=ws#[🇺🇸]t.me/ConfigsHub
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.data.gov.uk:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=binance.co.kp&type=ws&sni=www.data.gov.uk#[🇨🇦]t.me/ConfigsHub
-vmess://eyJhZGQiOiIxNzIuNjcuMTYxLjc3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJsaW5kZTA2LmluZGlhdmlkZW8uc2JzIiwiaWQiOiJlZGJiMTA1OS0xNjMzLTQyNzEtYjY2ZS1lZDRmYmE0N2ExYmYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoiW/Cfh6jwn4emXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiJsaW5kZTA2LmluZGlhdmlkZW8uc2JzIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-vmess://eyJhZGQiOiJqYWhma2poYS5jZmQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImphaGZramhhLmNmZCIsImlkIjoiOTUwZGI2YWEtNDkyNi00NjE2LTgxNmUtZWMwMzEyZGNiODdiIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6Ilvwn4eo8J+Hpl10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiamFoZmtqaGEuY2ZkIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 vless://7b65e644-f51d-41ec-bc93-0bb929f248c8@113.30.190.187:2096/?type=grpc&encryption=none&serviceName=2096vless#%E2%98%91%EF%B8%8F82%40oneclickvpnkeys
 vless://65638e89-6bb7-4462-9acd-5885e6940705@162.159.240.154:2096/?type=grpc&encryption=none&security=tls&sni=re7.v2logy.xyz&fp=chrome#%E2%98%91%EF%B8%8F84%40oneclickvpnkeys
 vless://c49ad197-37b6-40a7-971d-05e6e8a0bdac@tere.minusober.com:443/?type=ws&encryption=none&path=%2Ftere&security=tls&sni=tere.minusober.com#%E2%98%91%EF%B8%8F92%40oneclickvpnkeys
@@ -604,3 +599,8 @@ vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@5.161.140.75:443?security=tls&sni=a
 vless://c750d95b-aea8-45b4-bc04-39ac2a383450@172.105.25.249:443?security=tls&sni=ca-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇨🇦 CA-172.105.25.249:443 📡 PING-061.44-MS
 vless://16009be6-b3e5-4771-e8fb-bf41a8ceb665@216.128.182.123:19915?security=none&type=tcp#🔒 VL-TCP-NONE 🇨🇦 CA-216.128.182.123:19915 📡 PING-061.55-MS
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.214.198.80:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=%2Ftelegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇺🇸 US-18.214.198.80:22222 📡 PING-067.43-MS
+vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@5.161.143.118:80?type=ws&host=bmi.ir&path=users%3Fed%3D2048#🔒 VL-WS-NA 🇺🇸 US-5.161.143.118:80 📡 PING-067.49-MS
+vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@5.161.138.37:443?security=tls&sni=ada36.qvqag.com&type=ws&path=%2Fusers%3Fed#🔒 VL-WS-TLS 🇺🇸 US-5.161.138.37:443 📡 PING-067.68-MS
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@192.99.54.60:443?security=tls&sni=Zmq3W3.taco-land.net&type=ws&host=Zmq3W3.taco-land.net&path=%2F&fp=chrome#🔒 VL-WS-TLS 🇨🇦 CA-192.99.54.60:443 📡 PING-068.44-MS
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@167.114.67.25:443?security=tls&sni=Zmq3W3.taco-land.net&type=ws&host=Zmq3W3.taco-land.net&path=%2F&fp=chrome#🔒 VL-WS-TLS 🇨🇦 CA-167.114.67.25:443 📡 PING-068.62-MS
+vless://378ac207-38d3-4401-ba96-3a7931968bc5@148.113.175.147:80?security=none&type=ws&path=%2Fhttp#🔒 VL-WS-NONE 🇨🇦 CA-148.113.175.147:80 📡 PING-068.87-MS
