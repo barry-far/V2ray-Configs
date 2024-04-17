@@ -4,9 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://7a0f288a-7df3-4f74-a8b2-69d884aebdff@89.221.224.166:8443?security=reality&sni=172.66.44.245&type=grpc&serviceName=grpc&fp=chrome&pbk=lknJ1qdh1naSh-NJX8O7oOdnFov8vOETpy2A6bVtiUk&sid=8545118da3a60b18#🔒 VL-GRPC-RLT 🇮🇸 IS-89.221.224.166:8443 📡 PING-113.28-MS
-vless://cc1cd9cc-ffdd-4839-856b-8f17b173f514@109.120.132.235:5484?security=reality&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=95noiL48Pyni4Vy2O95MpSpKtlwWGbmfvMobShTqE0Q&sid=ccb40781#🔒 VL-TCP-RLT 🇸🇪 SE-109.120.132.235:5484 📡 PING-115.38-MS
-vless://4daf5037-c396-447b-a817-59ca3355c46a@185.17.136.169:8443?security=reality&sni=wordpress.org&type=grpc&serviceName=@Monjamed&fp=chrome&pbk=J0CUj7Ae6z0sq16diTikhJUTi_NIRc4jaEUH-4khoCc&sid=876b28ef#🔒 VL-GRPC-RLT 🇹🇷 TR-185.17.136.169:8443 📡 PING-116.66-MS
 vless://16959feb-cf59-4569-baff-a13a028726a5@45.147.76.205:49800?security=reality&flow=xtls-rprx-vision&sni=hostinger.de&type=tcp&fp=firefox&pbk=on99XVko36EfMSS63gl9sJtQqhQIsyvUcBeEtMzaMl0&sid=824257f3#🔒 VL-TCP-RLT 🇮🇷 IR-45.147.76.205:49800 📡 PING-159.32-MS
 vless://35f0755b-0ea2-4e6e-af68-1dba20ce64b6@62.60.132.196:443?security=reality&flow=xtls-rprx-vision&sni=greenpepper.ir&type=tcp&fp=chrome&pbk=xnLXDcGVZwMsFOjXT6SFK1cPJO66a1kfgn94x2Ih6UA&sid=122efac9#🔒 VL-TCP-RLT 🇮🇷 IR-62.60.132.196:443 📡 PING-161.46-MS
 vless://a90d8181-559e-45d0-98d8-699b6c749d4b@104.168.107.230:2058?security=reality&flow=xtls-rprx-vision&sni=theverge.com&type=tcp&fp=chrome&pbk=8P_GXxLIbOuxHfrSGxY_Jr6oMvPy2dlhmAVGPCAoYGg&sid=be5696e1886a2a81#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:2058 📡 PING-027.17-MS
@@ -604,3 +601,6 @@ vless://58dbfb96-afac-4251-9189-137e883e65ab@172.64.141.7:8880?security=none&typ
 vless://e28bb3f8-e64a-4419-9496-33c46220354b@104.21.224.125:80?security=none&type=ws&host=sdgf.bdfstt.sbs&path=%2Fyoutube-%E7%94%B1%E9%9B%B6%E9%96%8B%E5%A7%8B#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.224.125:80 📡 PING-006.42-MS
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.239.168:80?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.239.168:80 📡 PING-006.37-MS
 vless://c89a9f41-f0b8-497f-9e36-babd609e46e4@103.35.189.42:443?security=tls&sni=Join-M-buy-In-Telegram.pages.dev&type=tcp&host=us1.x2fast.net&path=%2Fhttp&headerType=http&fp=chrome#🔒 VL-TCP-TLS 🇺🇸 US-103.35.189.42:443 📡 PING-006.35-MS
+vless://0e473634-eda1-40ab-b582-44e5af75fc24@172.64.165.14:2096?security=tls&sni=joinsever89.servernet.cfd&type=grpc&serviceName=@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇺🇸 US-172.64.165.14:2096 📡 PING-006.15-MS
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.136.141:80?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.136.141:80 📡 PING-006.14-MS
+vless://06d6421a-0a64-4c39-8cbb-a81c2202bd1c@104.21.52.226:2053?security=tls&sni=sv1.cardnet.sbs&type=ws&host=sv1.cardnet.sbs&path=%2F&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.52.226:2053 📡 PING-006.07-MS
