@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://216eecb0-74c3-438f-a266-91d067ff5d69@176.31.25.244:443?security=none&type=tcp#🔒 VL-TCP-NONE 🇫🇷 FR-176.31.25.244:443 📡 PING-111.02-MS
 vless://96c80204-471a-4be7-a56c-7fb5be1f87b7@195.248.241.99:43472?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-195.248.241.99:43472 📡 PING-111.29-MS
 vless://d674009a-4a87-4180-a8fe-9a54f66bd7c9@93.95.230.201:8443?security=tls&sni=vpn.restia.love&type=ws&host=vpn.restia.love&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇮🇸 IS-93.95.230.201:8443 📡 PING-112.68-MS
 vless://bc0fe128-de0a-4a4a-b98f-48fc102c4783@95.164.68.37:443?security=tls&sni=join-lax-vpn-in-telegram.pages.dev&type=grpc&serviceName=grpc&fp=chrome#🔒 VL-GRPC-TLS 🇩🇪 DE-95.164.68.37:443 📡 PING-113.40-MS
@@ -603,4 +604,3 @@ vless://d3a12e79-ef42-4268-b367-42eeb3494e60@172.66.44.197:443?security=tls&sni=
 vless://d674009a-4a87-4180-a8fe-9a54f66bd7c9@104.16.109.59:443?security=tls&sni=vpn.restia.love&type=ws&host=vpn.restia.love&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.109.59:443 📡 PING-003.43-MS
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.153.236:80?type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.153.236:80 📡 PING-003.42-MS
 vless://64d1abb4-d5f4-4fa8-bf46-0e0879683c8c@104.17.243.61:2095?security=none&type=ws&host=TeSting.S2.Databox.m2.g386.e.i.i.dota2sina.lOl.&path=%2Feliv2ray-niceOne%2Celiv2ray-niceOne%2Celiv2ray-niceOne%3Fed%3D2095#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.243.61:2095 📡 PING-003.42-MS
-vless://7e29f2e2-e0ec-47c5-94ec-38ef90f7a106@185.176.26.16:2053?security=tls&sni=whmm.MeRLInnZ.linK&type=ws&host=whmm.MeRLInnZ.linK&path=vless-ws%2F%3Fed%3D2048&fp=safari&alpn=h2#🔒 VL-WS-TLS 🇰🇿 KZ-185.176.26.16:2053 📡 PING-003.40-MS
