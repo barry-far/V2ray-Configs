@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vmess://eyJhZGQiOiJjZG4udmRzLXNlcnZlci5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiY2RuLnZkcy1zZXJ2ZXIuaXIiLCJpZCI6IjBkMWJmMjZhLWNlOTctNDcwNy1hMjcwLTdmNGQyYWUzNzMzNCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODg4MCIsInBzIjoiW/Cfh6jwn4emXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiIxMDQuMjQuMTcwLjAiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJyYW5kb20iLCJob3N0IjoiIiwiaWQiOiJjOGM2ZDcxMS1lZWJmLTQ5ZTYtYTU5YS02MzIzODVlNTM2OTYiLCJuZXQiOiJncnBjIiwicGF0aCI6IiIsInBvcnQiOiI4NDQzIiwicHMiOiJb8J+HqPCfh6ZddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6ImRsMi5wYXJoYW10cmFiZXJ0aG9zLmlyIiwidGxzIjoidGxzIiwidHlwZSI6Imd1biIsInYiOiIyIn0=
 vless://39dce5a6-354e-4342-b5d6-8a2af0b93a31@172.67.204.84:443?mode=multi&security=tls&encryption=none&type=grpc&serviceName=&sni=pan-1.alpha1.skin#[🇨🇦]t.me/ConfigsHub
 vless://67277a90-efa0-4569-9019-65e2f9f56d45@hola2.ultramat.co:4102?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
@@ -604,3 +603,4 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@51.38.44.17:443?security=tls&sni=Zm
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@37.187.98.185:443?security=tls&sni=Zmq3W3.taco-land.net&type=ws&host=Zmq3W3.taco-land.net&path=%2F&fp=chrome#🔒 VL-WS-TLS 🇫🇷 FR-37.187.98.185:443 📡 PING-101.51-MS
 vless://7d70bc41-7a14-42f2-96e8-9686c7444f6b@188.119.112.242:443?security=tls&sni=nl-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇳🇱 NL-188.119.112.242:443 📡 PING-101.56-MS
 vless://018524b2-c20b-4eaa-976a-27d2d2fe3bbb@54.38.79.80:443?security=tls&sni=api.bolagskontaktstockholm.se&type=tcp#🔒 VL-TCP-TLS 🇬🇧 GB-54.38.79.80:443 📡 PING-101.61-MS
+vless://19935d8b-6fae-4afa-9632-c3999b83de90@142.93.226.128:2003?security=tls&sni=nl2-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇳🇱 NL-142.93.226.128:2003 📡 PING-101.77-MS
