@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://0e39b5a8-1770-4d31-a26c-8aebb91d0b8d@217.79.180.131:8080?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-217.79.180.131:8080 📡 PING-087.16-MS
-vless://99d57dfc-57c6-4d8e-aa99-3eca0ac1faee@92.223.124.27:80?security=none&sni=cpanel.mralpha-vpn.com&type=ws&host=thunder.mralpha-vpn.com&path=%2F%40thunderv2ray+%2C+%40thunderv2ray+%2C%40thunderv2ray+%2C%40thunderv2ray+%2C%40thunderv2ray+%2C%40thunderv2ray&fp=chrome&alpn=h2#🔒 VL-WS-NONE 🇩🇪 DE-92.223.124.27:80 📡 PING-087.85-MS
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@37.187.98.185:443?security=tls&sni=Zmq3W3.taco-land.net&type=ws&host=Zmq3W3.taco-land.net&path=%2F&fp=chrome#🔒 VL-WS-TLS 🇫🇷 FR-37.187.98.185:443 📡 PING-088.23-MS
 vless://a182932d-7b23-4a03-8b84-b4e7f39ee8d7@158.101.195.118:443?security=tls&flow=xtls-rprx-vision&sni=b295-23nl29-6bh.xn--4gq62f52gppi29k.com&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇳🇱 NL-158.101.195.118:443 📡 PING-088.50-MS
 vless://318246a4-d42b-4992-8f74-676ef9e448a4@13.32.22.2:443?security=tls&sni=dmajls25t3wrm.cloudfront.net&type=ws&path=%2FBVAVV65#🔒 VL-WS-TLS 🇺🇸 US-13.32.22.2:443 📡 PING-089.03-MS
@@ -604,3 +602,5 @@ vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@88.216.66.193:443?security=tls&sni=
 vless://a03317f9-2651-4d73-8ad4-c660e47c662e@104.18.176.33:80?security=none&type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.176.33:80 📡 PING-005.90-MS
 vless://7f8b597e-3da6-4bbf-88c5-8d2892fbc501@190.93.244.170:443?security=tls&sni=www.GozargahVPN.top&type=ws&host=www.GozargahVPN.top&path=%2FTelegram%3A%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%3Fed%3D2048&fp=firefox&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-190.93.244.170:443 📡 PING-005.89-MS
 vless://eb104332-4f8c-4850-aa6a-5df3ba0539f7@185.146.173.95:8880?path=/@LIGHTNING6,#🔒 VL-TCP-NA 🇸🇪 SE-185.146.173.95:8880 📡 PING-005.89-MS
+vless://c6a979db-09de-4b47-88c2-fb89c0335049@172.67.163.103:443?security=tls&sni=moein.savarkaraan.ir&type=grpc&serviceName=%40Polproxy%2C%40Polproxy%2C%40Polproxy%2C%40Polproxy%2C%40Polproxy&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.163.103:443 📡 PING-005.89-MS
+vless://d062e1c1-233d-4a1b-be05-6ecf74eceebe@190.93.245.138:8443?security=tls&sni=20ns2-V2ray.Vpncustomize.Com&type=grpc&serviceName=%40VPNCUSTOMIZE%2C%40VPNCUSTOMIZE&fp=chrome#🔒 VL-GRPC-TLS 🇺🇸 US-190.93.245.138:8443 📡 PING-005.89-MS
