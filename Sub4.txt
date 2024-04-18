@@ -4,10 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@download1tw.windowsupdatea.com:443?security=tls&sni=glc-tw1.windowsupdatea.com&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3%20Taiwan%208
-trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@141.193.68.81:443?security=tls&sni=glc-us3.windowsupdatea.com&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20303
-
-vless://ababacc-acab-baca-bcad-cbccabbaaabc@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 THU-30-FARVARDIN-1403 🕑 08:24
 vless://9c56dc50-c0f7-489e-9175-cb13f4d9541b@5.78.101.178:47137?security=reality&sni=ea.com&type=grpc&fp=chrome&pbk=0TsSZcONB5wFArnP0pMeBkvxG0zPOV6vr_WjLdNsjkc&sid=71952051#🔒 VL-GRPC-RLT 🇺🇸 US-5.78.101.178:47137 📡 PING-050.20-MS
 vless://d7fb8d48-d2ab-4f90-8c57-39e4f99aedf9@95.164.44.221:8443?security=reality&sni=172.66.44.245&type=grpc&serviceName=grpc&fp=chrome&pbk=kuWD6BuYOUVIUbNVpnmNx1e2Ro-xn4KCVBagPLvCajk&sid=8439af912fd4f08f#🔒 VL-GRPC-RLT 🇮🇪 IE-95.164.44.221:8443 📡 PING-087.19-MS
 vless://378387d5-4370-4e38-9661-25796e8630ba@143.47.241.46:16097?security=reality&flow=xtls-rprx-vision&sni=www.amazon.com&type=tcp&fp=chrome&pbk=qMH_7IYKzR0mOLN35mnQijwzN8IiWdudhryTHaQzWS0#🔒 VL-TCP-RLT 🇬🇧 GB-143.47.241.46:16097 📡 PING-095.02-MS
@@ -604,3 +600,7 @@ vless://16009be6-b3e5-4771-e8fb-bf41a8ceb665@216.128.182.123:19915?security=none
 vless://cab438c4-9c5a-43fd-a623-ce81cb93085c@198.41.212.197:443?security=tls&sni=hk.twittei.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.212.197:443 📡 PING-014.42-MS
 vless://2cd43f95-7f19-4a94-acae-aa5ca0825724@198.41.212.114:2096?security=tls&sni=korosh.orewasanji.fun&type=grpc&serviceName=korosh&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-198.41.212.114:2096 📡 PING-014.20-MS
 vless://e28bb3f8-e64a-4419-9496-33c46220354b@104.21.224.125:80?security=none&type=ws&host=sdgf.bdfstt.sbs&path=%2Fyoutube-%E7%94%B1%E9%9B%B6%E9%96%8B%E5%A7%8B#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.224.125:80 📡 PING-014.16-MS
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.235.57:80?type=ws&host=us1.rtacg.com&path=/&fp=chrome#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.235.57:80 📡 PING-014.14-MS
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.226.125:80?type=ws&host=us1.rtacg.com&path=/#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.226.125:80 📡 PING-014.07-MS
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.237.122:80?type=ws&host=us1.rtacg.com&path=/&fp=chrome#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.237.122:80 📡 PING-014.05-MS
+vless://f24ecb0f-31ad-49ac-bd69-c8b22b4de980@104.21.233.140:443?security=tls&sni=nimkatV2rayV2rayV2rayV2ray.jonedel.com&type=grpc&serviceName=%40AfV2ray%2C%40AfV2ray%2C%40AfV2ray%2C%40AfV2ray%2C%40AfV2ray%2C%40AfV2ray%2C%40AfV2ray%2C%40AfV2ray%2C%40AfV2ray%2C%40AfV2ray%2C%40AfV2ray%2C%40AfV2ray&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.233.140:443 📡 PING-014.02-MS
