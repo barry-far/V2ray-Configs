@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.75.136.21:2375#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:2375 📡 PING-058.46-MS
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.75.136.21:443#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:443 📡 PING-058.54-MS
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.75.136.21:7002#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:7002 📡 PING-058.62-MS
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.75.137.42:8882#🔒 SS-TCP-NA 🇺🇸 US-38.75.137.42:8882 📡 PING-059.57-MS
@@ -464,23 +463,24 @@ ss://UGFyc2FzaG9uYW0tMDo=@104.18.202.232:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104
 ss://ZDM0MmQxMWUtZDQyNC00NTgzLWIzNmUtNTI0YWIxZjBhZmE0Og==@104.21.73.115:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.73.115:443 📡 PING-001.34-MS
 ss://NDBkM2ZkZDctZTUzNC00NzYyLWExMjUtMzU5NDg0ZTUyMmVmOg==@104.18.203.232:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.18.203.232:443 📡 PING-001.33-MS
 ss://bm9uZTpiYWNhYmFjLWFiYWMtY2JhYS1iZGNhLWNjY2JiYWNiYWFiYQ==@127.0.0.1:8080#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
-vmess://ewogICAgICAgICAgICAidiI6ICIyIiwKICAgICAgICAgICAgInBzIjogIuabtOaWsOS6jiAwNC0xOCAwOTozMCBieSBodHRwczovL2dpdGh1Yi5jb20vdHMtc2YvZmx5IiwKICAgICAgICAgICAgImFkZCI6ICIxMjcuMS4xLjEyNyIsCiAgICAgICAgICAgICJwb3J0IjogIjgwIiwKICAgICAgICAgICAgImlkIjogIjYwMjczNmU0LWEyZTgtNGViMy05ZmM5LTdjNzA4MjkyNTM2NSIsCiAgICAgICAgICAgICJhaWQiOiAiMCIsCiAgICAgICAgICAgICJzY3kiOiAiYXV0byIsCiAgICAgICAgICAgICJuZXQiOiAidGNwIiwKICAgICAgICAgICAgInR5cGUiOiAibm9uZSIsCiAgICAgICAgICAgICJob3N0IjogIiIsCiAgICAgICAgICAgICJwYXRoIjogIiIsCiAgICAgICAgICAgICJ0bHMiOiAiIiwKICAgICAgICAgICAgInNuaSI6ICIiLAogICAgICAgICAgICAiYWxwbiI6ICIiLAogICAgICAgICAgICAiZnAiOiAiIgogICAgICAgICAgfQogICAgICAgIA==
-trojan://NtttpUsd92KX@57.180.26.205:17391?sni=appsvs.shop#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD
-trojan://dkCb8vhXc9GI@18.130.65.10:17408?sni=appsvs.shop#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD
-trojan://huge123456@131.186.21.135:60954?security=tls&type=tcp&sni=h.iveze.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD%201.5MB%2Fs
-trojan://telegram-id-privatevpns@54.72.176.224:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE%E7%88%B1%E5%B0%94%E5%85%B0
-trojan://telegram-id-directvpn@18.197.182.188:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD
+vmess://ewogICAgICAgICAgICAidiI6ICIyIiwKICAgICAgICAgICAgInBzIjogIuabtOaWsOS6jiAwNC0xOCAxNjozMCBieSBodHRwczovL2dpdGh1Yi5jb20vdHMtc2YvZmx5IiwKICAgICAgICAgICAgImFkZCI6ICIxMjcuMS4xLjEyNyIsCiAgICAgICAgICAgICJwb3J0IjogIjgwIiwKICAgICAgICAgICAgImlkIjogIjYwMjczNmU0LWEyZTgtNGViMy05ZmM5LTdjNzA4MjkyNTM2NSIsCiAgICAgICAgICAgICJhaWQiOiAiMCIsCiAgICAgICAgICAgICJzY3kiOiAiYXV0byIsCiAgICAgICAgICAgICJuZXQiOiAidGNwIiwKICAgICAgICAgICAgInR5cGUiOiAibm9uZSIsCiAgICAgICAgICAgICJob3N0IjogIiIsCiAgICAgICAgICAgICJwYXRoIjogIiIsCiAgICAgICAgICAgICJ0bHMiOiAiIiwKICAgICAgICAgICAgInNuaSI6ICIiLAogICAgICAgICAgICAiYWxwbiI6ICIiLAogICAgICAgICAgICAiZnAiOiAiIgogICAgICAgICAgfQogICAgICAgIA==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
-trojan://184833a5-9dff-4e2b-bc03-c0b8f9ec157f@fr01.freeflyingcloud.xyz:30502?security=tls&sni=fr01.freeflyingcloud.xyz#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2%208.7MB%2Fs
+trojan://huge123456@131.186.21.135:60954?security=tls&type=tcp&sni=h.iveze.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
+trojan://telegram-id-privatevpns@54.72.213.33:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE%E7%88%B1%E5%B0%94%E5%85%B0
+trojan://telegram-id-directvpn@3.77.247.138:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
+trojan://NtttpUsd92KX@57.180.26.205:17391?sni=appsvs.shop#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6RXJmT1FEZjNsT1haMjRESzlFY0FM@5.42.86.33:16991#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF2%202.5MB%2Fs
 ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E6%9C%AA%E7%9F%A5
-trojan://telegram-id-privatevpns@54.72.213.33:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE%E7%88%B1%E5%B0%94%E5%85%B02
-trojan://yUGbZAv7LW35@34.217.86.31:17415?sni=appsvs.shop#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3
-trojan://pBmaAMoBqHGR@18.118.163.183:17400?sni=appsvs.shop#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4
-trojan://telegram-id-privatevpns@35.176.117.240:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD5
-trojan://l243cQ2T5CVh@54.245.12.173:17398?sni=appsvs.shop#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD6
+trojan://l243cQ2T5CVh@54.245.12.173:17398?sni=appsvs.shop#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3
+trojan://yUGbZAv7LW35@34.217.86.31:17415?sni=appsvs.shop#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4
+trojan://telegram-id-directvpn@18.197.182.188:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD
+trojan://telegram-id-privatevpns@54.72.176.224:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE%E7%88%B1%E5%B0%94%E5%85%B02
+trojan://pBmaAMoBqHGR@18.118.163.183:17400?sni=appsvs.shop#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD5
+trojan://telegram-id-privatevpns@35.176.117.240:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD6
+trojan://184833a5-9dff-4e2b-bc03-c0b8f9ec157f@fr01.freeflyingcloud.xyz:30502?security=tls&sni=fr01.freeflyingcloud.xyz#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD7%208.8MB%2Fs
+trojan://dkCb8vhXc9GI@18.130.65.10:17408?sni=appsvs.shop#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD
 trojan://ISpGyFeSDr06@175.41.172.250:17418?sni=appsvs.shop#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
-trojan://telegram-id-directvpn@3.77.247.138:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6RXJmT1FEZjNsT1haMjRESzlFY0FM@5.42.86.33:16991#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF2%2050.5KB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNjEwNWJiZC1iZTBkLTQ1YjItODJhZC0zMWZkMTA3MWMxZDI=@service.ouluyun9803.com:20003#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD8
 
 ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%BA%E5%9C%BA%3Ahttps%3A%2F%2Fkfyun.uk
 trojan://huge123456@131.186.21.135:60954?security=tls&sni=h.iveze.com&type=tcp#美国+v2rayfree.eu.org
