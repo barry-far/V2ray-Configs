@@ -4,6 +4,13 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+trojan://be968c88-86db-48e7-b8f8-ecebb33a022f@45.79.9.98:443?#🔒 TR-TCP-NA 🇺🇸 US-45.79.9.98:443 📡 PING-035.97-MS
+trojan://telegram-id-directvpn@3.97.137.194:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇨🇦 CA-3.97.137.194:22222 📡 PING-023.18-MS
+trojan://telegram-id-directvpn@3.97.76.182:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇨🇦 CA-3.97.76.182:22222 📡 PING-023.03-MS
+trojan://71ab3866-4c8b-4a0b-a4bd-a64f110afe0b@172.105.25.249:443?#🔒 TR-TCP-NA 🇨🇦 CA-172.105.25.249:443 📡 PING-019.81-MS
+trojan://telegram-id-directvpn@18.218.42.143:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇺🇸 US-18.218.42.143:22222 📡 PING-016.65-MS
+trojan://telegram-id-directvpn@3.130.63.147:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇺🇸 US-3.130.63.147:22222 📡 PING-015.99-MS
+trojan://EgAMtxAquaO78-IvTSWpnQ@190.93.244.31:2096?security=tls&sni=mrz.learnturkishspeech.fun&type=ws&host=mrz.learnturkishspeech.fun&path=%2Fbook#🔒 TR-WS-TLS 🇺🇸 US-190.93.244.31:2096 📡 PING-008.75-MS
 trojan://656bcdfe-ae09-4170-a36e-1685ee10b26f@162.159.128.233:2083?security=tls&sni=missyousir.segaro.tech&type=ws&host=missyousir.segaro.tech&path=%2FOVmkPBATL0FijQ3AWVBo&fp=chrome&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.128.233:2083 📡 PING-007.90-MS
 trojan://9Mdw86d7Cz@132.145.208.20:443?security=tls&sni=no.09.ijg.cc&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-132.145.208.20:443 📡 PING-006.28-MS
 trojan://241f01b9-8dfc-474f-8342-3fbd5c46417e@172.67.192.61:2087?security=tls&sni=grpcfr.arminhadadi.site&type=grpc&serviceName=grpc#🔒 TR-GRPC-TLS 🇺🇸 US-172.67.192.61:2087 📡 PING-005.77-MS
@@ -597,10 +604,3 @@ vmess://ewogICAgImFkZCI6ICIxNTUuMTM4LjI0Mi4yMDciLAogICAgImFpZCI6IDAsCiAgICAiaG9z
 vmess://ewogICAgImFkZCI6ICIxNTguNTEuMTIzLjExMSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2xpbmt2d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HqPCfh6ZDQS0xNTguNTEuMTIzLjExMS0xMTA2IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 vmess://ewogICAgImFkZCI6ICIzOC45Ni4yNTQuMzUiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9saW5rdndzIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh6jwn4emQ0EtMzguOTYuMjU0LjM1LTMzNjAiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5QnZrdzVhdXBOeTg=@205.134.180.147:443#%F0%9F%87%BA%F0%9F%87%B8US-205.134.180.147-8930
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZmJlYjY2OGY0ODQxNGY2@104.167.197.23:57456#%F0%9F%87%BA%F0%9F%87%B8US-104.167.197.23-0592
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMTNTN2RvWGFyMEE=@205.134.180.137:443#%F0%9F%87%BA%F0%9F%87%B8US-205.134.180.137-8933
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZmJlYjY2OGY0ODQxNGY2@us.sptnk.space:57456#%F0%9F%87%BA%F0%9F%87%B8US-104.167.197.23-0595
-vmess://ewogICAgImFkZCI6ICIyMy45NC4xMDQuMTY0IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiMjMuOTQuMTA0LjE2NCIsCiAgICAiaWQiOiAiN2QzMDlhNzUtNWQ3Yi00MDliLWYzZjYtNmY3YTQ1ZDNmM2VjIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDExOTQsCiAgICAicHMiOiAi8J+HuvCfh7hVUy0yMy45NC4xMDQuMTY0LTAxODQiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y3A5WjNpV25KWjI=@205.134.180.151:443#%F0%9F%87%BA%F0%9F%87%B8US-205.134.180.151-0600
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoZ0xDZ2ZMUmdCNmQ=@205.134.180.145:443#%F0%9F%87%BA%F0%9F%87%B8US-205.134.180.145-0594
-trojan://telegram-id-directvpn@35.182.182.193:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%A6CA-35.182.182.193-0190
