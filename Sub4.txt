@@ -4,6 +4,10 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://931986f6-700e-45df-9c96-b0a227a4f11b@185.234.64.35:8443?security=reality&sni=162.159.128.233&type=grpc&serviceName=grpc&fp=chrome&pbk=yYaziJ3F14P5Zp-dpwVatnmT-Mn0L8lMIT_wcnsneVo&sid=147c31854f570778#🔒 VL-GRPC-RLT 🇫🇷 FR-185.234.64.35:8443 📡 PING-100.12-MS
+vless://5f07c8ee-d164-404d-9b8a-2faea7b7d8a8@194.135.20.83:443?security=reality&flow=xtls-rprx-vision&sni=www.google-analytics.com&type=tcp&fp=chrome&pbk=F7tFTKoYwaKKWi3ch1dZz0osGrS4m5MYEzykmTYUbQs&sid=46535df2&alpn=h2#🔒 VL-TCP-RLT 🇳🇱 NL-194.135.20.83:443 📡 PING-101.30-MS
+vless://ae5aed77-be23-4f6c-bd51-c73745038952@185.142.238.222:8443?security=reality&flow=xtls-rprx-vision&sni=maps.google.com&type=tcp&fp=chrome&pbk=NbtOWq_km9k_SKgCJatXla3Jl7gGKVbjQ-GAtGg4bEk&sid=bfde1c85a6a4112a#🔒 VL-TCP-RLT 🇳🇱 NL-185.142.238.222:8443 📡 PING-101.75-MS
+vless://09d825de-5796-4bd1-b2ef-b1ee7ac6dbb7@165.22.194.239:443?security=reality&sni=kh.google.com&type=grpc&serviceName=hzXkrpCKPbKL0Tz7F&path=hzXkrpCKPbKL0Tz7F&fp=chrome&pbk=z5hXs6VDi8hprw-lYBRGcunWYa-HH6lrr9oaSGETFWk&sid=eafae70d&alpn=h2#🔒 VL-GRPC-RLT 🇳🇱 NL-165.22.194.239:443 📡 PING-101.98-MS
 vless://9d5fd220-4f17-48e2-a833-5b1a62a3411c@24.144.78.189:10443?security=reality&flow=xtls-rprx-vision&sni=www.speedtest.net&type=tcp&fp=firefox&pbk=n8tbatLDMMjIgL42OziDdK-lQGi3M1hFz4xVtmOjuTE&sid=93a1f0fa#🔒 VL-TCP-RLT 🇳🇱 NL-24.144.78.189:10443 📡 PING-102.75-MS
 vless://c4a547dc-cfe5-4056-9158-a5c15487e624@128.140.15.177:445?security=reality&sni=tgju.org&type=grpc&serviceName=%40FREE_VPN02%2C%40FREE_VPN02%2C%40FREE_VPN02%2C%40FREE_VPN02&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒 VL-GRPC-RLT 🇩🇪 DE-128.140.15.177:445 📡 PING-108.50-MS
 vless://e9e9a6e9-36f4-4e5c-b8e7-697a7e163a89@95.164.68.37:8443?security=reality&sni=104.21.69.44&type=grpc&serviceName=grpc&fp=chrome&pbk=iOq9XFgvr8uyenRX9HUNjxrDpWVmfadlLcTZGXX0m0k&sid=836a980ffcbd9a64#🔒 VL-GRPC-RLT 🇩🇪 DE-95.164.68.37:8443 📡 PING-108.65-MS
@@ -600,7 +604,3 @@ vless://f24ecb0f-31ad-49ac-bd69-c8b22b4de980@104.21.233.139:443?security=tls&sni
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.238.66:80?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.238.66:80 📡 PING-014.06-MS
 vless://178862fb-36fd-45fa-baec-7401d0fad4f7@162.251.82.187:8880?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-162.251.82.187:8880 📡 PING-014.06-MS
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.212.154:80?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.212.154:80 📡 PING-014.06-MS
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.224.179:80?type=ws&host=us1.rtacg.com&path=/&fp=chrome#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.224.179:80 📡 PING-014.05-MS
-vless://b3f8c2c5-3528-49b2-8e55-559811ee557f@104.21.232.99:80?security=none&type=ws&host=join-to.unlimiteddev.motorcycles.&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.232.99:80 📡 PING-014.03-MS
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.212.93:80?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.212.93:80 📡 PING-014.02-MS
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.212.63:80?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.212.63:80 📡 PING-014.02-MS
