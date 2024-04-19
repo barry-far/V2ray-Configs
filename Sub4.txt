@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://f3c85554-d957-4108-bf7e-a644ce7bc9d5@45.140.167.94:443?security=tls&flow=xtls-rprx-vision&sni=Join-M-buy-In-Telegram.pages.dev&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇬🇧 GB-45.140.167.94:443 📡 PING-102.11-MS
-vless://fcea439c-dda2-4d6a-9764-e32557f04f4a@142.93.226.128:2003?security=tls&sni=nl2-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇳🇱 NL-142.93.226.128:2003 📡 PING-102.42-MS
 vless://fcea439c-dda2-4d6a-9764-e32557f04f4a@142.93.226.128:443?security=tls&sni=nl2-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇳🇱 NL-142.93.226.128:443 📡 PING-102.47-MS
 vless://61e34729-70cf-4cd9-9895-15bc8991cc83@206.189.4.214:443?security=tls&flow=xtls-rprx-vision&sni=nl-freevmess.privateip.net&type=tcp&allowInsecure=1#🔒 VL-TCP-TLS 🇳🇱 NL-206.189.4.214:443 📡 PING-102.59-MS
 vless://217966ac-777a-4f84-b7e4-5aa0857e8918@37.157.255.84:65000?security=tls&sni=a.mgtoken.net&type=ws&path=/#🔒 VL-WS-TLS 🇩🇪 DE-37.157.255.84:65000 📡 PING-103.24-MS
@@ -604,3 +602,5 @@ vless://d6c077ae-4457-42a0-ad4a-6ad6b4536db9@172.67.218.147:443?security=tls&sni
 vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.44.194:443?security=tls&sni=telegram-chanel-ab-841-vpns.pages.dev&type=ws&host=telegram-chanel-ab-841-vpns.pages.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-172.66.44.194:443 📡 PING-002.78-MS
 vless://13732170-05c7-4bd6-acd6-9ed74b4d1c1b@162.159.153.2:2096?security=tls&sni=kanal-falcunargo-rmarat.falcunar.asso.eu.org&type=ws&host=kanal-falcunargo-rmarat.falcunar.asso.eu.org&path=Path%2FTelegram%40SiNABiGO%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.2:2096 📡 PING-002.78-MS
 vless://1d1a7193-61a9-4fc1-9778-dd517cf9f919@172.67.136.208:2087?security=tls&sni=workerr.mcgrooge12.workers.dev&type=ws&host=workerr.mcgrooge12.workers.dev&path=%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-172.67.136.208:2087 📡 PING-002.78-MS
+vless://f4ac1c93-4936-4c60-bf7d-3936cb2e1b49@172.67.206.177:2087?security=tls&sni=nl.RxV2ray.space&type=grpc&serviceName=%40RxV2ray&fp=chrome#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.206.177:2087 📡 PING-002.78-MS
+vless://3028cf21-7957-43a8-9c67-835d7b15d69f@104.18.203.232:2083?security=tls&sni=all5.savagev2ray.site&type=grpc&serviceName=%40XvProxy%2C%40XvProxy%2C%40XvProxy%2C%40XvProxy#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.203.232:2083 📡 PING-002.78-MS
