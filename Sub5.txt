@@ -4,10 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://b788032a-8e11-492b-bf70-6a1358a05629@172.66.47.89:2083?security=tls&sni=paris.prsico.ir&type=ws&host=paris.prsico.ir&path=%2Fwhois%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-172.66.47.89:2083 📡 PING-001.38-MS
-vless://ce877d69-6a74-49dc-96fb-a7fd03d710e5@185.59.218.226:2095?security=none&type=ws&host=%E5%A1%B5%E3%81%AB%E3%81%AF%E8%A1%80%E3%82%92%E3%83%80%E3%82%A4%E3%83%BB%E3%83%93%E3%83%AB%E3%83%BB%E3%82%A2%E3%83%80%E3%83%9F%E3%83%B3%E3%83%BB%E3%83%92%E3%82%AB%E3%82%A4%E3%82%A7%E3%82%B7dayi.darkdiamond.top.&path=%2Ft.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro#🔒 VL-WS-NONE 🇷🇺 RU-185.59.218.226:2095 📡 PING-001.38-MS
-vless://34462e1f-28f5-4db7-8020-ca15aa1e72fc@162.159.135.234:8443?security=tls&sni=v-2rey-channel.pages.dev&type=ws&host=v-2rey-channel.pages.dev&path=%2FTeleram%3A+%40v_2ray&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.135.234:8443 📡 PING-001.37-MS
-vless://068fd24e-415a-4477-9b4b-6a71dd3a7a8b@172.66.213.0:80?type=ws&host=AllOperators.d15c2hfqv8z1vs8.HighSpeedV2ray.ZXN--047H.COM.&path=/More_links:@holderproxy#🔒 VL-WS-NA 🇺🇸 US-172.66.213.0:80 📡 PING-001.37-MS
 vless://664f5f11-1231-486d-b416-b7b3ecdae76a@104.17.42.10:443?security=tls&sni=HETZNER-D.pages.DEV&type=ws&host=HETZNER-D.pages.DEV&path=%2F%3Fed%3D2048&fp=randomized&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.42.10:443 📡 PING-001.37-MS
 vless://d360d11e-d426-4583-b55e-524ab1f0afa9@104.26.5.60:2096?security=tls&sni=worker-gentle-waterfall-6de8.tigerhungry4.workers.dev&type=ws&host=worker-gentle-waterfall-6de8.tigerhungry4.workers.dev&path=/?ed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.5.60:2096 📡 PING-001.37-MS
 vless://82fe10b4-086a-44de-a326-e2016d985ba0@185.148.105.52:2083?security=tls&sni=join20.maznet.cfd&type=ws&host=join20.maznet.cfd&path=%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-185.148.105.52:2083 📡 PING-001.37-MS
@@ -604,3 +600,7 @@ ss://YWVzLTI1Ni1jZmI6OVh3WXlac0s4U056UUR0WQ==@103.172.116.103:9059#🔒 SS-TCP-N
 ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@103.172.116.94:9019#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.94:9019 📡 PING-223.95-MS
 ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg==@103.172.116.90:9030#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9030 📡 PING-224.00-MS
 ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ==@103.172.116.94:9000#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.94:9000 📡 PING-224.04-MS
+ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ==@103.172.116.103:9020#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9020 📡 PING-224.05-MS
+ss://YWVzLTI1Ni1jZmI6OVh3WXlac0s4U056UUR0WQ==@103.172.116.90:9059#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9059 📡 PING-224.22-MS
+ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg==@103.172.116.94:9030#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.94:9030 📡 PING-224.27-MS
+ss://YWVzLTI1Ni1jZmI6VFBxWDhlZGdiQVVSY0FNYg==@103.172.116.94:9079#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.94:9079 📡 PING-224.29-MS
