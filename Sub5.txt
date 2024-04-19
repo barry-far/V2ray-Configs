@@ -4,6 +4,10 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.73.96:80?type=ws&host=us1.rtacg.com&path=/&fp=chrome#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.73.96:80 📡 PING-002.43-MS
+vless://31901c83-f86e-4496-b6aa-186aca65cbe8@172.67.207.18:2083?security=tls&sni=alienntcl.edlaghiye.com&type=grpc&serviceName=xyz&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.207.18:2083 📡 PING-002.43-MS
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.215.155:80?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.215.155:80 📡 PING-002.43-MS
+vless://d113cd5c-80c9-43e2-a567-107819004a12@104.21.73.84:2083?security=tls&sni=dm.xsv2ray.cfd&type=grpc&serviceName=%40xsv2ray%2C%40xsv2ray%2C%40xsv2ray%2C%40xsv2ray%2C%40xsv2ray%2C%40xsv2ray%2C%40xsv2ray%2C%40xsv2ray%2C%40xsv2ray%2C%40xsv2ray%2C%40xsv2ray&fp=safari&alpn=http%2F1.1%2Ch2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.73.84:2083 📡 PING-002.42-MS
 vless://17bfbf37-3514-41a3-992d-06034ea346db@162.159.134.234:2095?security=none&type=ws&host=zedmodeon2.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=zed#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.134.234:2095 📡 PING-002.42-MS
 vless://fbb33b2f-8e72-456e-83a3-44aa46119b38@104.17.29.26:443?security=tls&sni=prx11.adminwp.eu.org&type=ws&host=prx11.adminwp.eu.org&path=%2FProxystore11&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.29.26:443 📡 PING-002.42-MS
 vless://d69b66cb-5fe2-40b9-842b-1951982f80ae@104.21.13.159:2083?security=tls&sni=zebelkhan30.quysc64868.workers.dev&type=ws&host=zebelkhan30.quysc64868.workers.dev&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.13.159:2083 📡 PING-002.42-MS
@@ -600,7 +604,3 @@ vless://ff3c4db3-2259-479e-a0e0-7af7d1d429db@172.67.178.12:443?security=tls&sni=
 vless://24347e96-912c-4f53-9c67-9cc895fc6fdf@104.16.60.8:2082?type=ws&host=h3.xn--gmq282ekfhyys3gs.com.&path=/#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.60.8:2082 📡 PING-001.86-MS
 vless://2faf4f83-ab0f-4d20-9084-b0223317a3cf@172.67.187.221:443?security=tls&sni=PPal03.DAWN-prIce.WOrKeRS.deV&type=ws&host=pPal03.Dawn-PrIce.WORKERS.DEV&path=%2FRo9sIigGD7uyPv_Y%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-172.67.187.221:443 📡 PING-001.86-MS
 vless://9b55ef31-45a1-4ee7-b306-244571ac0b2e@104.21.50.213:443?security=tls&sni=ulm.minusober.com&type=ws&path=/ulm#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.50.213:443 📡 PING-001.86-MS
-vless://5c15ce17-b7e3-4e9e-bc8a-3988a0695b89@162.159.133.234:2083?security=tls&sni=re2.v2logy.xyz&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.133.234:2083 📡 PING-001.86-MS
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.105.137:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-185.148.105.137:443 📡 PING-001.86-MS
-vless://896ea6fd-0754-430d-b5b3-4b4ad487617d@172.66.44.169:443?security=tls&sni=4d9061a7.joinmahdiserver-7tw.pages.dev&type=ws&host=4d9061a7.joinmahdiserver-7tw.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-172.66.44.169:443 📡 PING-001.86-MS
-vless://2e19015e-e622-4544-9c12-f42533ce11e8@185.176.26.8:443?security=tls&sni=hetzner.nirevil.ir&type=ws&host=hetzner.nirevil.ir&path=%2F%3Fed%3D2048&alpn=http%2F1.1#🔒 VL-WS-TLS 🇰🇿 KZ-185.176.26.8:443 📡 PING-001.86-MS
