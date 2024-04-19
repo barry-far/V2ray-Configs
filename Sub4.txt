@@ -4,10 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-trojan://28c79056-ccfd-4cc1-93d4-c337cc782e65@89.221.224.94:80?security=tls&sni=is2-t.sshmax.xyz&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%205
-trojan://09833a6f-4d46-426e-87fe-7793a5489f84@foreign04.lovehjq.xyz:46527?security=tls&sni=lovehjq.xyz&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%202
-trojan://09833a6f-4d46-426e-87fe-7793a5489f84@144.24.87.186:46521?security=tls&sni=lovehjq.xyz&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%204
-trojan://09833a6f-4d46-426e-87fe-7793a5489f84@144.24.87.186:46527?security=tls&sni=lovehjq.xyz&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%205
 trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@36.228.203.34:443?security=tls&sni=glc-tw1.windowsupdatea.com&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3%20Taiwan%207
 trojan://09833a6f-4d46-426e-87fe-7793a5489f84@foreign01.lovehjq.xyz:46521?security=tls&sni=lovehjq.xyz&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%203
 trojan://pjdnqv@aws-us-dallas-1.f1rocketnode.com:443?security=tls&sni=aws-us-dallas-1.f1rocketnode.com&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20294
@@ -604,3 +600,7 @@ vless://afb24434-5378-4b85-ad09-690656e9e94d@185.146.173.95:80?security=none&typ
 vless://1732c28e-9328-4246-bed6-de522bb6e102@104.16.61.8:8080?security=none&type=ws&host=faq.khamenei.bio&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.61.8:8080 📡 PING-001.20-MS
 vless://417ce651-8fd8-4667-b5cd-aa4980aff66a@104.21.11.95:443?security=tls&sni=v2ray-vmess-free.keitldp.workers.dev&type=ws&host=v2ray-vmess-free.keitldp.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.11.95:443 📡 PING-001.20-MS
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.78.10:80?type=ws&host=us1.rtacg.com&path=/&fp=chrome#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.78.10:80 📡 PING-001.20-MS
+vless://0f5d860d-204e-48dc-a384-76043a34add7@104.21.7.27:443?security=tls&sni=shaft.footballlovernews.com&type=ws&path=/shaft#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.7.27:443 📡 PING-001.20-MS
+vless://da230f96-66c7-48ab-a206-8d1f50db3fac@172.67.169.28:443?security=tls&sni=pPal03.tOrrEY-BOScO.WoRKeRS.DEV&type=ws&host=ppAL03.TorrEY-bosCo.worKERS.DEV&path=%2F4f-XNakl1-LeCG0d%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-172.67.169.28:443 📡 PING-001.19-MS
+vless://99043bd6-a1e6-4d82-948b-4c2a10349c6c@185.109.21.67:2052?security=none&type=ws&host=onepercenter%E5%AE%89%E6%81%AF%E5%90%A7%E8%8F%B2%E4%BA%9A%E7%9A%84%E5%B7%A5%E8%B5%84.suonycars.buzz.&path=%2Ft.me-DarkVPNpro#🔒 VL-WS-NONE 🇷🇺 RU-185.109.21.67:2052 📡 PING-001.19-MS
+vless://2ca42987-551b-4494-a854-da2d9178f4cd@104.18.12.130:2087?security=tls&sni=MpHnPvWn22.zImBa-zUlA.OrG&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.12.130:2087 📡 PING-001.19-MS
