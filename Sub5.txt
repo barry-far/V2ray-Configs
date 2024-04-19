@@ -4,6 +4,14 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://0e26abf0-7e22-4a05-a898-023a1f21fcfd@104.18.202.232:2053?security=tls&sni=ayo.chals.fun&type=grpc&serviceName=cgi&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.202.232:2053 📡 PING-001.43-MS
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.73.115:443?security=tls&sni=mmdvpn442vpn442.cicgof.workers.Dev&type=ws&host=mmdvpn442vpn442.cicgof.workers.Dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.73.115:443 📡 PING-001.43-MS
+vless://5c15ce17-b7e3-4e9e-bc8a-3988a0695b89@162.159.130.234:2087?security=tls&sni=re3.v2logy.xyz&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.130.234:2087 📡 PING-001.43-MS
+vless://f21bd1f1-e293-40a0-974b-8825eaf89e66@162.159.135.234:2083?security=tls&sni=dlqz.meysaam.com&type=grpc&fp=safari&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.135.234:2083 📡 PING-001.43-MS
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@198.41.202.5:2053?security=tls&sni=zsf-5fa.pages.dev&type=ws&host=zsf-5fa.pages.dev&path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.202.5:2053 📡 PING-001.43-MS
+vless://742cd304-be2a-4629-bdbc-ad87a22a5eb1@104.17.245.203:443?security=tls&sni=api339.animationkidsart.ir&type=ws&host=api339.animationkidsart.ir&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.245.203:443 📡 PING-001.43-MS
+vless://d6c077ae-4457-42a0-ad4a-6ad6b4536db9@172.67.218.147:80?security=none&type=ws&host=proxystore11.kodaksho.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-172.67.218.147:80 📡 PING-001.43-MS
+vless://5886b978-b080-4612-b420-4d829080561d@172.67.190.177:443?security=tls&sni=PPal03.dR-BrAdy-goRCZANY.WORkerS.DEv&type=ws&host=PPaL03.dr-Brady-GORczAnY.WorKers.DEv&path=%2F_f7XhuROg_c2-I2x%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-172.67.190.177:443 📡 PING-001.43-MS
 vless://a318d48d-9882-4d88-8c73-be6e0721d0f3@172.67.135.169:443?security=tls&sni=sweet.footballlovernews.com&type=ws&path=%2Fsweet&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-172.67.135.169:443 📡 PING-001.43-MS
 vless://4509bfff-c3c9-4809-acf6-cae857cce96c@162.159.136.234:80?security=none&type=ws&host=%53%68%68%50%72%6f%78%79FreViP.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9185.org.&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.136.234:80 📡 PING-001.43-MS
 vless://0e26abf0-7e22-4a05-a898-023a1f21fcfd@104.18.203.232:2053?security=tls&sni=ayo.chals.fun&type=grpc&serviceName=cgi&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.203.232:2053 📡 PING-001.43-MS
@@ -596,11 +604,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiNmM1NDY3YS1iYzk5LTNmZWMtYmQ4YS1iMzNmZmM1MmM
 ss://YWVzLTI1Ni1jZmI6WnBORERLUnU5TWFnTnZhZg==@103.172.116.94:9015#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.94:9015 📡 PING-226.96-MS
 ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg==@103.172.116.103:9030#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9030 📡 PING-226.99-MS
 ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA==@103.172.116.103:9027#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9027 📡 PING-227.01-MS
-ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA==@103.172.116.79:9027#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9027 📡 PING-227.02-MS
-ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg==@103.172.116.90:9043#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9043 📡 PING-227.03-MS
-ss://YWVzLTI1Ni1jZmI6ZjhucEtnTnpka3NzMnl0bg==@103.172.116.79:9088#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9088 📡 PING-227.03-MS
-ss://YWVzLTI1Ni1jZmI6THAyN3JxeUpxNzJiWnNxWA==@103.172.116.90:9045#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9045 📡 PING-227.08-MS
-ss://YWVzLTI1Ni1jZmI6VFBxWDhlZGdiQVVSY0FNYg==@103.172.116.94:9079#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.94:9079 📡 PING-227.11-MS
-ss://YWVzLTI1Ni1jZmI6ZjhucEtnTnpka3NzMnl0bg==@103.172.116.90:9088#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9088 📡 PING-227.14-MS
-ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@103.172.116.90:9031#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9031 📡 PING-227.18-MS
-ss://YWVzLTI1Ni1jZmI6TnZTOE40VmY4cUFHUFNDTA==@103.172.116.79:9046#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9046 📡 PING-227.26-MS
