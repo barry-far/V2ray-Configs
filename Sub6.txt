@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://86cb9a9b-dc2e-45d6-b35d-7ce1daa32a15@172.64.229.28:8443?security=tls&sni=dns68.shift.cloudns.org&type=ws&host=dns68.shift.cloudns.org&path=Path%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-172.64.229.28:8443 📡 PING-005.09-MS
+vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@199.181.197.115:443?security=tls&sni=tg.dns68.cloudns.nz&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-199.181.197.115:443 📡 PING-005.09-MS
 vless://11d7b37e-5efd-45a8-bb19-2dabe016cfcf@185.146.173.59:443?security=tls&sni=joinFREV2RAY.Houselife.IR&type=grpc&serviceName=%40frev2ray%2C%40frev2ray&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.59:443 📡 PING-005.09-MS
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.65.21:80?security=none&type=ws&host=binance.co.kp&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇺🇸 US-151.101.65.21:80 📡 PING-005.09-MS
 vless://85e83afb-187f-4015-9e55-2cc4f093ee51@162.159.152.2:2095?security=none&type=ws&host=shhi.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FZEDMODEON-ZEDMODEON-ZEDMODEON#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.152.2:2095 📡 PING-005.09-MS
@@ -601,6 +603,4 @@ vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@190.93.244.51:443/?type=ws&encrypti
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@190.93.247.14:443/?type=ws&encryption=none&host=current.ircp.online&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.online&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8C%90%20Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray%20%284%29
 
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@172.66.209.117:443/?type=ws&encryption=none&host=current.ircp.online&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.online&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8C%90%20Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray%20%285%29
-
-vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@188.114.97.1:443/?type=ws&encryption=none&host=current.ircp.online&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.online&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8C%90%20Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray%20%286%29
 
