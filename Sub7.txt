@@ -4,6 +4,15 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@103.21.244.5:443/?type=ws&encryption=none&host=current.ircp.online&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.online&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8C%90%20Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray%20%287%29
+
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.27.91.235:443/?type=ws&encryption=none&host=current.ircp.online&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.online&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8C%90%20Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray%20%288%29
+
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@188.114.97.143:443/?type=ws&encryption=none&host=current.ircp.online&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.online&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8C%90%20Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray%20%289%29
+
+vmess://ewogICAgImFkZCI6ICI2NC4yMy4xOTAuMjA4IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI2NzQ4YWM4ZS05MWEyLTQ2ZDYtZWM4NC1lNjI5YWUyMWVkZWEiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogNTk3MDMsCiAgICAicHMiOiAi8J+HuvCfh7hVUy02NC4yMy4xOTAuMjA4LTA1OTEiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
+vmess://ewogICAgImFkZCI6ICJqYWhma2poYS5jZmQiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJqYWhma2poYS5jZmQiLAogICAgImlkIjogIjk1MGRiNmFhLTQ5MjYtNDYxNi04MTZlLWVjMDMxMmRjYjg3YiIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9saW5rd3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTE3Mi42Ny4xODMuMjIwLTAxMTciLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJqYWhma2poYS5jZmQiCn0=
+vmess://ewogICAgImFkZCI6ICIxNTUuMTM4LjI0Mi4yMDciLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIxNTUuMTM4LjI0Mi4yMDciLAogICAgImlkIjogIjY3Nzk3YzZhLWU4OTgtNDliZC04ZjYxLTVmYjE1MjNjZTBiZCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA1NDMxNiwKICAgICJwcyI6ICLwn4e68J+HuFVTLTE1NS4xMzguMjQyLjIwNy0wNTc5IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 vmess://ewogICAgImFkZCI6ICIxNTUuMTM4LjI0Mi4yMDciLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjY3Nzk3YzZhLWU4OTgtNDliZC04ZjYxLTVmYjE1MjNjZTBiZCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA1NDMxNiwKICAgICJwcyI6ICLwn4e68J+HuFVTLTE1NS4xMzguMjQyLjIwNy0wMTM1IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 vmess://ewogICAgImFkZCI6ICIyMy45NC4xMDQuMTY0IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiMjMuOTQuMTA0LjE2NCIsCiAgICAiaWQiOiAiN2QzMDlhNzUtNWQ3Yi00MDliLWYzZjYtNmY3YTQ1ZDNmM2VjIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDExOTQsCiAgICAicHMiOiAi8J+HuvCfh7hVUy0yMy45NC4xMDQuMTY0LTAxNjYiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 vmess://ewogICAgImFkZCI6ICIxNTUuMTM4LjI0Mi4yMDciLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjgxZjQwYzJjLWUzZTgtNGUwYS1jYjUxLTMzZGIyNWUyMGI5NyIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4e68J+HuFVTLTE1NS4xMzguMjQyLjIwNy0wNTg3IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
@@ -595,12 +604,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEbU1RVW1JN3BnUURucldxTFhDMDBM@94.228.165.234:15214#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40OutlineVpnOfficial+%7C+SE%F0%9F%87%B8%F0%9F%87%AA+%7C+0%EF%B8%8F%E2%83%A33%EF%B8%8F%E2%83%A3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40kingofilter+%7C+BH%F0%9F%87%A7%F0%9F%87%AD+%7C+0%EF%B8%8F%E2%83%A32%EF%B8%8F%E2%83%A3
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@85.90.217.65:989#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40ROMAX_VPN+%7C+ES%F0%9F%87%AA%F0%9F%87%B8+%7C+0%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3
-ss://YWVzLTI1Ni1jZmI6cVlFTjVIWDRKS2VWQ2RFQw==@195.238.126.84:9039#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40ROMAX_VPN+%7C+LT%F0%9F%87%B1%F0%9F%87%B9+%7C+0%EF%B8%8F%E2%83%A32%EF%B8%8F%E2%83%A3
-tuic://
-hy2://
-hy2://
-<!DOCTYPE html>
-<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
