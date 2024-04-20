@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://c1a96bd9-84ea-456d-9263-7815cb61ade5@167.99.194.229:52547?type=tcp#🔒 VL-TCP-NA 🇬🇧 GB-167.99.194.229:52547 📡 PING-127.78-MS
-vless://493603eb-6f8a-41fb-80d2-090730c10a94@217.69.1.35:443?security=none&type=tcp&host=speedtest.net&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇫🇷 FR-217.69.1.35:443 📡 PING-127.93-MS
 vless://10f20ade-be35-4cb2-d902-a44a23415a0f@199.247.12.189:55692?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇫🇷 FR-199.247.12.189:55692 📡 PING-128.02-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@152.70.232.173:28756?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇷 KR-152.70.232.173:28756 📡 PING-128.63-MS
 vless://0d6ade79-66a0-497a-b782-52898f9317d5@45.63.41.202:443?security=none&type=tcp#🔒 VL-TCP-NONE 🇳🇱 NL-45.63.41.202:443 📡 PING-129.14-MS
@@ -604,3 +602,5 @@ vless://5512bf69-a563-4ea7-be2b-2d14d27e6323@172.67.131.187:443?security=tls&sni
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.161:443?security=tls&sni=B458Ab02.CAA-CHANeL-Worker-pAGE-freE-jHUIHnujhPhJKl-nihGkjN.pagES.dev&type=ws&host=B458ab02.caa-chaNel-woRKeR-pAge-fREe-jhuiHnujhphJkl-nIhgkJn.PageS.DEv&path=%2FATdmeWNJtRAFAGlU%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.66.47.161:443 📡 PING-008.62-MS
 vless://5efd56da-0dcc-4d21-812f-adc0a44d41f3@[::ffff:b992:ad3b]:80?security=none&type=ws&host=ShhProxy-Free.xn--85-pv2cl2k5x3fipr.org&path=%2F#🔒 VL-WS-NONE 🇸🇪 SE-[::ffff:b992:ad3b]:80 📡 PING-008.62-MS
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@172.66.209.117:443?security=tls&sni=current.ircp.online&type=ws&host=current.ircp.online&path=%2F%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-172.66.209.117:443 📡 PING-008.62-MS
+vless://24a5af4c-a5e3-42e4-93e4-370922dad2ee@104.27.27.14:2087?security=tls&sni=virapn-t-3be7883659a1d2ba4c545dfdf85b61eda1.asiatechnicalwest.ir.&type=grpc&fp=firefox#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.27.27.14:2087 📡 PING-008.61-MS
+vless://50e4d756-6e6d-482a-8071-616d00f0baff@104.18.3.186:2053?security=tls&sni=v6a.bestvipbotirr.online&type=grpc&serviceName=@proxyforopeta&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.3.186:2053 📡 PING-008.61-MS
