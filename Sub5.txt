@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://90cd4a77-141a-43c9-991b-08263cfe9c10@162.159.195.143:443?security=tls&sni=syq-8y3.pages.dev&type=ws&host=syq-8y3.pages.dev&path=%2F%3Fed%3D2048&fp=random&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.195.143:443 📡 PING-008.63-MS
 vless://1c6a9e90-520b-4559-9f47-a2c62e84f8cd@185.146.173.59:80?security=none&type=ws&host=zedmodeon1.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FJOIN-ZEDMODEON-%40ZEDMODEON-ZEDMODEON#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.59:80 📡 PING-008.63-MS
 vless://21d6c429-9a97-47f7-84bf-acf83e8a69f2@104.254.140.33:8080?security=none&type=ws&host=htamiz7.kaghazacharrangi.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-104.254.140.33:8080 📡 PING-008.63-MS
 vless://93688d6e-1776-4018-a303-005fae3a9e4d@173.245.49.3:8080?security=none&type=ws&host=a.cloud.%E7%A7%91%E6%96%AF%E6%B6%85%E6%BF%BE%E5%99%A8-hp-ab17gsb97653bi54y11ikgdenjsth48gv.ClOUdclOUd.OnFlAshDrive.APP.&path=%3Fed%3D2053#🔒 VL-WS-NONE 🇫🇷 FR-173.245.49.3:8080 📡 PING-008.63-MS
@@ -603,4 +604,3 @@ trojan://telegram-id-privatevpns@18.203.42.43:22222?security=tls&sni=trojan.burg
 trojan://telegram-id-privatevpns@52.31.241.93:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-52.31.241.93:22222 📡 PING-114.80-MS
 trojan://telegram-id-privatevpns@52.48.75.250:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp#🔒 TR-TCP-TLS 🇮🇪 IE-52.48.75.250:22222 📡 PING-118.45-MS
 trojan://telegram-id-directvpn@18.200.178.130:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-18.200.178.130:22222 📡 PING-118.48-MS
-trojan://telegram-id-directvpn@34.248.81.151:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-34.248.81.151:22222 📡 PING-118.56-MS
