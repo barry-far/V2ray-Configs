@@ -4,10 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-trojan://BzWBsdG35CzW@15.156.204.76:17411?sni=appsvs.shop#美国+惠普HP
-trojan://afa19815-faef-45c0-9297-4ae1d6991569@65.109.180.131:443?security=tls&sni=maill.peymanribvar.xyz&type=grpc&serviceName=kZWbU3k5jFb03dB5w#美国+Alabanza
-trojan://rBBxWMjgub0M@50.16.6.78:17420?sni=appsvs.shop#美国+弗吉尼亚州阿什本Amazon数据中心
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIm1pemJhbi5hcnpvbmhvc3QuaXIiLCAicG9ydCI6ICIyMDg2IiwgImlkIjogImU2OTBmZjllLTE2NzYtNGJlMy1kMTM2LWRjYWU1ODZjYjFlNyIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAibWl6YmFuLmFyem9uaG9zdC5pciIsICJwYXRoIjogIi8iLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIn0=
 trojan://telegram-id-privatevpns@18.171.254.190:22222?alpn=http/1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#美国+Amazon数据中心
 trojan://6d257b63-0632-4dd6-b021-3085f8dc28b2@jp01.freeflyingcloud.xyz:44402?security=tls&sni=jp01.freeflyingcloud.xyz#日本东京+Oracle云计算数据中心
 vmess://eyJhZGQiOiAiMjAyLjc4LjE2Mi41IiwgImFpZCI6IDAsICJob3N0IjogInNhaGFuZC5zZXJ2ZW1pbmVjcmFmdC5uZXQiLCAiaWQiOiAiMTE4Mjg3ZDItZTk2OC00MmUxLTgwZDAtMTJmYTJmNWQzOGQ2IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9AZm9yd2FyZHYycmF5IiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdTUzNzBcdTVlYTYgdjJyYXlmcmVlLmV1Lm9yZyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
@@ -604,3 +600,7 @@ vless://c2ec17cc-e5a9-4f4a-88dc-496e3215dbab@104.18.158.102:443?alpn=h2%2Chttp%2
 vless://Telegram-ipV2Ray-rtu@185.146.173.59:80?host=2.www.speedtest.net.www.checkhost.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9168.Site.&path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @Capoit | SE🇸🇪 | 0️⃣3️⃣
 vless://Telegram-ipV2Ray-fda@185.146.173.59:80?host=1.ftp.debian.org.www.speedtest.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9169.Site.&path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @Capoit | SE🇸🇪 | 0️⃣4️⃣
 vless://9dd3fe6a-0d96-4389-83de-74bc6d72de7b@www.speedtest.net:8880?encryption=none&host=dl3.%E4%BD%A0%E8%AE%93%E9%80%99%E5%80%8B%E5%9F%8E%E5%B8%82%E5%A4%B1%E6%95%97%E4%BA%86.tech.&path=%2Fdaily_configs%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @Capoit | US🇺🇸 | 0️⃣6️⃣
+vless://23488040-d041-4b69-8e12-8f30e11d12f3@194.53.53.66:8880?encryption=none&host=dl3.%E4%BD%A0%E8%AE%93%E9%80%99%E5%80%8B%E5%9F%8E%E5%B8%82%E5%A4%B1%E6%95%97%E4%BA%86.tech.&path=%2Fdaily_configs%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @Capoit | SG🇸🇬 | 0️⃣7️⃣
+vless://c2ec17cc-e5a9-4f4a-88dc-496e3215dbab@104.18.158.102:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=randomized&host=saLaM-Word.PaGeS.Dev&security=tls&sni=sALAm-wOrD.pagEs.deV&type=ws#رایگان | VLESS | @FreakConfig | US🇺🇸 | 0️⃣1️⃣
+vless://c2ec17cc-e5a9-4f4a-88dc-496e3215dbab@104.18.158.102:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=randomized&host=saLaM-Word.PaGeS.Dev&path=Telegram-proxy_mtm%2F%3Fed%3D2048&security=tls&sni=sALAm-wOrD.pagEs.deV&type=ws#رایگان | VLESS | @FreakConfig | US🇺🇸 | 0️⃣2️⃣
+vless://8721355e-96d5-4bb9-a99b-b6119d6b1cd4@www.ZuLa.ir:2096?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=S3lBNf04KTPltic8C1EfLqq73QtMKz7zlYH9qRC0U6GM8x174e8w8DSLaK.Pages.DeV&security=tls&sni=S3lBNf04KTPltic8C1EfLqq73QtMKz7zlYH9qRC0U6GM8x174e8w8DSLaK.Pages.DeV&type=ws#رایگان | VLESS | @FreakConfig | US🇺🇸 | 0️⃣3️⃣
