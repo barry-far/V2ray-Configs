@@ -4,12 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://c1a96bd9-84ea-456d-9263-7815cb61ade5@167.99.194.229:52547?security=none&type=tcp#🔒 VL-TCP-NONE 🇬🇧 GB-167.99.194.229:52547 📡 PING-123.33-MS
-vless://10f20ade-be35-4cb2-d902-a44a23415a0f@199.247.12.189:55692?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇫🇷 FR-199.247.12.189:55692 📡 PING-123.54-MS
-vless://c6c360c7-dd1d-4ad2-80bb-d24a2455b410@146.75.74.87:443?security=tls&sni=ec2-iranc-cal02.global.ssl.fastly.net&type=ws&host=ec2-iranc-cal02.global.ssl.fastly.net&path=%2FGTTYQA9#🔒 VL-WS-TLS 🇬🇧 GB-146.75.74.87:443 📡 PING-123.57-MS
-vless://70d636a2-9b96-4b20-b749-969e5e3bd503@193.187.175.151:2087?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇫🇷 FR-193.187.175.151:2087 📡 PING-124.19-MS
-vless://1864cc59-416a-4f5c-a378-9cff18446d1e@185.234.64.35:443?security=tls&flow=xtls-rprx-vision&sni=fr1.x2fast.net&type=tcp&fp=chrome&allowInsecure=1#🔒 VL-TCP-TLS 🇫🇷 FR-185.234.64.35:443 📡 PING-124.21-MS
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.179.69.66:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇬🇧 GB-35.179.69.66:22222 📡 PING-126.41-MS
 vless://b8e38072-1b65-4d5d-8038-3156b712785a@146.75.74.83:443?security=tls&sni=gogoli01.global.ssl.fastly.net&type=ws&host=gogoli01.global.ssl.fastly.net&path=%2FGR66ARR#🔒 VL-WS-TLS 🇬🇧 GB-146.75.74.83:443 📡 PING-127.19-MS
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.138.56:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇫🇷 FR-13.36.138.56:22222 📡 PING-127.56-MS
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.78.172:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇫🇷 FR-15.237.78.172:22222 📡 PING-128.72-MS
@@ -604,3 +598,9 @@ vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@172.67.169.207:2053?security=tls&sn
 vless://107d3a95-e17e-4931-94b9-e42cdcabb05b@172.66.44.158:80?type=ws&host=MFvh5agb49bGYkqzTHqC.dl-onLiNeDOCtOR.BIO&path=/backup#🔒 VL-WS-NA 🇺🇸 US-172.66.44.158:80 📡 PING-008.60-MS
 vless://8ac45e8b-eb6d-409c-a6e7-88eaec82192e@172.66.44.161:443?security=tls&sni=b49961e0.mahdiserver-ebn.pages.dev&type=ws&host=b49961e0.mahdiserver-ebn.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-172.66.44.161:443 📡 PING-008.60-MS
 vless://436e7428-381d-404e-ad67-915e98ce357d@172.66.45.6:443?security=tls&sni=43b35ef5.aminitiger.pages.dev&type=ws&host=43b35ef5.aminitiger.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-172.66.45.6:443 📡 PING-008.60-MS
+vless://a6f13e20-3a0e-45eb-8fc8-d0b8f29bc211@172.66.44.199:443?path=/Telegram:#🔒 VL-TCP-NA 🇺🇸 US-172.66.44.199:443 📡 PING-008.59-MS
+vless://e5598560-5b02-4845-bccc-9bef8f4f14e7@104.18.5.174:2087?security=tls&sni=vira-v2-3be7883659a1d2ba4c545dfdf85b61eda1.asiatechnicalwest.ir&type=grpc&serviceName=%40ViraV2ray%2C%40ViraPN%2C%40ViraV2ray%2C%40ViraPN%2C%40ViraV2ray%2C%40ViraPN%2C%40ViraV2ray%2C%40ViraPN%2C%40ViraV2ray%2C%40ViraPN&fp=firefox&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.5.174:2087 📡 PING-008.59-MS
+vless://ff3c4db3-2259-479e-a0e0-7af7d1d429db@172.67.178.12:443?security=tls&sni=shaliest.toptechnonews.com&type=ws&path=%2Fnimws#🔒 VL-WS-TLS 🇺🇸 US-172.67.178.12:443 📡 PING-008.59-MS
+vless://f5055add-ca88-4377-be09-e69231a2dc2a@104.21.29.38:2053?security=tls&sni=v201c.ril4.site&type=grpc&serviceName=q&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.29.38:2053 📡 PING-008.59-MS
+vless://cc7b8f7b-cd46-41ff-a92e-7d6a3efe0f05@185.146.173.59:8443?security=tls&sni=lover155l.atkfood.com&type=ws&host=lover155l.atkfood.com&path=%2FAMVPN+Telegram+Channel#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.59:8443 📡 PING-008.59-MS
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@172.66.209.117:443?security=tls&sni=current.ircp.online&type=ws&host=current.ircp.online&path=%2F%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-172.66.209.117:443 📡 PING-008.59-MS
