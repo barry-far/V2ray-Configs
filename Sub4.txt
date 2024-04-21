@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://98164f50-bfe5-4b4d-8e6b-e2946f23b8d3@172.233.249.144:80?security=none&type=ws&host=MdVpnSec.xn--85-pv2cl2k5x3fipr.org.#🔒 VL-WS-NONE 🇫🇷 FR-172.233.249.144:80 📡 PING-087.42-MS
-vless://217966ac-777a-4f84-b7e4-5aa0857e8918@37.157.255.84:65000?security=tls&sni=a.mgtoken.net&type=ws&path=/#🔒 VL-WS-TLS 🇩🇪 DE-37.157.255.84:65000 📡 PING-087.42-MS
 vless://ef841aa9-f1ea-4544-ad38-457d108cf1fb@128.199.56.180:1400?security=none&type=grpc#🔒 VL-GRPC-NONE 🇳🇱 NL-128.199.56.180:1400 📡 PING-087.48-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@38.180.18.207:8443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇧🇪 BE-38.180.18.207:8443 📡 PING-087.90-MS
 vless://770c9e92-f51b-3e52-b932-eba13fb56801@8.211.2.236:31271?security=tls&sni=s410.okggback.top&type=grpc&serviceName=16f4de09&fp=ios#🔒 VL-GRPC-TLS 🇩🇪 DE-8.211.2.236:31271 📡 PING-088.33-MS
@@ -604,3 +602,5 @@ vless://6054013b-f246-448c-aba7-a9dc6d176a8c@172.66.44.109:443?security=tls&sni=
 vless://ffffffff-17ad-45e7-aaa1-f2baaa08e930@162.159.7.226:443?security=tls&sni=watashi.free.jppublic.moh539.link&type=ws&host=watashi.free.jppublic.moh539.link&path=Path%2FTelegram%40SiNABiGO%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.7.226:443 📡 PING-005.28-MS
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@216.116.134.43:2053?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-216.116.134.43:2053 📡 PING-005.28-MS
 vless://93688d6e-1776-4018-a303-005fae3a9e4d@104.27.30.91:8080?security=none&type=ws&host=a.cloud.%E7%A7%91%E6%96%AF%E6%B6%85%E6%BF%BE%E5%99%A8-hp-ab17gsb97653bi54y11ikgdenjsth48gv.ClOUdclOUd.OnFlAshDrive.APP.&path=%3Fed%3D2053#🔒 VL-WS-NONE 🏴‍☠️ NA-104.27.30.91:8080 📡 PING-005.28-MS
+vless://a0bd15ab-577a-47ea-940c-741319e89069@162.159.136.234:2096?security=tls&sni=re7.v2logy.xyz&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.136.234:2096 📡 PING-005.28-MS
+vless://aa2dc840-be38-4b4d-a002-ba234999fd55@172.64.84.90:8080?type=ws&host=cdn-allxn--b6gaceuorg.l4o117en.workers.dev&path=/#🔒 VL-WS-NA 🇺🇸 US-172.64.84.90:8080 📡 PING-005.28-MS
