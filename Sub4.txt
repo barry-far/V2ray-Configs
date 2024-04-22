@@ -4,10 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://70d636a2-9b96-4b20-b749-969e5e3bd503@193.187.175.151:2087?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇫🇷 FR-193.187.175.151:2087 📡 PING-081.83-MS
-vless://1864cc59-416a-4f5c-a378-9cff18446d1e@185.234.64.35:443?security=tls&flow=xtls-rprx-vision&sni=fr1.x2fast.net&type=tcp&fp=chrome&allowInsecure=1#🔒 VL-TCP-TLS 🇫🇷 FR-185.234.64.35:443 📡 PING-082.14-MS
-vless://10f20ade-be35-4cb2-d902-a44a23415a0f@199.247.12.189:55692?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇫🇷 FR-199.247.12.189:55692 📡 PING-082.20-MS
-vless://7d70bc41-7a14-42f2-96e8-9686c7444f6b@188.119.112.242:2003?security=tls&sni=nl-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇳🇱 NL-188.119.112.242:2003 📡 PING-082.29-MS
 vless://f3c85554-d957-4108-bf7e-a644ce7bc9d5@45.140.167.94:443?security=tls&flow=xtls-rprx-vision&sni=Join-M-buy-In-Telegram.pages.dev&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇬🇧 GB-45.140.167.94:443 📡 PING-082.30-MS
 vless://a182932d-7b23-4a03-8b84-b4e7f39ee8d7@132.226.210.116:443?security=tls&flow=xtls-rprx-vision&sni=767w1-38dc0-9icf2.xn--4gq62f52gppi29k.com&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇬🇧 GB-132.226.210.116:443 📡 PING-082.79-MS
 vless://19e84929-f022-406a-ae78-7d0a11c0dd14@141.94.115.231:2003?security=tls&sni=fr-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇫🇷 FR-141.94.115.231:2003 📡 PING-083.09-MS
@@ -604,3 +600,7 @@ vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@89.116.161.250:8443?security=tls&sn
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.18.250.103:80?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🇨🇭 CH-185.18.250.103:80 📡 PING-001.72-MS
 vless://48a5617c-d778-4927-8437-6939ffe9aa9c@172.67.171.98:443?security=tls&sni=is2-vless.sshmax.xyz&type=ws&host=is2-vless.sshmax.xyz&path=/vless#🔒 VL-WS-TLS 🇺🇸 US-172.67.171.98:443 📡 PING-001.72-MS
 vless://6054013b-f246-448c-aba7-a9dc6d176a8c@172.66.44.109:443?security=tls&sni=join-telegram-disvpn-channel.pages.dev&type=ws&host=join-telegram-disvpn-channel.pages.dev&path=%2FTelegram%3A+%40DisVpn%2CTelegram%3A+%40DisVpn%2CTelegram%3A+%40DisVpn%2CTelegram%3A+%40DisVpn&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.66.44.109:443 📡 PING-001.71-MS
+vless://11d7b37e-5efd-45a8-bb19-2dabe016cfcf@185.146.173.59:443?security=tls&sni=joinFREV2RAY.Houselife.IR&type=grpc&serviceName=%40frev2ray%2C%40frev2ray&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.59:443 📡 PING-001.71-MS
+vless://43a754b1-f207-48a7-88a0-d420761598aa@104.21.70.184:443?security=tls&sni=trv2rat-cd.iraniposhal.ir&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.70.184:443 📡 PING-001.71-MS
+vless://47be52ef-4a25-4ef4-8ec2-dd6674385784@172.67.204.84:80?security=none&type=ws&host=ShhProxyFreViP.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9185.org.&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.204.84:80 📡 PING-001.71-MS
+vless://9e2593c3-2087-4e40-ae96-26866f9ca6cb@162.159.136.232:80?security=none&type=ws&host=zula.ir.www.speedtest.net.xn--84-pv2cvta065cac9302fea377a148g.Store.&path=%2Ftelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.136.232:80 📡 PING-001.71-MS
