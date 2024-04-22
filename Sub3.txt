@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.242.133.165:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇮
 vmess://eyJhZGQiOiAiMTA0LjE5LjI1LjIyMyIsICJhaWQiOiAiMCIsICJhbHBuIjogImgyLGh0dHAvMS4xIiwgImZwIjogInJhbmRvbSIsICJob3N0IjogIiIsICJpZCI6ICJjOGM2ZDcxMS1lZWJmLTQ5ZTYtYTU5YS02MzIzODVlNTM2OTYiLCAibmV0IjogImdycGMiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI4NDQzIiwgInBzIjogIkBIb3BlX05ldC1qb2luLXVzLW9uLVRlbGVncmFtIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJkbDIucGFyaGFtdHJhYmVydGhvcy5pciIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiZ3VuIiwgInYiOiAiMiJ9
 vmess://eyJhZGQiOiAiMTU1LjEzOC4yNDIuMjA3IiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICI2Nzc5N2M2YS1lODk4LTQ5YmQtOGY2MS01ZmIxNTIzY2UwYmQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogNTQzMTYsICJwcyI6ICJASG9wZV9OZXQtam9pbi11cy1vbi1UZWxlZ3JhbSIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byJ9
 vmess://eyJhZGQiOiAiNDUuNTguMTc0LjE0MiIsICJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAicG9ydCI6IDMwMDAwLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgImFpZCI6ICI2NCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ3d3cuNzg0Njk5NTUueHl6IiwgInBhdGgiOiAiL3BhdGgvMjAzMTEzMTgyNTI5IiwgInRscyI6ICJ0bHMifQ==
@@ -603,4 +604,3 @@ vless://a182932d-7b23-4a03-8b84-b4e7f39ee8d7@141.145.200.125:443?security=tls&fl
 vless://19e84929-f022-406a-ae78-7d0a11c0dd14@141.94.115.231:2003?security=tls&sni=fr-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇫🇷 FR-141.94.115.231:2003 📡 PING-100.33-MS
 vless://10f20ade-be35-4cb2-d902-a44a23415a0f@199.247.12.189:55692?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇫🇷 FR-199.247.12.189:55692 📡 PING-100.96-MS
 vless://1864cc59-416a-4f5c-a378-9cff18446d1e@185.234.64.35:443?security=tls&flow=xtls-rprx-vision&sni=fr1.x2fast.net&type=tcp&fp=chrome&allowInsecure=1#🔒 VL-TCP-TLS 🇫🇷 FR-185.234.64.35:443 📡 PING-101.77-MS
-vless://7d70bc41-7a14-42f2-96e8-9686c7444f6b@188.119.112.242:2003?security=tls&sni=nl-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇳🇱 NL-188.119.112.242:2003 📡 PING-101.85-MS

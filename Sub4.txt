@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://7d70bc41-7a14-42f2-96e8-9686c7444f6b@188.119.112.242:2003?security=tls&sni=nl-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇳🇱 NL-188.119.112.242:2003 📡 PING-101.85-MS
 vless://a182932d-7b23-4a03-8b84-b4e7f39ee8d7@158.101.195.118:443?security=tls&flow=xtls-rprx-vision&sni=b295-23nl29-6bh.xn--4gq62f52gppi29k.com&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇳🇱 NL-158.101.195.118:443 📡 PING-101.92-MS
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.78.172:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇫🇷 FR-15.237.78.172:22222 📡 PING-102.02-MS
 vless://70d636a2-9b96-4b20-b749-969e5e3bd503@193.187.175.151:2087?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇫🇷 FR-193.187.175.151:2087 📡 PING-102.24-MS
@@ -603,4 +604,3 @@ vless://ff3c4db3-2259-479e-a0e0-7af7d1d429db@104.21.40.63:443?security=tls&sni=s
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.238.228.109:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇪🇸 ES-185.238.228.109:443 📡 PING-002.32-MS
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.46:8443?security=tls&sni=a.ssll.gay&type=ws&path=telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai_8%2F%3Fed#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.46:8443 📡 PING-002.32-MS
 vless://7e29f2e2-e0ec-47c5-94ec-38ef90f7a106@172.67.180.238:8443?security=tls&sni=folani.iiipok.wORKErS.DEv&type=ws&host=folani.iiipok.wORKErS.DEv&path=%2Fguq22.oXNETwORKs.lInk%3A8443%2Fvless-ws%2F%3Fed%3D2048&fp=random&alpn=http%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-172.67.180.238:8443 📡 PING-002.32-MS
-vless://d672ec4f-afba-4f61-af09-eec872f97e99@23.227.60.7:443?security=tls&sni=test43.pages.dev&type=ws&host=test43.pages.dev&path=%2F#🔒 VL-WS-TLS 🇨🇦 CA-23.227.60.7:443 📡 PING-002.32-MS
