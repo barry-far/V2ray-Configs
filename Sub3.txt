@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://7b9f4ae9-ae9b-4078-8da9-8bfab43e2be1@104.16.28.165:2087?mode=gun&security=tls&encryption=none&authority=&fp=firefox&type=grpc&serviceName=%40ViraV2ray%2C%40ViraPN%2C%40ViraV2ray%2C%40ViraPN%2C%40ViraV2ray%2C%40ViraPN%2C%40ViraV2ray%2C%40ViraPN%2C%40ViraV2ray%2C%40ViraPN&sni=vira-v2-3be7883659a1d2ba4c545dfdf85b61eda1.asiatechnicalwest.ir.#%F0%9F%9F%A3%F0%9F%94%A5+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%B3%D8%B1%D9%88%D8%B1+%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C+%D8%A8%D8%A7+%D8%B3%D8%B1%D8%B9%D8%AA+%D8%A8%D8%A7%D9%84%D8%A7+%D8%AA%D8%B6%D9%85%DB%8C%D9%86%DB%8C+%40Outlinev_2rayNG
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.246.166.188:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇮
 vless://392a24d2-b87c-498e-a97a-51f3027f05c6@tomat.minusober.com:443?path=%2Ftomat&security=tls&encryption=none&type=ws&sni=tomat.minusober.com#Join+%40V2rayNGn
 vless://c0197135-3415-45ad-992f-870f36d3c9b2@psychologist.aurorainiceland.com:443?path=%2Fnimws&security=tls&encryption=none&type=ws&sni=psychologist.aurorainiceland.com#Join+%40V2rayNGn
@@ -604,3 +603,4 @@ vless://10f20ade-be35-4cb2-d902-a44a23415a0f@199.247.12.189:55692?security=none&
 vless://2f024052-9128-4d8e-944c-124ae738c0d7@198.244.190.189:2003?security=tls&sni=uk-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇬🇧 GB-198.244.190.189:2003 📡 PING-080.44-MS
 vless://70d636a2-9b96-4b20-b749-969e5e3bd503@193.187.175.151:2087?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇫🇷 FR-193.187.175.151:2087 📡 PING-080.62-MS
 vless://018524b2-c20b-4eaa-976a-27d2d2fe3bbb@54.38.79.80:443?security=tls&sni=api.bolagskontaktstockholm.se&type=tcp#🔒 VL-TCP-TLS 🇬🇧 GB-54.38.79.80:443 📡 PING-080.71-MS
+vless://2f024052-9128-4d8e-944c-124ae738c0d7@198.244.190.189:443?security=tls&sni=uk-full.privateip.net&type=ws&path=%2FVLESS#🔒 VL-WS-TLS 🇬🇧 GB-198.244.190.189:443 📡 PING-080.80-MS
