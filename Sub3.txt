@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://66dfb5f2-1c63-4d82-94a7-0915bedd93b9@knocked.aurorainiceland.com:443?path=%2Fnimws&security=tls&encryption=none&type=ws&sni=knocked.aurorainiceland.com#Join+%40V2rayNGn
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.242.133.165:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇮
 vmess://eyJhZGQiOiAiMTA0LjE5LjI1LjIyMyIsICJhaWQiOiAiMCIsICJhbHBuIjogImgyLGh0dHAvMS4xIiwgImZwIjogInJhbmRvbSIsICJob3N0IjogIiIsICJpZCI6ICJjOGM2ZDcxMS1lZWJmLTQ5ZTYtYTU5YS02MzIzODVlNTM2OTYiLCAibmV0IjogImdycGMiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI4NDQzIiwgInBzIjogIkBIb3BlX05ldC1qb2luLXVzLW9uLVRlbGVncmFtIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJkbDIucGFyaGFtdHJhYmVydGhvcy5pciIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiZ3VuIiwgInYiOiAiMiJ9
 vmess://eyJhZGQiOiAiMTU1LjEzOC4yNDIuMjA3IiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICI2Nzc5N2M2YS1lODk4LTQ5YmQtOGY2MS01ZmIxNTIzY2UwYmQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogNTQzMTYsICJwcyI6ICJASG9wZV9OZXQtam9pbi11cy1vbi1UZWxlZ3JhbSIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byJ9
 vmess://eyJhZGQiOiAiNDUuNTguMTc0LjE0MiIsICJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAicG9ydCI6IDMwMDAwLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgImFpZCI6ICI2NCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ3d3cuNzg0Njk5NTUueHl6IiwgInBhdGgiOiAiL3BhdGgvMjAzMTEzMTgyNTI5IiwgInRscyI6ICJ0bHMifQ==
@@ -604,3 +602,5 @@ vless://70d636a2-9b96-4b20-b749-969e5e3bd503@193.187.175.151:2087?security=none&
 vless://1864cc59-416a-4f5c-a378-9cff18446d1e@185.234.64.35:443?security=tls&flow=xtls-rprx-vision&sni=fr1.x2fast.net&type=tcp&fp=chrome&allowInsecure=1#🔒 VL-TCP-TLS 🇫🇷 FR-185.234.64.35:443 📡 PING-082.14-MS
 vless://10f20ade-be35-4cb2-d902-a44a23415a0f@199.247.12.189:55692?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇫🇷 FR-199.247.12.189:55692 📡 PING-082.20-MS
 vless://7d70bc41-7a14-42f2-96e8-9686c7444f6b@188.119.112.242:2003?security=tls&sni=nl-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇳🇱 NL-188.119.112.242:2003 📡 PING-082.29-MS
+vless://f3c85554-d957-4108-bf7e-a644ce7bc9d5@45.140.167.94:443?security=tls&flow=xtls-rprx-vision&sni=Join-M-buy-In-Telegram.pages.dev&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇬🇧 GB-45.140.167.94:443 📡 PING-082.30-MS
+vless://a182932d-7b23-4a03-8b84-b4e7f39ee8d7@132.226.210.116:443?security=tls&flow=xtls-rprx-vision&sni=767w1-38dc0-9icf2.xn--4gq62f52gppi29k.com&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇬🇧 GB-132.226.210.116:443 📡 PING-082.79-MS
