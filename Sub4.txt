@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://a182932d-7b23-4a03-8b84-b4e7f39ee8d7@143.47.236.28:443?security=tls&flow=xtls-rprx-vision&sni=767w1-38dc0-9kcf2.xn--4gq62f52gppi29k.com&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇬🇧 GB-143.47.236.28:443 📡 PING-081.95-MS
+vless://10f20ade-be35-4cb2-d902-a44a23415a0f@199.247.12.189:55692?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇫🇷 FR-199.247.12.189:55692 📡 PING-081.96-MS
 vless://70d636a2-9b96-4b20-b749-969e5e3bd503@193.187.175.151:2087?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇫🇷 FR-193.187.175.151:2087 📡 PING-082.32-MS
 vless://fcea439c-dda2-4d6a-9764-e32557f04f4a@142.93.226.128:443?security=tls&sni=nl2-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇳🇱 NL-142.93.226.128:443 📡 PING-082.64-MS
 vless://19e84929-f022-406a-ae78-7d0a11c0dd14@141.94.115.231:443?security=tls&sni=fr-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇫🇷 FR-141.94.115.231:443 📡 PING-082.76-MS
@@ -602,5 +604,3 @@ vless://4045c6b7-1d53-4574-98cd-df21db40b0dc@104.16.61.8:2053?security=tls&sni=i
 vless://b5a28ab5-19c7-48ef-b034-4b85f54ff903@190.93.246.225:2087?security=tls&sni=mainv2ray79.mralpha-vpn.com&type=grpc&serviceName=%40thunderv2ray%2C%40thunderv2ray%2C%40thunderv2ray%2C%40thunderv2ray%2C%40thunderv2ray%2C%40thunderv2ray%2C%40thunderv2ray%2C%40thunderv2ray%2C%40thunderv2ray%2C%40thunderv2ray&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇨🇷 CR-190.93.246.225:2087 📡 PING-001.59-MS
 vless://f5a78514-1a94-486e-92a7-3bc9817095a6@172.67.180.238:443?security=tls&sni=folani.iiipok.WoRkeRs.dev&type=ws&host=folani.iiipok.WoRkeRs.dev&path=%2Fnitriding.appreviewcenter.com%3A443%2Fnimws&fp=random&alpn=h2#🔒 VL-WS-TLS 🇺🇸 US-172.67.180.238:443 📡 PING-001.59-MS
 vless://f0f67b84-2770-4413-8b26-cfb302fac247@172.67.158.108:443?security=tls&sni=v2fly.milik-fukada.eu.org&type=ws&host=v2fly.milik-fukada.eu.org&path=%2F@vano_ganzzz#🔒 VL-WS-TLS 🇺🇸 US-172.67.158.108:443 📡 PING-001.59-MS
-vless://7e29f2e2-e0ec-47c5-94ec-38ef90f7a106@104.24.0.11:443?security=tls&sni=whmm.meRlINNz.LiNK&type=ws&host=whmm.meRlINNz.LiNK&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.0.11:443 📡 PING-001.59-MS
-vless://4b1d9f3a-6cdf-49e8-929b-5e5cedae5d31@172.67.131.240:443?security=tls&sni=freedom15.maber99212.workers.dev&type=ws&host=freedom15.maber99212.workers.dev&path=%2F&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-172.67.131.240:443 📡 PING-001.59-MS
