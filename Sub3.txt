@@ -4,6 +4,9 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@bypassfilter.test-fad.workers.dev:443?path=%2Fvless-ws%2F%3Fed&security=tls&encryption=none&type=ws&sni=bypassfilter.test-fad.workers.dev#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
+vless://650e4a4c-9c2c-4f09-9b91-3a6ab1337ab4@185.146.173.59:80?path=%2F%3Fed%3D2053&security=none&encryption=none&host=%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7nababbiabrimto.kholochel.shop.&type=ws#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
+vless://3ee62aac-4874-4399-aa52-3f0bd71f67bf@iranserver.com:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&type=grpc&serviceName=&sni=ab.pingpong.na.am#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
 vless://c2ec17cc-e5a9-4f4a-88dc-496e3215dbab@www.speedtest.net.cdn.cloudflare.net:443?path=%2F%40my_proxii%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=saLaM-Word.PaGeS.Dev.&fp=randomized&type=ws&sni=sALAm-wOrD.pagEs.deV.#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
 vless://e0e98e56-57e2-44a5-b79d-1d84fee416ae@185.146.173.59:8080/?type=ws&encryption=none&host=xn--047h.iman-v2ray.sbs.&path=%2F#%F0%9F%85%B0%EF%B8%8F22%40oneclickvpnkeys
 vmess://eyJhZGQiOiJjZmNkbjIuc2FuZmVuY2RuOS5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImpwYWZ6eWhmc2czLnlvZm5oa2ZjLnh5eiIsImlkIjoiYWEzODVmMzktZDc4NC00YjgwLTk3MjUtYzM5MDRhMzM3Y2Y4IiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZpZGVvL3U0ZUNaVHhXIiwicG9ydCI6IjIwNTIiLCJwcyI6IvCfhbDvuI8yNkBvbmVjbGlja3ZwbmtleXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
@@ -601,6 +604,3 @@ vless://9dda6e67-1faf-4202-bbe4-8ed2fbea7fab@185.143.234.120:2052?security=none&
 vless://81b3a81c-f098-4835-ab34-bc6560f15403@95.164.116.35:443?security=tls&sni=tr-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇹🇷 TR-95.164.116.35:443 📡 PING-136.45-MS
 vless://81b3a81c-f098-4835-ab34-bc6560f15403@95.164.116.35:2003?security=tls&sni=tr-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇹🇷 TR-95.164.116.35:2003 📡 PING-136.50-MS
 vless://9dda6e67-1faf-4202-bbe4-8ed2fbea7fab@185.143.233.120:2052?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-185.143.233.120:2052 📡 PING-136.66-MS
-vless://f0ba94cc-e08a-4c1f-a15f-56e938f9e224@94.154.33.177:19660?type=tcp&host=ftp.debian.org&path=/&headerType=http#🔒 VL-TCP-NA 🇬🇧 GB-94.154.33.177:19660 📡 PING-138.89-MS
-vless://a6fd9a0b-dd37-4c48-82a5-346ac83e26a7@47.245.32.215:8443?security=tls&sni=jdbp606-vsb.pages.dev&type=ws&host=jdbp606-vsb.pages.dev&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🇯🇵 JP-47.245.32.215:8443 📡 PING-148.50-MS
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@158.179.191.14:2083?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F#🔒 VL-WS-TLS 🇯🇵 JP-158.179.191.14:2083 📡 PING-158.33-MS
