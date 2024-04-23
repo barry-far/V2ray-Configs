@@ -4,13 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-trojan://2b38ff78-05bb-4261-895c-440950cf0dbd@210.17.253.149:42030?security=tls&sni=hkg01.service.nahidacloud.top&type=tcp#🔒 TR-TCP-TLS 🇭🇰 HK-210.17.253.149:42030 📡 PING-200.22-MS
-trojan://77b472f8-2be2-4e87-a70a-b0b509eacad4@185.81.29.230:11000?security=tls&sni=sg01.service.nahidacloud.top&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-185.81.29.230:11000 📡 PING-214.84-MS
-trojan://384b0120-033d-487a-b855-a107ab53ffb4@206.189.153.51:30018?sni=sg04.freeflyingcloud.xyz#🔒 TR-TCP-NA 🇸🇬 SG-206.189.153.51:30018 📡 PING-215.99-MS
-trojan://I4bO2YDEgs@188.166.252.91:443?security=tls&sni=aka.ms&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 TR-TCP-TLS 🇸🇬 SG-188.166.252.91:443 📡 PING-216.60-MS
-trojan://55X9v3np3p@68.183.180.244:36889?security=tls&sni=android.googleapis.com&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-68.183.180.244:36889 📡 PING-219.36-MS
-trojan://pZcSv5ZghV@139.59.121.249:443?security=tls&sni=store.steampowered.com&type=tcp&alpn=h2%2Chttp%2F1.1#🔒 TR-TCP-TLS 🇸🇬 SG-139.59.121.249:443 📡 PING-219.99-MS
-trojan://GToK9gzuwh@146.190.84.34:443?security=tls&sni=aka.ms&type=ws&path=%2F&alpn=h2,http/1.1#🔒 TR-WS-TLS 🇸🇬 SG-146.190.84.34:443 📡 PING-220.30-MS
 trojan://b3965d2d-3b82-45cc-927b-1336aca3f3fe@139.162.49.215:443?#🔒 TR-TCP-NA 🇸🇬 SG-139.162.49.215:443 📡 PING-221.22-MS
 trojan://95e6c424-230d-4e48-94ea-3fa0c90a29f3@139.162.39.206:443?#🔒 TR-TCP-NA 🇸🇬 SG-139.162.39.206:443 📡 PING-225.99-MS
 trojan://5a92d674-308c-4d95-b283-28383e63a59b@103.9.77.6:443?#🔒 TR-TCP-NA 🇻🇳 VN-103.9.77.6:443 📡 PING-227.08-MS
@@ -604,3 +597,10 @@ ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.16:5500#%F0%9F%87%BA%F0%
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7Plub/kuJwiLCJhZGQiOiIxODMuMjM3LjIwLjE1OCIsInBvcnQiOiI0MTI0MiIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiNjQiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiLwn4eo8J+Hs+W5v+S4nCJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTkiLCJhZGQiOiIxMDQuMTkuMjExLjE0IiwicG9ydCI6IjIwNTIiLCJpZCI6ImFhMzg1ZjM5LWQ3ODQtNGI4MC05NzI1LWMzOTA0YTMzN2NmOCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6ImpwYWZ6eWhmc2czLnlvZm5oa2ZjLnh5eiIsInBhdGgiOiIvdmlkZW8vdTRlQ1pUeFciLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiJVU+e+juWbvTkifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7dGUuazleWbvSIsImFkZCI6IjE5NC41LjU0LjE1MiIsInBvcnQiOiI1NTczNSIsImlkIjoiMjA3MDYwNzQtN2I1Ni00MDYyLWI4OTgtYjA3NjgzN2JmZDYzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsImhvc3QiOiJmYXN0LmNvbSIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiRlLms5Xlm70ifQ==
+trojan://TZCuZccM3ZO9@3.39.229.31:16860?sni=appsvs.shop#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD10
+trojan://tmVsD0FfDLxB@54.238.192.24:16876?sni=appsvs.shop#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC2
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@15.204.87.217:5600#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD11%20120.8KB%2Fs
+trojan://0yDc62ZaVArX@13.212.233.105:16864?sni=appsvs.shop#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.20:5500#%F0%9F%87%BA%F0%9F%87%B8US%E5%8C%97%E7%BE%8E7%201.9MB%2Fs
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.20:8119#%F0%9F%87%BA%F0%9F%87%B8US%E5%8C%97%E7%BE%8E8%201.9MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
