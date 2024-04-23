@@ -4,6 +4,14 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+trojan://telegram-id-privatevpns@3.65.247.99:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.65.247.99:22222 📡 PING-093.12-MS
+trojan://your_password@54.93.172.88:443?security=tls&sni=aws-ge-frankfurt-1.f1rocketnode.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇩🇪 DE-54.93.172.88:443 📡 PING-093.21-MS
+trojan://3fe743fd-0eb4-4123-a700-a552be74af63@51.75.77.237:443?#🔒 TR-TCP-NA 🇩🇪 DE-51.75.77.237:443 📡 PING-093.46-MS
+trojan://ecc532e2-3f8b-4a30-b176-78951fda6542@129.152.10.46:48102?security=tls&sni=it01.freeflyingcloud.xyz&type=tcp#🔒 TR-TCP-TLS 🇮🇹 IT-129.152.10.46:48102 📡 PING-098.19-MS
+trojan://wkmY1R4EcP@70.34.205.1:443?security=tls&sni=myket.ir&type=tcp#🔒 TR-TCP-TLS 🇸🇪 SE-70.34.205.1:443 📡 PING-111.59-MS
+trojan://telegram-id-directvpn@13.51.58.127:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.51.58.127:22222 📡 PING-111.65-MS
+trojan://telegram-id-privatevpns@13.48.180.189:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.48.180.189:22222 📡 PING-113.10-MS
+trojan://telegram-id-privatevpns@51.20.169.150:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-51.20.169.150:22222 📡 PING-114.50-MS
 trojan://telegram-id-privatevpns@13.50.133.139:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.50.133.139:22222 📡 PING-114.63-MS
 trojan://18b7cc9b-28d6-4649-8484-b90bad7ccc0e@95.164.116.35:443?#🔒 TR-TCP-NA 🇹🇷 TR-95.164.116.35:443 📡 PING-118.53-MS
 trojan://159c73fa-a1f9-409e-8375-73c58917425d@195.123.213.46:443?#🔒 TR-TCP-NA 🇱🇻 LV-195.123.213.46:443 📡 PING-119.80-MS
@@ -596,11 +604,3 @@ vmess://ewogICAgImFkZCI6ICIxMDQuMjEuMTUuMjEyIiwKICAgICJhaWQiOiAwLAogICAgImhvc3Qi
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@156.146.38.163:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.163-0624
 vmess://ewogICAgImFkZCI6ICIxMDQuMjEuODMuMTA4IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiaG1zMDIuZnhpYW9taS5zYnMiLAogICAgImlkIjogIjZjMTY4ZmNjLTIyMzEtNGYzYi04YzFlLWY2MzkxNjkyZGY0YSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9saW5rIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfj4FSRUxBWS0xMDQuMjEuODMuMTA4LTAxMTUiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJobXMwMi5meGlhb21pLnNicyIKfQ==
 vmess://ewogICAgImFkZCI6ICJobXMwODIuZ3dkZWYuc2JzIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiZ3dkZWYuc2JzIiwKICAgICJpZCI6ICJiYzg2NDA3OC1kY2YzLTRiZjQtOGRiZi1jYTlmMjAwYjU2YmUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvbGlua3dzIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfj4FSRUxBWS0xMDQuMjEuNTUuMjM0LTAyMDMiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJnd2RlZi5zYnMiCn0=
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@156.146.38.163:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.163-0286
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5QnZrdzVhdXBOeTg=@205.134.180.147:443#%F0%9F%87%BA%F0%9F%87%B8US-205.134.180.147-0726
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoZ0xDZ2ZMUmdCNmQ=@205.134.180.145:443#%F0%9F%87%BA%F0%9F%87%B8US-205.134.180.145-2409
-trojan://xxoo@us.blazeppn.info:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-138.197.5.103-0637
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZmJlYjY2OGY0ODQxNGY2@104.167.197.23:57456#%F0%9F%87%BA%F0%9F%87%B8US-104.167.197.23-0662
-vmess://ewogICAgImFkZCI6ICJtYXJ0aW5hLnF1ZXN0IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAibWFydGluYS5xdWVzdCIsCiAgICAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2xpbmt2d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTE3Mi42Ny4xOTUuMTI1LTAxOTMiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y3A5WjNpV25KWjI=@205.134.180.151:443#%F0%9F%87%BA%F0%9F%87%B8US-205.134.180.151-0725
-vmess://ewogICAgImFkZCI6ICIxNTUuMTM4LjI0Mi4yMDciLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjgxZjQwYzJjLWUzZTgtNGUwYS1jYjUxLTMzZGIyNWUyMGI5NyIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4e68J+HuFVTLTE1NS4xMzguMjQyLjIwNy0wNjI2IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
