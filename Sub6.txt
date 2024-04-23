@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://9eed4ef6-fd5e-40d5-8f2c-4e90c92011ca@162.159.134.234:2083?security=tls&sni=re2.v2logy.xyz&type=grpc&fp=safari&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.134.234:2083 📡 PING-000.85-MS
 vless://b4990088-8b67-4d07-8313-3d0c2adc0f12@162.159.137.232:443?security=tls&sni=dashcloudflare.bluev2rayng.cfd&type=ws&host=dashcloudflare.bluev2rayng.cfd&path=%2Fgra#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.137.232:443 📡 PING-000.85-MS
 vless://b97cdd0e-bba9-4391-b265-b72f80b670db@104.21.90.218:2052?type=ws&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.90.218:2052 📡 PING-000.85-MS
 vless://a969a23c-7878-41c5-9d50-403f2d6604e2@104.18.154.42:8880?security=none&type=ws&host=dl3.%E4%BD%A0%E8%AE%93%E9%80%99%E5%80%8B%E5%9F%8E%E5%B8%82%E5%A4%B1%E6%95%97%E4%BA%86.tech.&path=%2Fdaily_configs%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.154.42:8880 📡 PING-000.85-MS
@@ -603,4 +604,3 @@ trojan://f0c910c3-d157-48a6-815c-b12fed163f12@152.67.217.187:443?security=tls&sn
 trojan://6e0ad609-d828-4674-af4d-125ca947dbcc@111.243.5.125:5001?sni=global.download.synology.com#🔒 TR-TCP-NA 🇹🇼 TW-111.243.5.125:5001 📡 PING-198.68-MS
 trojan://a78eae54-0506-42d0-b49f-f19e365ade7f@95.164.114.43:443?#🔒 TR-TCP-NA 🇰🇿 KZ-95.164.114.43:443 📡 PING-205.73-MS
 trojan://2b38ff78-05bb-4261-895c-440950cf0dbd@210.17.253.149:42030?security=tls&sni=hkg01.service.nahidacloud.top&type=tcp#🔒 TR-TCP-TLS 🇭🇰 HK-210.17.253.149:42030 📡 PING-208.30-MS
-trojan://b3965d2d-3b82-45cc-927b-1336aca3f3fe@139.162.49.215:443?#🔒 TR-TCP-NA 🇸🇬 SG-139.162.49.215:443 📡 PING-219.22-MS
