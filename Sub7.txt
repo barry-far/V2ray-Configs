@@ -4,14 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-trojan://huge123456@131.186.21.135:60954?security=tls&sni=h.iveze.com&type=tcp#🔒 TR-TCP-TLS 🇰🇷 KR-131.186.21.135:60954 📡 PING-170.88-MS
-trojan://f0c910c3-d157-48a6-815c-b12fed163f12@152.67.217.187:443?security=tls&sni=59amd2.1365365.xyz&type=tcp#🔒 TR-TCP-TLS 🇰🇷 KR-152.67.217.187:443 📡 PING-170.94-MS
-trojan://6e0ad609-d828-4674-af4d-125ca947dbcc@111.243.5.125:5001?sni=global.download.synology.com#🔒 TR-TCP-NA 🇹🇼 TW-111.243.5.125:5001 📡 PING-174.65-MS
-trojan://2b38ff78-05bb-4261-895c-440950cf0dbd@210.17.253.149:42030?security=tls&sni=hkg01.service.nahidacloud.top&type=tcp#🔒 TR-TCP-TLS 🇭🇰 HK-210.17.253.149:42030 📡 PING-204.29-MS
-trojan://384b0120-033d-487a-b855-a107ab53ffb4@206.189.153.51:30018?sni=sg04.freeflyingcloud.xyz#🔒 TR-TCP-NA 🇸🇬 SG-206.189.153.51:30018 📡 PING-207.37-MS
-trojan://55X9v3np3p@68.183.180.244:36889?security=tls&sni=android.googleapis.com&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-68.183.180.244:36889 📡 PING-209.01-MS
-trojan://b3965d2d-3b82-45cc-927b-1336aca3f3fe@139.162.49.215:443?#🔒 TR-TCP-NA 🇸🇬 SG-139.162.49.215:443 📡 PING-209.58-MS
-trojan://I4bO2YDEgs@188.166.252.91:443?security=tls&sni=aka.ms&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 TR-TCP-TLS 🇸🇬 SG-188.166.252.91:443 📡 PING-211.60-MS
 trojan://77b472f8-2be2-4e87-a70a-b0b509eacad4@185.81.29.230:11000?security=tls&sni=sg01.service.nahidacloud.top&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-185.81.29.230:11000 📡 PING-213.93-MS
 trojan://pZcSv5ZghV@139.59.121.249:443?security=tls&sni=store.steampowered.com&type=tcp&alpn=h2%2Chttp%2F1.1#🔒 TR-TCP-TLS 🇸🇬 SG-139.59.121.249:443 📡 PING-214.18-MS
 trojan://bk66mF7qWn@51.79.146.159:2053?security=tls&sni=cloud.sooshiant.link&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3#🔒 TR-GRPC-TLS 🇸🇬 SG-51.79.146.159:2053 📡 PING-214.89-MS
@@ -604,3 +596,11 @@ ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.40.39:2376#%F0%9F%87%BA%F0%9F%8
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.39:5601#%F0%9F%87%BA%F0%9F%87%B8US%E5%8C%97%E7%BE%8E19%201.7MB%2Fs
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.157.40.6:5499#%F0%9F%87%BA%F0%9F%87%B8US%E5%8C%97%E7%BE%8E20%201.6MB%2Fs
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.26:8119#%F0%9F%87%BA%F0%9F%87%B8US%E5%8C%97%E7%BE%8E21%201.7MB%2Fs
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTIxIiwiYWRkIjoiMTUxLjEwMS4zLjEwIiwicG9ydCI6IjgwIiwiaWQiOiJkMzlhMzQ3YS0wMGM5LTRmOTEtOTI1NS03ZjUzNmMwN2M1YTgiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0Ijoibm1zbC5rcCIsInBhdGgiOiIvYXJpZXM/ZWQ9MjU2MCIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IlVT576O5Zu9MjEifQ==
+
+ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%BA%E5%9C%BA%3Ahttps%3A%2F%2Fkfyun.uk
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjEwNC4xOS40MC45OSIsICJwb3J0IjogIjg4ODAiLCAiaWQiOiAiNTdlMGNiNGQtZWFlNS00OGVjLTgwOTEtMTQ5ZGMyYjMwOWUwIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJ1ay5tb3NzLm5ldHdvcmsiLCAicGF0aCI6ICIvZC82NWRkNTAzLlRHLldhbmdDYWkyLldhbmdDYWlfODoxMDc2OTAiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIn0=
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.157.40.29:5004#%E5%8C%97%E7%BE%8E%E5%9C%B0%E5%8C%BA%2Bv2rayfree.eu.org
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.16:5500#%E5%8C%97%E7%BE%8E%E5%9C%B0%E5%8C%BA%2Bv2rayfree.eu.org
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.44:8090#%E5%8C%97%E7%BE%8E%E5%9C%B0%E5%8C%BA%2Bv2rayfree.eu.org
+vmess://eyJhZGQiOiAiMjAyLjc4LjE2Mi41IiwgImFpZCI6IDAsICJob3N0IjogInBlbmRhci5vbnRoZXdpZmkuY29tIiwgImlkIjogIjcxNmVkZWQ2LTIyMDEtNGRiZC05ZDYzLTE2MzhjOWU4ZTY3NyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvQGZvcndhcmR2MnJheSIsICJwb3J0IjogNDQzLCAicHMiOiAiXHU1MzcwXHU1ZWE2IHYycmF5ZnJlZS5ldS5vcmciLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
