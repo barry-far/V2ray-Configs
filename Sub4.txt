@@ -4,12 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://efa7b558-254d-4107-ba54-c50fcd10606e@95.164.68.37:443?security=tls&sni=de1.x2fast.net&type=ws&host=de1.x2fast.net&path=%2Fws&fp=chrome#🔒 VL-WS-TLS 🇩🇪 DE-95.164.68.37:443 📡 PING-114.07-MS
-vless://070e7068-223b-43e8-84ca-8f47a6f3f12a@46.226.163.253:123?security=none&type=tcp#🔒 VL-TCP-NONE 🇬🇧 GB-46.226.163.253:123 📡 PING-118.98-MS
-vless://c64bae07-84c8-44bb-ac75-f2514fb4fb80@46.226.163.253:100?security=none&type=tcp#🔒 VL-TCP-NONE 🇬🇧 GB-46.226.163.253:100 📡 PING-119.92-MS
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.179.36.95:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇬🇧 GB-35.179.36.95:22222 📡 PING-121.02-MS
-vless://bcc32d83-46c8-49e2-a607-546b4eaa2e7f@51.120.5.108:14422?security=none&type=tcp&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇳🇴 NO-51.120.5.108:14422 📡 PING-122.06-MS
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.221.160:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.221.160:443 📡 PING-124.30-MS
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.48.231.136:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇸🇪 SE-13.48.231.136:22222 📡 PING-126.13-MS
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.170.186.153:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇸🇪 SE-16.170.186.153:22222 📡 PING-126.51-MS
 vless://200ae60c-8af8-46d7-89bc-97355273760d@95.164.46.235:443?security=tls&sni=it-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇮🇹 IT-95.164.46.235:443 📡 PING-128.47-MS
@@ -604,3 +598,9 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@193.227.99.90:443?security=tls&sni=
 vless://49312822-402c-4f1c-bb6a-0dcd6148fe84@190.93.245.245:2053?security=tls&sni=numbere.vipdef.top&type=grpc&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇺🇸 US-190.93.245.245:2053 📡 PING-002.92-MS
 vless://739aef27-7cf4-4457-839c-449e707d64ea@104.31.16.50:443?security=tls&sni=sqvsjpkqkfw5lgfvcznq.digikala.network&type=ws&host=sqvsjpkqkfw5lgfvcznq.digikala.network&path=12979%2FDigi-Atl&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.50:443 📡 PING-002.92-MS
 vless://3f842d5e-1b2a-47c6-82d2-479b47963216@185.16.110.44:8880?security=none&type=ws&host=xn---qhantayawi--a-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&path=%2F%40LIGHTNING6%2C+%40LIGHTNING6%2C+%40LIGHTNING6%2C+%40LIGHTNING6%2C%40LIGHTNING6%2C%40LIGHTNING6%2C%40LIGHTNING6%2C%40LIGHTNING6#🔒 VL-WS-NONE 🇫🇷 FR-185.16.110.44:8880 📡 PING-002.92-MS
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@167.68.11.106:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-167.68.11.106:443 📡 PING-002.91-MS
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.16.110.215:443?security=tls&sni=current.ircp.online&type=ws&host=current.ircp.online&path=%2F%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.110.215:443 📡 PING-002.91-MS
+vless://9eed4ef6-fd5e-40d5-8f2c-4e90c92011ca@162.159.136.234:2083?security=tls&sni=re2.v2logy.xyz&type=grpc&fp=safari&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.136.234:2083 📡 PING-002.89-MS
+vless://1adb37e3-c3dc-4f93-e4e5-ed6911c24177@194.53.53.66:8880?security=none&type=ws&host=DaiLy-COnFigs.%E4%BD%A0%E8%AE%93%E9%80%99%E5%80%8B%E5%9F%8E%E5%B8%82%E5%A4%B1%E6%95%97%E4%BA%86.tech.&path=%2Fdaily_configs%3Fed%3D2048#🔒 VL-WS-NONE 🇷🇺 RU-194.53.53.66:8880 📡 PING-002.89-MS
+vless://309f436f-d73e-4c16-8f93-4d257d3ba354@172.66.47.151:443?security=tls&sni=906aa9c2.joinmahdiserver-b8u.pages.dev&type=ws&host=906aa9c2.joinmahdiserver-b8u.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-172.66.47.151:443 📡 PING-002.89-MS
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.251:2053?security=tls&sni=a.ssll.gay&type=ws&path=telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai_8%2F%3Fed#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.251:2053 📡 PING-002.89-MS
