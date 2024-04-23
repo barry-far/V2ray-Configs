@@ -4,11 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://ecd404a2-70b2-4e89-8339-89536cdfae52@198.41.223.46:8080?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.223.46:8080 📡 PING-001.68-MS
-vless://f020a6cf-0ce7-47f3-88b3-d840dd8a557b@172.64.80.1:443?security=tls&sni=worker-empty-rain-c00d.raminramin006.workers.dev&type=ws&host=worker-empty-rain-c00d.raminramin006.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-172.64.80.1:443 📡 PING-001.68-MS
-vless://b5a28ab5-19c7-48ef-b034-4b85f54ff903@190.93.246.241:2087?security=tls&sni=mainv2ray79.mralpha-vpn.com&type=grpc&serviceName=%40thunderv2ray%2C%40thunderv2ray%2C%40thunderv2ray%2C%40thunderv2ray%2C%40thunderv2ray%2C%40thunderv2ray%2C%40thunderv2ray%2C%40thunderv2ray%2C%40thunderv2ray%2C%40thunderv2ray&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇨🇷 CR-190.93.246.241:2087 📡 PING-001.68-MS
-vless://66e7e060-e90e-4ded-b3d2-1fb3d4096abd@172.67.185.252:443?security=tls&sni=pPAl03-2SHAnBEH1.gREtA-haLEy.woRKERS.dev&type=ws&host=PpaL03-2SHANBeH1.grEtA-haLEy.woRkERs.dEV&path=%2FkZ9B4KWL9n41qPTQ%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-172.67.185.252:443 📡 PING-001.68-MS
-vless://46f72049-4c32-455c-af5b-d6a6c0039679@104.21.19.32:443?security=tls&sni=no1-vless.sshmax.xyz&type=ws&host=no1-vless.sshmax.xyz&path=%2Fvless#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.19.32:443 📡 PING-001.68-MS
 vless://3be9e3cf-83cd-4618-b782-1b2a9a72bbec@172.67.203.57:443?security=tls&sni=TEl-pPAL03.chayA-duRGaN.workeRs.DeV&type=ws&host=TEl-ppAL03.CHayA-DuRGAN.WoRkers.dEv&path=%2Fz0HrW-43pVRvOrQE%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-172.67.203.57:443 📡 PING-001.67-MS
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@204.93.210.160:2083?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-204.93.210.160:2083 📡 PING-001.67-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@104.19.41.94:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=TG%40ZDYZ2&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.41.94:443 📡 PING-001.67-MS
@@ -604,3 +599,8 @@ trojan://77b472f8-2be2-4e87-a70a-b0b509eacad4@185.81.29.230:11000?security=tls&s
 trojan://95e6c424-230d-4e48-94ea-3fa0c90a29f3@139.162.39.206:443?#🔒 TR-TCP-NA 🇸🇬 SG-139.162.39.206:443 📡 PING-170.38-MS
 trojan://wkmY1R4EcP@70.34.205.1:443?security=tls&sni=myket.ir&type=tcp#🔒 TR-TCP-TLS 🇸🇪 SE-70.34.205.1:443 📡 PING-171.35-MS
 trojan://telegram-id-privatevpns@51.20.214.216:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇸🇪 SE-51.20.214.216:22222 📡 PING-175.95-MS
+trojan://5a92d674-308c-4d95-b283-28383e63a59b@103.9.77.6:443?#🔒 TR-TCP-NA 🇻🇳 VN-103.9.77.6:443 📡 PING-175.98-MS
+trojan://telegram-id-privatevpns@13.50.133.139:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.50.133.139:22222 📡 PING-176.04-MS
+trojan://telegram-id-privatevpns@13.48.180.189:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.48.180.189:22222 📡 PING-176.50-MS
+trojan://telegram-id-privatevpns@51.21.5.119:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇸🇪 SE-51.21.5.119:22222 📡 PING-176.61-MS
+trojan://159c73fa-a1f9-409e-8375-73c58917425d@195.123.213.46:443?#🔒 TR-TCP-NA 🇱🇻 LV-195.123.213.46:443 📡 PING-181.34-MS
