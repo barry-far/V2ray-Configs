@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-trojan://71409d3e488548e8bb076d229778f008@198.41.220.4:443?path=%2F6b777a91&security=tls&host=jobscareerforlawyers.com&type=ws&sni=jobscareerforlawyers.com#%40V2ray1_Ng
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@154.197.75.80:8080?path=%2F&security=none&encryption=none&host=us3.rtacg.com&type=ws#%40V2ray1_Ng
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.93.233:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇫🇷trojan://telegram-id-privatevpns@15.188.221.3:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S116)🇨🇵t.me/PrivateVPNs
 vless://b95c2ad9-a6b3-46ea-a426-acb72aac3067@185.146.173.59:80?Telegram=@V2RayTz,@V2RayTz&path=%2F&security=none&encryption=none&host=shhproxyfreesas.xn--85-pv2cl2k5x3fipr.org&type=ws#%5B%E2%9D%97%EF%B8%8F%5D+%E2%9E%A0+%40V2RayTz+-+irancell+%2C+Rightel+%7C+27259`
 vless://c64e421c-5d88-46d8-850e-08e583c19a2a@[2606:4700:3031::ac43:cc54]:80?Telegram=@V2RayTz,@V2RayTz&path=%2F&security=none&encryption=none&host=ShhProxyFreViP.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9185.org.&type=ws#%5B%E2%9D%97%EF%B8%8F%5D+%E2%9E%A0+%40V2RayTz+-+IR-MCI+%2C+MKH+%7C+27260`
@@ -604,3 +602,5 @@ vless://c6c360c7-dd1d-4ad2-80bb-d24a2455b410@146.75.74.87:443?security=tls&sni=e
 vless://002585fb-6c92-45c8-8f7c-c5acc9c5e53a@46.101.95.248:443?security=tls&flow=xtls-rprx-vision&sni=uk-freevmess.privateip.net&type=tcp#🔒 VL-TCP-TLS 🇬🇧 GB-46.101.95.248:443 📡 PING-123.48-MS
 vless://e3d0bb8c-6d44-4a77-a358-6843fe363d0f@142.93.42.244:443?security=tls&sni=uk2-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇬🇧 GB-142.93.42.244:443 📡 PING-127.68-MS
 vless://1864cc59-416a-4f5c-a378-9cff18446d1e@185.234.64.35:443?security=tls&flow=xtls-rprx-vision&sni=fr1.x2fast.net&type=tcp&fp=chrome&allowInsecure=1#🔒 VL-TCP-TLS 🇫🇷 FR-185.234.64.35:443 📡 PING-128.02-MS
+vless://70d636a2-9b96-4b20-b749-969e5e3bd503@193.187.175.151:2087?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇫🇷 FR-193.187.175.151:2087 📡 PING-128.32-MS
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.179.36.95:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇬🇧 GB-35.179.36.95:22222 📡 PING-129.08-MS
