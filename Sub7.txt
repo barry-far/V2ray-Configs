@@ -4,13 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-trojan://wkmY1R4EcP@95.179.153.234:443?security=tls&sni=myket.ir&type=tcp#🔒 TR-TCP-TLS 🇳🇱 NL-95.179.153.234:443 📡 PING-086.02-MS
-trojan://telegram-id-directvpn@13.37.171.178:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-13.37.171.178:22222 📡 PING-086.63-MS
-trojan://telegram-id-privatevpns@15.237.231.95:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-15.237.231.95:22222 📡 PING-087.26-MS
-trojan://6x8HcghsjS@103.214.68.57:10003?sni=yes998.chickenkiller.com#🔒 TR-TCP-NA 🇳🇱 NL-103.214.68.57:10003 📡 PING-087.74-MS
-trojan://4124d6e7-b747-428e-b514-e9156d2c1def@157.245.65.196:443?#🔒 TR-TCP-NA 🇳🇱 NL-157.245.65.196:443 📡 PING-087.91-MS
-trojan://0d5b3d65-e71e-4235-bf68-ea753ad87cc2@130.162.187.241:22252?security=tls&sni=uk01.freeflyingcloud.xyz&type=tcp#🔒 TR-TCP-TLS 🇬🇧 GB-130.162.187.241:22252 📡 PING-088.67-MS
-trojan://3fe743fd-0eb4-4123-a700-a552be74af63@51.75.77.237:443?#🔒 TR-TCP-NA 🇩🇪 DE-51.75.77.237:443 📡 PING-089.03-MS
 trojan://296121e4-0b5e-40dd-8538-b254e555e9fa@142.93.174.158:443?#🔒 TR-TCP-NA 🇩🇪 DE-142.93.174.158:443 📡 PING-089.41-MS
 trojan://fc1e07b5-840b-4446-8232-94b0606f2e0d@193.70.112.90:443?#🔒 TR-TCP-NA 🇫🇷 FR-193.70.112.90:443 📡 PING-089.56-MS
 trojan://telegram-id-directvpn@18.193.11.163:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-18.193.11.163:22222 📡 PING-089.91-MS
@@ -604,3 +597,10 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMTNTN2RvWGFyMEE=@205.134.180.137:443#%F0%9F
 trojan://YzdT1Ydb3EKY@54.180.148.20:16402?sni=appsvs.shop#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD2
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.26:8009#%F0%9F%87%BA%F0%9F%87%B8US%E5%8C%97%E7%BE%8E16%201.7MB%2Fs
 trojan://xbXdrNXcNqgu@50.16.6.78:16374?sni=appsvs.shop#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD20
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.157.40.19:5498#%F0%9F%87%BA%F0%9F%87%B8US%E5%8C%97%E7%BE%8E17%201.6MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZ1VRMmNRVFB0QkdOamJDWEtNS2VI@5.42.72.241:30482#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF4
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.40.39:2376#%F0%9F%87%BA%F0%9F%87%B8US%E5%8C%97%E7%BE%8E18%201.7MB%2Fs
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.39:5601#%F0%9F%87%BA%F0%9F%87%B8US%E5%8C%97%E7%BE%8E19%201.7MB%2Fs
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.157.40.6:5499#%F0%9F%87%BA%F0%9F%87%B8US%E5%8C%97%E7%BE%8E20%201.6MB%2Fs
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.26:8119#%F0%9F%87%BA%F0%9F%87%B8US%E5%8C%97%E7%BE%8E21%201.7MB%2Fs
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTIxIiwiYWRkIjoiMTUxLjEwMS4zLjEwIiwicG9ydCI6IjgwIiwiaWQiOiJkMzlhMzQ3YS0wMGM5LTRmOTEtOTI1NS03ZjUzNmMwN2M1YTgiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0Ijoibm1zbC5rcCIsInBhdGgiOiIvYXJpZXM/ZWQ9MjU2MCIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IlVT576O5Zu9MjEifQ==
