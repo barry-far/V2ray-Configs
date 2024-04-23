@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://ca234697-1849-4ad2-b673-85a2cc96d986@172.67.157.214:443?security=tls&sni=worker-aged-boat-aa11.jajoyo1612.workers.Dev&type=ws&host=worker-aged-boat-aa11.jajoyo1612.workers.Dev&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-172.67.157.214:443 📡 PING-001.76-MS
 vless://aa2dc840-be38-4b4d-a002-ba234999fd55@172.67.133.19:8080?security=none&sni=cdn-allxn--b6gaceuorg.l4o117en.workers.dev&type=ws&host=cdn-allxn--b6gaceuorg.l4o117en.workers.dev&path=%2F&fp=%E9%9A%8F%E6%9C%BA#🔒 VL-WS-NONE 🇺🇸 US-172.67.133.19:8080 📡 PING-001.76-MS
 vless://91706b51-0848-5aec-bdb3-9a8be235bae5@104.22.43.115:2083?security=tls&sni=vfarid.proxxystore11.WorkErs.DEV&type=ws&host=vfarid.proxxystore11.WorkErs.DEV&path=vless-ws%2F%3Fed%3D2048&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.43.115:2083 📡 PING-001.76-MS
 vless://c8aa3dce-77b8-4cca-b313-89ce5c015137@104.18.202.231:80?security=none&type=ws&host=369.xn--cr8haa.V2ray.xn--1ug4145pija8k.freeV2ray.onflashdrive.app.&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.202.231:80 📡 PING-001.76-MS
@@ -603,4 +604,3 @@ trojan://bk66mF7qWn@51.79.146.159:2053?security=tls&sni=cloud.sooshiant.link&typ
 trojan://77b472f8-2be2-4e87-a70a-b0b509eacad4@185.81.29.230:11000?security=tls&sni=sg01.service.nahidacloud.top&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-185.81.29.230:11000 📡 PING-169.26-MS
 trojan://I4bO2YDEgs@188.166.252.91:443?security=tls&sni=aka.ms&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 TR-TCP-TLS 🇸🇬 SG-188.166.252.91:443 📡 PING-169.62-MS
 trojan://95e6c424-230d-4e48-94ea-3fa0c90a29f3@139.162.39.206:443?#🔒 TR-TCP-NA 🇸🇬 SG-139.162.39.206:443 📡 PING-170.64-MS
-trojan://b3965d2d-3b82-45cc-927b-1336aca3f3fe@139.162.49.215:443?#🔒 TR-TCP-NA 🇸🇬 SG-139.162.49.215:443 📡 PING-171.00-MS
