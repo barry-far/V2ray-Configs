@@ -4,14 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-trojan://telegram-id-privatevpns@3.78.237.128:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.78.237.128:22222 📡 PING-095.10-MS
-trojan://telegram-id-directvpn@35.156.151.199:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇩🇪 DE-35.156.151.199:22222 📡 PING-096.15-MS
-trojan://telegram-id-privatevpns@35.181.237.34:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-35.181.237.34:22222 📡 PING-096.78-MS
-trojan://cb30e92e-faaf-4d63-b82a-d368c7ed1a43@95.164.46.235:443?#🔒 TR-TCP-NA 🇮🇹 IT-95.164.46.235:443 📡 PING-103.87-MS
-trojan://wkmY1R4EcP@70.34.205.1:443?security=tls&sni=myket.ir&type=tcp#🔒 TR-TCP-TLS 🇸🇪 SE-70.34.205.1:443 📡 PING-105.10-MS
-trojan://telegram-id-privatevpns@51.20.49.238:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-51.20.49.238:22222 📡 PING-110.00-MS
-trojan://telegram-id-privatevpns@51.20.169.150:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-51.20.169.150:22222 📡 PING-110.33-MS
-trojan://telegram-id-directvpn@51.20.232.6:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-51.20.232.6:22222 📡 PING-110.52-MS
 trojan://telegram-id-privatevpns@13.53.162.119:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.53.162.119:22222 📡 PING-110.93-MS
 trojan://telegram-id-privatevpns@13.49.239.240:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp#🔒 TR-TCP-TLS 🇸🇪 SE-13.49.239.240:22222 📡 PING-111.04-MS
 trojan://159c73fa-a1f9-409e-8375-73c58917425d@195.123.213.46:443?#🔒 TR-TCP-NA 🇱🇻 LV-195.123.213.46:443 📡 PING-116.79-MS
@@ -604,3 +596,11 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@15.204.87.217:5600#%F0%9F%87%BA%F0%9F%
 trojan://0yDc62ZaVArX@13.212.233.105:16864?sni=appsvs.shop#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.20:5500#%F0%9F%87%BA%F0%9F%87%B8US%E5%8C%97%E7%BE%8E7%201.9MB%2Fs
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.20:8119#%F0%9F%87%BA%F0%9F%87%B8US%E5%8C%97%E7%BE%8E8%201.9MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.44:8090#%F0%9F%87%BA%F0%9F%87%B8US%E5%8C%97%E7%BE%8E9%201.1MB%2Fs
+trojan://BZjkHMao@112.16.228.105:443?#%F0%9F%87%A8%F0%9F%87%B3%E6%B5%99%E6%B1%9F
+
+ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%BA%E5%9C%BA%3Ahttps%3A%2F%2Fkfyun.uk
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjEwNC4xOS40MC45OSIsICJwb3J0IjogIjg4ODAiLCAiaWQiOiAiNTdlMGNiNGQtZWFlNS00OGVjLTgwOTEtMTQ5ZGMyYjMwOWUwIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJ1ay5tb3NzLm5ldHdvcmsiLCAicGF0aCI6ICIvZC82NWRkNTAzLlRHLldhbmdDYWkyLldhbmdDYWlfODoxMDc2OTAiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIn0=
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.157.40.29:5004#%E5%8C%97%E7%BE%8E%E5%9C%B0%E5%8C%BA%2Bv2rayfree.eu.org
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.16:5500#%E5%8C%97%E7%BE%8E%E5%9C%B0%E5%8C%BA%2Bv2rayfree.eu.org
