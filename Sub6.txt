@@ -4,6 +4,12 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://a0bd15ab-577a-47ea-940c-741319e89069@162.159.136.234:2096?security=tls&sni=re7.v2logy.xyz&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.136.234:2096 📡 PING-001.51-MS
+vless://a0bd15ab-577a-47ea-940c-741319e89069@162.159.135.234:2096?security=tls&sni=re7.v2logy.xyz&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.135.234:2096 📡 PING-001.51-MS
+vless://25d0ee2d-4190-52be-b892-45811c6ba210@172.67.180.238:2083?security=tls&sni=folani.iiipok.woRkerS.dEv&type=ws&host=folani.iiipok.woRkerS.dEv&path=%2Fvless-ws%2F%3Fed%3D2048&fp=random&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-172.67.180.238:2083 📡 PING-001.51-MS
+vless://8a052c65-bdf6-485a-c1d7-cb2b23f15dfa@104.16.6.65:443?security=tls&sni=germany-frankfurt.bitplatform.cloud&type=ws&host=germany-frankfurt.bitplatform.cloud&path=%2F&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.6.65:443 📡 PING-001.51-MS
+vless://ffffffff-17ad-45e7-aaa1-f2baaa08e930@162.159.7.226:443?security=tls&sni=watashi.free.jppublic.moh539.link&type=ws&host=watashi.free.jppublic.moh539.link&path=Path%2FTelegram%40SiNABiGO%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.7.226:443 📡 PING-001.51-MS
+vless://7e29f2e2-e0ec-47c5-94ec-38ef90f7a106@162.159.136.234:2053?security=tls&sni=guq22.OXnETwoRkS.LInk&type=ws&host=guq22.OXnETwoRkS.LInk&path=vless-ws%2F%3Fed%3D2048%2FTelegram%40V2ray_alpha%2Fvless-ws%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.136.234:2053 📡 PING-001.51-MS
 vless://ffffffff-17ad-45e7-aaa1-f2baaa08e930@104.21.1.59:8443?security=tls&sni=watashi.free.jppublic.moh539.link&type=ws&host=watashi.free.jppublic.moh539.link&path=telegram...proxy_mtm%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.1.59:8443 📡 PING-001.51-MS
 vless://4b53ce9c-5999-4a06-bbfc-8b0856df19ca@104.17.151.240:80?type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.151.240:80 📡 PING-001.51-MS
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@193.227.99.183:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇲🇹 MT-193.227.99.183:443 📡 PING-001.51-MS
@@ -598,9 +604,3 @@ trojan://telegram-id-privatevpns@35.181.182.80:22222?security=tls&sni=trojan.bur
 trojan://telegram-id-privatevpns@13.42.220.128:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-13.42.220.128:22222 📡 PING-160.00-MS
 trojan://telegram-id-privatevpns@35.181.237.34:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-35.181.237.34:22222 📡 PING-160.18-MS
 trojan://telegram-id-privatevpns@3.69.97.7:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.69.97.7:22222 📡 PING-160.28-MS
-trojan://telegram-id-privatevpns@3.70.65.117:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.70.65.117:22222 📡 PING-160.60-MS
-trojan://77b472f8-2be2-4e87-a70a-b0b509eacad4@185.81.29.230:11000?security=tls&sni=sg01.service.nahidacloud.top&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-185.81.29.230:11000 📡 PING-168.47-MS
-trojan://pZcSv5ZghV@139.59.121.249:443?security=tls&sni=store.steampowered.com&type=tcp&alpn=h2%2Chttp%2F1.1#🔒 TR-TCP-TLS 🇸🇬 SG-139.59.121.249:443 📡 PING-168.62-MS
-trojan://I4bO2YDEgs@188.166.252.91:443?security=tls&sni=aka.ms&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 TR-TCP-TLS 🇸🇬 SG-188.166.252.91:443 📡 PING-168.71-MS
-trojan://55X9v3np3p@68.183.180.244:36889?security=tls&sni=android.googleapis.com&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-68.183.180.244:36889 📡 PING-168.82-MS
-trojan://384b0120-033d-487a-b855-a107ab53ffb4@206.189.153.51:30018?sni=sg04.freeflyingcloud.xyz#🔒 TR-TCP-NA 🇸🇬 SG-206.189.153.51:30018 📡 PING-168.87-MS
