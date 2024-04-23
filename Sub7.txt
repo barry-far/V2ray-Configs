@@ -4,16 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#🔒 TR-TCP-NA 🇳🇱 NL-185.236.233.111:2053 📡 PING-085.70-MS
-trojan://telegram-id-privatevpns@15.237.77.132:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-15.237.77.132:22222 📡 PING-086.10-MS
-trojan://4124d6e7-b747-428e-b514-e9156d2c1def@157.245.65.196:443?#🔒 TR-TCP-NA 🇳🇱 NL-157.245.65.196:443 📡 PING-088.64-MS
-trojan://09191dbf-e7f7-4e7d-b405-c4785ea992bf@95.164.9.196:2053?sni=ftp.debian.org#🔒 TR-TCP-NA 🇦🇹 AT-95.164.9.196:2053 📡 PING-089.31-MS
-trojan://3fe743fd-0eb4-4123-a700-a552be74af63@51.75.77.237:443?#🔒 TR-TCP-NA 🇩🇪 DE-51.75.77.237:443 📡 PING-089.63-MS
-trojan://296121e4-0b5e-40dd-8538-b254e555e9fa@142.93.174.158:443?#🔒 TR-TCP-NA 🇩🇪 DE-142.93.174.158:443 📡 PING-089.79-MS
-trojan://fc1e07b5-840b-4446-8232-94b0606f2e0d@193.70.112.90:443?#🔒 TR-TCP-NA 🇫🇷 FR-193.70.112.90:443 📡 PING-090.48-MS
-trojan://telegram-id-directvpn@18.193.11.163:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp#🔒 TR-TCP-TLS 🇩🇪 DE-18.193.11.163:22222 📡 PING-091.89-MS
-trojan://telegram-id-directvpn@35.156.151.199:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-35.156.151.199:22222 📡 PING-091.94-MS
-trojan://your_password@54.93.172.88:443?security=tls&sni=aws-ge-frankfurt-1.f1rocketnode.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇩🇪 DE-54.93.172.88:443 📡 PING-092.03-MS
 trojan://telegram-id-privatevpns@3.78.142.246:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.78.142.246:22222 📡 PING-092.19-MS
 trojan://telegram-id-privatevpns@13.49.239.240:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.49.239.240:22222 📡 PING-107.55-MS
 trojan://telegram-id-privatevpns@51.20.169.150:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-51.20.169.150:22222 📡 PING-109.13-MS
@@ -604,3 +594,13 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.44:3389#%F0%9F%87%BA%F0%9F%8
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7Plub/kuJwyIiwiYWRkIjoiMTIwLjIzMi4yNDIuMTE3IiwicG9ydCI6IjQxNDkyIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOiI2NCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IvCfh6jwn4ez5bm/5LicMiJ9
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.26:5001#%F0%9F%87%BA%F0%9F%87%B8US%E5%8C%97%E7%BE%8E15%201.7MB%2Fs
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7Plub/kuJwzIiwiYWRkIjoiMTgzLjIzNy4yMC4xNTgiLCJwb3J0IjoiNDEyNDIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6IjY0Iiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoi8J+HqPCfh7Plub/kuJwzIn0=
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTE3IDEuM01CL3MiLCJhZGQiOiJjZmNkbjIuc2FuZmVuY2RuOS5jb20iLCJwb3J0IjoiMjA1MiIsImlkIjoiYWEzODVmMzktZDc4NC00YjgwLTk3MjUtYzM5MDRhMzM3Y2Y4IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoianBhZnp5aGZzZzMueW9mbmhrZmMueHl6IiwicGF0aCI6Ii92aWRlby91NGVDWlR4VyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IlVT576O5Zu9MTcifQ==
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.202.82.172:8882#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD6%201.7MB%2Fs
+trojan://telegram-id-directvpn@18.188.216.75:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD18
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMTNTN2RvWGFyMEE=@205.134.180.137:443#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD19%2024.2MB%2Fs
+trojan://YzdT1Ydb3EKY@54.180.148.20:16402?sni=appsvs.shop#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD2
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.26:8009#%F0%9F%87%BA%F0%9F%87%B8US%E5%8C%97%E7%BE%8E16%201.7MB%2Fs
+trojan://xbXdrNXcNqgu@50.16.6.78:16374?sni=appsvs.shop#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD20
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.157.40.19:5498#%F0%9F%87%BA%F0%9F%87%B8US%E5%8C%97%E7%BE%8E17%201.6MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZ1VRMmNRVFB0QkdOamJDWEtNS2VI@5.42.72.241:30482#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF4
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.40.39:2376#%F0%9F%87%BA%F0%9F%87%B8US%E5%8C%97%E7%BE%8E18%201.7MB%2Fs
