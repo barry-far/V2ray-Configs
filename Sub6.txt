@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.104.253:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-185.148.104.253:443 📡 PING-000.96-MS
 vless://ffffffff-17ad-45e7-aaa1-f2baaa08e930@162.159.5.6:443?security=tls&sni=watashi.free.jppublic.moh539.link&type=ws&host=watashi.free.jppublic.moh539.link&path=Path%2FTelegram%40SiNABiGO%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.5.6:443 📡 PING-000.96-MS
 vless://f4ac1c93-4936-4c60-bf7d-3936cb2e1b49@104.21.77.101:2087?security=tls&sni=nl.RxV2ray.space&type=grpc&serviceName=%40RxV2ray&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.77.101:2087 📡 PING-000.96-MS
 vless://25ac3741-7502-4a88-9108-e7444de813f6@172.64.80.1:2095?security=none&type=ws&host=polproxy.turkabr.ir&path=Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY#🔒 VL-WS-NONE 🇺🇸 US-172.64.80.1:2095 📡 PING-000.96-MS
@@ -603,4 +604,3 @@ trojan://telegram-id-directvpn@15.188.111.99:22222?security=tls&sni=trojan.burge
 trojan://812f0fa1-ef20-4b02-8c55-22f84ab30900@172.232.62.234:443?#🔒 TR-TCP-NA 🇫🇷 FR-172.232.62.234:443 📡 PING-083.40-MS
 trojan://wkmY1R4EcP@45.76.47.77:443?security=tls&sni=google.com&type=tcp#🔒 TR-TCP-TLS 🇫🇷 FR-45.76.47.77:443 📡 PING-083.54-MS
 trojan://telegram-id-privatevpns@35.181.158.27:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-35.181.158.27:22222 📡 PING-084.08-MS
-trojan://telegram-id-privatevpns@13.39.230.123:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-13.39.230.123:22222 📡 PING-084.14-MS
