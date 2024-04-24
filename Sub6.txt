@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://5393b650-7b3e-4efd-91ca-6836f9d8f4bf@104.21.46.249:2096?security=tls&sni=pch-all.poshakbany.ir&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.46.249:2096 📡 PING-005.20-MS
+vless://0870314f-9920-4223-aaf4-7211857d78ac@162.159.136.232:2095?security=none&type=ws&host=a.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.136.232:2095 📡 PING-005.20-MS
 vless://29df53c6-e121-4e4d-968e-0a337c8bba09@198.41.202.5:2095?security=none&type=ws&path=%2FZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.202.5:2095 📡 PING-005.20-MS
 vless://614cef89-a0a2-4afb-b4e8-8cc6fda8f792@104.22.30.97:2095?type=ws&host=%E5%AE%8C%E7%BE%8E%E7%9A%84%E6%97%A5%E5%AD%90%E9%82%AA%E6%81%B6%E7%9A%84%E5%B0%8F%E5%AD%97%E6%AF%8D%D8%B2hanganslow.suonycars.buzz.&path=%2Ft.me-DarkVPNpro-t.me-DarkVPNpro#🔒 VL-WS-NA 🏴‍☠️ NA-104.22.30.97:2095 📡 PING-005.20-MS
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@45.205.0.143:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-45.205.0.143:8443 📡 PING-005.20-MS
@@ -602,5 +604,3 @@ trojan://telegram-id-privatevpns@3.254.253.164:22222?security=tls&sni=trojan.bur
 trojan://telegram-id-directvpn@54.220.58.6:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-54.220.58.6:22222 📡 PING-070.73-MS
 trojan://telegram-id-privatevpns@54.171.217.87:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-54.171.217.87:22222 📡 PING-070.74-MS
 trojan://telegram-id-privatevpns@52.208.237.194:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-52.208.237.194:22222 📡 PING-070.80-MS
-trojan://telegram-id-privatevpns@52.208.183.43:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-52.208.183.43:22222 📡 PING-072.70-MS
-trojan://d4f1d2f8-f6ce-49cb-920e-48e095319152@198.244.190.189:443?#🔒 TR-TCP-NA 🇬🇧 GB-198.244.190.189:443 📡 PING-078.69-MS
