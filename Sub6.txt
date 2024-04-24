@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://83eaecee-940d-40a5-a5fc-a6ba405bd00e@104.21.31.15:2087?security=tls&sni=2net-mci.bukhjabaji.ir&type=grpc&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.31.15:2087 📡 PING-001.45-MS
+vless://58d7075d-7fb8-4e03-b7e3-608f7f65a66d@172.66.47.133:443?security=tls&sni=pardazesh8.pages.dev&type=ws&host=pardazesh8.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-172.66.47.133:443 📡 PING-001.45-MS
 vless://24a5af4c-a5e3-42e4-93e4-370922dad2ee@104.27.27.14:2087?security=tls&sni=virapn-t-3be7883659a1d2ba4c545dfdf85b61eda1.asiatechnicalwest.ir.&type=grpc&fp=firefox#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.27.27.14:2087 📡 PING-001.45-MS
 vless://bcf809e7-075b-4820-8a62-bbff9d97abe4@172.67.26.118:80?security=none&type=ws&path=%2Fvless#🔒 VL-WS-NONE 🇺🇸 US-172.67.26.118:80 📡 PING-001.45-MS
 vless://79af0f95-3c36-4517-a6c0-97dca5299142@185.146.173.95:8080?security=none&type=ws&host=xn---qhantayawi--l-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&path=%2F%40LIGHTNING6%2C+%40LIGHTNING6#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.95:8080 📡 PING-001.45-MS
@@ -602,5 +604,3 @@ trojan://ea89010a23f8737@172.67.175.243:443?security=tls&sni=frankfoortvip.follo
 trojan://e8105dfd24414268b6c7652c63731097@198.41.220.83:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.83:443 📡 PING-001.76-MS
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@198.41.220.12:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=6b777a91&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.12:443 📡 PING-001.73-MS
 trojan://cb1f26aa437d4bfa9b841d28503ce8cc@104.16.159.2:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.2:443 📡 PING-001.72-MS
-trojan://b4e8771997c94732acbc9ec4d19c2589@198.41.220.8:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.8:443 📡 PING-001.65-MS
-trojan://cb1f26aa437d4bfa9b841d28503ce8cc@198.41.220.5:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.5:443 📡 PING-001.61-MS
