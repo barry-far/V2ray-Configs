@@ -4,12 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-trojan://telegram-id-privatevpns@15.237.77.132:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇫🇷 FR-15.237.77.132:22222 📡 PING-104.50-MS
-trojan://telegram-id-privatevpns@35.181.182.80:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-35.181.182.80:22222 📡 PING-104.51-MS
-trojan://296121e4-0b5e-40dd-8538-b254e555e9fa@142.93.174.158:443?#🔒 TR-TCP-NA 🇩🇪 DE-142.93.174.158:443 📡 PING-106.03-MS
-trojan://telegram-id-privatevpns@18.156.206.229:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-18.156.206.229:22222 📡 PING-108.19-MS
-trojan://09191dbf-e7f7-4e7d-b405-c4785ea992bf@95.164.9.196:2053?sni=ftp.debian.org#🔒 TR-TCP-NA 🇦🇹 AT-95.164.9.196:2053 📡 PING-109.07-MS
-trojan://telegram-id-privatevpns@3.70.65.117:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.70.65.117:22222 📡 PING-109.69-MS
 trojan://your_password@54.93.172.88:443?security=tls&sni=aws-ge-frankfurt-1.f1rocketnode.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇩🇪 DE-54.93.172.88:443 📡 PING-109.72-MS
 trojan://3fe743fd-0eb4-4123-a700-a552be74af63@51.75.77.237:443?#🔒 TR-TCP-NA 🇩🇪 DE-51.75.77.237:443 📡 PING-109.88-MS
 trojan://telegram-id-directvpn@35.156.151.199:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇩🇪 DE-35.156.151.199:22222 📡 PING-110.12-MS
@@ -604,3 +598,9 @@ ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.162.200.239:9101#🔒 SS-TCP-NA �
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.162.200.239:6697#🔒 SS-TCP-NA 🇨🇦 CA-23.162.200.239:6697 📡 PING-012.92-MS
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.162.200.239:7001#🔒 SS-TCP-NA 🇨🇦 CA-23.162.200.239:7001 📡 PING-012.88-MS
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.162.200.239:9102#🔒 SS-TCP-NA 🇨🇦 CA-23.162.200.239:9102 📡 PING-012.81-MS
+ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@23.227.60.186:80#🔒 SS-TCP-NA 🇨🇦 CA-23.227.60.186:80 📡 PING-007.36-MS
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@38.180.80.187:16899#🔒 SS-TCP-NA 🇺🇸 US-38.180.80.187:16899 📡 PING-002.71-MS
+ss://bm9uZTphY2JjYmFhLWNhYWItY2FiYS1iZGNhLWNjYmNjYWJiYWFiYQ==@127.0.0.1:8080#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
+vmess://ewogICAgICAgICAgICAidiI6ICIyIiwKICAgICAgICAgICAgInBzIjogIuabtOaWsOS6jiAwNC0yNCAwOTozNCBieSBodHRwczovL2dpdGh1Yi5jb20vdHMtc2YvZmx5IiwKICAgICAgICAgICAgImFkZCI6ICIxMjcuMS4xLjEyNyIsCiAgICAgICAgICAgICJwb3J0IjogIjgwIiwKICAgICAgICAgICAgImlkIjogIjYwMjczNmU0LWEyZTgtNGViMy05ZmM5LTdjNzA4MjkyNTM2NSIsCiAgICAgICAgICAgICJhaWQiOiAiMCIsCiAgICAgICAgICAgICJzY3kiOiAiYXV0byIsCiAgICAgICAgICAgICJuZXQiOiAidGNwIiwKICAgICAgICAgICAgInR5cGUiOiAibm9uZSIsCiAgICAgICAgICAgICJob3N0IjogIiIsCiAgICAgICAgICAgICJwYXRoIjogIiIsCiAgICAgICAgICAgICJ0bHMiOiAiIiwKICAgICAgICAgICAgInNuaSI6ICIiLAogICAgICAgICAgICAiYWxwbiI6ICIiLAogICAgICAgICAgICAiZnAiOiAiIgogICAgICAgICAgfQogICAgICAgIA==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNjEwNWJiZC1iZTBkLTQ1YjItODJhZC0zMWZkMTA3MWMxZDI=@service.ouluyun9803.com:26667#%F0%9F%87%AE%F0%9F%87%B9IT%E6%84%8F%E5%A4%A7%E5%88%A9
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvSIsImFkZCI6IjEwNC4xNy4xNy4xMDMiLCJwb3J0IjoiODA4MCIsImlkIjoiMDI4YzgxMzEtOWUzZS00ODM2LTk0YWMtZWE3ZjI0ZDRkMDVhIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImJvb3R5LXBlbnNpb25zLXNjaGVkdWxpbmctYmxvZ2dpbmcudHJ5Y2xvdWRmbGFyZS5jb20iLCJwYXRoIjoiMDI4YzgxMzEtOWUzZS00ODM2LTk0YWMtZWE3ZjI0ZDRkMDVhLXZtIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVVPnvo7lm70ifQ==
