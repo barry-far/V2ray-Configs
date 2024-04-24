@@ -4,6 +4,11 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://61c75239-c93a-4fae-baef-d2ede3fe6d98@141.94.115.231:443?security=tls&sni=fr-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇫🇷 FR-141.94.115.231:443 📡 PING-146.54-MS
+vless://1949f066-bcb0-49be-88e9-74abd940f80e@51.75.30.8:80?security=none&type=ws&path=%2Fhttp#🔒 VL-WS-NONE 🇫🇷 FR-51.75.30.8:80 📡 PING-146.62-MS
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.207.47:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇫🇷 FR-13.37.207.47:22222 📡 PING-147.51-MS
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.110.32:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇫🇷 FR-13.36.110.32:22222 📡 PING-147.64-MS
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@43.154.104.77:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇭🇰 HK-43.154.104.77:443 📡 PING-147.79-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@18.167.172.112:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=TG%40ZDYZ2#🔒 VL-WS-TLS 🇭🇰 HK-18.167.172.112:443 📡 PING-147.95-MS
 vless://61c75239-c93a-4fae-baef-d2ede3fe6d98@141.94.115.231:2003?security=tls&sni=fr-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇫🇷 FR-141.94.115.231:2003 📡 PING-148.07-MS
 vless://6ea1494d-98e5-4c9a-f209-0a10fbef4175@62.133.62.214:555?security=none&type=tcp#🔒 VL-TCP-NONE 🇫🇷 FR-62.133.62.214:555 📡 PING-148.21-MS
@@ -599,8 +604,3 @@ vless://364ce4c7-f87e-45ab-b5ea-51d0d8de737a@104.25.254.88:2096?security=tls&sni
 vless://80c55966-7673-4608-9bb1-07aad6ea8944@172.66.44.63:443?security=tls&sni=fb258615.mahdiserver-di7.pages.dev&type=ws&host=fb258615.mahdiserver-di7.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-172.66.44.63:443 📡 PING-001.99-MS
 vless://4529aaed-7492-4bf7-a31d-0c314f5d78f1@104.20.82.247:80?security=none&type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.82.247:80 📡 PING-001.99-MS
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@104.18.29.181:8443?security=tls&sni=test75.pages.dev&type=ws&host=test75.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.29.181:8443 📡 PING-001.99-MS
-vless://e1a5cc95-a43b-4cb9-93ce-16f2bdaf49d6@5.10.244.228:2095?security=none&type=ws&host=a.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON#🔒 VL-WS-NONE 🇬🇧 GB-5.10.244.228:2095 📡 PING-001.99-MS
-vless://4437af3d-9d06-4f36-86c6-bd41638a6657@104.21.77.3:443?security=tls&sni=pPAl03.fredeRIQuE-sTEuBeR.woRkERs.dEV&type=ws&host=PPaL03.FredERIQUE-STeubER.workERS.DeV&path=/s_32l-L18cLsxQMv?ed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.77.3:443 📡 PING-001.99-MS
-vless://0870314f-9920-4223-aaf4-7211857d78ac@188.114.98.224:2095?security=none&type=ws&host=a.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#🔒 VL-WS-NONE 🇳🇱 NL-188.114.98.224:2095 📡 PING-001.99-MS
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@170.114.45.7:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-170.114.45.7:443 📡 PING-001.98-MS
-vless://d360d11e-d426-4583-b55e-524ab1f0afa9@104.26.5.60:2096?security=tls&sni=worker-gentle-waterfall-6de8.tigerhungry4.workers.dev&type=ws&host=worker-gentle-waterfall-6de8.tigerhungry4.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.5.60:2096 📡 PING-001.98-MS
