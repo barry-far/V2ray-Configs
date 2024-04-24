@@ -4,10 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://0859e923-7e33-44f0-a94a-fe0535fe7b8b@78.109.198.90:443?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-78.109.198.90:443 📡 PING-174.12-MS
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@193.122.112.161:10003?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇷 KR-193.122.112.161:10003 📡 PING-174.13-MS
-vless://94dc2d19-7a22-468b-89ac-773bb2b3d3c7@185.233.13.90:2222?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.233.13.90:2222 📡 PING-174.30-MS
-vless://1fe16a5d-4f5d-425a-85e5-9e76928c8b68@62.60.160.131:443?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇭🇰 HK-62.60.160.131:443 📡 PING-174.43-MS
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@132.226.172.226:46730?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇰🇷 KR-132.226.172.226:46730 📡 PING-174.99-MS
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@152.70.248.236:28756?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇰🇷 KR-152.70.248.236:28756 📡 PING-175.46-MS
 vless://5732a4ce-d508-4fbb-a3c4-5b364daa5f81@85.9.108.51:11088?security=none&type=tcp&host=speedtest.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.9.108.51:11088 📡 PING-175.69-MS
@@ -604,3 +600,7 @@ vless://e5f38cb2-d25c-464c-9aa6-a8890148bbb9@162.159.135.234:80?type=ws&host=mnv
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@168.100.6.53:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-168.100.6.53:443 📡 PING-005.41-MS
 vless://d69b66cb-5fe2-40b9-842b-1951982f80ae@172.67.156.192:2083?security=tls&sni=zebelkhan30.quysc64868.workers.dev&type=ws&host=zebelkhan30.quysc64868.workers.dev&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🇺🇸 US-172.67.156.192:2083 📡 PING-005.41-MS
 vless://91771ac1-0f05-4f35-8d81-d9eedc242958@104.18.12.130:2096?security=tls&sni=zedm.zedmodeon.lat&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON-ZEDMODEON-ZEDMODEON&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.12.130:2096 📡 PING-005.41-MS
+vless://e9e2d63c-1cab-4605-b36d-fe52cc5130a7@162.159.134.234:2095?security=none&type=ws&host=xn--047h.v2raxx6.shop.&path=%2FV2RAXX-V2RAXX-V2RAXX%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.134.234:2095 📡 PING-005.41-MS
+vless://d360d11e-d426-4583-b55e-524ab1f0afa9@172.67.70.92:2096?security=tls&sni=worker-gentle-waterfall-6de8.tigerhungry4.workers.dev&type=ws&host=worker-gentle-waterfall-6de8.tigerhungry4.workers.dev&path=/?ed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-172.67.70.92:2096 📡 PING-005.41-MS
+vless://c594e576-716f-4295-9d99-28584df1631e@104.21.10.245:2083?security=tls&sni=501a5ccciea704ae69e7595.18cf1c6ceea28x5f8f62f21a4.wOrkErs.DEv&type=ws&host=501a5ccciea704ae69e7595.18cf1c6ceea28x5f8f62f21a4.wOrkErs.DEv&path=vless-ws%2F%3Fed%3D2048&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.10.245:2083 📡 PING-005.41-MS
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@160.79.104.20:2083?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-160.79.104.20:2083 📡 PING-005.41-MS
