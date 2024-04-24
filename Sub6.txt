@@ -4,6 +4,11 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://11d7b37e-5efd-45a8-bb19-2dabe016cfcf@185.146.173.59:443?security=tls&sni=joinFREV2RAY.Houselife.IR&type=grpc&serviceName=@frev2ray,@frev2ray&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.59:443 📡 PING-002.11-MS
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@45.205.0.54:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-45.205.0.54:8443 📡 PING-002.11-MS
+vless://b27137a7-4744-464d-aa05-9022aaf0b404@103.184.44.89:8880?security=none&type=ws&host=xn---qhantayawi--e-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&path=%2F%40LIGHTNING6%2C+%40LIGHTNING6%2C+%40LIGHTNING6%2C+%40LIGHTNING6%2C%40LIGHTNING6%2C%40LIGHTNING6%2C%40LIGHTNING6%2C%40LIGHTNING6#🔒 VL-WS-NONE 🇨🇳 CN-103.184.44.89:8880 📡 PING-002.11-MS
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@[::ffff:6811:6e0c]:443?security=tls&sni=xxx.donated006.workers.dev&type=ws&host=xxx.donated006.workers.dev&path=%2F%40V2VIPCHANNEL%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-[::ffff:6811:6e0c]:443 📡 PING-002.11-MS
+vless://4b53ce9c-5999-4a06-bbfc-8b0856df19ca@104.17.151.240:80?type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.151.240:80 📡 PING-002.11-MS
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@79.99.31.226:2083?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F#🔒 VL-WS-TLS 🇳🇱 NL-79.99.31.226:2083 📡 PING-002.11-MS
 vless://5393b650-7b3e-4efd-91ca-6836f9d8f4bf@172.67.169.139:2096?security=tls&sni=pch-all.poshakbany.ir&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.169.139:2096 📡 PING-002.11-MS
 vless://f69d4594-2d18-4266-abc4-eeb9c5604ca5@108.162.192.186:443?security=tls&sni=www.12reddddddd.bf&type=ws&host=www.12reddddddd.bf&path=%2F975e3406-9ac4-45fc-a12b-30fbe810c75f#🔒 VL-WS-TLS 🇺🇸 US-108.162.192.186:443 📡 PING-002.11-MS
@@ -599,8 +604,3 @@ trojan://your_password@52.56.183.187:443?security=tls&sni=aws-uk-london-1.f1rock
 trojan://telegram-id-privatevpns@35.181.237.34:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-35.181.237.34:22222 📡 PING-100.93-MS
 trojan://wkmY1R4EcP@95.179.153.234:443?security=tls&sni=myket.ir&type=tcp#🔒 TR-TCP-TLS 🇳🇱 NL-95.179.153.234:443 📡 PING-101.48-MS
 trojan://4124d6e7-b747-428e-b514-e9156d2c1def@157.245.65.196:443?#🔒 TR-TCP-NA 🇳🇱 NL-157.245.65.196:443 📡 PING-102.75-MS
-trojan://63e256ad-70af-4f3f-9787-b038e1e20c8e@188.119.112.242:443?#🔒 TR-TCP-NA 🇳🇱 NL-188.119.112.242:443 📡 PING-103.69-MS
-trojan://812f0fa1-ef20-4b02-8c55-22f84ab30900@172.232.62.234:443?#🔒 TR-TCP-NA 🇫🇷 FR-172.232.62.234:443 📡 PING-104.04-MS
-trojan://1038bc70-fe01-11ee-a6a2-1239d0255272@51.210.182.170:443?#🔒 TR-TCP-NA 🇫🇷 FR-51.210.182.170:443 📡 PING-104.10-MS
-trojan://wkmY1R4EcP@45.32.148.182:443?security=tls&sni=z-v2-002805.kailib.com&type=tcp#🔒 TR-TCP-TLS 🇫🇷 FR-45.32.148.182:443 📡 PING-104.60-MS
-trojan://ac732478-e533-4ec6-96f5-632fdc51278c@141.94.115.231:443?#🔒 TR-TCP-NA 🇫🇷 FR-141.94.115.231:443 📡 PING-104.61-MS
