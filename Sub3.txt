@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggX1VTX+e+juWbvS0+8J+HqfCfh6pfREVf5b635Zu9IiwiYWRkIjoiMTA0LjIxLjIyNS4xMjEiLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiNzAyMjk4MmYtZGE0Yy00OGM5LWM2NjAtYjIzMTVhYmRjZjdlIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiYS5wcmFwdDUuaXIiLCJ0bHMiOiIifQ==
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggX1VTX+e+juWbvS0+8J+HqfCfh6pfREVf5b635Zu9IiwiYWRkIjoiMTA0LjIxLjIzMC4zMCIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiI3MDIyOTgyZi1kYTRjLTQ4YzktYzY2MC1iMjMxNWFiZGNmN2UiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZD0yMDQ4IiwiaG9zdCI6ImEucHJhcHQ1LmlyIiwidGxzIjoiIn0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggX1VTX+e+juWbvS0+8J+HqfCfh6pfREVf5b635Zu9IiwiYWRkIjoiMTA0LjIxLjIyNS4yMjkiLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiNzAyMjk4MmYtZGE0Yy00OGM5LWM2NjAtYjIzMTVhYmRjZjdlIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiYS5wcmFwdDUuaXIiLCJ0bHMiOiIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggX1VTX+e+juWbvS0+8J+HqfCfh6pfREVf5b635Zu9IiwiYWRkIjoiMTA0LjIxLjIyNS4xMzMiLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiNzAyMjk4MmYtZGE0Yy00OGM5LWM2NjAtYjIzMTVhYmRjZjdlIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiYS5wcmFwdDUuaXIiLCJ0bHMiOiIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggX1VTX+e+juWbvS0+8J+HqfCfh6pfREVf5b635Zu9IiwiYWRkIjoiMTA0LjIxLjIzNy44NSIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiI3MDIyOTgyZi1kYTRjLTQ4YzktYzY2MC1iMjMxNWFiZGNmN2UiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZD0yMDQ4IiwiaG9zdCI6ImEucHJhcHQ1LmlyIiwidGxzIjoiIn0=
@@ -604,3 +602,5 @@ vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@146.56.171.182:11659?security=tls&s
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@132.145.95.170:39637?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇰🇷 KR-132.145.95.170:39637 📡 PING-179.01-MS
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@146.56.138.226:38178?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇰🇷 KR-146.56.138.226:38178 📡 PING-179.15-MS
 vless://3a1bbcab-1713-4c27-a81b-2cd81cd0fee4@193.123.237.143:443?security=tls&flow=xtls-rprx-vision&sni=dcpqkr1.hnkkt.com&type=tcp#🔒 VL-TCP-TLS 🇰🇷 KR-193.123.237.143:443 📡 PING-179.23-MS
+vless://26bf63aa-2dda-476a-baac-fad10c6a939b@95.38.242.186:53333?security=none&type=tcp&host=x.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-95.38.242.186:53333 📡 PING-179.26-MS
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@111.118.25.110:10130?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇰🇷 KR-111.118.25.110:10130 📡 PING-179.81-MS
