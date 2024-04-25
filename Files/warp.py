@@ -36,7 +36,8 @@ def main():
     warp_links = [
         'https://raw.githubusercontent.com/ircfspace/warpsub/main/export/warp',
         'https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/warp/config',
-        'https://raw.githubusercontent.com/NiREvil/vless/main/hiddify/auto-gen-warp'
+        'https://raw.githubusercontent.com/NiREvil/vless/main/hiddify/auto-gen-warp',
+        'https://raw.githubusercontent.com/hiddify/hiddify-next/main/test.configs/warp'
     ]
     # Process the links and filter out warp lines
     decoded_warp_lines = fetch_and_process_links(warp_links)
