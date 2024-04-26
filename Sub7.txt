@@ -4,6 +4,12 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.105.137:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-185.148.105.137:443 📡 PING-000.79-MS
+vless://5c121951-12e5-4b8a-84bd-4b098f3705ea@104.20.93.101:80?security=none&type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.93.101:80 📡 PING-000.79-MS
+vless://27296b86-e52d-4293-8814-20f041c291a1@104.21.27.210:2087?security=tls&sni=selinc--2--selinc--2--selinc--2.laafydr.workers.dev&type=ws&host=selinc--2--selinc--2--selinc--2.laafydr.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.27.210:2087 📡 PING-000.79-MS
+vless://2a3263e2-891c-4446-b474-a8c63acb6e25@172.64.32.154:2096?security=tls&sni=lon2.mbh-meti.com&type=ws&host=lon2.mbh-meti.com&path=/&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.64.32.154:2096 📡 PING-000.79-MS
+vless://dcb1aac0-3b2d-4f30-bfd8-b61f1af76e21@172.67.214.179:2096?security=tls&sni=cH.tOtFaRaNgHi.SbS&type=grpc&serviceName=%40V2rayNgMat%2C%40V2rayNgMat%2C%40V2rayNgMat%2C%40V2rayNgMat&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.214.179:2096 📡 PING-000.79-MS
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.64.144:443?security=tls&sni=GOV.UK&type=ws&host=k.kp&path=%2F@Alpha_v2ray_fazayi%2C@Alpha_v2ray_fazayi%2C@alpha_v2ray_fazayi%2C@Alpha_v2ray_fazayi%2F%3Fed%3D2048&fp=safari&alpn=http%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-151.101.64.144:443 📡 PING-000.79-MS
 vless://9fab9535-96a7-464e-83ce-4d1deba94bf4@45.159.217.29:80?security=none&type=ws&host=%E6%8C%A8%E7%88%B1%E8%80%BB%E5%BC%9Ffreerxteamirteamop.rxteam.tech.&path=%2F%3Fed%3D2053#🔒 VL-WS-NONE 🇺🇸 US-45.159.217.29:80 📡 PING-000.79-MS
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.192.144:443?security=tls&sni=GOV.UK&type=ws&host=k.kp&path=%2F@Alpha_v2ray_fazayi%2C@Alpha_v2ray_fazayi%2C@alpha_v2ray_fazayi%2C@Alpha_v2ray_fazayi%2F%3Fed%3D2048&fp=safari&alpn=http%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-151.101.192.144:443 📡 PING-000.78-MS
 vless://f4cec6cc-6177-423c-90f8-2ad9f0dd996b@104.21.43.44:2096?security=tls&sni=vpncT.arvancode.eu.Org&type=ws&host=vpncT.arvancode.eu.Org&path=%2Fbshq2qgg8gnx8zqm%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.43.44:2096 📡 PING-000.78-MS
@@ -598,9 +604,3 @@ ss://YWVzLTI1Ni1jZmI6YmY3djMzNEtLRFYzWURoSA==@103.172.116.103:9070#🔒 SS-TCP-N
 ss://YWVzLTI1Ni1jZmI6d2pUdWdYM1p0SE1COWMzWg==@103.172.116.90:9057#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9057 📡 PING-222.97-MS
 ss://YWVzLTI1Ni1jZmI6YzNOdEhKNXVqVjJ0R0Rmag==@103.172.116.94:9084#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.94:9084 📡 PING-223.00-MS
 ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg==@103.172.116.94:9030#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.94:9030 📡 PING-223.00-MS
-ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ==@103.172.116.90:9060#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9060 📡 PING-223.03-MS
-ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg==@103.172.116.103:9043#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9043 📡 PING-223.03-MS
-ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ==@103.172.116.103:9020#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9020 📡 PING-223.04-MS
-ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@103.172.116.103:9037#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9037 📡 PING-223.06-MS
-ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ==@103.172.116.103:9060#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9060 📡 PING-223.08-MS
-ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg==@103.172.116.79:9043#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9043 📡 PING-223.12-MS
