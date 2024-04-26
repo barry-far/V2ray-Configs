@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-vless://bcc32d83-46c8-49e2-a607-546b4eaa2e7f@51.120.5.108:14422?security=none&type=tcp&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇳🇴 NO-51.120.5.108:14422 📡 PING-103.07-MS
 vless://c64bae07-84c8-44bb-ac75-f2514fb4fb80@46.226.163.253:100?security=none&type=tcp#🔒 VL-TCP-NONE 🇬🇧 GB-46.226.163.253:100 📡 PING-106.80-MS
 vless://200ae60c-8af8-46d7-89bc-97355273760d@95.164.46.235:2003?security=tls&sni=it-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇮🇹 IT-95.164.46.235:2003 📡 PING-106.84-MS
 vless://200ae60c-8af8-46d7-89bc-97355273760d@95.164.46.235:443?security=tls&sni=it-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇮🇹 IT-95.164.46.235:443 📡 PING-106.97-MS
@@ -604,3 +603,4 @@ vless://33ed8cbe-3f36-472f-8b1f-80a4d3528ecb@172.66.44.250:443?security=tls&sni=
 vless://c2ec17cc-e5a9-4f4a-88dc-496e3215dbab@104.16.113.74:443?security=tls&sni=sALAm-wOrD.pagEs.deV&type=ws&host=saLaM-Word.PaGeS.Dev&path=%2F%40my_proxii%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.113.74:443 📡 PING-005.46-MS
 vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.47.185:443?security=tls&sni=mindroom2-2kf.pages.dev&type=ws&host=mindroom2-2kf.pages.dev&path=%40VPNHTTPInjectorfree#🔒 VL-WS-TLS 🇺🇸 US-172.66.47.185:443 📡 PING-005.46-MS
 vless://c57db8e2-555e-4c48-b262-ec20b4ae6a50@172.67.178.69:443?security=tls&sni=selinc--3--3--3--selinc.eubda.workers.dev&type=ws&host=selinc--3--3--3--selinc.eubda.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2#🔒 VL-WS-TLS 🇺🇸 US-172.67.178.69:443 📡 PING-005.46-MS
+vless://da042aa9-6109-466c-a69e-5803d4786a7b@104.21.39.57:2087?security=tls&sni=vpnv2rayonline.jucgan.workers.DeV&type=ws&host=vpnv2rayonline.jucgan.workers.DeV&path=%2Fvless-ws%2F%3Fed%3D2048&fp=firefox&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.39.57:2087 📡 PING-005.46-MS
