@@ -6,8 +6,7 @@ on:
     branches:
       - main
   schedule:
-    # Run every 10 minutes
-    - cron: "*/10 * * * *"
+    - cron: "*/10 * * * *"  
 
 jobs:
   build:
@@ -16,6 +15,8 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v2
+      with:
+        fetch-depth: 0 
 
     - name: Set up Python
       uses: actions/setup-python@v2
@@ -23,24 +24,34 @@ jobs:
         python-version: '3.11'
 
     - name: Install dependencies
-      run: cd Files && pip install -r requirements.txt
+      run: pip install -r Files/requirements.txt
 
-    - name: Run Config script and save output to file
-      run: cd Files && python app.py
-      
-    - name: Run Warp script and save output to file
-      run: cd Files && python warp.py
-      
-    - name: Run Splitter script and save output to file
-      run: cd Files && python sort.py
+    - name: Stash any local changes
+      run: git stash
+
+    - name: Pull latest changes
+      run: git pull origin main 
+
+    - name: Reset repository (if needed)
+      run: git reset --hard
+      continue-on-error: true 
+
+    - name: Run Config script
+      run: python Files/app.py 
+
+    - name: Run Warp script
+      run: python Files/warp.py
+
+    - name: Run Splitter script
+      run: python Files/sort.py
 
     - name: Commit and push files
       uses: EndBug/add-and-commit@v7
       with:
         author_name: "Github Actions"
         author_email: "actions@github.com"
-        message: "Updated 9 minutes Ago 🫂"
-        add: "."
-        push: "https://github.com/barry-far/V2ray-Configs.git"
+        message: "Updated files via GitHub Actions"
+        add: "."  
+        push: true  
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
