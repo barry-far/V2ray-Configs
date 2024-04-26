@@ -116,7 +116,7 @@ def main():
         if os.path.exists(filename):
             os.remove(filename)
         filename1 = os.path.join(base64_folder, f'Sub{i}_base64.txt')
-        if os.path exists(filename1):
+        if os.path.exists(filename1):
             os.remove(filename1)
 
     # Write merged configs to output file
