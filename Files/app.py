@@ -51,6 +51,14 @@ def decode_dir_links(dir_links):
             pass  # If the request fails or times out, skip it
     return decoded_dir_links
 
+# Filter function to select lines based on specified protocols
+def filter_for_protocols(data, protocols):
+    filtered_data = []
+    for line in data:
+        if any(protocol in line for protocol in protocols):
+            filtered_data.append(line)
+    return filtered_data
+
 # Create necessary directories if they don't exist
 def ensure_directories_exist():
     output_folder = os.path.abspath(os.path.join(os.getcwd(), ".."))
