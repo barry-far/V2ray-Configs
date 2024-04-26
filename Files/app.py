@@ -4,14 +4,18 @@ import requests
 import binascii
 import os
 
+# Define a fixed timeout for HTTP requests
+TIMEOUT = 20  # seconds
+
+# Define the fixed text for the initial configuration
 fixed_text = """#profile-title: base64:8J+GkyBHaXRodWIgfCBCYXJyeS1mYXIg8J+ltw==
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-
 """
 
+# Base64 decoding function
 def decode_base64(encoded):
     decoded = ''
     for encoding in ['utf-8', 'iso-8859-1']:
@@ -22,23 +26,34 @@ def decode_base64(encoded):
             pass
     return decoded
 
+# Function to decode base64-encoded links with a timeout
 def decode_links(links):
     decoded_data = []
     for link in links:
-        response = requests.get(link)
-        encoded_bytes = response.content
-        decoded_text = decode_base64(encoded_bytes)
-        decoded_data.append(decoded_text)
+        try:
+            response = requests.get(link, timeout=TIMEOUT)  # Set a timeout for each request
+            encoded_bytes = response.content
+            decoded_text = decode_base64(encoded_bytes)
+            decoded_data.append(decoded_text)
+        except requests.RequestException:
+            # If the request fails or times out, skip this link and continue
+            pass
     return decoded_data
 
+# Function to decode directory links with a timeout
 def decode_dir_links(dir_links):
     decoded_dir_links = []
     for link in dir_links:
-        response = requests.get(link)
-        decoded_text = response.text
-        decoded_dir_links.append(decoded_text)
+        try:
+            response = requests.get(link, timeout=TIMEOUT)  # Set a timeout for each request
+            decoded_text = response.text
+            decoded_dir_links.append(decoded_text)
+        except requests.RequestException:
+            # If the request fails or times out, skip this link and continue
+            pass
     return decoded_dir_links
 
+# Filter function to select lines based on specified protocols
 def filter_for_protocols(data, protocols):
     filtered_data = []
     for line in data:
@@ -46,6 +61,7 @@ def filter_for_protocols(data, protocols):
             filtered_data.append(line)
     return filtered_data
 
+# Main function to process links and write output files
 def main():
     protocols = ['vmess', 'vless', 'trojan', 'ss', 'ssr', 'hy2', 'tuic', 'warp://']
     links = [
@@ -82,24 +98,26 @@ def main():
     combined_data = decoded_links + decoded_dir_links
     merged_configs = filter_for_protocols(combined_data, protocols)
 
+    # Define the output folder paths
     output_folder = os.path.abspath(os.path.join(os.getcwd(), '..'))
     base64_folder = os.path.join(output_folder, 'Base64')
 
     # Delete existing output files
     filename = os.path.join(output_folder, f'All_Configs_Sub.txt')
     filename1 = os.path.join(output_folder, f'All_Configs_base64_Sub.txt')
+    
     if os.path.exists(filename):
         os.remove(filename)
     elif os.path.exists(filename1):
         os.remove(filename1)
+
     for i in range(20):
         filename = os.path.join(output_folder, f'Sub{i}.txt')
         if os.path.exists(filename):
             os.remove(filename)
         filename1 = os.path.join(base64_folder, f'Sub{i}_base64.txt')
-        if os.path.exists(filename1):
+        if os.path exists(filename1):
             os.remove(filename1)
-    
 
     # Write merged configs to output file
     output_file = os.path.join(output_folder, 'All_Configs_Sub.txt')
@@ -108,12 +126,14 @@ def main():
         for config in merged_configs:
             f.write(config + '\n')
 
-    # Split merged configs into files with no more than 600 configs per file
+    # Split merged configs into smaller files (no more than 600 configs per file)
     with open(output_file, 'r') as f:
         lines = f.readlines()
+
     num_lines = len(lines)
     max_lines_per_file = 600
     num_files = (num_lines + max_lines_per_file - 1) // max_lines_per_file
+
     for i in range(num_files):
         profile_title = f'🆓 Git:Barry-far | Sub{i+1} 🫂'
         encoded_title = base64.b64encode(profile_title.encode()).decode()
@@ -122,7 +142,6 @@ def main():
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-
 """
 
         input_filename = os.path.join(output_folder, f'Sub{i+1}.txt')
@@ -140,6 +159,6 @@ def main():
         output_filename = os.path.join(base64_folder, f'Sub{i+1}_base64.txt')
         with open(output_filename, 'w') as output_file:
             output_file.write(encoded_config)
-    
+
 if __name__ == "__main__":
     main()
