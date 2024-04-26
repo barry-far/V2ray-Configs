@@ -30,10 +30,6 @@ jobs:
     - name: Pull latest changes
       run: git pull origin main 
 
-    - name: Reset repository (if needed)
-      run: git reset --hard
-      continue-on-error: true 
-
     - name: Run Config script
       run: python Files/app.py 
 
@@ -48,7 +44,7 @@ jobs:
       with:
         author_name: "Github Actions"
         author_email: "actions@github.com"
-        message: "Updated files via GitHub Actions"
+        message: "Updated 9 minutes Ago ⚡"
         add: "."  
         push: true  
     env:
