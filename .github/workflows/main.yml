@@ -1,45 +1,56 @@
 name: Update Configs
-permissions: write-all
+permissions:
+  contents: write
+  issues: write
 
 on:
   push:
     branches:
       - main
   schedule:
-    - cron: "*/10 * * * *"  
+    - cron: "*/10 * * * *"
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v2
+      - name: Checkout code
+        uses: actions/checkout@v3
 
-    - name: Set up Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: '3.11'
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: '3.11'
 
-    - name: Install dependencies
-      run: pip install -r Files/requirements.txt
+      - name: Install dependencies
+        run: pip install -r Files/requirements.txt
 
-    - name: Run Config script
-      run: python Files/app.py 
+      - name: Pull latest changes
+        run: git pull origin main 
 
-    - name: Run Warp script
-      run: python Files/warp.py
+      - name: Run Config script
+        run: python Files/app.py 
 
-    - name: Run Splitter script
-      run: python Files/sort.py
+      - name: Run Warp script
+        run: python Files/warp.py
 
-    - name: Commit and push files
-      uses: EndBug/add-and-commit@v7
-      with:
-        author_name: "Github Actions"
-        author_email: "actions@github.com"
-        message: "Updated 9 minutes Ago ⚡"
-        add: "."  
-        push: true  
-    env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Run Splitter script
+        run: python Files/sort.py
+
+      - name: Check changes
+        run: |
+          echo "Checking the changes made..."
+          git status
+          ls -l Files/
+
+      - name: Commit and push files
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: "GitHub Actions"
+          author_email: "actions@github.com"
+          message: "Updated 9 minutes Ago ⚡"
+          add: "."
+          push: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
