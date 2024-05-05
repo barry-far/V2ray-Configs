@@ -24,9 +24,6 @@ jobs:
     - name: Install dependencies
       run: pip install -r Files/requirements.txt
 
-    - name: Stash any local changes
-      run: git stash
-
     - name: Run Config script
       run: python Files/app.py 
 
