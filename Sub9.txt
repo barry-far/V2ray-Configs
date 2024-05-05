@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.130.133:443?security=tls&sni=binance.co.kp&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-151.101.130.133:443 📡 PING-001.62-MS
-vless://0268484c-ecd2-4f99-9e99-d11e3e27f9d4@151.101.66.168:80?security=none&type=ws&path=%2F%40aklisvpn#🔒 VL-WS-NONE 🇺🇸 US-151.101.66.168:80 📡 PING-001.60-MS
-vless://ff884731-2476-44aa-855c-a5384085672d@92.223.84.84:80?type=ws&host=mamanodamind.com&path=%2Fws#🔒 VL-WS-NA 🇫🇷 FR-92.223.84.84:80 📡 PING-001.56-MS
-vless://8aacaf3f-caf0-4fab-8b0c-dd0391dcaeaa@79.175.157.25:59491?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-79.175.157.25:59491 📡 PING-000.00-MS
-vless://fcbeaf03-4d8c-40c7-9a3e-e9a91b617d43@78.109.200.12:17300?security=none&type=tcp&host=Cloudflare.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-78.109.200.12:17300 📡 PING-000.00-MS
-vless://d5268a1a-f481-4438-9f51-122543f0545a@85.9.98.252:45694?security=none&type=tcp&host=idem.ir&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.9.98.252:45694 📡 PING-000.00-MS
 vless://94e6c03d-a89f-40cc-8174-732c491a9665@85.9.105.140:36589?security=tls&sni=ah5.radmehrmax.ir&type=tcp&alpn=h2,http/1.1#🔒 VL-TCP-TLS 🇮🇷 IR-85.9.105.140:36589 📡 PING-000.00-MS
 vless://ccbabaa-caba-baac-abcd-bbabaccbacac@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
 vmess://eyJhZGQiOiAiMTI3LjAuMC4xIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImNhY2FiYmEtY2JhYS1hYWNiLWJjYWQtYmFjY2NiYWJjYWJhIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6IDEwODAsICJwcyI6ICJcdWQ4M2RcdWRkMDQgTEFURVNULVVQREFURSBcdWQ4M2RcdWRjYzUgU1VOLTE2LU9SRElCRUhFU0hULTE0MDMgXHVkODNkXHVkZDUxIDIyOjM0IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
@@ -603,3 +597,9 @@ ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@103.172.116.103:9031#🔒 SS-TCP-N
 ss://YWVzLTI1Ni1jZmI6U241QjdqVHFyNzZhQ0pUOA==@103.172.116.94:9097#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.94:9097 📡 PING-207.75-MS
 ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@103.172.116.79:9042#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9042 📡 PING-207.79-MS
 ss://YWVzLTI1Ni1jZmI6YzNOdEhKNXVqVjJ0R0Rmag==@103.172.116.103:9084#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9084 📡 PING-207.81-MS
+ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ==@103.172.116.103:9006#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9006 📡 PING-207.85-MS
+ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA==@103.172.116.79:9064#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9064 📡 PING-207.88-MS
+ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIaw==@103.172.116.90:9098#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9098 📡 PING-207.89-MS
+ss://YWVzLTI1Ni1jZmI6YzNOdEhKNXVqVjJ0R0Rmag==@103.172.116.79:9084#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9084 📡 PING-207.91-MS
+ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ==@103.172.116.90:9020#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9020 📡 PING-207.93-MS
+ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg==@103.172.116.94:9094#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.94:9094 📡 PING-207.95-MS

@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vmess://eyJhZGQiOiAiMTgzLjE4MS4zNi4xOTQiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjRhNmVhYTJkLTU2MDMtNGMwNS1kOTY3LWZiNmY0MjI1MGE1YSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiNDE1OTciLCAic2N5IjogImF1dG8iLCAidiI6ICIyIiwgInBzIjogIkBIb3BlX05ldC1qb2luLXVzLW9uLVRlbGVncmFtIn0=
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.60.242.31:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇦
-vless://aa850d80-061d-4988-931e-67e91ccfe6e7@104.17.169.114:80?security=none&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev#@Hope_Net-join-us-on-Telegram
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.201.194:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇫🇷
-
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@169.197.142.216:6679#%F0%9F%87%BA%F0%9F%87%B8%20_US_%E7%BE%8E%E5%9B%BD
 trojan://dcf0fcec-3800-4f42-9b78-1323f6a4a004@95.164.117.128:443?allowInsecure=1&sni=de2-full.privateip.net#%F0%9F%87%BA%F0%9F%87%B8%20_US_%E7%BE%8E%E5%9B%BD
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggX1VTX+e+juWbvS0+8J+HqfCfh6pfREVf5b635Zu9IiwiYWRkIjoiMTA0LjE5LjI1MC4xNSIsInBvcnQiOiIyMDUyIiwidHlwZSI6Im5vbmUiLCJpZCI6ImFlYzgyZmE2LWFiNzAtNGQwYS1lN2ZiLTQyMmVmNzI5ZDk2MSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6ImhlbGFudjZjZi5pbmVrb2tray50b3AiLCJ0bHMiOiIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hs/Cfh7EgX05MX+iNt+WFsCIsImFkZCI6Im5sMi1mdWxsLnByaXZhdGVpcC5uZXQiLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6ImI3YTBjZjM5LTk5ZmEtNDdhNC04ZDlmLTUyNjM4MDZlOGNjZSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvUkFDRVZQTiIsImhvc3QiOiJubDItZnVsbC5wcml2YXRlaXAubmV0IiwidGxzIjoidGxzIn0=
@@ -603,3 +597,9 @@ vless://f0ce8267-5948-4f1a-9180-2a3f31b76031@94.228.165.121:2053?security=tls&sn
 vless://99e44f7f-3541-44e1-9d89-d2c4be65d89a@109.120.135.113:44843?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇸🇪 SE-109.120.135.113:44843 📡 PING-150.17-MS
 vless://de44b044-8f90-4e18-b742-16591667ff96@45.78.55.32:28874?security=tls&sni=edgetunnel-free.pages.dev&type=ws&path=%2F%3Fed&fp=randomized#🔒 VL-WS-TLS 🇯🇵 JP-45.78.55.32:28874 📡 PING-152.68-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@146.56.151.32:19?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇷 KR-146.56.151.32:19 📡 PING-165.99-MS
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@193.123.233.169:39803?security=tls&sni=a.ssll.gay&type=ws&path=telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai_8%2F%3Fed#🔒 VL-WS-TLS 🇰🇷 KR-193.123.233.169:39803 📡 PING-166.22-MS
+vless://3a1bbcab-1713-4c27-a81b-2cd81cd0fee4@193.123.237.143:443?security=tls&flow=xtls-rprx-vision&sni=dcpqkr1.hnkkt.com&type=tcp#🔒 VL-TCP-TLS 🇰🇷 KR-193.123.237.143:443 📡 PING-166.47-MS
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@152.70.245.66:12693?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇰🇷 KR-152.70.245.66:12693 📡 PING-166.66-MS
+vless://de44b044-8f90-4e18-b742-16591667ff96@146.56.141.168:47590?security=tls&sni=edgetunnel-free.pages.dev&type=ws&path=%2F%3Fed&fp=randomized#🔒 VL-WS-TLS 🇰🇷 KR-146.56.141.168:47590 📡 PING-166.94-MS
+vless://de44b044-8f90-4e18-b742-16591667ff96@132.226.171.158:9527?security=tls&sni=edgetunnel-free.pages.dev&type=ws&path=%2F%3Fed&fp=randomized#🔒 VL-WS-TLS 🇰🇷 KR-132.226.171.158:9527 📡 PING-167.21-MS
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@146.56.138.226:38178?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇰🇷 KR-146.56.138.226:38178 📡 PING-167.21-MS
