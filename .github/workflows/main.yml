@@ -27,9 +27,6 @@ jobs:
     - name: Stash any local changes
       run: git stash
 
-    - name: Pull latest changes
-      run: git pull origin main 
-
     - name: Run Config script
       run: python Files/app.py 
 
