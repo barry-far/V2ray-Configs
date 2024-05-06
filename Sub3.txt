@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://12822cde-491b-40b9-8301-814fc10b5547@188.114.96.163:2083?path=%2Fvless&security=tls&encryption=none&host=de1.v2vless.xyz&type=ws&sni=de1.v2vless.xyz#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C+%D8%AE%D8%B1%DB%8C%D8%AF+%D9%88+%D8%A7%D8%AA%D8%B5%D8%A7%D9%84+%D8%AF%D8%A7%D8%A6%D9%85%DB%8C+%D8%AC%D9%88%DB%8C%D9%86+%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 vless://742cd304-be2a-4629-bdbc-ad87a22a5eb1@w3.org:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=api2.shabazian.ir&fp=chrome&type=ws&sni=api2.shabazian.ir#%40vless_vmess
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.194.26:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇫🇷
 vless://49cf68bf-3f2f-4692-aca3-2f7768ea484c@time.is:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vip.proxystorepanel.eu.org&fp=randomized&type=ws&sni=vip.proxystorepanel.eu.org#proxystore11
@@ -603,3 +602,4 @@ vless://7122e760-0b3b-11ef-8008-1239d0255272@23.158.72.133:80?security=none&type
 vless://ff884731-2476-44aa-855c-a5384085672d@93.115.241.62:80?security=none&type=ws&path=%2Fws#🔒 VL-WS-NONE 🇺🇸 US-93.115.241.62:80 📡 PING-055.16-MS
 vless://86dba4c3-9fcc-4152-99a6-18b144d804fc@108.181.24.29:443?security=tls&flow=xtls-rprx-vision&sni=jsdownloadus.xn--4gq62f52gopi49k.com&type=tcp&fp=edge#🔒 VL-TCP-TLS 🇺🇸 US-108.181.24.29:443 📡 PING-056.24-MS
 vless://de44b044-8f90-4e18-b742-16591667ff96@64.64.231.33:36882?security=tls&sni=edgetunnel-free.pages.dev&type=ws&path=%2F%3Fed&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-64.64.231.33:36882 📡 PING-056.39-MS
+vless://ff884731-2476-44aa-855c-a5384085672d@213.156.144.62:80?security=none&type=ws&host=mamanodamind.com&path=%2Fws#🔒 VL-WS-NONE 🇲🇽 MX-213.156.144.62:80 📡 PING-056.70-MS
