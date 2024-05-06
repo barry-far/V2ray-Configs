@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.133.177.215:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇬🇧 GB-18.133.177.215:22222 📡 PING-081.74-MS
+vless://774ab107-9adc-444a-a2e6-7ce4ced41a70@141.94.115.231:2003?security=tls&sni=fr-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇫🇷 FR-141.94.115.231:2003 📡 PING-081.91-MS
 vless://4ad7a8cf-bd7a-4da0-b862-c0b6f91ab583@51.75.30.8:443?security=tls&sni=fr.vpnbase.net&type=ws&path=%2Fssl&allowInsecure=1#🔒 VL-WS-TLS 🇫🇷 FR-51.75.30.8:443 📡 PING-081.97-MS
 vless://80bd8c9f-4d14-47c1-9dbf-4ff3422e681e@185.234.64.57:443?security=none&type=tcp&host=france24.com&headerType=http#🔒 VL-TCP-NONE 🇫🇷 FR-185.234.64.57:443 📡 PING-082.03-MS
 vless://774ab107-9adc-444a-a2e6-7ce4ced41a70@141.94.115.231:443?security=tls&sni=fr-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇫🇷 FR-141.94.115.231:443 📡 PING-082.10-MS
@@ -601,5 +603,3 @@ vless://35caec98-86de-4f38-a011-eb7e134446c7@172.67.197.28:443?security=tls&sni=
 vless://54ef4ecf-ff37-436a-be13-95c8a8a1114d@104.18.103.204:443?security=tls&sni=vIrGiNiAvPn-nL.pAgEs.dEv&type=ws&host=ViRgInIaVpN-Nl.PaGeS.DeV&path=%2FTel_warphiddify%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.103.204:443 📡 PING-005.54-MS
 vless://714c776d-ccf4-57db-97b2-3628ae1f1b3d@104.19.216.72:443?security=tls&sni=ztv2ray.teyekas893.wORKeRS.DEV&type=ws&host=ztv2ray.teyekas893.wORKeRS.DEV&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h3,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.216.72:443 📡 PING-005.54-MS
 vless://6024b2c4-5f46-42bb-a5b4-82c0ea7ae73f@77.37.33.69:443?security=tls&sni=p5us1.pqjc.buzz&type=ws&path=%2Fpq%2Fus1&fp=ios#🔒 VL-WS-TLS 🇩🇪 DE-77.37.33.69:443 📡 PING-005.54-MS
-vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@162.159.130.57:8080?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.130.57:8080 📡 PING-005.53-MS
-vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.19.12.170:443?security=tls&sni=BIa-PaiN-baChE.pageS.dev&type=ws&host=Bia-PAIN-baChe.paGEs.DeV&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.12.170:443 📡 PING-005.53-MS

@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://12ac0ca9-c8eb-49fe-a5d7-7238a5620f48@104.21.5.236:2083?security=tls&sni=tomajsalehi.meysaam.com&type=grpc&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.5.236:2083 📡 PING-005.36-MS
+vless://52de3fa6-1673-4918-a90d-21d2b69de98e@172.67.49.115:443?security=tls&sni=eb8c0c64.888766.pages.dev&type=ws&host=eb8c0c64.888766.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.49.115:443 📡 PING-005.36-MS
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.16.76:80?security=none&type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.16.76:80 📡 PING-005.36-MS
 vless://1890351e-af30-40f3-8595-127671bde200@160.79.104.10:2053?security=tls&sni=vpn--ocean2.cdn-user.workers.dev&type=ws&host=vpn--ocean2.cdn-user.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-160.79.104.10:2053 📡 PING-005.36-MS
 vless://826e43d2-dbe9-41a6-bbf8-3aed2f93f5d4@172.66.44.212:443?security=tls&sni=pardazeshvpn-tg20.pages.dev&type=ws&path=%2F%3Fed&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.212:443 📡 PING-005.36-MS
@@ -601,5 +603,3 @@ vless://d9b3134e-007e-41e0-a146-8c53977e27f5@188.114.97.0:443?security=tls&sni=a
 vless://664f5f11-1231-486d-b416-b7b3ecdae76a@104.31.16.196:443?security=tls&sni=HETZNER-D.pages.DEV&type=ws&host=HETZNER-D.pages.DEV&path=/?ed%3D2048&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.196:443 📡 PING-005.24-MS
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@204.93.210.132:2096?security=tls&sni=a.ssll.gay&type=ws&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-204.93.210.132:2096 📡 PING-005.24-MS
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@204.93.210.49:2096?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-204.93.210.49:2096 📡 PING-005.24-MS
-vless://5874cb3d-dadb-4537-e7bc-d56fcb90d7cb@104.16.61.8:2053?security=tls&sni=pk.tecnophone.sbs&type=ws&host=bg.tecnophone.sbs&path=%2F&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.61.8:2053 📡 PING-005.24-MS
-vless://e794da45-0d8d-4b7a-9ae9-b0b84528b360@172.67.128.212:443?security=tls&sni=hexaprop.dirih76753.workers.dev&type=ws&host=hexaprop.dirih76753.workers.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.128.212:443 📡 PING-005.24-MS
