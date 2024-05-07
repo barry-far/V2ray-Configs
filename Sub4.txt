@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://a1316cd8-3485-45a7-8574-d652407b5054@64.226.117.2:30372?security=none&type=ws&path=%2FTelegram%3A+%40Netmaask+Telegram%3A+%40Netmaask+Telegram%3A+%40Netmaask#🔒 VL-WS-NONE 🇩🇪 DE-64.226.117.2:30372 📡 PING-088.65-MS
+vless://3f926686-dd36-4d3e-bc63-99eae58ddd10@95.164.88.77:443?security=none&type=tcp&host=france24.com&headerType=http#🔒 VL-TCP-NONE 🇬🇧 GB-95.164.88.77:443 📡 PING-088.65-MS
 vless://7a24704b-5d64-48a9-94d7-726ba993d51f@95.164.117.128:2003?security=tls&sni=de2-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇩🇪 DE-95.164.117.128:2003 📡 PING-088.66-MS
 vless://a182932d-7b23-4a03-8b84-b4e7f39ee8d7@158.101.195.118:443?security=tls&flow=xtls-rprx-vision&sni=b295-23nl29-6bh.xn--4gq62f52gppi29k.com&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇳🇱 NL-158.101.195.118:443 📡 PING-088.69-MS
 vless://3c978af6-f7c1-4857-aab1-8ae33452d49c@188.119.112.242:443?security=tls&sni=nl-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇳🇱 NL-188.119.112.242:443 📡 PING-088.78-MS
@@ -601,5 +603,3 @@ vless://d6bae88d-6671-4825-8a6d-dfbd712bf49b@172.67.204.84:2053?security=tls&sni
 vless://e0953d0f-3f7a-4ab5-8177-c34b75c1feda@104.18.14.229:443?security=tls&sni=ch.saeid-daraei11.workers.dev&type=ws&host=ch.saeid-daraei11.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.14.229:443 📡 PING-005.61-MS
 vless://ecd404a2-70b2-4e89-8339-89536cdfae52@162.159.240.141:8080?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.240.141:8080 📡 PING-005.61-MS
 vless://284fd6b7-8e4a-4fd6-b96a-0a9b806bac65@104.24.177.7:2052?security=none&type=ws&host=Oo-01010101010-10101010101010101-m-1-1-1-1-010101010101.dl2NeXtflix-inbound3Html-irect2d-1.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.177.7:2052 📡 PING-005.61-MS
-vless://319235a8-b8c0-4a39-d420-9a1e82add3d5@104.21.5.109:2083?security=tls&sni=g1.korda.top&type=grpc&serviceName=g1.korda.top&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.5.109:2083 📡 PING-005.61-MS
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@77.37.33.195:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇩🇪 DE-77.37.33.195:8443 📡 PING-005.60-MS
