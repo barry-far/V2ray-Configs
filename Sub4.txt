@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://40e357c2-06f4-433a-b6cc-5d5c8b487e1d@176.126.113.161:443?security=tls&flow=xtls-rprx-vision&sni=nl2-full.privateip.net&type=tcp&path=/&allowInsecure=1#🔒 VL-TCP-TLS 🇳🇱 NL-176.126.113.161:443 📡 PING-153.54-MS
-vless://0f55261b-34f5-4b99-9215-ac1405bb810d@51.75.77.237:2003?security=tls&sni=de-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇩🇪 DE-51.75.77.237:2003 📡 PING-153.57-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@152.32.252.175:8969?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇭🇰 HK-152.32.252.175:8969 📡 PING-154.24-MS
 vless://8d21dd74-23b1-469d-a92f-13f9e9e8f25a@8.218.3.12:80?security=none&type=ws&host=wodebaofu.wodebaofu.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇭🇰 HK-8.218.3.12:80 📡 PING-154.30-MS
 vless://2099c67a-c350-402d-ad6a-bb0f5532a7c7@8.218.211.17:2052?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇭🇰 HK-8.218.211.17:2052 📡 PING-154.45-MS
@@ -603,3 +601,5 @@ vless://648ce7fb-2623-421d-cdaf-2d3c507c53dd@172.67.203.233:443?security=tls&sni
 vless://32a23e58-45ee-4ce0-8bf9-34445af2ecfa@103.184.44.104:2052?security=none&type=ws&host=xn--018o.orerblog.filtv.blog.boredhot.cloudcccc.joinbede.sbs.&path=/Telegram,@TEHRANARGO,Telegram,@TEHRANARGO,Telegram,@TEHRANARGO,Telegram,@TEHRANARGO,Telegram,@TEHRANARGO,Telegram,@TEHRANARGO,Telegram,@TEHRANARGO#🔒 VL-WS-NONE 🇨🇳 CN-103.184.44.104:2052 📡 PING-002.11-MS
 vless://03e65202-9ca4-42b2-9804-257cbdffc719@104.21.74.197:443?security=tls&sni=BpB.alAnA-hEidEnReich.woRKErs.dEv&type=ws&host=BpB.aLana-hEiDenREich.WoRKeRs.dEv&path=%2Fg8FcEa43XePiWgWa%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.74.197:443 📡 PING-002.11-MS
 vless://e5f38cb2-d25c-464c-9aa6-a8890148bbb9@162.159.136.234:80?type=ws&host=mnvxar.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FZEDMODEON-%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.136.234:80 📡 PING-002.11-MS
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.19:8443?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.19:8443 📡 PING-002.11-MS
+vless://e9e2d63c-1cab-4605-b36d-fe52cc5130a7@162.159.130.234:2095?type=ws&host=xn--047h.v2raxx6.shop.&path=%2FV2RAXX-V2RAXX-V2RAXX%3Fed%3D2048#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.130.234:2095 📡 PING-002.11-MS
