@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://88845e47-23a5-4049-8e8c-2ea49f0c11a1@51.178.236.123:43633?security=none&type=kcp#🔒 VL-KCP-NONE 🇫🇷 FR-51.178.236.123:43633 📡 PING-099.43-MS
 vless://2e698174-4c93-49c3-8532-df4c46800383@198.244.190.189:443?security=tls&sni=uk-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇬🇧 GB-198.244.190.189:443 📡 PING-099.60-MS
 vless://f25be958-7d9d-4e4b-a3e4-d82c3b06d16a@141.94.115.231:2003?security=tls&sni=fr-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇫🇷 FR-141.94.115.231:2003 📡 PING-099.68-MS
 vless://a46a732f-5488-4f73-b040-9297ba7d1351@141.95.162.118:82?security=none&type=tcp&host=www.speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇫🇷 FR-141.95.162.118:82 📡 PING-099.68-MS
@@ -602,4 +603,3 @@ vless://21187b47-d3dc-44d0-9b72-5f5feaa41ecd@172.67.147.79:8880?security=none&ty
 vless://37218160-d684-4605-9f89-b5c987034969@104.18.25.92:8443?security=tls&sni=channel-falcunargo-de2.falcunar.uk.eu.org&type=ws&host=channel-falcunargo-de2.falcunar.uk.eu.org&path=%2FLOCKEY_VPN%2F%3Fed%3D2048&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.25.92:8443 📡 PING-002.99-MS
 vless://bd2abbe2-d18d-4b2a-8ee5-543465ab7a7f@104.18.201.168:2096?security=tls&sni=Alfredo.ZmV2ray.site&type=grpc&serviceName=@Alfred_Config,@Alfred_Config,@Alfred_Config,@Alfred_Config,@Alfred_Config,@Alfred_Config,@Alfred_Config&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.201.168:2096 📡 PING-002.99-MS
 vless://61a491db-7749-49fd-b3d2-e339a3fa1db2@104.17.127.233:443?security=tls&sni=v2.baradweb.com&type=ws&host=v2.baradweb.com&path=%2Fvless%3Fed%3D2048&fp=firefox&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.127.233:443 📡 PING-002.98-MS
-vless://0ebb1677-4902-476f-bc03-3e8c7ca6fd21@172.67.153.74:2096?security=tls&sni=node.vauth.workers.dev&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.153.74:2096 📡 PING-002.98-MS
