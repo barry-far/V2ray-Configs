@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vmess://eyJhZGQiOiAiaXMzLXZtZXNzLnNzaG1heC54eXoiLCAiYWlkIjogMCwgImhvc3QiOiAiaXMzLXZtZXNzLnNzaG1heC54eXoiLCAiaWQiOiAiYThkMzM0NDItZGU2NC00OTgwLWE3NzktNTQwYzFlZWRiYzI1IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi92bWVzcyIsICJwb3J0IjogODAsICJwcyI6ICJASG9wZV9OZXQtam9pbi11cy1vbi1UZWxlZ3JhbSIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byJ9
-vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjEwNC4xOS40My4xMjIiLCAicG9ydCI6ICI4MCIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiYzA0NTNhMTYtNjdlOS00ZWFiLWJkYzktYjk2MjRhZDZiZDI5IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICJvc2FrYS54bGI4LmV1Lm9yZyIsICJ0bHMiOiAiIn0=
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.20.88.234:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇸🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.69.152.170:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
 vless://2105b603-37d3-4fd6-9656-ea47a1ed941f@79.175.162.151:28017?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@Hope_Net-join-us-on-Telegram
@@ -603,3 +601,5 @@ vless://a182932d-7b23-4a03-8b84-b4e7f39ee8d7@158.101.195.118:443?security=tls&fl
 vless://a182932d-7b23-4a03-8b84-b4e7f39ee8d7@141.145.200.125:443?security=tls&flow=xtls-rprx-vision&sni=b2-9fr2329-6bh.xn--4gq62f52gppi29k.com&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇫🇷 FR-141.145.200.125:443 📡 PING-083.91-MS
 vless://d0c54145-59d2-4573-baf6-93401f7064fe@178.62.209.129:48902?security=none&type=ws&host=Google.com&path=%2F#🔒 VL-WS-NONE 🇳🇱 NL-178.62.209.129:48902 📡 PING-083.98-MS
 vless://0f737293-71ce-4ccd-9ba7-1fb7f7a499ed@5.199.136.180:20601?security=tls&sni=a2.mgtoken.net&type=ws&path=%2F&fp=randomized#🔒 VL-WS-TLS 🇩🇪 DE-5.199.136.180:20601 📡 PING-084.01-MS
+vless://223aab2b-c2ec-4c36-93df-69043d76b94c@135.125.75.225:2086?type=ws&host=135.125.75.225&path=%2F#🔒 VL-WS-NA 🇫🇷 FR-135.125.75.225:2086 📡 PING-084.36-MS
+vless://63e4d3f5-1c2a-4ecd-bc1f-ae67531123c1@164.92.161.234:14240?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-164.92.161.234:14240 📡 PING-084.96-MS
