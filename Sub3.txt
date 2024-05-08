@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d487cdf6-a575-45b1-8123-ff3cb9a878a2@104.21.4.113:2096?security=tls&sni=channel.v2bamdad.tech&type=grpc&serviceName=BBjszEZzABSQuqxj4FxIzvwxUDoX&host=channel.v2bamdad.tech&path=BBjszEZzABSQuqxj4FxIzvwxUDoX&fp=chrome&alpn=h2#@Hope_Net-join-us-on-Telegram
+vless://2136a808-ccd7-48cf-97c8-2c0b255e4715@172.67.73.163:8443?security=tls&sni=telegram-falcunargo-france.falcunar.asso.eu.org&type=ws&host=telegram-falcunargo-france.falcunar.asso.eu.org&path=%2FTELEGRAM-PROXY_MTM%3Fed%3D2560&fp=random#@Hope_Net-join-us-on-Telegram
+vless://27e65bcd-f3d9-4b39-a091-c477cff929b5@185.146.173.94:8880?path=%2F%40LIGHTNING6+TEL++%40LIGHTNING6+TEL++%40LIGHTNING6+TEL++%40LIGHTNING6+JOIN+%40LIGHTNING6+TEL++%40LIGHTNING6+JOIN+%40LIGHTNING6+TEL++%40LIGHTNING6+TEL++%40LIGHTNING6+JOIN+%40LIGHTNING6+TEL++%40LIGHTNING6+%40LiV2ray&security=none&encryption=none&host=xn---qhantayawi--e-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.xn--94q488fl6grlogzeo1h.xyz.&type=ws#%40proxyymeliii
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjEwNC4xOS40My42MCIsICJwb3J0IjogIjgwIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJjMDQ1M2ExNi02N2U5LTRlYWItYmRjOS1iOTYyNGFkNmJkMjkiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJob3N0IjogIm9zYWthLnhsYjguZXUub3JnIiwgInRscyI6ICIifQ==
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjEwNC4xOS40My4xMDMiLCAicG9ydCI6ICI4MCIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiYzA0NTNhMTYtNjdlOS00ZWFiLWJkYzktYjk2MjRhZDZiZDI5IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICJvc2FrYS54bGI4LmV1Lm9yZyIsICJ0bHMiOiAiIn0=
 vless://86bba249-900d-4f72-9ed5-e3a42ff06a97@104.17.250.237:80?type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg#@Hope_Net-join-us-on-Telegram
@@ -600,6 +603,3 @@ vless://15c8e8e3-4f66-48af-b0de-0b869a642bc1@212.52.1.77:5454?security=none&type
 vless://a182932d-7b23-4a03-8b84-b4e7f39ee8d7@89.168.48.239:443?security=tls&flow=xtls-rprx-vision&sni=b-29fr3-296bh.xn--4gq62f52gppi29k.com&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇫🇷 FR-89.168.48.239:443 📡 PING-139.16-MS
 vless://3c978af6-f7c1-4857-aab1-8ae33452d49c@188.119.112.242:443?security=tls&sni=nl-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇳🇱 NL-188.119.112.242:443 📡 PING-139.23-MS
 vless://a182932d-7b23-4a03-8b84-b4e7f39ee8d7@141.145.200.125:443?security=tls&flow=xtls-rprx-vision&sni=b2-9fr2329-6bh.xn--4gq62f52gppi29k.com&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇫🇷 FR-141.145.200.125:443 📡 PING-139.32-MS
-vless://51701e0e-a004-4f2c-9466-9cd2670465b3@5.75.207.135:8080?security=none&type=ws&path=%2Fbackup#🔒 VL-WS-NONE 🇩🇪 DE-5.75.207.135:8080 📡 PING-139.99-MS
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.124.42.198:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇩🇪 DE-3.124.42.198:22222 📡 PING-140.04-MS
-vless://f7e825f5-8651-4102-a445-25e5fd1c07b2@49.13.225.84:2096?type=tcp#🔒 VL-TCP-NA 🇩🇪 DE-49.13.225.84:2096 📡 PING-140.09-MS
