@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.19.229.57:443?security=tls&sni=523afb17.IRS23.pAgES.Dev&type=ws&host=523AfB17.IRS23.pagES.DEv&path=%2FeaK9H14EfA31X0nr%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
+vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjEwNC4xOS40My4xODgiLCAicG9ydCI6ICI4MCIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiYzA0NTNhMTYtNjdlOS00ZWFiLWJkYzktYjk2MjRhZDZiZDI5IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICJvc2FrYS54bGI4LmV1Lm9yZyIsICJ0bHMiOiAiIn0=
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.171.229.195:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@Hope_Net-join-us-on-Telegram
 vmess://eyJhZGQiOiAiY2YxLmZ0Y2xhc2hjbG91ZC5zaXRlIiwgImFpZCI6IDAsICJob3N0IjogImF6a3IwMS5mdGNsYXNoY2xvdWQub25saW5lIiwgImlkIjogIjE0MzkxMjUwLWVjMmEtNGY4Yy05OTJhLTlhMGQ2YTMwYmI2ZiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvd3M/ZWQ9MjU2MCIsICJwb3J0IjogODAsICJwcyI6ICJASG9wZV9OZXQtam9pbi11cy1vbi1UZWxlZ3JhbSIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byJ9
 vmess://eyJ2IjogIjIiLCAiYWRkIjogIjE3Mi42Ny4yMDcuMjYiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAiNzYyMjFiZmItZTkyZi00ZTgwLTgxYzUtNmZlNDhmNTBhYzBiIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJnbHdlaWRmLnNicyIsICJwYXRoIjogIi9saW5rd3MiLCAidGxzIjogInRscyIsICJzbmkiOiAiZ2x3ZWlkZi5zYnMiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgInBzIjogIkBIb3BlX05ldC1qb2luLXVzLW9uLVRlbGVncmFtIn0=
@@ -601,5 +603,3 @@ vless://018524b2-c20b-4eaa-976a-27d2d2fe3bbb@54.38.79.80:443?security=tls&sni=ap
 vless://4ad7a8cf-bd7a-4da0-b862-c0b6f91ab583@51.75.30.8:443?security=tls&sni=fr.vpnbase.net&type=ws&path=%2Fssl#🔒 VL-WS-TLS 🇫🇷 FR-51.75.30.8:443 📡 PING-080.21-MS
 vless://1949f066-bcb0-49be-88e9-74abd940f80e@51.75.30.8:80?security=none&type=ws&path=%2Fhttp#🔒 VL-WS-NONE 🇫🇷 FR-51.75.30.8:80 📡 PING-080.31-MS
 vless://2a8755cd-138c-42ac-b5af-c5fe0e6383b0@185.234.64.35:443?security=tls&flow=xtls-rprx-vision&sni=namasha.com&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇫🇷 FR-185.234.64.35:443 📡 PING-080.34-MS
-vless://f25be958-7d9d-4e4b-a3e4-d82c3b06d16a@141.94.115.231:443?security=tls&sni=fr-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇫🇷 FR-141.94.115.231:443 📡 PING-080.45-MS
-vless://a182932d-7b23-4a03-8b84-b4e7f39ee8d7@143.47.236.28:443?security=tls&flow=xtls-rprx-vision&sni=767w1-38dc0-9kcf2.xn--4gq62f52gppi29k.com&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇬🇧 GB-143.47.236.28:443 📡 PING-080.67-MS

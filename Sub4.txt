@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://f25be958-7d9d-4e4b-a3e4-d82c3b06d16a@141.94.115.231:443?security=tls&sni=fr-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇫🇷 FR-141.94.115.231:443 📡 PING-080.45-MS
+vless://a182932d-7b23-4a03-8b84-b4e7f39ee8d7@143.47.236.28:443?security=tls&flow=xtls-rprx-vision&sni=767w1-38dc0-9kcf2.xn--4gq62f52gppi29k.com&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇬🇧 GB-143.47.236.28:443 📡 PING-080.67-MS
 vless://a182932d-7b23-4a03-8b84-b4e7f39ee8d7@132.226.210.116:443?security=tls&flow=xtls-rprx-vision&sni=767w1-38dc0-9icf2.xn--4gq62f52gppi29k.com&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇬🇧 GB-132.226.210.116:443 📡 PING-080.69-MS
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@146.70.175.181:443?security=tls&sni=hk010.ylks.link&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇳🇱 NL-146.70.175.181:443 📡 PING-080.83-MS
 vless://368fc098-ecb9-4c3c-87c4-6c3ffdbf0cfe@45.140.167.94:443?security=tls&flow=xtls-rprx-vision&sni=uk1.x2fast.net&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇬🇧 GB-45.140.167.94:443 📡 PING-081.00-MS
@@ -601,5 +603,3 @@ vless://8545c44f-b1b4-4295-ae98-f0b6301a537f@172.66.44.58:2096?security=tls&sni=
 vless://319235a8-b8c0-4a39-d420-9a1e82add3d5@104.21.5.109:2083?security=tls&sni=g1.korda.top&type=grpc&serviceName=g1.korda.top&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.5.109:2083 📡 PING-015.79-MS
 vless://3d4aa2a5-4cbe-4bee-af22-3e35b9105475@104.18.202.232:2052?security=none&type=ws&host=daily-configs.xn--ykqpu7pm2wzwbm5mpyner8e1ri.tech.&path=%2F%40Daily_Configs-%40Daily_Configs-%40Daily_Configs%3Fed%3D1024#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.202.232:2052 📡 PING-015.59-MS
 vless://72853790-c2b5-4147-a70d-44a519763fd6@104.18.42.50:443?security=tls&sni=off.v2box.lol.&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.42.50:443 📡 PING-015.39-MS
-vless://86e00829-7b2c-4fac-a594-2dfaa7556d68@172.67.209.118:2087?security=tls&sni=smconfing444.lakav69944.workers.dev&type=ws&host=smconfing444.lakav69944.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=android&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.209.118:2087 📡 PING-015.37-MS
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.213.38:2087?security=tls&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=twitterfreecodes&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.213.38:2087 📡 PING-015.26-MS
