@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjE3My44Mi4yNTEuMjQwIiwgInBvcnQiOiAiMjIzMyIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiMWUzODQ3ZTYtNzU1YS00OTY0LTk4NDUtNGFjNTNlMzliMjNjIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICIiLCAidGxzIjogIiJ9
 vless://f904669b-25e5-4dd9-9fac-880837034950@104.18.202.232:2083?security=tls&sni=all4.savagev2ray.site&type=grpc&serviceName=@XvProxy,@XvProxy,@XvProxy,@XvProxy#@Hope_Net-join-us-on-Telegram
 vless://01c6ab80-7b8d-456e-ad8b-9540538ebd09@162.159.153.2:8443?security=tls&sni=telegram-falcunargo-finl.falcunar.asso.eu.org&type=ws&host=telegram-falcunargo-finl.falcunar.asso.eu.org&path=%2F%3Fed%3D2048&fp=random#@Hope_Net-join-us-on-Telegram
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.2:443?security=tls&sni=miumiUMadReKoSE.pAgES.dEv&type=ws&host=MIumIumADrEkOsE.pAGeS.dev&path=%2FTelegram-MARAMBASHI%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
@@ -602,4 +603,3 @@ vless://88845e47-23a5-4049-8e8c-2ea49f0c11a1@51.178.236.123:43633?security=none&
 vless://a8c66008-3671-4ecb-8101-ba32511c435a@165.227.130.2:29337?security=none&type=ws&host=Google.com&path=%2F%40Netmaask#🔒 VL-WS-NONE 🇩🇪 DE-165.227.130.2:29337 📡 PING-154.97-MS
 vless://63e4d3f5-1c2a-4ecd-bc1f-ae67531123c1@164.92.161.234:14240?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-164.92.161.234:14240 📡 PING-155.01-MS
 vless://49d99b05-0a7e-4979-9193-ae2dbfd7a225@95.164.117.128:2003?security=tls&sni=de2-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇩🇪 DE-95.164.117.128:2003 📡 PING-155.03-MS
-vless://2eff3bc1-e039-4f48-855b-d97425fa58ec@95.164.68.37:443?security=tls&sni=Join-M-buy-In-Telegram.pages.dev&type=ws&host=de1.x2fast.net&path=%2Fws&fp=chrome#🔒 VL-WS-TLS 🇩🇪 DE-95.164.68.37:443 📡 PING-155.06-MS
