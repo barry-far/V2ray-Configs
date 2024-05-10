@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://455837b7-0e72-4cf5-9e88-a8e1d6731022@194.246.114.54:2003?security=tls&sni=hk-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇭🇰 HK-194.246.114.54:2003 📡 PING-235.19-MS
-vless://14ccb3fa-49e2-4753-8de3-987d5212d825@89.235.78.42:7698?security=none&type=tcp&host=uptvs.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-89.235.78.42:7698 📡 PING-239.22-MS
 vless://728c0d02-d566-4179-b80f-dbd19b8292f8@5.202.75.207:34007?security=none&type=tcp&host=speedtest.net&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.202.75.207:34007 📡 PING-247.67-MS
 vless://2b7098cc-9efb-4175-80f3-801fb293b87f@95.164.114.43:443?security=tls&sni=kz-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇰🇿 KZ-95.164.114.43:443 📡 PING-272.68-MS
 vless://2dd09a30-ff5a-4b4a-8058-82216951671c@31.7.78.227:197?type=tcp&host=zula.ir&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-31.7.78.227:197 📡 PING-333.86-MS
@@ -603,3 +601,5 @@ vless://82f69a1d-168b-41b1-994a-1e634b9338a9@104.21.48.29:443?security=tls&sni=f
 vless://f56362e0-909f-4094-a15e-fb4b32b952cb@198.41.216.0:2096?security=tls&sni=ililoxnu.ziroxbioxa.oNFLaShDRiVE.aPP&type=ws&host=ililoxnu.ziroxbioxa.oNFLaShDRiVE.aPP&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.216.0:2096 📡 PING-002.40-MS
 vless://fd667cc8-7f4e-4ec4-ba4e-46d6209c128c@104.16.59.41:2096?security=tls&sni=re6.v2logy.xyz&type=grpc&fp=chrome&alpn=http%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.59.41:2096 📡 PING-002.39-MS
 vless://d9b3134e-007e-41e0-a146-8c53977e27f5@104.25.221.166:443?security=tls&sni=academivpn1-bo7.pages.dev&type=ws&host=academivpn1-bo7.pages.dev&path=%2F&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.221.166:443 📡 PING-002.39-MS
+vless://f86853c6-7f3d-4c7b-b15b-df47efad6b9e@104.16.87.49:80?type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.87.49:80 📡 PING-002.39-MS
+vless://7e333f65-09bc-4ecb-bb47-b9e9aead2742@162.159.134.234:2096?security=tls&sni=re4.v2logy.xyz&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.134.234:2096 📡 PING-002.39-MS
