@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://e5d46365e25e31d94279c2bcf93390a2@usa-sr-106.mitoption.com:443?allowInsecure=1#%F0%9F%87%AA%F0%9F%87%BA%20%E6%AC%A7%E6%B4%B2%28%E6%AC%A2%E8%BF%8E%E8%AE%A2%E9%98%85Youtube%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B%29
-trojan://cfaa1d87-16c9-45f2-8ca1-833badb6b790@fr.node.qchwnd.moe:44612?allowInsecure=1#%F0%9F%87%AA%F0%9F%87%BA%20%E6%AC%A7%E6%B4%B2%28%E6%AC%A2%E8%BF%8E%E8%AE%A2%E9%98%85Youtube%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B%29
-trojan://c19d1432-8b3e-4818-8837-3d160cf65908@jgwdb2.gaox.ml:443?allowInsecure=1#%F0%9F%87%AA%F0%9F%87%BA%20%E6%AC%A7%E6%B4%B2%28%E6%AC%A2%E8%BF%8E%E8%AE%A2%E9%98%85Youtube%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B%29
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@169.197.141.109:5001#%F0%9F%87%AA%F0%9F%87%BA%20%E6%AC%A7%E6%B4%B2%28%E6%AC%A2%E8%BF%8E%E8%AE%A2%E9%98%85Youtube%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B%29
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@169.197.141.109:8888#%F0%9F%87%AA%F0%9F%87%BA%20%E6%AC%A7%E6%B4%B2%28%E6%AC%A2%E8%BF%8E%E8%AE%A2%E9%98%85Youtube%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B%29
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqvCfh7og5qyn5rSyKOasoui/juiuoumYhVlvdXR1YmXnoLTop6PotYTmupDlkJspIiwiYWRkIjoiNDUuMzIuNzcuMTAzIiwicG9ydCI6IjIyMTkyIiwidHlwZSI6Im5vbmUiLCJpZCI6ImEyMjY1M2QyLWJjYmMtNGJlNy04MWZiLTAyNzJhYTRlNDdiMyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvOVEyb2drT0svIiwiaG9zdCI6IiIsInRscyI6IiJ9
 trojan://cfaa1d87-16c9-45f2-8ca1-833badb6b790@tw.node.qchwnd.moe:44608?allowInsecure=1#%F0%9F%87%A8%F0%9F%87%B3%20%E5%8F%B0%E6%B9%BE%28%E6%AC%A2%E8%BF%8E%E8%AE%A2%E9%98%85Youtube%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B%29
@@ -603,3 +599,7 @@ vless://6f320eed-31a4-4115-b873-7c10ecab830d@5.160.219.218:24059?security=none&t
 vless://9621c7a9-40b3-482a-9a27-fafa58e6c6a0@5.63.23.210:48710?security=none&type=tcp&host=radiojavanhd.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.63.23.210:48710 📡 PING-275.21-MS
 vless://8ce67527-6c25-4165-9a83-d88ac0b87f00@5.253.41.160:2003?security=tls&sni=jp-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇯🇵 JP-5.253.41.160:2003 📡 PING-305.48-MS
 vless://8ce67527-6c25-4165-9a83-d88ac0b87f00@5.253.41.160:443?security=tls&flow=xtls-rprx-vision&sni=jp-full.privateip.net&type=tcp&path=%2f&allowInsecure=1#🔒 VL-TCP-TLS 🇯🇵 JP-5.253.41.160:443 📡 PING-316.45-MS
+vless://2b7098cc-9efb-4175-80f3-801fb293b87f@95.164.114.43:2003?security=tls&sni=kz-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇰🇿 KZ-95.164.114.43:2003 📡 PING-325.66-MS
+vless://2b7098cc-9efb-4175-80f3-801fb293b87f@95.164.114.43:443?security=tls&sni=kz-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇰🇿 KZ-95.164.114.43:443 📡 PING-327.42-MS
+vless://2dd09a30-ff5a-4b4a-8058-82216951671c@31.7.78.227:197?type=tcp&host=zula.ir&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-31.7.78.227:197 📡 PING-362.01-MS
+vless://2dd09a30-ff5a-4b4a-8058-82216951671c@31.7.78.228:197?security=none&type=tcp&host=zula.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-31.7.78.228:197 📡 PING-377.59-MS

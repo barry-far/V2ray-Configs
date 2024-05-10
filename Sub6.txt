@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.201:2087?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.201:2087 📡 PING-001.69-MS
-vless://1ff59fad-6cc6-4714-82b1-d4af47de08eb@188.42.88.36:80?security=none&type=ws&host=DiReCt49-13-163-226.CleAnMaRk.IR&path=/DiReCt49-13-163-226-CleAnMaRk-IR#🔒 VL-WS-NONE 🇱🇺 LU-188.42.88.36:80 📡 PING-001.69-MS
-vless://f971c939-32e0-40ca-b4d9-f444fddb45f2@172.66.45.35:443?security=tls&sni=9a6d6fd5.joinmahdiserver-an3.pages.dev&type=ws&host=9a6d6fd5.joinmahdiserver-an3.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.45.35:443 📡 PING-001.69-MS
-vless://34cca50d-721a-4d01-9288-0ae36afa81dd@190.93.247.155:8443?security=tls&sni=weed.shadan.online&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-190.93.247.155:8443 📡 PING-001.68-MS
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.210:443?security=tls&sni=Fe3324C6.bpb-ev.pAgeS.DeV&type=ws&host=Fe3324C6.bpb-Ev.PagEs.DEV&path=%2FpMhs6vwU8eUtRk2K%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.210:443 📡 PING-001.68-MS
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@204.93.210.184:8443?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇺🇸 US-204.93.210.184:8443 📡 PING-001.68-MS
 vless://a0e33e35-ad8d-4226-8d95-3c2fec5f23c5@104.18.149.233:2053?security=tls&sni=isa.kasler.sbs&type=grpc&serviceName=%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%40ev2rayy&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.149.233:2053 📡 PING-001.68-MS
@@ -603,3 +599,7 @@ trojan://4732adfa16c6450bbef87264e41332db@104.16.159.7:443?security=tls&type=ws&
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.154.136.218:7306#US16%202.0MB%2Fs
 trojan://telegram-id-privatevpns@15.237.172.238:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A562
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.214.211.185:443#%E6%9C%AA%E7%9F%A563
+ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@15.184.169.9:443#%E6%9C%AA%E7%9F%A564
+trojan://telegram-id-directvpn@18.170.139.100:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A565
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNjYiLCJhZGQiOiIxNDMuMTk4LjE4LjM1IiwicG9ydCI6Ijg4ODEiLCJpZCI6ImRiNWFmYWU0LWFjMjMtNDFhNi04Mzc4LWYzMDdhOWE0NzQzNiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJob3N0IjoibW9pLmlyIiwicGF0aCI6Ii8iLCJ0bHMiOiJub25lIiwic25pIjoiIiwidGVzdF9uYW1lIjoiNjYifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNjciLCJhZGQiOiIyMy4yMjcuMzkuNDciLCJwb3J0IjoiMjA4MyIsImlkIjoiYzI0ZjgyMmYtODIzMy00OTk2LTkxODMtOGNhYWQ1YTNkMTllIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJncnBjIiwidHlwZSI6Imd1biIsImhvc3QiOiIiLCJwYXRoIjoiMjMuMjI3LjM5LjQ3IiwidGxzIjoidGxzIiwic25pIjoiYmVodGFyaW5mci50dXJrYWxwaGFwcm8uaXIiLCJ0ZXN0X25hbWUiOiI2NyJ9
