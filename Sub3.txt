@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://fdb6f3a3-9d29-47c3-8c92-5a279626dc5b@free.spcloud.us:10001?allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%28%E6%AC%A2%E8%BF%8E%E8%AE%A2%E9%98%85Youtube%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B%29
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@172.99.190.35:3306#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%28%E6%AC%A2%E8%BF%8E%E8%AE%A2%E9%98%85Youtube%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B%29
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@172.99.190.35:443#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%28%E6%AC%A2%E8%BF%8E%E8%AE%A2%E9%98%85Youtube%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B%29
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@198.57.27.225:6679#%F0%9F%87%AA%F0%9F%87%BA%20%E6%AC%A7%E6%B4%B2%28%E6%AC%A2%E8%BF%8E%E8%AE%A2%E9%98%85Youtube%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B%29
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@198.57.27.225:7002#%F0%9F%87%AA%F0%9F%87%BA%20%E6%AC%A7%E6%B4%B2%28%E6%AC%A2%E8%BF%8E%E8%AE%A2%E9%98%85Youtube%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B%29
@@ -603,3 +601,5 @@ vless://fad7ca42-bf94-48bb-b975-0f446f00d6f7@188.212.98.5:2052?security=none&typ
 vless://8aacaf3f-caf0-4fab-8b0c-dd0391dcaeaa@79.175.157.25:59491?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-79.175.157.25:59491 📡 PING-246.03-MS
 vless://768711df-7fbf-473b-9c11-562e99378b2f@62.60.135.56:4001?type=tcp&host=upload.com&path=%2F&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-62.60.135.56:4001 📡 PING-246.51-MS
 vless://4c52ef18-088c-463c-802a-4424da35e5e4@81.12.96.212:14016?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-81.12.96.212:14016 📡 PING-247.40-MS
+vless://3e7e236d-2d5d-49c1-8926-f1755edb093f@79.175.133.83:14228?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-79.175.133.83:14228 📡 PING-248.21-MS
+vless://893c2cb2-4a2e-4131-efa2-f587671b4432@85.9.120.31:21635?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-85.9.120.31:21635 📡 PING-250.65-MS
