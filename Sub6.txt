@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://9e2593c3-2087-4e40-ae96-26866f9ca6cb@162.159.138.232:80?security=none&type=ws&host=zula.ir.www.speedtest.net.xn--84-pv2cvta065cac9302fea377a148g.Store.&path=%2Ftelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.138.232:80 📡 PING-001.41-MS
-vless://44f05498-dbe8-4363-af2f-047bfcdddc5e@190.93.245.245:8443?security=tls&sni=nll_V2ray.soyosh.com&type=ws&host=nll_V2ray.soyosh.com&path=%2F%3Fed%3D8443#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.245.245:8443 📡 PING-001.41-MS
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.147:2087?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.147:2087 📡 PING-001.41-MS
-vless://1ff59fad-6cc6-4714-82b1-d4af47de08eb@45.131.210.26:80?security=none&type=ws&host=DiReCt49-13-163-226.CleAnMaRk.IR&path=/DiReCt49-13-163-226-CleAnMaRk-IR#🔒 VL-WS-NONE 🇳🇱 NL-45.131.210.26:80 📡 PING-001.41-MS
-vless://4d4da811-c5f3-4e73-a64a-232042b19fb7@185.146.173.94:2082?security=none&type=ws&host=xn---qhndlayawi--d-9v2rayqtr75q95bklb97ndla44yjnsp99007hkhja.zmv2ray.site.&path=/TEL:@LOCKEY_VPN#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.94:2082 📡 PING-001.41-MS
-vless://9e79f3ad-96a3-4b1b-8cc7-582f86bc8c7d@104.18.37.228:8080?security=none&type=ws&host=de.%E8%BF%87%E6%BB%A4%E5%99%A8.store.&path=%2Fmelov2ray#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.37.228:8080 📡 PING-001.41-MS
 vless://2b2268a7-5f8f-4947-a5a2-018340df3e1c@172.67.171.49:443?security=tls&sni=de3-vless.sshmax.xyz&type=ws&host=de3-vless.sshmax.xyz&path=%2Fvless#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.171.49:443 📡 PING-001.41-MS
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@14.102.228.139:2083?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-14.102.228.139:2083 📡 PING-001.40-MS
 vless://52a49c8b-680d-4e13-9799-7fb384d5c88b@172.67.138.107:443?security=tls&sni=fast-cd.iraniposhal.ir&type=ws&host=fast-cd.iraniposhal.ir&path=%2F&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.138.107:443 📡 PING-001.40-MS
@@ -603,3 +597,9 @@ trojan://telegram-id-directvpn@3.255.11.88:22222?security=tls&headerType=none&ty
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.39:5601#US16%202.0MB%2Fs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZzBLa01qYkdkSkVo@212.192.9.220:998#%E6%9C%AA%E7%9F%A543
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@15.204.87.225:5003#US17%2076.9KB%2Fs
+trojan://01596265-168b-46a7-bcb7-25662c7a9546@188.114.98.0:443?type=grpc&sni=hdfy7c1.foriran2.eu.org#%E6%9C%AA%E7%9F%A544
+trojan://e81d213d-8dd5-4207-9445-24d8903ffe0c@54.169.37.75:2248?type=ws&sni=lmtsg2.cfyun01.sbs&path=/CFYUN&host=lmtsg2.cfyun01.sbs#%E6%9C%AA%E7%9F%A545
+vmess://eyJ2IjoiMiIsInBzIjoiVVMxOCIsImFkZCI6Im5vb3pjaGF0LmlyIiwicG9ydCI6IjQ0MyIsImlkIjoiM2VkOWFjNTMtY2UwMC00YWE1LTlmN2EtYTJlNmZhYjBlMTRhIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IlRyZWUuQmxhbmt1Lk1lIiwicGF0aCI6Ii93c3M0OTQwNiIsInRscyI6InRscyIsInNuaSI6IlJvY2twLkJsYW5rdS5NZSIsInRlc3RfbmFtZSI6IlVTMTgifQ==
+trojan://d9e63b8c-112c-4e11-8b48-4c8231bddf98@141.94.115.231:443?#%E6%9C%AA%E7%9F%A546
+ss://NzFkY2U5YWYtZDc5MC00YjM4LWExZmQtNzc0NWUwOTIzYmQzOg==@104.21.16.169:443#%E6%9C%AA%E7%9F%A547
+trojan://8e2a5822-441f-4a3e-bf7f-6243ddf4291d@5.253.41.160:443?#%E6%9C%AA%E7%9F%A548

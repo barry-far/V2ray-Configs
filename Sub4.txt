@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://1a06da84-88f7-4350-ac2f-336d676d7503@5.145.119.42:8880?security=none&type=ws&host=mail.mahan-prog.ir&path=%2Fmahdiiprog#🔒 VL-WS-NONE 🇮🇷 IR-5.145.119.42:8880 📡 PING-246.47-MS
-vless://4839bc0b-0c7a-4c6d-90d6-b2a4997fde89@212.80.18.60:41661?security=none&type=tcp&host=www.speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-212.80.18.60:41661 📡 PING-246.91-MS
-vless://74f92f29-260a-4332-8121-8a94acaba18d@212.80.18.147:443?security=none&type=tcp&host=www.speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-212.80.18.147:443 📡 PING-247.65-MS
-vless://e9068592-2283-4346-b4d0-f65c5e53dfd6@87.248.155.7:2438?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-87.248.155.7:2438 📡 PING-248.55-MS
-vless://2b7098cc-9efb-4175-80f3-801fb293b87f@95.164.114.43:2003?security=tls&sni=kz-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇰🇿 KZ-95.164.114.43:2003 📡 PING-251.75-MS
-vless://2b7098cc-9efb-4175-80f3-801fb293b87f@95.164.114.43:443?security=tls&sni=kz-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇰🇿 KZ-95.164.114.43:443 📡 PING-252.45-MS
 vless://8ce67527-6c25-4165-9a83-d88ac0b87f00@5.253.41.160:2003?security=tls&sni=jp-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇯🇵 JP-5.253.41.160:2003 📡 PING-252.55-MS
 vless://0d5cdec3-ff6c-49cb-9d7d-206d7c7d1437@2.189.111.71:443?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-2.189.111.71:443 📡 PING-252.83-MS
 vless://9d69192f-e358-4419-be45-97e8cbbc9ab0@193.151.158.39:23760?security=none&type=tcp&host=varzesh3.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-193.151.158.39:23760 📡 PING-255.30-MS
@@ -603,3 +597,9 @@ vless://d64e0999-246e-40eb-ad1f-16221a9a3dfd@140.99.233.4:443?security=tls&sni=N
 vless://fbc0ecd4-9fd3-4533-8df7-33d29493ff65@188.114.98.255:443?security=tls&sni=mwa100100m.a2c6ec2a96.workers.dev&type=ws&host=mwa100100m.a2c6ec2a96.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.255:443 📡 PING-001.60-MS
 vless://61817e64-10ca-47be-97e8-9d6ff6aa2a5d@172.67.147.142:443?security=tls&sni=rsfrndc.foriran.trade&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.147.142:443 📡 PING-001.60-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.216.57:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.216.57:443 📡 PING-001.60-MS
+vless://704e71a4-ded1-4704-82f1-b96ed6e93dcb@104.21.77.101:2087?security=tls&sni=nl.RxV2ray.space&type=grpc&serviceName=%40RxV2ray&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.77.101:2087 📡 PING-001.60-MS
+vless://e1a5cc95-a43b-4cb9-93ce-16f2bdaf49d6@45.205.0.50:2095?security=none&type=ws&host=a.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON#🔒 VL-WS-NONE 🇺🇸 US-45.205.0.50:2095 📡 PING-001.60-MS
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.242.229.9:2083?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F#🔒 VL-WS-TLS 🇱🇺 LU-94.242.229.9:2083 📡 PING-001.60-MS
+vless://19ded9f2-64c2-4a24-b127-ea9cb8c242d1@172.67.129.247:8080?security=none&type=ws&host=maz.%E5%83%8F%E9%B8%9F%E4%B8%80%E6%A0%B7%E8%87%AA%E7%94%B1.online.&path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.129.247:8080 📡 PING-001.59-MS
+vless://3032c12b-13fc-489f-8ccc-53a9f17ac470@45.194.53.3:80?security=none&type=ws&host=a.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FZEDMODEON-ZEDMODEON-ZEDMODEON#🔒 VL-WS-NONE 🇺🇸 US-45.194.53.3:80 📡 PING-001.59-MS
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.23.19:443?security=tls&sni=56897854.PaGeS.DEv&type=ws&host=56897854.pAGES.dEv&path=%2Fm7dncHvlWktcRqV0%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.23.19:443 📡 PING-001.59-MS
