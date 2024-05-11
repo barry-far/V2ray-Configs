@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://2b7098cc-9efb-4175-80f3-801fb293b87f@95.164.114.43:2003?security=tls&sni=kz-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇰🇿 KZ-95.164.114.43:2003 📡 PING-166.65-MS
+vless://e6b1b5e0-c586-4ced-a9c0-ec43cfd99adc@31.7.70.89:8477?security=none&type=tcp&host=colorlib.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-31.7.70.89:8477 📡 PING-167.13-MS
 vless://548afdc9-a00f-44a6-abe9-0fea1aee793e@185.141.132.224:4104?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-185.141.132.224:4104 📡 PING-167.29-MS
 vless://2b7098cc-9efb-4175-80f3-801fb293b87f@95.164.114.43:443?security=tls&sni=kz-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇰🇿 KZ-95.164.114.43:443 📡 PING-167.53-MS
 vless://e5d90af1-64fe-41f9-ab82-b3006b2e2a70@31.7.70.89:8478?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-31.7.70.89:8478 📡 PING-167.53-MS
@@ -601,5 +603,3 @@ vless://8a35323d-af50-4261-8c55-c0e5baf7d979@104.31.16.183:2083?security=tls&sni
 vless://c35e5b7c-cdb7-49c3-b1e7-92365047510c@104.21.82.17:443?security=tls&sni=us2.v2vless.xyz&type=ws&host=us2.v2vless.xyz&path=%40AstroVPN_official%2C%40AstroVPN_official%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.82.17:443 📡 PING-001.09-MS
 vless://1d86846c-5a27-43c8-8981-57bb75c82195@104.21.3.52:443?security=tls&sni=polo.gdorri.info&type=ws&host=polo.gdorri.info&path=%2Fparadise#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.3.52:443 📡 PING-001.09-MS
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@79.99.31.19:2083?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇳🇱 NL-79.99.31.19:2083 📡 PING-001.09-MS
-vless://b39d9e5a-f4ac-48c4-a311-ddaf5b5b85b9@104.21.69.44:2052?security=none&type=ws&host=%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7%E4%BE%AF%E8%B5%9Bsuperspeed12.ff2ray.cfd.&path=%2F%3Fed%3D2053#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.69.44:2052 📡 PING-001.09-MS
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.231:2053?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.231:2053 📡 PING-001.09-MS

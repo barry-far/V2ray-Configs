@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vmess://eyJhZGQiOiAiMTA0LjI2LjcuNjUiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAibWlrYXNhLnlhZW1pa28uY2xvdWRucy5vcmciLCAiaWQiOiAiNDQxZGEzNDItY2U5MC00NDFlLWJmZjktZDJjZWI1NWU2OGNhIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9pdmlkZW9zLnNicy9saW5rd3MiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5NjYgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJtaWthc2EueWFlbWlrby5jbG91ZG5zLm9yZyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
+vmess://eyJhZGQiOiAiZ2x3ZWlkZi5jZmQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiZ2x3ZWlkZi5jZmQiLCAiaWQiOiAiMTA1MmYyNGUtN2IwOS00NWViLWIwYzUtZDg1OGViMTI0MTkyIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5NjYgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJnbHdlaWRmLmNmZCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
 vless://fb853741-88ef-4aa0-ba2f-999f04535960@188.114.97.3:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=HovEYda-arIamehr-KINg.pAgES.dev&fp=randomized&type=ws&sni=HovEyda-ARIAMEHR-KinG.PAgEs.Dev#%40vless_vmess
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.252.28.20:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇮
 vless://1142470b-d8de-4e9d-99f9-dfefbbdb39e0@104.18.41.138:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=pardazeshvpn-tg27.pages.dev&fp=random&type=ws&sni=pardazeshvpn-tg27.pages.dev#%40v2ray_swhil
@@ -601,5 +603,3 @@ vless://d43e2378-864a-4574-9ff4-2a070d8f1331@45.140.31.105:56371?security=none&t
 vless://8ce67527-6c25-4165-9a83-d88ac0b87f00@5.253.41.160:443?security=tls&sni=jp-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇯🇵 JP-5.253.41.160:443 📡 PING-166.12-MS
 vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@45.251.241.103:34237?security=tls&sni=2022585a-86a7-4231-b3a0-eeda14f77f4d.8f18237c-8e5f-4ffb-a434-1b2948c87be3.ddnsfree.com&type=ws&path=%2Fpasge.pages.dev%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇯🇵 JP-45.251.241.103:34237 📡 PING-166.23-MS
 vless://d5268a1a-f481-4438-9f51-122543f0545a@85.9.98.252:45694?security=none&type=tcp&host=idem.ir&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.9.98.252:45694 📡 PING-166.42-MS
-vless://2b7098cc-9efb-4175-80f3-801fb293b87f@95.164.114.43:2003?security=tls&sni=kz-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇰🇿 KZ-95.164.114.43:2003 📡 PING-166.65-MS
-vless://e6b1b5e0-c586-4ced-a9c0-ec43cfd99adc@31.7.70.89:8477?security=none&type=tcp&host=colorlib.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-31.7.70.89:8477 📡 PING-167.13-MS
