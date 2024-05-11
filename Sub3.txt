@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://fb853741-88ef-4aa0-ba2f-999f04535960@188.114.97.3:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=HovEYda-arIamehr-KINg.pAgES.dev&fp=randomized&type=ws&sni=HovEyda-ARIAMEHR-KinG.PAgEs.Dev#%40vless_vmess
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.252.28.20:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇮
 vless://1142470b-d8de-4e9d-99f9-dfefbbdb39e0@104.18.41.138:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=pardazeshvpn-tg27.pages.dev&fp=random&type=ws&sni=pardazeshvpn-tg27.pages.dev#%40v2ray_swhil
 vless://024ddbd7-6503-4f85-98fe-66ee85d1a098@172.67.180.67:8443?security=tls&sni=mehrdad-fra1.zargarr.com&type=grpc&serviceName=%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar&alpn=h2#@Hope_Net-join-us-on-Telegram
 vmess://eyJhZGQiOiAiMTU1LjEzOC4yNDIuMjA3IiwgImFpZCI6IDAsICJob3N0IjogIjE1NS4xMzguMjQyLjIwNyIsICJpZCI6ICI2Nzc5N2M2YS1lODk4LTQ5YmQtOGY2MS01ZmIxNTIzY2UwYmQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogNTQzMTYsICJwcyI6ICJASG9wZV9OZXQtam9pbi11cy1vbi1UZWxlZ3JhbSIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byJ9
@@ -601,5 +603,3 @@ vless://e240547f-5a80-4cee-a318-779c320a1d8e@84.47.234.106:13446?security=none&t
 vless://e7cc88ba-b1e5-44fc-91f4-bbf3829f5ce2@84.47.235.69:51392?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-84.47.235.69:51392 📡 PING-176.39-MS
 vless://55cb4a9f-ece7-4c42-917d-a26fc2301ac2@185.126.15.60:8097?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.126.15.60:8097 📡 PING-176.58-MS
 vless://4045e75a-165c-4a3d-b684-a0b521bbcb20@185.58.240.176:14914?security=none&type=tcp&host=www.speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.58.240.176:14914 📡 PING-176.74-MS
-vless://0ed853ea-3392-4fe9-957a-e39105b0ef02@84.47.235.69:46057?security=none&type=tcp&host=www.speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-84.47.235.69:46057 📡 PING-177.15-MS
-vless://d47d1551-737e-466a-9453-a894345653a0@78.157.36.139:8443?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-78.157.36.139:8443 📡 PING-177.37-MS

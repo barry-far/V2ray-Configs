@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://0ed853ea-3392-4fe9-957a-e39105b0ef02@84.47.235.69:46057?security=none&type=tcp&host=www.speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-84.47.235.69:46057 📡 PING-177.15-MS
+vless://d47d1551-737e-466a-9453-a894345653a0@78.157.36.139:8443?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-78.157.36.139:8443 📡 PING-177.37-MS
 vless://e235a709-75fb-4ecc-a4b6-1e81765dff60@89.235.116.44:443?security=none&type=tcp&host=www.speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-89.235.116.44:443 📡 PING-177.53-MS
 vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@146.56.130.130:14850?security=tls&sni=5ae52850-e7f0-481c-8cff-6c1ed17fd9f1.91f1a2e9-9f15-4330-996f-0b6bc7c8fa5b.theworkpc.com&type=ws&path=%2Fpasge.pages.dev%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇰🇷 KR-146.56.130.130:14850 📡 PING-178.29-MS
 vless://23100327-3ed3-4c5a-9289-1a7f8d18d714@87.248.152.68:443?security=none&type=ws&host=Google.com&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-87.248.152.68:443 📡 PING-178.76-MS
@@ -601,5 +603,3 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.84.115:443?security=tls&sni=
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@104.18.29.181:8443?security=tls&sni=test75.pages.dev&type=ws&host=test75.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.29.181:8443 📡 PING-005.33-MS
 vless://13be7b64-8a46-4724-9cf2-4c7eddd4c56b@104.25.89.99:2096?security=tls&sni=sPeEd.vbox778.info.&type=grpc&fp=firefox&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.89.99:2096 📡 PING-005.33-MS
 vless://e40d8272-abb6-451c-eddd-4f69cf3cec0e@104.18.202.232:80?security=none&type=ws&host=soft98.ir.de.debian.org.farsroid.com.xn--84-pv2cvta065cac9302fea377a148g.Store.&path=%2FV2ray%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.202.232:80 📡 PING-005.33-MS
-vless://13be7b64-8a46-4724-9cf2-4c7eddd4c56b@104.18.219.128:2096?security=tls&sni=sPeEd.vbox778.info.&type=grpc&fp=firefox&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.219.128:2096 📡 PING-005.33-MS
-vless://1da545b0-2395-4d5c-abe8-8aee6671c859@162.159.133.234:443?security=tls&sni=BPB-worKEr-paNel-aQX.paGES.DEV&type=ws&host=BpB-WOrkEr-panEl-aqx.paGES.Dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.133.234:443 📡 PING-005.33-MS
