@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://498529e6-a575-4559-ba24-64d383a58d2f@167.114.193.41:39015/?encryption=none&host=www.speedtest.net&type=tcp&headerType=http#%E2%99%8F14%40oneclickvpnkeys
 vless://799f0437-536c-431e-b161-5a38187786a9@167.114.193.41:43094/?encryption=none&host=fast.com&type=tcp&headerType=http#%E2%99%8F29%40oneclickvpnkeys
 vmess://eyJhZGQiOiIxODguMTE0Ljk3LjMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImFmcmhtczE2di5iZXN0eHJheS5idXp6IiwiaWQiOiJmNTg0ZGUxNS0yMDM0LTQxNzAtYTcyMy1mNDhjMmJhZTVlMGYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoi4pmPMjhAb25lY2xpY2t2cG5rZXlzIiwic2N5IjoiYXV0byIsInNuaSI6ImFmcmhtczE2di5iZXN0eHJheS5idXp6IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJjZmNkbjEuc2FuZmVuY2RuOS5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InVzNmd6eFFSckU0LmZ6YnFmcnNlLnh5eiIsImlkIjoiYzVkYTZlNmItNzkxOC00ZDI5LWEwNWMtNDUwZjRlZWVjYjE5IiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZpZGVvL2JZZEo3VmMyV2UiLCJwb3J0IjoiODg4MCIsInBzIjoi4pmPMzVAb25lY2xpY2t2cG5rZXlzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
@@ -603,3 +602,4 @@ vless://7d3b945d-0f23-4719-9fae-50033251e2fd@91.195.240.12:443?security=tls&sni=
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@172.64.22.170:443?security=tls&sni=bia-pain-bAche.PaGES.DEV&type=ws&host=biA-pAIn-bacHe.pageS.dev&path=%2F0npfJqIw1ez41QpK%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.22.170:443 📡 PING-112.30-MS
 vless://f446d402-0b84-4758-84df-6448a6f07039@95.164.46.235:2003?security=tls&sni=it-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇮🇹 IT-95.164.46.235:2003 📡 PING-117.78-MS
 vless://f446d402-0b84-4758-84df-6448a6f07039@95.164.46.235:443?security=tls&sni=it-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇮🇹 IT-95.164.46.235:443 📡 PING-118.39-MS
+vless://3a505b50-86f0-4402-9583-296577960bfd@172.233.121.188:22230?security=none&type=tcp&host=xbox.com&headerType=http#🔒 VL-TCP-NONE 🇪🇸 ES-172.233.121.188:22230 📡 PING-120.85-MS
