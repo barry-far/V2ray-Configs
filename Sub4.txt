@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://cd37e48f-b356-4bc2-9104-c4ed5b4abe8c@139.162.49.215:443?security=tls&sni=sg3-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇸🇬 SG-139.162.49.215:443 📡 PING-220.78-MS
+vless://2b7098cc-9efb-4175-80f3-801fb293b87f@95.164.114.43:443?security=tls&sni=kz-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇰🇿 KZ-95.164.114.43:443 📡 PING-220.95-MS
 vless://db8da7f0-509e-4be0-b497-06a94379fb4f@159.89.199.154:443?security=tls&sni=aka.ms&type=tcp&alpn=h2,http/1.1#🔒 VL-TCP-TLS 🇸🇬 SG-159.89.199.154:443 📡 PING-221.48-MS
 vless://98703d99-e2b3-42fe-8978-9ca16addd883@159.65.7.117:443?security=tls&sni=aka.ms&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-TCP-TLS 🇸🇬 SG-159.65.7.117:443 📡 PING-224.14-MS
 vless://2b7098cc-9efb-4175-80f3-801fb293b87f@95.164.114.43:2003?security=tls&sni=kz-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇰🇿 KZ-95.164.114.43:2003 📡 PING-225.58-MS
@@ -601,5 +603,3 @@ vless://7143e704-5957-42db-bd38-670062722461@172.67.217.107:80?security=none&typ
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.19.12.170:443?security=tls&sni=BIa-PaiN-baChE.pageS.dev&type=ws&host=Bia-PAIN-baChe.paGEs.DeV&path=%2F&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.12.170:443 📡 PING-000.95-MS
 vless://775213ac-3976-439a-8977-3277c0e4735d@62.72.166.67:2096?security=tls&sni=fq521.6789.cloudns.be&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇯🇴 JO-62.72.166.67:2096 📡 PING-000.95-MS
 vless://38d10eab-39b9-4794-a814-b394a33da7c5@172.67.135.195:443?security=tls&sni=off.v2box.lol.&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.135.195:443 📡 PING-000.95-MS
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.26.12.31:443?security=tls&sni=kk010.ylks.link&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.12.31:443 📡 PING-000.95-MS
-vless://3e29199c-5d03-4859-bd64-640308a030b2@104.21.27.155:8443?security=tls&sni=mahdi.hackers85.monster&type=ws&host=mahdi.hackers85.monster&path=%2F%40hackers85&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.27.155:8443 📡 PING-000.94-MS
