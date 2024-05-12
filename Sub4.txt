@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://47272f26-d814-4a9c-973f-658a1c12712b@31.47.42.199:59709?security=none&type=tcp&host=fast.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-31.47.42.199:59709 📡 PING-217.92-MS
+vless://c076c608-955e-4d66-8ead-8f6bfe98fbff@78.157.36.139:8443?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-78.157.36.139:8443 📡 PING-218.62-MS
+vless://0ed853ea-3392-4fe9-957a-e39105b0ef02@84.47.235.69:46057?security=none&type=tcp&host=www.speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-84.47.235.69:46057 📡 PING-219.37-MS
+vless://fad7ca42-bf94-48bb-b975-0f446f00d6f7@188.212.98.5:2052?security=none&type=tcp&host=fararu.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-188.212.98.5:2052 📡 PING-219.85-MS
+vless://ee29ad84-1770-418b-e94c-1050337781df@84.47.234.106:13446?security=none&type=tcp&host=divarcdn.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-84.47.234.106:13446 📡 PING-220.69-MS
 vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.210.95:8919?type=tcp&host=varzesh3.com&path=%2F&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-62.60.210.95:8919 📡 PING-220.93-MS
 vless://8aacaf3f-caf0-4fab-8b0c-dd0391dcaeaa@79.175.157.25:59491?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-79.175.157.25:59491 📡 PING-221.80-MS
 vless://4045e75a-165c-4a3d-b684-a0b521bbcb20@185.58.240.176:14914?security=none&type=tcp%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+%D9%85%D8%A7+%F0%9F%91%88%F0%9F%8F%BB+vpnplusee%40&host=www.speedtest.net&headerType=http#🔒 VL-TCP%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+%D9%85%D8%A7+%F0%9F%91%88%F0%9F%8F%BB+VPNPLUSEE%40-NONE 🇮🇷 IR-185.58.240.176:14914 📡 PING-221.94-MS
@@ -598,8 +603,3 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.106.193:443?security=tls&sn
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.13:8443?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.13:8443 📡 PING-008.75-MS
 vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@172.67.186.98:443?security=tls&sni=bypass-filter.jvnml.workers.dev&type=ws&host=bypass-filter.jvnml.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.186.98:443 📡 PING-008.75-MS
 vless://a3e4650e-3e4b-4ba7-9050-262c6b642864@104.21.70.186:443?security=tls&sni=vip2.wagacim920.workers.dev&type=ws&host=vip2.wagacim920.workers.dev&path=%2F%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.70.186:443 📡 PING-008.75-MS
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@192.65.217.111:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇦🇺 AU-192.65.217.111:443 📡 PING-008.75-MS
-vless://c0b3afcf-b7a1-44c5-a552-bb1329304b7f@172.66.47.89:443?security=tls&sni=pardazeshvpn-tg5.pages.dev&type=ws&host=pardazeshvpn-tg5.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.89:443 📡 PING-008.75-MS
-vless://55341cc4-d38a-42d2-b5a7-61fcc77b56f1@173.245.58.154:2087?security=tls&sni=Tigoo.dignity-19.com&type=grpc&serviceName=Psp&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-173.245.58.154:2087 📡 PING-008.75-MS
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@160.123.255.226:2053?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇿🇦 ZA-160.123.255.226:2053 📡 PING-008.75-MS
-vless://77a571fb-4fd2-4b37-8596-2b7d9728bb5c@172.67.20.220:2096?security=tls&sni=vpnxw.pages.ddev&type=ws&host=vpnxw.pages.dev&path=Telegram-@V2rayi_net-Telegram:@V2rayi_net-Telegram:@V2rayi_net-Telegram:@V2rayi_net-Telegram:@V2rayi_net-Telegram:@V2rayi_net-Telegram:@V2rayi_net-Telegram:@V2rayi_net-Telegram:@V2rayi_net-Telegram:@V2rayi_net-Telegram:@V2rayi_net-Telegram:@V2rayi_net-Telegram:@V2rayi_net-Telegram:@V2rayi_net-Telegram:@V2rayi_net%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.20.220:2096 📡 PING-008.75-MS
