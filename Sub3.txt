@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://0fa0b341-a1a1-4e7d-b605-e76b93844b2c@104.17.169.114:80?security=none&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&encryption=none#@UnlimitedDev-Link1
 vless://0fa0b341-a1a1-4e7d-b605-e76b93844b2c@bia-to2.unlimiteddev.site.:80?type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed%3D2048&security=none#@UnlimitedDev-Link3
 vless://90cc46d9-249e-4f86-bb28-df556f326a87@bia-to2.unlimiteddev.site:8443?type=ws&security=tls&path=%2F&host=unlimiteddev.xn--9iqr0tm1r4wg.co&fp=chrome&sni=unlimiteddev.xn--9iqr0tm1r4wg.co#@unlimiteddev-Irancell1
 vless://90cc46d9-249e-4f86-bb28-df556f326a87@104.20.205.66:8443?type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co&path=/&security=tls&fp=chrome&sni=unlimiteddev.xn--9iqr0tm1r4wg.co#@unlimiteddev-Irancell2
@@ -603,3 +602,4 @@ vless://c3ecc67c-997a-4588-a82c-65e5d03deafc@51.75.77.237:443?security=tls&sni=d
 vless://c3ecc67c-997a-4588-a82c-65e5d03deafc@51.75.77.237:2003?security=tls&sni=de-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇩🇪 DE-51.75.77.237:2003 📡 PING-090.44-MS
 vless://454f84df-724d-442a-a4a2-698a6d63f946@193.70.112.90:443?security=tls&sni=fr3-full.privateip.net&type=ws&path=%2fvless&allowInsecure=1#🔒 VL-WS-TLS 🇫🇷 FR-193.70.112.90:443 📡 PING-090.71-MS
 vless://3ab92be3-2d2b-4080-871f-89ed6bd1cd0d@172.233.245.20:443?security=tls&sni=fr2-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇫🇷 FR-172.233.245.20:443 📡 PING-091.53-MS
+vless://b620525a-5e9b-49d7-ca9e-c30d03b928b0@162.19.189.17:8443?security=tls&sni=snapppay.ir&type=grpc&serviceName=vpn_xw.t.me&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇸🇪 SE-162.19.189.17:8443 📡 PING-091.55-MS
