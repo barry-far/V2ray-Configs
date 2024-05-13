@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://telegram-id-privatevpns@18.170.123.221:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp#🔒 TR-TCP-TLS 🇬🇧 GB-18.170.123.221:22222 📡 PING-146.03-MS
-trojan://d4e2cc5e-29c9-4e8a-9ba1-1f5e8732b4ac@198.244.190.189:443?#🔒 TR-TCP-NA 🇬🇧 GB-198.244.190.189:443 📡 PING-147.00-MS
-trojan://telegram-id-directvpn@35.176.200.69:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-35.176.200.69:22222 📡 PING-147.09-MS
-trojan://telegram-id-privatevpns@13.42.180.188:22222?sni=trojan.burgerip.co.uk#🔒 TR-TCP-NA 🇬🇧 GB-13.42.180.188:22222 📡 PING-147.23-MS
-trojan://telegram-id-privatevpns@3.11.191.105:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-3.11.191.105:22222 📡 PING-147.71-MS
-trojan://8e2a5822-441f-4a3e-bf7f-6243ddf4291d@5.253.41.160:443?#🔒 TR-TCP-NA 🇯🇵 JP-5.253.41.160:443 📡 PING-147.80-MS
-trojan://59b0cb90-0cc0-11ef-a261-1239d0255272@51.210.182.170:443?#🔒 TR-TCP-NA 🇫🇷 FR-51.210.182.170:443 📡 PING-149.25-MS
-trojan://da2416a4-343d-4936-99f1-9aea94569e9e@141.94.115.231:443?#🔒 TR-TCP-NA 🇫🇷 FR-141.94.115.231:443 📡 PING-150.01-MS
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#🔒 TR-TCP-NA 🇳🇱 NL-185.236.233.111:2053 📡 PING-150.34-MS
 trojan://606dc807-e03a-4360-8c5e-52cf1ba9ea9f@188.119.112.242:443?#🔒 TR-TCP-NA 🇳🇱 NL-188.119.112.242:443 📡 PING-150.39-MS
 trojan://0fd9b883-0551-4ed1-b978-528183b459a2@138.2.36.157:8443?sni=591.591haoka.com&type=ws&host=591.591haoka.com#🔒 TR-WS-NA 🇯🇵 JP-138.2.36.157:8443 📡 PING-150.78-MS
@@ -603,3 +595,11 @@ vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTMwIiwiYWRkIjoiMTQ2LjU5LjE0Ny4yNTAiLCJwb3J0
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZ1VRMmNRVFB0QkdOamJDWEtNS2VI@5.42.72.241:30482#%E6%9C%AA%E7%9F%A5131%202.6MB%2Fs
 trojan://656bcdfe-ae09-4170-a36e-1685ee10b26f@162.159.138.232:2083?security=tls&type=ws&sni=missyousir.segaro.tech&path=/OVmkPBATL0FijQ3AWVBo&host=missyousir.segaro.tech#%E6%9C%AA%E7%9F%A5132
 trojan://wkmY1R4EcP@45.76.228.197:443?security=tls&type=tcp&sni=z-v2-003263.kailib.com#US38%20844.9KB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.178.87.37:805#%E6%9C%AA%E7%9F%A5133
+ss://MWQxYTcxOTMtNjFhOS00ZmMxLTk3NzgtZGQ1MTdjZjlmOTE5Og==@172.67.136.208:80#%E6%9C%AA%E7%9F%A5134
+trojan://auto@172.67.174.252:443?security=tls&type=ws&sni=esetsecuritylicense1.vowexa5791.workers.dev&host=esetsecuritylicense1.vowexa5791.workers.dev#%E6%9C%AA%E7%9F%A5135
+vmess://eyJ2IjoiMiIsInBzIjoiVVMzOSIsImFkZCI6IjE0Mi4wLjEzNC4yNDEiLCJwb3J0IjoiNDUwMTciLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6IjY0Iiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiJVUzM5In0=
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.120:8119#US40%201.9MB%2Fs
+trojan://lrdxw@172.67.197.210:443?security=tls&type=ws&sni=trojan-lrdxw.ala1-f11.workers.dev&host=trojan-lrdxw.ala1-f11.workers.dev#%E6%9C%AA%E7%9F%A5136
+trojan://2e39Crxb8fQi@3.15.150.219:13401?sni=appsvs.shop#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD16
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTM3IiwiYWRkIjoiNS43NS4yMDIuNzYiLCJwb3J0IjoiMzk1MjMiLCJpZCI6ImU3ZTc1NzQ5LTlhNTctNDQ3MS1hOWE3LTU0NzJiZTBhMGNkYSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjEzNyJ9
