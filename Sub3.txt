@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://656bcdfe-ae09-4170-a36e-1685ee10b26f@162.159.128.233:2083?security=tls&type=ws&sni=missyousir.segaro.tech&path=/OVmkPBATL0FijQ3AWVBo&host=missyousir.segaro.tech#@Hope_Net-join-us-on-Telegram
-vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjEwNy4xODIuMTg5LjIwMSIsICJwb3J0IjogIjU1MTg3IiwgImlkIjogIjI2NjcwYTc2LTVmZTItNDczOC1hODRiLTEyMjk5MDVlMDM1NCIsICJhaWQiOiAiMCIsICJzY3kiOiBudWxsLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAidGVzdF9uYW1lIjogIlVTOTkifQ==
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@100.28.9.150:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇺🇸
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.99.10.219:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇦
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjE3Mi42Ny4xMzQuMjM4IiwgInBvcnQiOiAiODQ0MyIsICJpZCI6ICI2M2U1NDc0Mi1hMjQ0LTRiYjAtYzljYi0xN2E1NDVmNGNhM2YiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyIsICJzbmkiOiAiYXRsYXNuZXQxLm15YXRsYXNuZXQuaXIiLCAiYWxwbiI6ICJoMixodHRwLzEuMSIsICJhbGxvd2luc2VjdXJlIjogMX0=
@@ -603,3 +601,5 @@ vless://019ab16c-2ee3-4305-80ab-bb2c6170a204@46.101.95.248:443?security=tls&flow
 vless://48bd0de9-cc25-427f-f8e9-a13e89ddc53e@192.248.149.199:42683?security=none&type=tcp&host=uplod.ir&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇬🇧 GB-192.248.149.199:42683 📡 PING-095.01-MS
 vless://4534d7c9-c5dd-490a-9f14-75245f58ae01@51.195.149.115:26475?type=tcp#🔒 VL-TCP-NA 🇬🇧 GB-51.195.149.115:26475 📡 PING-095.53-MS
 vless://2d13f516-a9bc-42c0-ab12-b17c130f3440@198.244.190.189:2003?security=tls&sni=uk-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇬🇧 GB-198.244.190.189:2003 📡 PING-095.77-MS
+vless://36112366-6c82-43ce-92b0-1a442a1a7156@178.79.176.97:443?security=tls&sni=uk2-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇬🇧 GB-178.79.176.97:443 📡 PING-095.87-MS
+vless://36112366-6c82-43ce-92b0-1a442a1a7156@178.79.176.97:2003?security=tls&sni=uk2-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇬🇧 GB-178.79.176.97:2003 📡 PING-095.89-MS
