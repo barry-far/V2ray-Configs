@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://f88ef3e2-74ea-45ce-a559-b369aa714e09@94.182.136.183:8443?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.136.183:8443 📡 PING-159.00-MS
+vless://195a6525-3e82-4a03-9fa8-0462db52bfd2@158.58.190.122:21344?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-158.58.190.122:21344 📡 PING-159.39-MS
+vless://7468c53f-8161-44ba-99f3-e7ad464eaa0c@45.140.31.105:56371?security=none&type=ws&path=%2F%40ViraV2ray%2F%40ViraV2ray%2F%40ViraV2ray%2F%40ViraV2ray%2F%40ViraV2ray%2F#🔒 VL-WS-NONE 🇮🇷 IR-45.140.31.105:56371 📡 PING-159.43-MS
 vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@147.78.246.86:53443?security=tls&sni=e130917c-1b58-4136-b2d9-76dc920e0add.add97ee8-0f14-48a3-b2cd-979c56742e64.loseyourip.com&type=ws&path=%2Fpasge.pages.dev%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇯🇵 JP-147.78.246.86:53443 📡 PING-159.58-MS
 vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@37.123.197.170:30803?security=tls&sni=547c921f-c9b1-4d57-bb25-ff5c79749783.a09c5a67-316e-45c6-a051-e6066737fd47.theworkpc.com&type=ws&path=%2Fpasge.pages.dev%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇯🇵 JP-37.123.197.170:30803 📡 PING-159.71-MS
 vless://90315e1e-21da-49df-b9cf-c0202f3a208e@62.60.178.72:443?type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NA 🇺🇸 US-62.60.178.72:443 📡 PING-159.91-MS
@@ -600,6 +603,3 @@ vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@172.67.203.134:8080?security=none&s
 vless://df4608a5-0ceb-4513-b991-596f541bccdb@172.67.176.71:2096?security=tls&sni=cfdy.yueuzi.dynv6.net&type=ws&host=cfdy.yueuzi.dynv6.net&path=%2F%3F%2Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.176.71:2096 📡 PING-001.62-MS
 vless://63dd3174-ca18-4dc5-95ff-b017e05639f0@162.159.136.234:2096?security=tls&sni=de-cdn.NetGurdians.tech&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.136.234:2096 📡 PING-001.61-MS
 vless://b0df4fb0-1977-4c3d-bea7-449ad04d5060@162.159.135.232:8080?security=none&type=ws&host=de2.%E8%BF%87%E6%BB%A4%E5%99%A8.store.&path=%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.135.232:8080 📡 PING-001.61-MS
-vless://94916e61-b3bf-4b46-ae11-c987d2f186dc@104.21.59.18:80?security=none&sni=join-midas-x-x---join-midas-x-x--join-midas-x-x--join-midas-x-x.join-midas-x-x-a14.workers.dev&type=ws&host=join-midas-x-x---join-midas-x-x--join-midas-x-x--join-midas-x-x.join-midas-x-x-a14.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.59.18:80 📡 PING-001.61-MS
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@216.205.52.109:2083?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-216.205.52.109:2083 📡 PING-001.61-MS
-vless://1b46289a-8c93-4619-b3a8-04d9d301da0c@104.26.13.8:2096?security=tls&sni=mz-net.49z.info&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.26.13.8:2096 📡 PING-001.61-MS
