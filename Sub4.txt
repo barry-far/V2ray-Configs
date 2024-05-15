@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@3.112.21.102:443?security=tls&sni=c543a30d-e872-49ad-8be6-2836890f3d20.b9caf607-1ef7-4fd2-be07-224869a92bdf.accesscam.org&type=ws&path=%2Fpasge.pages.dev%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇯🇵 JP-3.112.21.102:443 📡 PING-160.39-MS
+vless://90315e1e-21da-49df-b9cf-c0202f3a208e@62.60.178.72:443?type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NA 🇺🇸 US-62.60.178.72:443 📡 PING-160.67-MS
 vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@37.123.197.170:30803?security=tls&sni=547c921f-c9b1-4d57-bb25-ff5c79749783.a09c5a67-316e-45c6-a051-e6066737fd47.theworkpc.com&type=ws&path=%2Fpasge.pages.dev%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇯🇵 JP-37.123.197.170:30803 📡 PING-160.89-MS
 vless://d0662757-bc64-44f9-9a6f-b60fa505ca6c@2.189.255.205:2001?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-2.189.255.205:2001 📡 PING-161.60-MS
 vless://74f92f29-260a-4332-8121-8a94acaba18d@212.80.18.147:443?security=none&type=tcp&host=www.speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-212.80.18.147:443 📡 PING-162.06-MS
@@ -601,5 +603,3 @@ vless://1d7ba423-873e-4f2f-afd4-6593ed5e9f79@104.18.202.232:8880?security=none&t
 vless://be8962c2-c299-4b2e-a76d-373ddfd9c886@45.131.4.9:80?security=none&type=ws&host=IRON.man.policeoficer-45.GAMERme.IR&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇳🇱 NL-45.131.4.9:80 📡 PING-005.49-MS
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@154.194.12.137:2083?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F#🔒 VL-WS-TLS 🇮🇩 ID-154.194.12.137:2083 📡 PING-005.49-MS
 vless://8292be63-1d54-43a1-bd6b-4c9728eb4bd0@172.67.204.84:8080?security=none&type=ws&host=V2ray-_-_-_-_-MdVpnSec.TelegramChannelJoinBede.com.&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.204.84:8080 📡 PING-005.49-MS
-vless://38d10eab-39b9-4794-a814-b394a33da7c5@104.16.218.243:443?security=tls&sni=off.v2box.lol.&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.218.243:443 📡 PING-005.49-MS
-vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@190.93.247.14:443?security=tls&sni=current.ircp.online&type=ws&host=current.ircp.online&path=%2F%3Fed%3D2048&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.247.14:443 📡 PING-005.49-MS
