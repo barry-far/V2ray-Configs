@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://99b166ff-25ab-4bda-9493-618d491c2a9a@103.224.212.213:443?sni=us232.support-putin-kill-all-ukrainians.98848.xyz#🔒 TR-TCP-NA 🇦🇺 AU-103.224.212.213:443 📡 PING-051.85-MS
+trojan://3c91d857-2d40-39b9-81c0-f6adde8037ff@141.11.108.8:4583?sni=cuvip.doubledou.win#🔒 TR-TCP-NA 🇫🇷 FR-141.11.108.8:4583 📡 PING-052.50-MS
+trojan://share.mjj-home.com@45.154.214.159:443?sni=api.mjj-home.com#🔒 TR-TCP-NA 🇺🇸 US-45.154.214.159:443 📡 PING-052.95-MS
+trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@108.181.22.161:443?security=tls&sni=glc-us2.windowsupdatea.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-108.181.22.161:443 📡 PING-053.43-MS
+trojan://telegram-id-privatevpns@54.195.171.39:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-54.195.171.39:22222 📡 PING-088.81-MS
+trojan://telegram-id-privatevpns@54.217.85.35:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-54.217.85.35:22222 📡 PING-092.16-MS
+trojan://d4e2cc5e-29c9-4e8a-9ba1-1f5e8732b4ac@198.244.190.189:443?#🔒 TR-TCP-NA 🇬🇧 GB-198.244.190.189:443 📡 PING-094.24-MS
+trojan://UDZfbAK0pG@67.207.68.77:23?security=tls&sni=sestem.xyz&type=ws&host=sestem.xyz&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 TR-WS-TLS 🇬🇧 GB-67.207.68.77:23 📡 PING-094.66-MS
 trojan://6x8HcghsjS@103.214.68.57:10003?sni=yes998.chickenkiller.com#🔒 TR-TCP-NA 🇳🇱 NL-103.214.68.57:10003 📡 PING-094.70-MS
 trojan://822caed0-11ae-11ef-85c1-1239d0255272@51.38.65.155:443?#🔒 TR-TCP-NA 🇬🇧 GB-51.38.65.155:443 📡 PING-095.81-MS
 trojan://telegram-id-privatevpns@3.9.33.222:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-3.9.33.222:22222 📡 PING-095.88-MS
@@ -595,11 +603,3 @@ ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@103.172.116.90:9041#🔒 SS-TCP-NA
 ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA==@103.172.116.103:9027#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9027 📡 PING-210.67-MS
 ss://YWVzLTI1Ni1jZmI6ZkcyYXJ0VW1IZk5UMmNYNw==@103.172.116.103:9018#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9018 📡 PING-210.70-MS
 ss://YWVzLTI1Ni1jZmI6Z1lDWVhma1VRRXMyVGFKUQ==@103.172.116.79:9038#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9038 📡 PING-210.78-MS
-ss://YWVzLTI1Ni1nY206ekJqbW1JTWZxdXpyaVNUMQ==@139.59.123.43:21592#🔒 SS-TCP-NA 🇸🇬 SG-139.59.123.43:21592 📡 PING-210.80-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZjMwZGE1NC0zMTdmLTQ3MjYtOThiZC04YmM4ZWM4MTQwYzk=@139.59.119.251:20180#🔒 SS-TCP-NA 🇸🇬 SG-139.59.119.251:20180 📡 PING-210.80-MS
-ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@103.172.116.103:9014#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9014 📡 PING-210.80-MS
-ss://YWVzLTI1Ni1jZmI6WnBORERLUnU5TWFnTnZhZg==@103.172.116.79:9015#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9015 📡 PING-210.83-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZjMwZGE1NC0zMTdmLTQ3MjYtOThiZC04YmM4ZWM4MTQwYzk=@139.59.119.251:20177#🔒 SS-TCP-NA 🇸🇬 SG-139.59.119.251:20177 📡 PING-210.85-MS
-ss://YWVzLTI1Ni1jZmI6a1NQbXZ3ZEZ6R01NVzVwWQ==@103.172.116.103:9007#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9007 📡 PING-210.97-MS
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.214.214.197:443#🔒 SS-TCP-NA 🇸🇬 SG-13.214.214.197:443 📡 PING-211.24-MS
-ss://YWVzLTI1Ni1jZmI6VlA4WlB4UXBKdFpSQ2pmWg==@103.172.116.103:9080#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9080 📡 PING-211.25-MS
