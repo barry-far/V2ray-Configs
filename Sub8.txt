@@ -3,16 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@172.67.61.91:8080?security=none&sni=king1980.b91sptsl.workers.dev&type=ws&host=king1980.b91sptsl.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.61.91:8080 📡 PING-005.18-MS
-vless://4045c6b7-1d53-4574-98cd-df21db40b0dc@172.67.119.100:2053?security=tls&sni=itcenteriran.blog&type=ws&host=itcenteriran.blog#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.119.100:2053 📡 PING-005.18-MS
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.200.220:2053?security=tls&sni=baipiao1.curly-train.pages.dev&type=ws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.200.220:2053 📡 PING-005.18-MS
-vless://093b8b10-4490-4fcd-a26c-35fced968a4a@104.18.202.232:443?security=tls&sni=093B8B10-4490-4FCd-A26c-35FceD968a4a.PaGes.DEv&type=ws&host=093B8B10-4490-4fCD-A26C-35FceD968A4A.pAGEs.Dev&path=%2FaesBGfL9b3gQWbU4%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.202.232:443 📡 PING-005.18-MS
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.19.230.57:443?security=tls&sni=523afb17.IRS23.pAgES.Dev&type=ws&host=523AfB17.IRS23.pagES.DEv&path=%2FeaK9H14EfA31X0nr%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.230.57:443 📡 PING-005.18-MS
-vless://03a9c9ee-1e6e-4779-8171-b2aac2357d0c@172.67.219.62:8443?security=tls&sni=Tigoo.dignity-19.com&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.219.62:8443 📡 PING-005.18-MS
-vless://a93eacd2-2852-4d84-9355-fd1e6477dccc@104.20.109.195:80?security=none&type=ws&host=tunn.free.hr#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.109.195:80 📡 PING-005.18-MS
-vless://38535031-ccc3-4a94-bd54-c68806486406@104.26.1.72:443?security=tls&sni=furina.yaemiko.cloudns.org&type=ws&host=furina.yaemiko.cloudns.org&path=%2Fed%3F%3D2560&fp=random&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.1.72:443 📡 PING-005.18-MS
-vless://4d4da811-c5f3-4e73-a64a-232042b19fb7@185.146.173.94:2082?path=/TEL#🔒 VL-TCP-NA 🇸🇪 SE-185.146.173.94:2082 📡 PING-005.18-MS
-vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.19.198.101:443?security=tls&sni=BIA-paiN-bache.PageS.DeV&type=ws&host=BiA-PAIN-baChE.PAGeS.DeV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.198.101:443 📡 PING-005.18-MS
 vless://8721355e-96d5-4bb9-a99b-b6119d6b1cd4@172.67.204.84:2096?security=tls&sni=S3lBNf04KTPltic8C1EfLqq73QtMKz7zlYH9qRC0U6GM8x174e8w8DSLaK.Pages.DeV&type=ws&host=S3lBNf04KTPltic8C1EfLqq73QtMKz7zlYH9qRC0U6GM8x174e8w8DSLaK.Pages.DeV#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.204.84:2096 📡 PING-005.18-MS
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.2:443?security=tls&sni=miumiUMadReKoSE.pAgES.dEv&type=ws&host=MIumIumADrEkOsE.pAGeS.dev&path=%2F&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.2:443 📡 PING-005.18-MS
 vless://54a47217-b810-4017-adb7-237e273c35ce@104.21.71.210:8443?security=tls&sni=r.donekaftr.ir&type=grpc&serviceName=abc&fp=ios&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.71.210:8443 📡 PING-005.18-MS
@@ -603,3 +593,13 @@ trojan://88496c26-3356-47fc-b786-fb8e41a3ff55@129.153.145.216:443?security=tls&s
 trojan://auto@104.26.13.54:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.13.54:443 📡 PING-006.12-MS
 trojan://dQDQCtns4R@162.159.138.232:443?security=tls&sni=fadaei.movieland.top&type=ws&host=fadaei.movieland.top&path=static34528#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.138.232:443 📡 PING-005.97-MS
 trojan://f0eb8c92ce8946aaba856569cff1a16b@104.19.159.2:443?security=tls&sni=avianrecruit.com&type=ws&host=avianrecruit.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.159.2:443 📡 PING-005.94-MS
+trojan://9Mdw86d7Cz@132.145.208.20:443?sni=no.09.ijg.cc&type=tcp&allowInsecure=1#🔒 TR-TCP-NA 🇺🇸 US-132.145.208.20:443 📡 PING-005.89-MS
+trojan://fMucnQTndf@129.213.63.5:443?#🔒 TR-TCP-NA 🇺🇸 US-129.213.63.5:443 📡 PING-005.87-MS
+trojan://71409d3e488548e8bb076d229778f008@198.41.220.4:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.4:443 📡 PING-005.83-MS
+trojan://auto@172.67.161.104:2053?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.161.104:2053 📡 PING-005.71-MS
+trojan://auto@172.67.181.172:443?security=tls&sni=esetsecuritylicense1.cxlrazo.workers.dev&type=ws&host=esetsecuritylicense1.cxlrazo.workers.dev&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.181.172:443 📡 PING-005.65-MS
+trojan://656bcdfe-ae09-4170-a36e-1685ee10b26f@162.159.128.233:2083?security=tls&sni=missyousir.segaro.tech&type=ws&host=missyousir.segaro.tech&path=/OVmkPBATL0FijQ3AWVBo&fp=chrome&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.128.233:2083 📡 PING-005.65-MS
+trojan://auto@104.18.34.21:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.34.21:443 📡 PING-005.63-MS
+trojan://auto@104.21.69.44:2087?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.69.44:2087 📡 PING-005.62-MS
+trojan://Ck0nkbbsur@104.17.70.206:2096?security=tls&sni=tls.redbullplus.xyz&type=ws&host=tls.redbullplus.xyz&path=/wsss#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.70.206:2096 📡 PING-005.59-MS
+trojan://auto@194.53.53.4:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🇷🇺 RU-194.53.53.4:443 📡 PING-005.59-MS
