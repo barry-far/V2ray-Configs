@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vmess://eyJhZGQiOiIxNzIuNjcuNzQuNCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibWlrYXNhLnlhZW1pa28uY2xvdWRucy5vcmciLCJpZCI6IjQ0MWRhMzQyLWNlOTAtNDQxZS1iZmY5LWQyY2ViNTVlNjhjYSIsIm5ldCI6IndzIiwicGF0aCI6Ii9pdmlkZW9zLnNicy9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiLwn5SGMTBAb25lY2xpY2t2cG5rZXlzIiwic2N5IjoiYXV0byIsInNuaSI6Im1pa2FzYS55YWVtaWtvLmNsb3VkbnMub3JnIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.125.167.125:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@60.248.63.88:36697?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#@Hope_Net-join-us-on-Telegram
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.243.90.180:2096?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#@Hope_Net-join-us-on-Telegram
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.76.146.1:2053?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#@Hope_Net-join-us-on-Telegram
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.236.93.176:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#@Hope_Net-join-us-on-Telegram
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.236.144.156:2096?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#@Hope_Net-join-us-on-Telegram
@@ -603,3 +599,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@100.27.170.136:22222?security=tls&s
 vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@3.93.71.36:443?security=tls&sni=8582b6f2-7192-4da8-a4cb-c480b71e6c58.e8e54e0f-6317-448a-9999-95f6e16f7117.ooguy.com&type=ws&path=%2Fpasge.pages.dev%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇺🇸 US-3.93.71.36:443 📡 PING-072.63-MS
 vless://f3b622d4-08bb-47b4-9606-7dafd6071c73@164.90.141.103:80?security=none&type=ws&host=google.com&path=%2Fbs55Ovr86OzuubiHi#🔒 VL-WS-NONE 🇺🇸 US-164.90.141.103:80 📡 PING-073.21-MS
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@4.255.56.138:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇺🇸 US-4.255.56.138:443 📡 PING-073.64-MS
+vless://319ec53d-fdb6-41b5-b64f-f7f43c3f92c7@138.124.184.173:2003?security=tls&sni=us-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇺🇸 US-138.124.184.173:2003 📡 PING-073.78-MS
+vless://6edace10-5520-4ed2-aa68-49b45544095a@103.35.189.42:443?security=tls&sni=join-AstroVPN-official.pages.dev&type=tcp&host=us1.x2fast.net&path=%2Fhttp&headerType=http&fp=chrome#🔒 VL-TCP-TLS 🇺🇸 US-103.35.189.42:443 📡 PING-073.96-MS
+vless://319ec53d-fdb6-41b5-b64f-f7f43c3f92c7@138.124.184.173:443?security=tls&sni=us-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-138.124.184.173:443 📡 PING-074.46-MS
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@150.136.241.40:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-150.136.241.40:8443 📡 PING-075.06-MS
