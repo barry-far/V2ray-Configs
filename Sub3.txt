@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://1426a594-04c9-40cc-9296-807c0f2bd7d6@104.31.16.183:2083?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=ousgyyzsjbolbolsweden.stay-out-of-my-territory.shop&fp=chrome&type=ws&sni=ousgyyzsjbolbolsweden.stay-out-of-my-territory.shop#%40V2ray1_Ng
-vmess://eyJhZGQiOiIxODguMTE0Ljk3LjIxMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibGluZGUwNi5pbmRpYXZpZGVvLnNicyIsImlkIjoiZWRiYjEwNTktMTYzMy00MjcxLWI2NmUtZWQ0ZmJhNDdhMWJmIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkBWMnJheTFfTmciLCJzY3kiOiJhdXRvIiwic25pIjoibGluZGUwNi5pbmRpYXZpZGVvLnNicyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vless://58a57566-090d-438b-8795-bd959b5757e7@5.145.115.206:2086?path=%2Fdash&security=none&encryption=none&host=ariogames.ir&type=ws#%40V2ray1_Ng
 vmess://eyJhZGQiOiIxODguMTE0Ljk3LjMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImFmcmhtczE2di5iZXN0eHJheS5idXp6IiwiaWQiOiJmNTg0ZGUxNS0yMDM0LTQxNzAtYTcyMy1mNDhjMmJhZTVlMGYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoiQFYycmF5MV9OZyIsInNjeSI6ImF1dG8iLCJzbmkiOiJhZnJobXMxNnYuYmVzdHhyYXkuYnV6eiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiAiMTcyLjY0LjE5OS4xNzEiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiZnIyLXZtZXNzLnNzaG1heC54eXoiLCAiaWQiOiAiZThmNWYxODktOTdjNy00ODQ1LThjZmEtMDhiZjk4MzZjMWNlIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi92bWVzcyIsICJwb3J0IjogIjgwIiwgInBzIjogIkNoYW5uZWwgaWQ6IEBTaGFkb3dQcm94eTY2IFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
@@ -603,3 +601,5 @@ vless://5b097bce-ce4d-448a-90f1-238083812ea8@15.156.226.178:22844?security=tls&s
 vless://8c6f2395-07eb-45c6-9dd3-d54f46c39deb@15.156.226.178:443?security=tls&sni=aka.ms&type=tcp#🔒 VL-TCP-TLS 🇨🇦 CA-15.156.226.178:443 📡 PING-073.92-MS
 vless://319ec53d-fdb6-41b5-b64f-f7f43c3f92c7@138.124.184.173:2003?security=tls&sni=us-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇺🇸 US-138.124.184.173:2003 📡 PING-076.21-MS
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@20.220.204.217:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇨🇦 CA-20.220.204.217:443 📡 PING-077.56-MS
+vless://47f9be0a-24eb-44c1-931d-9a6244d1b5d6@91.194.11.168:443?security=tls&sni=ca-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇨🇦 CA-91.194.11.168:443 📡 PING-078.47-MS
+vless://378ac207-38d3-4401-ba96-3a7931968bc5@148.113.175.147:80?security=none&type=ws&path=/http#🔒 VL-WS-NONE 🇨🇦 CA-148.113.175.147:80 📡 PING-078.93-MS
