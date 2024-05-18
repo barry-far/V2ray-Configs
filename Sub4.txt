@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://9062d5b1-5441-477e-8cec-b86aa4ec76d0@103.35.189.42:8443?security=reality&sni=172.67.173.11&type=tcp&host=us1.x2fast.net&path=/http&headerType=http&fp=chrome&pbk=t_XMV-WyVYbcDCIgiSSCi3bSPDdW1rqKFa9ZoI8b4RA&sid=dbdf78b1df376900#🔒 VL-TCP-RLT 🇺🇸 US-103.35.189.42:8443
 vless://a0660613-bab4-456f-91b7-b8923788ed3d@128.140.49.220:443?security=reality&flow=xtls-rprx-vision&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=mNXhz9oVUOChfXonV3TJcv_IB1-epvPy0OXR--qY82E&sid=758910ee7eab4a1b#🔒 VL-TCP-RLT 🇩🇪 DE-128.140.49.220:443
 vless://77540057-4504-43f7-b229-765f9b7bf35d@49.13.57.113:443?security=reality&flow=xtls-rprx-vision&sni=search.itunes.apple.com&type=tcp&fp=chrome&pbk=9D4FoKRukUuWRV8jx5ya5HHTmKC4sYH2Tk5RGWjGSmI&sid=ce#🔒 VL-TCP-RLT 🇩🇪 DE-49.13.57.113:443
 vless://7f3345a3-3532-43d6-96ba-9ebdb3d58612@70.34.209.183:7594?security=reality&sni=dash.cloudflare.com&type=grpc&serviceName=@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar&fp=chrome&pbk=QDtaRWxxRlS8XMpjbJwza6RjV6Uv3Y6QcssbmIhBOSA&sid=2a0bb25d#🔒 VL-GRPC-RLT 🇸🇪 SE-70.34.209.183:7594
@@ -603,3 +602,4 @@ vless://041f929a-63f6-4af1-a492-8cbff5797b8a@172.67.69.236:2096?security=tls&sni
 vless://29fac846-1def-490f-8c3d-b3428f3bff05@95.38.132.232:8880?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇷 IR-95.38.132.232:8880
 vless://cede337b-9ea5-40e5-a8b1-690bf49ff41d@104.21.40.63:443?security=tls&sni=storeships.toptechnonews.com&type=ws&path=/nimws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.40.63:443
 vless://7733d96d-5cd2-4a15-91b2-60b06c27cee0@45.140.31.171:46769?security=none&type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-45.140.31.171:46769
+vless://8a89b27d-2564-4938-a9db-42e87c8ed0d9@104.18.22.185:80?security=none&type=ws&host=2.v2ray.debian.org.fxp.debian.org.speedtest.net.zula.ir.iranserver.com.らわなさらわ.isvphp.ir.&path=/vless#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.22.185:80

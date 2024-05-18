@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://ca3f2ed6-1dc0-47dd-84b0-730f2732871b@205.233.181.232:8080?security=none&type=ws&host=hrtv.numall.xyz.&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-205.233.181.232:8080
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.73.115:443?security=tls&sni=mmdvpn442vpn442.cicgof.workers.Dev&type=ws&host=mmdvpn442vpn442.cicgof.workers.Dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.73.115:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@204.93.210.110:2096?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-204.93.210.110:2096
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@77.37.33.195:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇩🇪 DE-77.37.33.195:8443
@@ -603,3 +602,4 @@ trojan://GSYYULACz0@104.18.202.232:8080?security=none&type=ws&host=mmd.net.napst
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.17.147.11:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.11:443
 trojan://fc1e07b5-840b-4446-8232-94b0606f2e0d@193.70.112.90:443?#🔒 TR-TCP-NA 🇫🇷 FR-193.70.112.90:443
 trojan://auto@162.159.138.232:8443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.138.232:8443
+trojan://299025b9-6b55-430c-be38-9a18c06873ac@91.199.84.57:12051?sni=china3.one.edu.kg&allowInsecure=1#🔒 TR-TCP-NA 🇭🇰 HK-91.199.84.57:12051
