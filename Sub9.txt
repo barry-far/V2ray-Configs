@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://4114bd33-e93d-46d4-a57f-9c9f1ea7cf1f@172.66.213.5:80?security=none&type=ws&host=bia-channel-hajimamadvpn.timeclassic.ir&path=%40HAJIMAMADVPN%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.213.5:80
+vless://2617f72a-36d7-4b0e-8a89-c71b11100997@172.66.213.38:2096?security=tls&sni=gerMnV2ray.naziitness.coM&type=grpc&serviceName=abc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.66.213.38:2096
 vless://119f959d-2fef-4fa6-8f86-698e760b6e01@104.17.231.29:8443?security=tls&sni=moji.xuii.sbs&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.231.29:8443
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.211.206.160:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇮🇪 IE-52.211.206.160:22222
 vless://1bab0961-b22c-411f-b955-09c4aed2d2c1@185.146.173.29:443?security=tls&sni=us1.hnkkt.top&type=ws&path=/gsjc/us1#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.29:443
@@ -601,5 +603,3 @@ ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@162.19.59.160:443#🔒 SS-TCP-NA 🇫�
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@141.95.64.70:443#🔒 SS-TCP-NA 🇫🇷 FR-141.95.64.70:443
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.86.135.117:8118#🔒 SS-TCP-NA 🇺🇸 US-38.86.135.117:8118
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@77.72.5.150:989#🔒 SS-TCP-NA 🇬🇧 GB-77.72.5.150:989
-ss://ZjdkMmU1M2UtMDcyOC00OWIwLTg5ZjctYWQ3MzBlZTBjYzQ5Og==@172.67.190.251:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.190.251:443
-ss://YWVzLTI1Ni1nY206ekJqbW1JTWZxdXpyaVNUMQ==@139.59.123.43:21592#🔒 SS-TCP-NA 🇸🇬 SG-139.59.123.43:21592
