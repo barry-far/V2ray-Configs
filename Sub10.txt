@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://b8841c50-c3ad-11ee-9be0-1239d0255272@54.38.156.210:443?#🔒 TR-TCP-NA 🇩🇪 DE-54.38.156.210:443
-trojan://951bbbc9-c5fd-441e-ac3d-c7fcfbf4a751@173.245.58.100:443?security=tls&sni=se1.trojanvpn.de&type=ws&host=se1.trojanvpn.de&path=%2Fwebsocket#🔒 TR-WS-TLS 🏴‍☠️ NA-173.245.58.100:443
 trojan://2cba4104747d49d18319e5ade1b93ab5@[::ffff:c629:dc0a]:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-[::ffff:c629:dc0a]:443
 trojan://iI72baKdja@45.85.119.200:2096?security=tls&sni=nleaaaaaa.piabolictash.online&type=grpc&serviceName=https://t.me/ViipNetwork&alpn=h2,http/1.1#🔒 TR-GRPC-TLS 🇷🇴 RO-45.85.119.200:2096
 trojan://eWdS9KsAGC@209.38.48.230:54583?security=none&type=tcp&headerType=http#🔒 TR-TCP-NONE 🇺🇸 US-209.38.48.230:54583
@@ -603,3 +601,5 @@ ss://YWRiYjE3YWUtYjhjYi00YWVlLWE4OTAtNjMyOTk2NWFiY2FjOg==@104.21.96.84:2053#🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEOXhSMjQ1R2RqQ202U3ls@4.158.71.193:443#🔒 SS-TCP-NA 🇬🇧 GB-4.158.71.193:443
 ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ==@103.172.116.103:9000#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9000
 ss://Y2hhY2hhMjAtcG9seTEzMDU6OTE4MWMyZDctZjBiNC00NTMwLWE5MDQtMzgyMjZlZTA2MTMz@34.249.210.150:587#🔒 SS-TCP-NA 🇮🇪 IE-34.249.210.150:587
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@15.204.87.222:2375#🔒 SS-TCP-NA 🇺🇸 US-15.204.87.222:2375
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@18.175.76.93:443#🔒 SS-TCP-NA 🇬🇧 GB-18.175.76.93:443
