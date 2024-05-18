@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://7b9f4ae9-ae9b-4078-8da9-8bfab43e2be1@104.21.46.85:2087?security=tls&sni=vira-v2-3be7883659a1d2ba4c545dfdf85b61eda1.asiatechnicalwest.ir.&type=grpc&serviceName=@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN&fp=firefox#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.46.85:2087
-vless://7d3b945d-0f23-4719-9fae-50033251e2fd@3.64.163.50:443?security=tls&sni=9pgcn69xy7i539t1wtli.khodavakili.buzz&type=ws&host=dl.khodavakili.buzz&path=%2Fkos_madar_publisher#🔒 VL-WS-TLS 🇩🇪 DE-3.64.163.50:443
 vless://8ac6dc1b-e6d8-4e36-a019-487c8a48ad64@104.21.46.33:443?security=tls&sni=admin.irayanconfig.ir&type=ws&host=admin.irayanconfig.ir&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.46.33:443
 vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@172.67.176.105:8080?security=none&sni=king1980.b91sptsl.workers.dev&type=ws&host=king1980.b91sptsl.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.176.105:8080
 vless://cc40bd3e-c11d-4e47-9058-45e5d367f12e@104.21.72.220:2053?security=tls&sni=sinaazizoor.lunbav.workers.dev&type=ws&host=sinaazizoor.lunbav.workers.dev&path=vless-ws%2F%3Fed%3D2048&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.72.220:2053
@@ -603,3 +601,5 @@ trojan://299025b9-6b55-430c-be38-9a18c06873ac@91.199.84.57:12022?sni=china2.one.
 trojan://telegram-id-directvpn@18.134.40.31:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-18.134.40.31:22222
 trojan://9e2285c4-0480-4428-9d6e-000918f5c6ce@91.194.11.168:443?#🔒 TR-TCP-NA 🇨🇦 CA-91.194.11.168:443
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.17.147.11:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.11:443
+trojan://telegram-id-privatevpns@54.195.102.66:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-54.195.102.66:22222
+trojan://pUxG77WPOZ@104.18.203.232:80?security=none&type=ws&host=s9.in01.tech&path=/#🔒 TR-WS-NONE 🏴‍☠️ NA-104.18.203.232:80
