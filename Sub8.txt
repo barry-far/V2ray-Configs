@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://7da383f5-e626-4f8a-8db9-00e736e9de26@104.21.73.23:2053?security=tls&sni=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran8.nimoxof961.workers.dev&type=ws&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.73.23:2053
-vless://a6d17b00-b262-41a4-afe3-0ed8051fe8db@88.198.84.145:46948?security=none&type=tcp&host=zula.ir&path=/&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-88.198.84.145:46948
 vless://52de3fa6-1673-4918-a90d-21d2b69de98e@172.66.1.85:443?security=tls&sni=eb8c0c64.888766.pages.dev&type=ws&host=eb8c0c64.888766.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.1.85:443
 vless://91243706-d635-4447-9040-578b66fbea3a@173.245.59.100:8880?path=/Free#🔒 VL-TCP-NA 🏴‍☠️ NA-173.245.59.100:8880
 vless://e1ad1088-c7ab-4c06-83b1-27c8188e631b@104.18.15.229:443?security=tls&sni=cpanel.pharmaweb.info&type=ws&host=cpanel.pharmaweb.info&path=/wws&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.15.229:443
@@ -603,3 +601,5 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.10:443?security=tls&sni=J
 vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@188.114.99.243:443?security=tls&sni=w1.sylar8.eu.org&type=ws&host=w1.sylar8.eu.org&path=lockey_vpn#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.243:443
 vless://ee3fda1f-d8ec-44c7-942e-7e980b0b941c@104.21.85.204:2052?security=none&type=ws&host=P.a.n.jetupnet.sbs.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.85.204:2052
 vless://85283cde-5710-446e-f9b9-58d0ae53c5f1@79.127.54.23:8081?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-79.127.54.23:8081
+vless://ac7c3732-7676-4965-8e74-d41a70319a9e@172.105.179.18:2003?security=tls&sni=au-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇦🇺 AU-172.105.179.18:2003
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.137.198:443?security=tls&sni=3k.pureboy.eu.org&type=ws&host=3k.pureboy.eu.org&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.137.198:443
