@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://feb31976-2a9d-40ec-e346-d9d7fcd38027@104.21.51.57:443?security=tls&sni=behemoth.wavap50279.workers.dev&type=ws&host=behemoth.wavap50279.workers.dev&path=/downloader/30836&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.51.57:443
 vless://f4cec6cc-6177-423c-90f8-2ad9f0dd996b@172.67.186.42:8443?security=tls&sni=vpnct.arvancode.eu.Org&type=ws&host=vpnct.arvancode.eu.Org&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.186.42:8443
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@188.164.158.172:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F#🔒 VL-WS-TLS 🇦🇲 AM-188.164.158.172:443
 vless://85d14a78-afc6-4490-85c8-9f2a16fb063f@104.21.94.60:443?security=tls&sni=n31nl.rashopfa.ir&type=grpc&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.94.60:443
@@ -603,3 +602,4 @@ trojan://e6b2ef47-66ba-498f-9b51-ee0dec4eb994@172.105.179.18:443?#🔒 TR-TCP-NA
 trojan://6b144a13-b7b4-451a-8431-9125c23e547f@170.187.250.166:443?#🔒 TR-TCP-NA 🇮🇳 IN-170.187.250.166:443
 trojan://d8fd60d7-4c50-47c8-9e2d-adf37ad81af4@172.207.234.4:443?#🔒 TR-TCP-NA 🇯🇵 JP-172.207.234.4:443
 trojan://241f01b9-8dfc-474f-8342-3fbd5c46417e@104.21.51.242:2087?sni=grpcfr.arminhadadi.site&type=grpc&serviceName=grpc&allowInsecure=1#🔒 TR-GRPC-NA 🏴‍☠️ NA-104.21.51.242:2087
+trojan://lrdxw@172.67.197.210:443?security=tls&sni=trojan-lrdxw.ala1-f11.workers.dev&type=ws&host=trojan-lrdxw.ala1-f11.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.197.210:443
