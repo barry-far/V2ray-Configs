@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://0d5cdec3-ff6c-49cb-9d7d-206d7c7d1437@2.189.110.9:443?security=none&type=tcp&host=www.speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-2.189.110.9:443
+vless://edffff01-df77-42f3-9d02-359a449ab98e@104.25.23.180:8443?security=tls&sni=off.v2box.lol.&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.23.180:8443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.67.215.70:2087?security=tls&sni=baipiao1.curly-train.pages.dev&type=ws#🔒 VL-WS-TLS 🇷🇺 RU-45.67.215.70:2087
 vless://c25d9ab6-b6be-4034-9bb8-966b4651cade@104.21.62.144:2083?security=tls&sni=sauron.melkore.ir&type=ws&host=sauron.melkore.ir&path=/&fp=chrome&alpn=http/1.1,h2,h3#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.62.144:2083
 vless://7da383f5-e626-4f8a-8db9-00e736e9de26@172.67.137.167:2053?security=tls&sni=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran8.nimoxof961.workers.dev&type=ws&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.137.167:2053
@@ -601,5 +603,3 @@ vless://2ca42987-551b-4494-a854-da2d9178f4cd@104.16.60.8:2087?security=tls&sni=L
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@94.140.0.91:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇦🇪 AE-94.140.0.91:443
 vless://96e3e3a8-b99e-4d6c-8a74-7a9ed2ef71fb@172.66.47.12:8443?security=tls&sni=pardazeshvpn-tg59.pages.dev&type=ws&host=pardazeshvpn-tg59.pages.dev&path=%2FTelegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.12:8443
 vless://7f55b425-a623-439b-bbd5-0b1778162054@188.114.97.0:80?security=none&type=ws&host=v2raygodvip--free24.Azaronline.Org.&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.97.0:80
-vless://8b9db8cd-562d-4198-bc43-6e182937c237@172.67.213.148:80?security=none&type=ws&host=almanman1.1.12.2okolrules.xn--blqw2a5no5ed8cm6xw0gw2i6ooehteuz1wcw61apn4a.com.&path=%2Fserver-SPDNet-SPDNet-SPDNet-SPDNet-SPDNet-SPDNet%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.213.148:80
-vless://38d10eab-39b9-4794-a814-b394a33da7c5@172.67.135.195:443?security=tls&sni=off.v2box.lol.&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.135.195:443
