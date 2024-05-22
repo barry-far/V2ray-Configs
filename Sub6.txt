@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://c32b1429-92aa-4be7-912e-4d63b0a31fc7@172.67.199.241:443?security=tls&sni=can01.nimserver.top&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.199.241:443
+vless://b1c53b03-8d32-4d2c-a572-c3f6c81bda8c@45.194.53.3:80?security=none&type=ws&host=a.らわなさ.tech.&path=/ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON#🔒 VL-WS-NONE 🇺🇸 US-45.194.53.3:80
 vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@8.222.214.231:2083?security=tls&sni=547c921f-c9b1-4d57-bb25-ff5c79749783.a09c5a67-316e-45c6-a051-e6066737fd47.theworkpc.com&type=ws&path=%2Fpasge.pages.dev%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇸🇬 SG-8.222.214.231:2083
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.66.247:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇫🇷 FR-13.37.66.247:22222
 vless://07ffa30b-2366-4621-8c3a-aa7daeb70731@87.236.208.30:8080?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇷 IR-87.236.208.30:8080
@@ -601,5 +603,3 @@ vless://3cdbc462-6272-4c2a-9a2d-1525a81c7dfa@104.16.54.2:443?security=tls&sni=xe
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@193.9.49.80:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-193.9.49.80:443
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@141.101.115.11:2082?type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-141.101.115.11:2082
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.131.52:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.131.52:443
-vless://51905fd3-29de-4b4e-b351-83542f1d5390@104.22.33.78:443?security=tls&sni=Bia.alLhub.Ltd&type=ws&host=biA.ALlhub.LTD&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.33.78:443
-vless://82494092-bd0c-405b-920c-8ebfaf5d8b81@188.114.97.170:80?security=none&type=ws&host=sssds433600.2b5c6c9f0d.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.97.170:80
