@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://13b8be10-f614-4cde-b1f4-c0ce661fc0b6@104.18.203.232:8080?security=none&type=ws&host=xn--047h.iman-v2ray.sbs.&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.203.232:8080
-vless://8d2b1217-c750-4fe6-9d07-7325cf1e300b@104.18.37.228:443?security=tls&sni=help.melov2ray.shop&type=grpc&serviceName=melov2ray&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.37.228:443
-vless://88363077-79d2-441e-b96b-cd8e4346794d@104.21.15.78:2096?security=tls&sni=wedbaz-sueed-tls.bigvip.ir&type=grpc&serviceName=abc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.15.78:2096
-vless://4045c6b7-1d53-4574-98cd-df21db40b0dc@172.64.81.197:2053?security=tls&sni=itcenteriran.blog&type=ws&host=itcenteriran.blog#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.81.197:2053
-vless://8ae88ee2-2f11-46ad-8302-ba388712196a@162.159.128.233:2053?security=tls&sni=cdn.biglog.sbs&type=ws&host=cdn.biglog.sbs&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.128.233:2053
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.130.115:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.130.115:443
 vless://714c776d-ccf4-57db-97b2-3628ae1f1b3d@104.19.216.72:443?security=tls&sni=ztv2ray.teyekas893.wORKeRS.DEV&type=ws&host=ztv2ray.teyekas893.wORKeRS.DEV&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h3,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.216.72:443
 vless://3575d763-5557-4f01-baec-1a6fc5c5f58f@172.66.47.158:80?security=none&type=ws&host=GGO5Ho.dIVaR.prO&path=/backup#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.47.158:80
@@ -603,3 +598,8 @@ vless://48198295-b7ba-4b5c-8d85-085d55a6c869@199.180.255.223:443?security=tls&sn
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@77.37.33.9:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇩🇪 DE-77.37.33.9:8443
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@77.37.33.242:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇩🇪 DE-77.37.33.242:8443
 vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?security=tls&sni=e10c0e4b.oodaeq2.pages.dev&type=ws&path=%2FTelegram-V2ray_Alpha%3Fed&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.141:443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.26.210:2083?security=tls&sni=baipiao1.curly-train.pages.dev&type=ws#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.26.210:2083
+vless://d3a12e79-ef42-4268-b367-42eeb3494e60@104.26.14.85:2096?security=tls&sni=hagh.pages.dev&type=ws&host=hagh.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.14.85:2096
+vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@203.69.248.40:27381?security=tls&sni=fc071d49-af91-42d6-a20e-5a64e24a53bc.71a45835-dd0c-4d51-8bd4-9ccf9f223662.casacam.net&type=ws&path=%2Fpasge.pages.dev%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇹🇼 TW-203.69.248.40:27381
+vless://b33cb740-535f-4c86-b597-d674d828584c@185.249.135.249:2096?security=none&type=tcp&host=Fast.com&headerType=http#🔒 VL-TCP-NONE 🇦🇪 AE-185.249.135.249:2096
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.242.157.96:2096?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-47.242.157.96:2096
