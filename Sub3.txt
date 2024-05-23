@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@15.204.87.225:5499#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-15.204.87.225%3A5499
 trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?security=tls&sni=cdn-21.gsmxreality.com&type=grpc&serviceName=443trojan&mode=gun#%F0%9F%94%92%20TR-GRPC-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.67.204.84%3A443
 vless://99785b25-5b68-40c7-be5c-199cac21c838@65.109.211.159:2093?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AB%F0%9F%87%AE%20FI-65.109.211.159%3A2093
 vless://5c9ec094-61af-4225-b5b5-0d1ddd96ac0f@162.159.152.2:2096?encryption=none&security=tls&sni=telegram-falcunargo-eston.falcunar.asso.eu.org&fp=chrome&type=ws&host=telegram-falcunargo-eston.falcunar.asso.eu.org&path=%2F#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-162.159.152.2%3A2096
@@ -603,3 +602,4 @@ vless://4548173f-4b67-4126-b098-29e1b0500767@185.218.139.118:43633?security=none
 vless://cf1373d3-0089-42b5-a890-2b1c5d41735e@104.18.118.125:2087?security=tls&sni=Mo4.SahEBdELANKHodaRAnooNsHAbNiazBEKarEnotxxX-IUP.SpAcE&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.118.125:2087
 vless://ead6b74b-c156-5b2d-8f9a-9fc1a83a531e@172.67.205.175:8443?security=tls&sni=web.v2ray-ab-841-vpn.WOrKErs.DEv&type=ws&host=web.v2ray-ab-841-vpn.WOrKErs.DEv&path=%2Fvless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.205.175:8443
 vless://cdd562e2-93bc-4541-8f74-28dd32ed52b4@104.20.18.168:2086?security=none&type=ws&host=mci.你有一个不光彩的问题.website.&path=/?ed#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.18.168:2086
+vless://76713785-a539-4c35-998d-e246c499c37a@45.67.215.83:80?security=none#🔒 VL-TCP-NONE 🇷🇺 RU-45.67.215.83:80
