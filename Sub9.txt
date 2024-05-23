@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://e27d074b-c210-4ab3-9c26-29f8fbb84bfd@141.193.213.31:2087?security=tls&sni=xnxv2ray.mioRay.cfd&type=grpc&serviceName=Telegram:@XNXV2RAY,Telegram:@XNXV2RAY,Telegram:@XNXV2RAY,Telegram:@XNXV2RAY,Telegram:@XNXV2RAY,Telegram:@XNXV2RAY,Telegram:@XNXV2RAY&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇺🇸 US-141.193.213.31:2087
-vless://9109a32f-31bd-43de-8f7b-95183023d41d@154.197.75.179:2053?security=tls&sni=v2rayfree1.bazar-yabi.shop&type=grpc&serviceName=V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🇸🇨 SC-154.197.75.179:2053
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@65.75.194.2:34237?security=tls&sni=jp313.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-65.75.194.2:34237
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.24.1.11:443?security=tls&sni=B3543d31.OxNEt-bu711.pAgeS.DEV&type=ws&host=B3543d31.OxNEt-bu711.pAgeS.DEV#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.1.11:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.136.102:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.136.102:443
 vless://c79cdf6c-67a6-4e09-b018-dff7d92b7a6a@209.38.226.214:2045?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-209.38.226.214:2045
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@156.225.72.239:2053?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇺🇸 US-156.225.72.239:2053
@@ -603,3 +599,7 @@ trojan://auto@172.67.213.48:443?security=tls&sni=esetsecuritylicense2.wawafec355
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.181:443?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.181:443
 trojan://telegram-id-directvpn@13.39.250.193:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-13.39.250.193:22222
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@104.16.159.1:443?security=tls&sni=jobsapplyworld.com&type=ws&host=jobsapplyworld.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.1:443
+trojan://2cba4104747d49d18319e5ade1b93ab5@104.18.23.19:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=6b777a91&fp=chrome&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.23.19:443
+trojan://telegram-id-privatevpns@18.198.74.82:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-18.198.74.82:22222
+trojan://iI72baKdja@45.85.119.200:2096?security=tls&sni=nleaaaaaa.piabolictash.online&type=grpc&serviceName=https://t.me/ViipNetwork&alpn=h2,http/1.1#🔒 TR-GRPC-TLS 🇷🇴 RO-45.85.119.200:2096
+trojan://b3965d2d-3b82-45cc-927b-1336aca3f3fe@139.162.49.215:443?#🔒 TR-TCP-NA 🇸🇬 SG-139.162.49.215:443
