@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://a93eacd2-2852-4d84-9355-fd1e6477dccc@172.64.160.149:80?security=none&type=ws&host=esten.free.hr&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.160.149:80
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.119.132:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.119.132:443
-vless://8ceac519-7b18-47a5-b53e-d37ba318b0aa@172.66.47.185:443?security=tls&sni=c1c569fc.irani-eub.pages.dev&type=ws&host=c1c569fc.irani-eub.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.185:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.34.251:443?security=tls&sni=B458aB02.cAa-CHANEL-WORKER-pAge-fREE-jhUiHnuJhpHJKL-nIHGKjn.PAges.Dev&type=ws&host=b458ab02.CAa-cHANel-woRkEr-PaGE-FRee-jHUIhNUJhPhjkl-NiHGkjn.paGEs.dev&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.34.251:443
-vless://8c9cb6e5-1be1-4e35-9ed3-d0d5280479a9@104.18.14.19:2096?security=tls&sni=tp6.zedmodeon.lat&type=grpc&serviceName=@ZEDMODEON-@ZEDMODEON-@ZEDMODEON&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.14.19:2096
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@141.11.203.196:2083?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F#🔒 VL-WS-TLS 🇫🇷 FR-141.11.203.196:2083
 vless://959dc846-1aa3-4aa7-bc58-7eb51114d1ce@172.67.132.41:8443?security=tls&sni=nl36.vlessx.us&type=ws&host=nl36.vlessx.us&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.132.41:8443
 vless://a8678b19-5d3d-45d0-ba00-5e091fde9c53@185.146.173.59:8080?security=none&type=ws&host=hahaha.servernet.fun.&path=/#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.59:8080
@@ -603,3 +598,8 @@ vless://2f7491f6-c12a-46d4-88fe-79436ed03b44@104.19.54.50:80?security=none&type=
 vless://2321a662-adbb-49b6-9c3d-51fcef59c70d@193.227.99.66:8443?security=tls&sni=ch.donaldvpn.sbs&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇲🇹 MT-193.227.99.66:8443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@4.255.56.138:443?security=tls&sni=hk116.ylks.link&type=ws&path=/proxyip#🔒 VL-WS-TLS 🇺🇸 US-4.255.56.138:443
 vless://f0f436be-543e-40be-865d-41daedfb9ace@51.75.77.237:2003?security=tls&sni=de-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇩🇪 DE-51.75.77.237:2003
+vless://4045c6b7-1d53-4574-98cd-df21db40b0dc@172.67.154.63:2053?security=tls&sni=itcenteriran.blog&type=ws&host=itcenteriran.blog#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.154.63:2053
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.42.88.53:443?security=tls&sni=kk116.ylks.link&type=ws&path=/proxyip#🔒 VL-WS-TLS 🇱🇺 LU-188.42.88.53:443
+vless://bd13ceac-d4c7-4840-9fb6-fbe4f2731884@212.80.10.7:63875?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-212.80.10.7:63875
+vless://4d40a017-9f06-4360-8a12-ce0de16989c9@85.133.237.76:443?security=none&type=grpc#🔒 VL-GRPC-NONE 🇮🇷 IR-85.133.237.76:443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.135.9.148:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇩🇪 DE-185.135.9.148:443
