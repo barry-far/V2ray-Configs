@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://850e1920-7a02-4cd3-8072-dd338eea7b0f@172.67.204.84:2086?security=none&type=ws&host=nl4.vlessx.us#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.204.84:2086
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.16.2.189:443?security=tls&sni=gOdZillA-mR-DaRKarSha-ONETOpKIng.PaGEs.dEV&type=ws&host=GodZiLla-Mr-darkarsha-ONeTOPKING.pAGes.DEv&path=%2FhmBvkyQIpkFvHI5p%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.2.189:443
-vless://6584ed53-90b2-45d6-aa78-ff34867c814c@206.238.236.18:8443?security=tls&sni=yalda20232112.freedns.site&type=grpc&serviceName=freevpn&fp=chrome#🔒 VL-GRPC-TLS 🇸🇬 SG-206.238.236.18:8443
-vless://22db8666-ec54-425a-9db9-50409bbc0a67@104.20.225.16:8443?security=tls&sni=tarasvalat.ps4lavazemjanebi.ir&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.20.225.16:8443
-vless://66e7e060-e90e-4ded-b3d2-1fb3d4096abd@172.67.185.252:443?security=tls&sni=pPAl03-2SHAnBEH1.gREtA-haLEy.woRKERS.dev&type=ws&host=PpaL03-2SHANBeH1.grEtA-haLEy.woRkERs.dEV&path=%2Ftelegram-proxy_mtm-telegram-proxy_mtm%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.185.252:443
-vless://c23346a5-5068-4afb-ada6-c59420101896@45.94.169.226:2083?security=tls&sni=zayn.nfzaynzeed.shop&type=grpc#🔒 VL-GRPC-TLS 🇺🇦 UA-45.94.169.226:2083
-vless://6a920528-a3df-4088-8371-3895577852ca@92.114.19.249:80?security=none&type=tcp&host=varzesh3.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-92.114.19.249:80
-vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@104.21.36.71:443?security=tls&sni=ahmedquran19.xyz&type=ws&path=%2Fcurrent_time&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.36.71:443
 vless://c32b1429-92aa-4be7-912e-4d63b0a31fc7@172.64.172.207:443?security=tls&sni=can01.nimserver.top&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.64.172.207:443
 vless://1622d31e-9023-4f1a-b553-9d10d7d2da90@172.66.47.7:443?security=tls&sni=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com&type=ws&host=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.7:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@108.165.216.221:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-108.165.216.221:443
@@ -603,3 +595,11 @@ ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.86.135.31:445#🔒 SS-TCP-NA 🇺�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVeG00QUR3ZnRLZFhxNXFSQTRaZkhT@49.13.10.50:1194#🔒 SS-TCP-NA 🇩🇪 DE-49.13.10.50:1194
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@142.202.48.43:443#🔒 SS-TCP-NA 🇺🇸 US-142.202.48.43:443
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.162.200.181:6697#🔒 SS-TCP-NA 🇨🇦 CA-23.162.200.181:6697
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.114.114.208:6679#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.208:6679
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.208.170.155:443#🔒 SS-TCP-NA 🇺🇸 US-34.208.170.155:443
+ss://OWYwOWRjN2ItYWI5MC00NjY5LTgwYjctYWNlYmZjNGIzN2U5Og==@104.21.23.185:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.23.185:80
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@57.129.2.36:443#🔒 SS-TCP-NA 🇩🇪 DE-57.129.2.36:443
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@23.92.127.133:989#🔒 SS-TCP-NA 🇮🇪 IE-23.92.127.133:989
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@162.19.83.8:443#🔒 SS-TCP-NA 🇫🇷 FR-162.19.83.8:443
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@169.197.142.120:3389#🔒 SS-TCP-NA 🇺🇸 US-169.197.142.120:3389
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3bEZMVG1PTEVtZmJEUnYyam5GRGV5@45.15.157.199:45346#🔒 SS-TCP-NA 🇫🇷 FR-45.15.157.199:45346
