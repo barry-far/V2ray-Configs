@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vmess://eyJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsInYiOiIyIiwiYWRkIjoiNTA1Lm91dGxpbmUtdnBuLmNsb3VkIiwiaGVhZGVyVHlwZSI6IiIsImZwIjoiY2hyb21lIiwibmV0Ijoid3MiLCJzbmkiOiJrZWxsaWUubWFrZXVwIiwidGxzIjoidGxzIiwiaG9zdCI6ImtlbGxpZS5tYWtldXAiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiJcL2xpbmt2d3MiLCJhbHBuIjoiIiwic2VlZCI6IiIsInNlcnZpY2VOYW1lIjoibm9uZSIsImRldmljZUlEIjoiIiwiYWlkIjoiMCIsInBvcnQiOiI0NDMiLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOFVTIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBAdjJyYXluZ19jb25maWdfYW1pbiB8IDMifQ==
-vless://f93405f5-b64f-40ba-a4da-140b994d511f@143.110.169.55:40987?type=tcp&security=reality&pbk=sO6z1TtkOVNB1lhlsqoBj6lsR_0IyEsfWTXj-YXlCHQ&fp=firefox&sni=*.sourceforge.net&sid=d3043362&spx=/#🇬🇧GB | 🔴 | vless | @Capital_NET | 6
-vless://a70e4c16-319a-49e4-bbe1-aa8c34d1380b@66.235.200.51:2053?encryption=none&security=tls&sni=figr1.blackflag.blog&alpn=h2&fp=chrome&type=grpc&serviceName=jkrv2ry&mode=gun#🇺🇸US | 🔴 | vless | @Capital_NET | 7
-vless://24f6cf45-67ef-493c-8db8-5cad032bf123@159.223.4.137:38915?security=reality&encryption=none&pbk=V7PuAOITOyH7RZ-PRJndYVA5udmu-DqAp7LdjpNYwUQ&headerType=none&fp=firefox&spx=/&type=tcp&sni=sourceforge.net&sid=33c38f16#🇳🇱NL | 🟢 | vless | @Capital_NET | 8
 vless://cf052982-23bb-4404-8817-05302c50fcd3@168.119.110.229:56372?type=tcp&security=reality&pbk=YdveG9_ciK2YgrnXMN6Ncid3h5dK44rI1Rhb29RTDWE&fp=firefox&sni=sourceforge.net&sid=e7f19002&spx=/#🇩🇪DE | 🔴 | vless | @Capital_NET | 9
 vless://cf052982-23bb-4404-8817-05302c50fcd3@116.202.99.47:56372?type=tcp&security=reality&pbk=YdveG9_ciK2YgrnXMN6Ncid3h5dK44rI1Rhb29RTDWE&fp=firefox&sni=sourceforge.net&sid=e7f19002&spx=/#🇩🇪DE | 🔴 | vless | @Capital_NET | 10
 vless://0448c6ea-34ce-487a-93be-8e57bd2f2fa8@116.202.99.47:49124?type=tcp&security=reality&pbk=rBdocIQXi2MdXwQYubRsn4fTG1_3XMZiNgtn9u3yzwI&fp=firefox&sni=dalan-group.de&sid=0bf98883&spx=/#🇩🇪DE | 🔴 | vless | @Capital_NET | 11
@@ -55,8 +51,6 @@ vless://aebca481-d343-4ae8-a641-c598d253f0f1@104.17.169.114:80?path=/Telegram:@U
 vless://c064eb24-643c-405f-a222-043d29e151bf@188.114.96.3:443?path=/telegram-@Capoit-telegram-@Capoit-telegram-@Capoit?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=FaRAhDibA.pAgEs.dEv&fp=randomized&type=ws&sni=faRAHDIba.pagES.DEV#🚩CF | 🔴 | vless | @Capoit | 3
 vless://fb853741-88ef-4aa0-ba2f-999f04535960@188.114.97.3:443?path=/telegram-@Capoit-telegram-@Capoit-telegram-@Capoit?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=HovEYda-arIamehr-KINg.pAgES.dev&fp=randomized&type=ws&sni=HovEyda-ARIAMEHR-KinG.PAgEs.Dev#🚩CF | 🔴 | vless | @Capoit | 5
 vless://V2raxx@185.146.173.146:8080?path=@V2RAXX-@V2RAXX?ed=2048&security=none&encryption=none&host=xn--047h.v2raxx6.shop.&type=ws#🇸🇪SE | 🔴 | vless | @Capoit | 8
-vless://dddd9ced-44a7-4e6a-9062-0dcb494865aa@zula.ir:80?encryption=none&security=none&type=ws&host=112224337673.ir.www.zula.ir.xn--4all.king4usd.shop.&path=/@custom_config?ed=2048#🇺🇸US | 🔴 | vless | @Capoit | 12
-vless://fb853741-88ef-4aa0-ba2f-999f04535960@188.114.97.3:443?path=/telegram-proxy_mtm-telegram-proxy_mtm?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=HovEYda-arIamehr-KINg.pAgES.dev&fp=randomized&type=ws&sni=HovEyda-ARIAMEHR-KinG.PAgEs.Dev#🚩CF | 🔴 | vless | @Capoit | 13
 vless://4f0efec2-9a6e-4122-9bcc-a8ab1c83c298@zula.ir:8443?security=tls&encryption=none&host=telegram-falcunargo-ukrine.falcunar.asso.eu.org&fp=random&type=ws&sni=telegram-falcunargo-ukrine.falcunar.asso.eu.org#🇺🇸US | 🟢 | vless | @FreakConfig | 0
 vless://a81b314c-3ab7-48d3-b8c0-584c89e5f616@104.16.54.150:80?security=none&encryption=none&host=xswa.kevani8800.workers.dev&type=ws#🚩CF | 🔴 | vless | @FreakConfig | 1
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@188.114.96.3:2082?security=none&encryption=none&host=malaysiadj.card-937.workers.dev&type=ws#🚩CF | 🔴 | vless | @FreakConfig | 2
@@ -156,7 +150,6 @@ vless://0a78bae6-7296-4335-bf8b-9faf33ac34b6@217.69.2.132:12046?type=grpc&servic
 vless://9dcbbb54-7bbc-4bab-b391-3b9a6edf23c4@95.179.223.129:55901?type=grpc&serviceName=&authority=&security=none#🇫🇷FR | 🔴 | vless | @raze_vpn | 4
 vless://8d13529a-e8ac-4f9f-941b-06696630f7a7@wgap.mesalzadani.pw:44123?type=grpc&serviceName=&authority=&security=reality&pbk=5fxCb6S1mhD6EUsppQY7Oo8lxxwj-UoWQzdrP_RtT04&fp=firefox&sni=MCI.ir&sid=492dcaec&spx=/#🇺🇸US | 🔴 | vless | @raze_vpn | 7
 vless://7cdafc2a-4a20-4af8-9f4f-ceab1d695321@172.234.120.167:2053?type=grpc&serviceName=&authority=&security=none#🇸🇪SE | 🔴 | vless | @raze_vpn | 8
-vless://c8e85c73-258f-41f6-8e56-3afac8c18ed8@172.232.53.15:47149?type=grpc&serviceName=&authority=&security=none#🇫🇷FR | 🔴 | vless | @raze_vpn | 10
 vless://8dd6a319-7d65-467d-9184-4f71ff00bebb@us-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Vless%20WS%20@V2rayStore
 vless://26906f7b-17f6-4b79-9641-1f02ca8bd94f@us2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Vless%20WS%20@V2rayStore
 vless://0af1c46d-5cb9-40ae-bce2-369017b78c6c@tr-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20Vless%20WS%20@V2rayStore
@@ -603,3 +596,10 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggZ2l0aHViLmNvbS9mcmVlZnEgLSDnvo7lm71DbG91
 ss://YWVzLTI1Ni1jZmI6ZG91Yi5pbw@54.199.83.239:2333#54.199.83.239%3A2333
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.251.168.143:443#54.251.168.143%3A443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ZTk0OWQ3NS0zNTEwLTQ2NzgtODU5My0zYzUwMzJkZDkzMWE@wqfuinwqffq.dfcloud.xyz:30818#wqfuinwqffq.dfcloud.xyz%3A30818
+vmess://eyJ2IjoiMiIsInBzIjoiIiwiYWRkIjoieHQueWxrczAxLmV1Lm9yZyIsInBvcnQiOiIyMDk1IiwidHlwZSI6Im5vbmUiLCJpZCI6ImI3MTA3NzBhLWZkYWYtNDFmYi1iYmU0LTY4YTZjNDFlMjYwNSIsImFpZCI6IjY0IiwibmV0Ijoid3MiLCJwYXRoIjoiL2JsdWUiLCJob3N0IjoieHQueWxrczAxLmV1Lm9yZyIsInRscyI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoiIiwiYWRkIjoiYWFhYS53eHguZ2F5IiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiI4MjM3ZWMzNC0xNDNhLTExZWUtODAxOS0wMDAwMTcwMjIwMDgiLCJhaWQiOiI2NCIsIm5ldCI6IndzIiwicGF0aCI6Ii9sb29rIiwiaG9zdCI6ImFhYWEud3h4LmdheSIsInRscyI6InRscyJ9
+vmess://eyJ2IjoiMiIsInBzIjoiIiwiYWRkIjoiMTU5LjIyMy45NC4xNTYiLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiNTMzNzI0YWQtNThlZi00MTQ3LTg4ZGMtOWRhNTIzYzE1ZmM0IiwiYWlkIjoiNjQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYW50aTEzLnppbmdmYXN0LnZuIiwiaG9zdCI6IiIsInRscyI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoiIiwiYWRkIjoiaGtkMS5xdWlja2VybGluay54eXoiLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjM4NTNhMmFiLTZiZWMtNDUwMy04OWI5LWQzY2JjYzZiNjljOSIsImFpZCI6IjY0IiwibmV0Ijoid3MiLCJwYXRoIjoiL2g2anIyM3g5aDNscWlpdGciLCJob3N0IjoiaGtkMS5xdWlja2VybGluay54eXoiLCJ0bHMiOiJ0bHMifQ==
+订阅内容解析错误trojan://NISHIKUITAN222@172.67.199.233:443?allowInsecure=0&sni=t226.ylks.link&ws=1&wspath=%2F#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20CloudFlare%E8%8A%82%E7%82%B9
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206MkYzeDY1M0dIS1RsV0J0ZUFMT1BQbFN3d0FQYzF2em9EQ0QvZUU3MDJVVT06UnRKQnlTOTh3WDl1Mld4QkNNMC93SHBYckVBK3dFejMyWXJldVQ3OTNEYz0@65.21.4.192:8080#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20V2CROSS.COM
+trojan://telegram-id-privatevpns@54.220.223.176:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%87%AE%F0%9F%87%AA%20%E7%88%B1%E5%B0%94%E5%85%B0%20%E9%83%BD%E6%9F%8F%E6%9E%97Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
