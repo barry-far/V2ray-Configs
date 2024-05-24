@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://aabc3ef9-6968-4311-81b8-8cd0414c1904@104.24.177.7:80?security=none&type=ws&host=luact.zahedan.eu.org&path=Path%2F%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.177.7:80
+vless://0ed853ea-3392-4fe9-957a-e39105b0ef02@84.47.235.69:46057?security=none&type=tcp&host=www.speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-84.47.235.69:46057
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@170.114.46.140:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-170.114.46.140:443
+vless://88a1823f-b2e7-43eb-beed-2d8f692eaa0a@172.64.35.205:80?security=none&type=ws&host=2.V2raygrizzlyvpn.org.fxp.debian.org.speedtest.net.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95%E3%82%89%E3%82%8F.kholochel.sHoP.&path=%2Ftelegram-Grizzlypn%2Ctelegram-Grizzlypn%2Ctelegram-Grizzlypn%2Ctelegram-Grizzlypn%2Ctelegram-Grizzlypn%2Ctelegram-Grizzlypn%2Ctelegram-Grizzlypn%2Ctelegram-Grizzlypn%2Ctelegram-Grizzlypn%2Ctelegram-Grizzlypn%2Ctelegram-Grizzlypn%2Ctelegram-Grizzlypn%2Ctelegram-Grizzlypn%2Ctelegram-Grizzlypn%2Ctelegram-Lookivpn%2CGrizzlypn-Grizzlypn-telegram-Grizzlypn-v2ray%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.35.205:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.125.39:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.125.39:443
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@190.93.244.125:2082?type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-190.93.244.125:2082
 vless://5f75c7d3-446e-40c3-b5bf-da7f30857ee9@104.25.6.5:2087?security=tls&sni=suping2.snapppfood.sbs&type=grpc&serviceName=@AFC_vpn.@AFC_vpn.@AFC_vpn&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.6.5:2087
@@ -599,7 +603,3 @@ vless://b21813ba-c7c1-43e6-b51c-76f92bf66fd0@172.67.163.103:8880?security=none&t
 vless://988bbd3d-2822-47ab-ad1e-d2b4109fe30a@104.21.94.85:2052?security=none&sni=de3.vlessx.xyz&type=ws#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.94.85:2052
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@154.197.121.127:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇸🇨 SC-154.197.121.127:443
 vless://73057ad9-20d6-4ae1-ac5f-821eca70229d@139.162.36.248:443?security=tls&sni=sg-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇸🇬 SG-139.162.36.248:443
-vless://119f959d-2fef-4fa6-8f86-698e760b6e01@104.17.231.29:8443?security=tls&sni=moji.xuii.sbs&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.231.29:8443
-vless://c14f397e-682b-4949-fbdd-96b6020e137a@190.93.246.225:2083?security=tls&sni=liV2helj.LIGHTNING6.IR&type=grpc&serviceName=@LIGHTNING6&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-190.93.246.225:2083
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@146.56.188.95:48888?security=tls&sni=a.ssll.gay&type=ws&path=telegram%F0%9F%87%A8%F0%9F%87%B3+%40wangcai_8+%2F%3Fed#🔒 VL-WS-TLS 🇰🇷 KR-146.56.188.95:48888
-vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.199.19:2087?security=tls&sni=s1.darroborobinim.com&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.199.19:2087
