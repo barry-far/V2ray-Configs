@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@5.161.133.9:443?security=tls&sni=ada27.qvqag.com&type=ws&fp=chrome&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-5.161.133.9:443
+vless://2ca42987-551b-4494-a854-da2d9178f4cd@104.31.16.162:2087?security=tls&sni=IxHiWwAs22.zImBa-zUlA.OrG&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.31.16.162:2087
+vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@184.169.181.217:443?security=tls&sni=5ae52850-e7f0-481c-8cff-6c1ed17fd9f1.91f1a2e9-9f15-4330-996f-0b6bc7c8fa5b.theworkpc.com&type=ws&path=%2Fpasge.pages.dev%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇺🇸 US-184.169.181.217:443
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@141.101.115.11:2082?type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-141.101.115.11:2082
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@192.65.217.57:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇦🇺 AU-192.65.217.57:443
 vless://b81edee6-a129-4160-ad29-488f0b5d81b4@104.24.180.16:2087?security=tls&sni=vpn-ocean4.cdn-user2.workers.dev&type=ws&host=vpn-ocean4.cdn-user2.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=safari&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.180.16:2087
@@ -600,6 +603,3 @@ vless://a448e6d6-8f45-4b48-fd4c-b526ed8caa25@185.146.173.59:2087?security=tls&sn
 vless://10716279-b1ee-41d8-b63e-87782088305b@104.18.71.193:443?security=tls&sni=mAMAne-FIlTeRchI.PageS.DeV&type=ws&host=mAMAnE-fiLTerChi.paGES.deV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.71.193:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.152.246:80?security=none&type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai_8+%2F%3Fed#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.152.246:80
 vless://298bec4b-c106-427d-cdf0-96b9226366cd@88.135.46.98:2053?security=none&type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-88.135.46.98:2053
-vless://e6c29d25-06a2-44fa-8db9-94b434ef2de1@178.157.91.10:80?security=none&type=tcp#🔒 VL-TCP-NONE 🇳🇱 NL-178.157.91.10:80
-vless://1ff59fad-6cc6-4714-82b1-d4af47de08eb@23.227.60.118:80?security=none&type=ws&host=DiReCt49-13-163-226.CleAnMaRk.IR&path=/DiReCt49-13-163-226-CleAnMaRk-IR#🔒 VL-WS-NONE 🇨🇦 CA-23.227.60.118:80
-vless://d62bef02-fa45-4af6-b399-ff4350cb1757@162.159.138.232:2053?security=tls&sni=V2rayNG_mer.elmahstyle.ir&type=ws&host=V2rayNG_mer.elmahstyle.ir&path=%2F%3Fed%3D1024#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.138.232:2053
