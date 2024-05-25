@@ -3,6 +3,16 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://5afb11dc-f76d-4507-93e2-e19be4c45d18@172.66.47.25:443?security=tls&sni=pardazeshvpn.pages.dev&type=ws&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.25:443
+vless://2321a662-adbb-49b6-9c3d-51fcef59c70d@193.227.99.66:8443?security=tls&sni=ch.donaldvpn.sbs&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇲🇹 MT-193.227.99.66:8443
+vless://2b9e80c9-e164-4729-95ba-6901319a57d6@45.159.219.84:8080?security=none&type=ws&host=Daily-ConfigsV2rayGmSix6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.vigilantecollection.com.&path=%2FTelegram%3A%40Daily_Configs-Telegram%3A%40Daily_Configs-Telegram%3A%40Daily_Configs-Telegram%3A%40Daily_Configs-Telegram%3A%40Daily_Configs%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-45.159.219.84:8080
+vless://67f27227-85ab-4fea-f409-48ef93794de2@104.22.33.78:2052?security=none&type=ws&host=Fl.poloo.ir&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.33.78:2052
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@43.154.74.39:30958?security=tls&sni=v313.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇭🇰 HK-43.154.74.39:30958
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@94.177.8.26:130?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇦🇹 AT-94.177.8.26:130
+vless://adbb17ae-b8cb-4aee-a890-6329965abcac@104.21.96.84:2053?security=tls&sni=newworkfaridshahrivardo.abza.workers.dev&type=ws&host=newworkfaridshahrivardo.abza.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.96.84:2053
+vless://8dd6a319-7d65-467d-9184-4f71ff00bebb@138.124.184.173:443?security=tls&sni=us-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-138.124.184.173:443
+vless://1622d31e-9023-4f1a-b553-9d10d7d2da90@104.21.8.177:443?security=tls&sni=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com&type=ws&host=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.8.177:443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.107.62:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-185.148.107.62:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@146.56.141.168:47590?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇷 KR-146.56.141.168:47590
 vless://1c3b5f09-d3f4-44cc-adfc-5d74a71d33f2@91.107.240.177:443?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-91.107.240.177:443
 vless://b04859a9-1156-4d22-8873-60980d5b599d@172.67.193.102:443?security=tls&sni=free.connectix.workers.dev&type=ws&path=/connectix&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.193.102:443
@@ -593,13 +603,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@13.42.250.27:443#🔒 
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.162.200.181:8080#🔒 SS-TCP-NA 🇨🇦 CA-23.162.200.181:8080
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZldGVnhzWk5EQStJdldobGU4bFI2TzNjMUxQKzBnVU0yRVdxVFhWYjhYZz06VXVMMmhzcnhHZEY4R3FLaTRvMWpqWHN1ZnV5YVl0YWhIeUVmRk9EcFJpQT0=@65.109.195.204:45027#🔒 SS-TCP-NA 🇫🇮 FI-65.109.195.204:45027
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.143.66.87:3306#🔒 SS-TCP-NA 🇺🇸 US-38.143.66.87:3306
-ss://MTcwMjczNGEtZmU0My00YjQ1LThhMDMtMWVmMTJjNTcwOWU1Og==@104.21.39.52:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.39.52:80
-ss://YzBmYmQ2NjQtOTY5My00Y2MwLWFhNzMtOTI0N2RiYmFkYmViOg==@172.67.141.169:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.141.169:443
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.158.56.196:8882#🔒 SS-TCP-NA 🇩🇪 DE-23.158.56.196:8882
-ss://ODIzYWRhYmUtYTQwNC00NjgzLTk5YmYtOWY0OWUzNmJkMTExOg==@104.21.75.79:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.75.79:443
-ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@45.89.52.66:9042#🔒 SS-TCP-NA 🇹🇷 TR-45.89.52.66:9042
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@167.88.61.235:6679#🔒 SS-TCP-NA 🇺🇸 US-167.88.61.235:6679
-ss://YjBlNmEyYzktZTY2Ny00ZTQyLTljYjMtNzdkN2RiM2U3MzZiOg==@104.21.43.221:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.43.221:443
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.114.114.208:7002#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.208:7002
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.157.40.89:5499#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.89:5499
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptR1VDeEpVUkQ4eUhmWGV4dml2UWhK@51.145.101.254:19054#🔒 SS-TCP-NA 🇬🇧 GB-51.145.101.254:19054
