@@ -4,7 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-warp://auto#WarpInWarp ⭐️&&detour=warp://auto#Warp 🇮🇷
+warp://auto#WarpInWarp ⭐️&&detour=warp://auto&reserved=1,2,3#Warp 🇮🇷
 warp://188.114.97.25:1010?ifp=5-10#WiW-🟢&&detour=warp://188.114.96.17:1010?ifp=5-10#WARP-🟢
 warp://188.114.96.17:1010?ifp=5-10#WiW-🔵&&detour=warp://188.114.97.25:1010?ifp=5-10#WARP-🔵
 #warp://auto?ifp=10-20&ifps=40-100&ifpd=10-20#Warp_10-20_40-100_10-20
