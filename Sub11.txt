@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://de44b044-8f90-4e18-b742-16591667ff96@172.66.44.60:443?security=tls&sni=edgetunnel-free.pages.dev&type=ws&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.60:443
 vless://90c4ac08-b257-4cc1-968b-8aa77bbb8f88@172.67.184.1:2083?security=none&type=tcp#🔒 VL-TCP-NONE 🏴‍☠️ NA-172.67.184.1:2083
 vless://c006d1c8-60a1-4428-8ea1-dc838c5471b7@188.114.96.6:2096?security=tls&sni=Telegram-J0in-EiiiM.danesh-bonyan.Store&type=ws&host=eiiim.danesh-bonyan.Store&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.6:2096
 vless://01ab9337-f478-4765-9534-88f009f83ddb@8.222.208.38:2053?security=tls&sni=aut226.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-8.222.208.38:2053
@@ -603,3 +602,4 @@ trojan://b84d16a244460e09@5.44.249.44:3306?sni=n2.gladns.com&type=ws&host=TG.Wan
 trojan://auto@162.159.136.232:8443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.136.232:8443
 trojan://auto@104.21.50.114:443?security=tls&sni=esetsecuritylicense.nzuwcx.workers.dev&type=ws&host=esetsecuritylicense.nzuwcx.workers.dev&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.50.114:443
 trojan://huge123456@131.186.21.135:60954?security=tls&sni=h.iveze.com#🔒 TR-TCP-TLS 🇰🇷 KR-131.186.21.135:60954
+trojan://auto@172.64.153.235:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.153.235:443
