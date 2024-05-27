@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggX1VTX+e+juWbvS0+8J+HrvCfh7NfSU5f5Y2w5bqmIiwiYWRkIjoiaGsud2lzaC5tbCIsInBvcnQiOiIyMDUyIiwidHlwZSI6Im5vbmUiLCJpZCI6ImMyODZkYWEyLTU5ZGUtNDU1Yy04ZGU4LWVjMDMyYjZjZTJlOCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6ImluNC53aXNoLm1sIiwidGxzIjoiIn0=
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggX1VTX+e+juWbvSIsImFkZCI6InVzLXNhbmZyYW5jaXNjby0wMS50M2NzeXVuLmJ1enoiLCJwb3J0IjoiMzQwNTIiLCJ0eXBlIjoibm9uZSIsImlkIjoiNTAxZGJkYzEtMTVkZi00NzlmLWEyYjgtN2E1OGU0MjcyNGY3IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii91czEiLCJob3N0IjoidXMtc2FuZnJhbmNpc2NvLTAxLnQzY3N5dW4uYnV6eiIsInRscyI6IiJ9
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.77.53.200:5001#%F0%9F%87%B5%F0%9F%87%B1%20_PL_%E6%B3%A2%E5%85%B0
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.77.53.200:8881#%F0%9F%87%B5%F0%9F%87%B1%20_PL_%E6%B3%A2%E5%85%B0
 ss://YWVzLTEyOC1nY206VzFDMlBrTFhYOUN5OUZWQy1MdkpWQQ@94.228.162.91:2060#%F0%9F%87%B7%F0%9F%87%BA%20_RU_%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6
 trojan://27876_t7d7f4e3f@23.142.200.175:443?allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20_US_%E7%BE%8E%E5%9B%BD
@@ -600,6 +603,3 @@ vless://f8847568-e981-4816-884d-ffd6dc2c6ee2@185.18.250.21:8080?security=none&ty
 vless://7df71ea7-ad2f-48d1-ae7c-4429ee780537@104.18.229.191:8443?security=tls&sni=academivpn1.academi-vpn-4f8.workers.dev&type=ws&host=academivpn1.academi-vpn-4f8.workers.dev&path=%2F%3Fed%3D2560+%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.229.191:8443
 vless://217bc39d-11a0-4634-864c-9178d91a9267@104.26.15.85:443?security=tls&sni=pages1-d24.pages.dev&type=ws&host=pages1-d24.pages.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.15.85:443
 vless://0dda1b38-ff02-4a50-8c94-33138c757f80@104.16.129.133:80?security=none&type=ws&host=2.v2ray.debian.org.fxp.debian.org.speedtest.net.zula.ir.iranserver.com.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95%E3%82%89%E3%82%8F.isvphp.ir.&path=%2Fvless#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.129.133:80
-vless://13be7b64-8a46-4724-9cf2-4c7eddd4c56b@104.20.141.7:2096?security=tls&sni=sPeEd.vbox778.info.&type=grpc&fp=firefox&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.20.141.7:2096
-vless://f5a23562-b67e-48fb-b474-09251bc1a339@104.21.46.172:2096?security=tls&sni=fv2ray.freedomfv2ray.lol&type=grpc&serviceName=@Fv2ray@Fv2ray@fv2ray@fv2ray@Fv2ray#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.46.172:2096
-vless://0f0f7cc8-edcd-436d-bf9d-f7bfdb6ed9ca@104.21.60.209:2082?security=none&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.60.209:2082
