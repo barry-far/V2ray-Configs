@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://c70afac6-13fa-4080-ae16-cad65d7b4080@136.244.83.88:56673?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-136.244.83.88:56673
+vless://01ab9337-f478-4765-9534-88f009f83ddb@141.148.229.106:443?security=tls&sni=aut022.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇳🇱 NL-141.148.229.106:443
 vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@47.236.75.113:2083?security=tls&sni=fc071d49-af91-42d6-a20e-5a64e24a53bc.71a45835-dd0c-4d51-8bd4-9ccf9f223662.casacam.net&type=ws&path=%2Fpasge.pages.dev%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇸🇬 SG-47.236.75.113:2083
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.88.69:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇱🇺 LU-188.42.88.69:443
 vless://8b7efacf-8e83-4e51-ab55-1263baccd4b2@185.146.173.237:443?security=tls&sni=7f905f51.garywelch.pages.dev&type=ws&path=TELEGRAM%3AVPNwedbaz--------VPNwedbaz----------&fp=randomized#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.237:443
@@ -601,5 +603,3 @@ ss://NDZkYmFjOGItZWFiYS00Mjc1LTk0MGMtODE5Zjk1ZDE2OTE2Og==@104.17.246.203:443#�
 ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@172.245.205.50:30129#🔒 SS-TCP-NA 🇺🇸 US-172.245.205.50:30129
 ss://YWVzLTI1Ni1jZmI6TnZTOE40VmY4cUFHUFNDTA==@103.172.116.79:9046#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9046
 ss://YWVzLTI1Ni1jZmI6VlA4WlB4UXBKdFpSQ2pmWg==@80.92.204.106:9080#🔒 SS-TCP-NA 🇩🇪 DE-80.92.204.106:9080
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOQzdqT1JWTnJydVYvKzMrUHdPSnJubk9lRzduNzVYMQ==@89.19.216.18:8388#🔒 SS-TCP-NA 🇳🇱 NL-89.19.216.18:8388
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.154.136.176:8118#🔒 SS-TCP-NA 🇺🇸 US-23.154.136.176:8118
