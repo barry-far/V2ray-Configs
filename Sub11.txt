@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://ce00040c-c4bf-44c8-8651-e6334f9c0a75@178.79.176.97:2003?security=tls&sni=uk2-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇬🇧 GB-178.79.176.97:2003
-vless://b39d9e5a-f4ac-48c4-a311-ddaf5b5b85b9@162.159.137.232:2052?security=none&type=ws&host=%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7%E4%BE%AF%E8%B5%9Bsuperspeed12.ff2ray.cfd.&path=%2F%3Fed%3D2053#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.137.232:2052
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.21.239:443?security=tls&sni=gOdZillA-mR-DaRKarSha-ONETOpKIng.PaGEs.dEV&type=ws&host=GodZiLla-Mr-darkarsha-ONeTOPKING.pAGes.DEv&path=%2FhmBvkyQIpkFvHI5p%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.21.239:443
-vless://855d54f7-944d-4f04-9171-1ee5ab1d8b60@104.21.54.238:2086?type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.54.238:2086
-vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@172.67.80.85:8080?security=none&sni=king1980.b91sptsl.workers.dev&type=ws&host=king1980.b91sptsl.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.80.85:8080
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@123.111.253.155:30001?security=tls&sni=hk306.ylks.link&type=ws&path=/?proxyip#🔒 VL-WS-TLS 🇰🇷 KR-123.111.253.155:30001
-vless://338469e5-b7d6-43f2-ab41-837b9fbea6a4@172.67.192.245:443?security=tls&sni=armanibashtestamouzesh.askdhbasikjbas.shop&type=ws&host=armanibashtestamouzesh.askdhbasikjbas.shop&path=/&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.192.245:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@193.9.49.114:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-193.9.49.114:443
 vless://073055b5-7c41-432d-bb15-0efe23c212e3@104.17.239.159:8880?security=none&type=ws&host=mikasa.megafair.store&path=/Telegram:@MikasaVPN#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.239.159:8880
 vless://fc1191c8-e724-482f-a492-90d3d386719c@172.67.182.207:2053?security=tls&sni=sisand.waztow.WOrkerS.Dev&type=ws&host=sisand.waztow.WOrkerS.Dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.182.207:2053
@@ -603,3 +596,10 @@ trojan://a8d5df53-7073-406f-8c88-ac993e3fb9a1@162.251.82.187:443?security=tls&sn
 trojan://moist@146.56.38.95:57770?sni=trojan.freenods.sbs#🔒 TR-TCP-NA 🇰🇷 KR-146.56.38.95:57770
 trojan://299025b9-6b55-430c-be38-9a18c06873ac@112.26.33.81:12051?sni=china3.one.edu.kg&allowInsecure=1#🔒 TR-TCP-NA 🇨🇳 CN-112.26.33.81:12051
 trojan://4c4dfa50-e321-11ee-9b28-1239d0255272@144.217.81.44:443?security=tls&sni=chatbuzzteambhm.chatbuzzt7150.workers.dev&type=tcp#🔒 TR-TCP-TLS 🇨🇦 CA-144.217.81.44:443
+trojan://telegram-id-privatevpns@18.171.41.211:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-18.171.41.211:22222
+trojan://iI72baKdja@45.85.119.200:2096?security=tls&sni=nleaaaaaa.piabolictash.online&type=grpc&serviceName=https://t.me/ViipNetwork&alpn=h2,http/1.1#🔒 TR-GRPC-TLS 🇷🇴 RO-45.85.119.200:2096
+trojan://oZAugtgF5T@146.190.87.238:443?security=tls&sni=aka.ms&type=ws&host=aka.ms&path=%2F#🔒 TR-WS-TLS 🇸🇬 SG-146.190.87.238:443
+trojan://36360cc3-957a-4597-9abf-f73f29641ee3@104.18.202.232:443?security=tls&sni=rand.gcorecloud.info&type=grpc&serviceName=0uXZLEZPdjyKouXtRbzQXkBQQ&fp=chrome&alpn=h2#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.18.202.232:443
+trojan://ce8b8b30ebba45f2a38dd608b85e8628@104.16.159.9:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.9:443
+trojan://2cba4104747d49d18319e5ade1b93ab5@104.18.23.19:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.23.19:443
+trojan://telegram-id-directvpn@3.12.247.93:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇺🇸 US-3.12.247.93:22222
