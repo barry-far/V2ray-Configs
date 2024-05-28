@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://cffb6eba-a33e-469f-9be0-b68cfec018e4@104.18.12.130:8880?security=none&type=ws&host=falcunargo.d369616395.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.12.130:8880
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.18.5.237:2053?security=tls&sni=jp116.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.5.237:2053
 vless://f9bfe7bb-dc57-4223-8648-e3fbc12689f7@162.159.135.232:2052?security=none&type=ws&host=%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7%E4%BE%AF%E8%B5%9Bsuperspeed12.ff2ray.cfd.&path=%2F%3Fed%3D2053#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.135.232:2052
 vless://01ab9337-f478-4765-9534-88f009f83ddb@8.219.106.156:443?security=tls&sni=aut331.ylks.link&type=ws&path=/?ed#🔒 VL-WS-TLS 🇸🇬 SG-8.219.106.156:443
 vless://feb31976-2a9d-40ec-e346-d9d7fcd38027@104.21.51.57:443?security=tls&sni=behemoth.wavap50279.workers.dev&type=ws&host=behemoth.wavap50279.workers.dev&path=/downloader/30836&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.51.57:443
@@ -601,5 +603,3 @@ trojan://share.mjj-home.com@45.154.214.159:443?sni=api.mjj-home.com#🔒 TR-TCP-
 trojan://j0GM8nFJVq@167.71.209.134:443?security=tls&sni=aka.ms&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-167.71.209.134:443
 trojan://EgAMtxAquaO78-IvTSWpnQ@104.19.91.65:2096?security=tls&sni=mrz.learnturkishspeech.fun&type=ws&host=mrz.learnturkishspeech.fun&path=/book#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.91.65:2096
 trojan://E0002134H@104.21.109.230:443?security=tls&sni=6504e90a.xpxroject.pages.dev&type=ws&host=6504e90a.xpxroject.pages.dev&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.109.230:443
-trojan://NISHIKUITAN222@47.237.95.156:2053?security=tls&sni=t306.ylks.link&type=ws&host=t306.ylks.link&path=%2F#🔒 TR-WS-TLS 🇸🇬 SG-47.237.95.156:2053
-trojan://4732adfa16c6450bbef87264e41332db@104.16.159.7:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.7:443
