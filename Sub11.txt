@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://fae30f40-620f-4622-8845-0007a2d5ad1e@104.18.219.101:2087?security=tls&sni=freakv2.tm-online.xyz&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.219.101:2087
-vless://8155d2bb-0eb4-40ff-ba1d-95df410a672a@172.67.191.234:8443?security=tls&sni=04.ev02-02-q2wx8ryz0vic3bfmd1sng7pjjn6lqk4p.tech&type=grpc&serviceName=@Everyday_VPN%2C@Everyday_VPN%2C@Everyday_VPN%2C@Everyday_VPN%2C@Everyday_VPN%2C@Everyday_VPN%2C@Everyday_VPN%2C@Everyday_VPN%2C@Everyday_VPN%2C@Everyday_VPN%2C@Everyday_VPN%2C@Everyday_VPN%2C@Everyday_VPN%2C@Everyday_VPN%2C@Everyday_VPN%2C@Everyday_VPN%2C@Everyday_VPN%2C@Everyday_VPN%2C@Everyday_VPN%2C@Everyday_VPN&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.191.234:8443
-vless://acca9938-3695-43df-872a-9c7d2b11f3bd@104.21.20.148:8443?security=tls&sni=felinetest.site&type=ws&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.20.148:8443
-vless://664f5f11-1231-486d-b416-b7b3ecdae76a@104.22.2.79:443?security=tls&sni=HETZNER-D.pages.DEV&type=ws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.2.79:443
-vless://7e29f2e2-e0ec-47c5-94ec-38ef90f7a106@104.18.14.19:2053?security=tls&sni=qopyz.oxnetirz11.ONfLashDrIVE.app&type=ws&host=qopyz.oxnetirz11.ONfLashDrIVE.app&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.14.19:2053
 vless://ecd404a2-70b2-4e89-8339-89536cdfae52@172.67.170.85:8080?security=none&sni=king1980us.50fo8itj.workers.dev&type=ws&host=king1980us.50fo8itj.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.170.85:8080
 vless://519fbed1-5b69-4114-876c-3b560e767cfd@193.151.148.201:443?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-193.151.148.201:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.153.253:8443?security=tls&sni=jp116.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.153.253:8443
@@ -603,3 +598,8 @@ trojan://telegram-id-directvpn@13.59.141.221:22222?security=tls&sni=trojan.burge
 trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.17.147.3:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.3:443
 trojan://c6c083cb-6312-44e4-91ed-4c6831f4f9a8@104.18.138.163:443?security=tls&sni=prosweed.ghodratebartar.ir&type=ws&host=prosweed.ghodratebartar.ir&path=%2FNHDAEsR7pxcS1u6yNX6K824c&fp=edge&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.138.163:443
 trojan://52701795-3c3b-46b4-b7cf-c5978b3a4cf2@104.21.47.176:443?security=tls&sni=hdfyc1.achaemenidempireofpersia.uk&type=grpc&serviceName=xw7uebRG4KlUXGGYTVEagC5V7fI&fp=chrome&alpn=http%2F1.1#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.21.47.176:443
+trojan://242a3d8eee5e4ed1a6bfa4141d549a25@198.41.220.12:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.12:443
+trojan://4aec4e7f8cf8454ea4613659822e1a61@104.17.147.8:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.8:443
+trojan://NISHIKUITAN222@104.19.51.59:443?security=tls&sni=t116.ylks.link&type=ws&host=t116.ylks.link&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.51.59:443
+trojan://qG9K8AGnn9XH5jUqeFu96g@104.16.123.175:2083?security=tls&sni=cdn13.cdn2cdn.com&type=ws&host=cdn13.cdn2cdn.com&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.123.175:2083
+trojan://auto@104.18.13.229:2053?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.13.229:2053
