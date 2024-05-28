@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?security=none&type=ws&path=/http#🔒 VL-WS-NONE 🇫🇷 FR-162.19.228.119:80
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@204.93.210.82:2096?security=tls&sni=a.ssll.gay&type=ws&path=telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai_8%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-204.93.210.82:2096
-vless://222badf2-8e87-479a-8b77-1a3c952edac2@172.67.197.29:2096?security=tls&sni=vipping.antiping.click&type=grpc&serviceName=sourceforge.net&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.197.29:2096
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.220.153:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.220.153:443
 vless://a0acb9f9-b2f1-4af4-b4eb-32234a254c71@188.114.98.224:2087?security=tls&sni=gerMnV2ray.naziitness.coM.&type=ws&host=gerMnV2ray.naziitness.coM.#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.224:2087
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.105.124:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-185.148.105.124:443
@@ -603,3 +600,6 @@ trojan://telegram-id-privatevpns@51.20.170.250:22222?security=tls&sni=trojan.bur
 trojan://qjIPNzdyWS@104.21.69.44:8080?security=none&type=ws&host=mmd.net.napster6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.fpsvpn.SHOP.&path=%2Fnew_proxy_channel-new_proxy_channel-new_proxy_channel-new_proxy_channel-new_proxy_channel%2Fnew_proxy_channel%3Fed%3D2560#🔒 TR-WS-NONE 🏴‍☠️ NA-104.21.69.44:8080
 trojan://e8105dfd24414268b6c7652c63731097@198.41.220.83:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.83:443
 trojan://NISHIKUITAN222@8.219.142.191:2083?security=tls&sni=t226.ylks.link&type=ws&host=t226.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.142.191:2083
+trojan://telegram-id-directvpn@35.181.70.179:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-35.181.70.179:22222
+trojan://UtO9m5wsDz@18.141.137.36:49465?security=none&type=ws&host=m.instagram.com&path=/#🔒 TR-WS-NONE 🇸🇬 SG-18.141.137.36:49465
+trojan://tIErrUuX7j@173.245.58.96:2053?security=tls&sni=vr.v2ray962.filegear-sg.me&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 TR-GRPC-TLS 🏴‍☠️ NA-173.245.58.96:2053
