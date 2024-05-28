@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7Mg5Y+w5rm+KOasoui/juiuoumYhVlvdXR1YmXnoLTop6PotYTmupDlkJspIiwiYWRkIjoidHcyNTAyLmNsb3VkbWF0cml4Lnh5eiIsInBvcnQiOiIyNTAyIiwidHlwZSI6Im5vbmUiLCJpZCI6ImE5OTJiZTQyLWJlZDQtMzAzNy04Nzg4LTllODYwY2Q2MzVkMyIsImFpZCI6IjIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvaGxzL2NjdHY1cGhkLm0zdTgiLCJob3N0IjoidHcyNTAyLmNsb3VkbWF0cml4Lnh5eiIsInRscyI6IiJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7Mg5Y+w5rm+KOasoui/juiuoumYhVlvdXR1YmXnoLTop6PotYTmupDlkJspIiwiYWRkIjoidHcyMTQwMi5jbG91ZG1hdHJpeC54eXoiLCJwb3J0IjoiMjE0MDIiLCJ0eXBlIjoibm9uZSIsImlkIjoiYTk5MmJlNDItYmVkNC0zMDM3LTg3ODgtOWU4NjBjZDYzNWQzIiwiYWlkIjoiMiIsIm5ldCI6IndzIiwicGF0aCI6Ii9obHMvY2N0djVwaGQubTN1OCIsImhvc3QiOiJ0dzIxNDAyLmNsb3VkbWF0cml4Lnh5eiIsInRscyI6IiJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7Mg5Y+w5rm+KOasoui/juiuoumYhVlvdXR1YmXnoLTop6PotYTmupDlkJspIiwiYWRkIjoiMzMxdHcuZmFuczgueHl6IiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6IjdmNGZmMmUxLWMwOGYtMzViZC1hZmU3LTRhNmEzODY5MDdhYSIsImFpZCI6IjIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5IiwiaG9zdCI6IjMzMXR3LmZhbnM4Lnh5eiIsInRscyI6InRscyJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7Mg5Y+w5rm+KOasoui/juiuoumYhVlvdXR1YmXnoLTop6PotYTmupDlkJspIiwiYWRkIjoiMzMwdHcuZmFuczgueHl6IiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiJhOTRmNmEwYy00ZmIzLTM1MDktYTE0MS1jODI1NzBiNmQxNGEiLCJhaWQiOiIyIiwibmV0Ijoid3MiLCJwYXRoIjoiL3JheSIsImhvc3QiOiIzMzB0dy5mYW5zOC54eXoiLCJ0bHMiOiJ0bHMifQ==
@@ -603,3 +602,4 @@ vless://16d99f65-b71f-5cdf-8ce6-fc35e171a192@104.21.9.147:2087?security=tls&sni=
 vless://f922a88b-d4f5-4371-924e-c0335c990532@190.93.246.241:2087?type=grpc&serviceName=Telegram#🔒 VL-GRPC-NA 🏴‍☠️ NA-190.93.246.241:2087
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@167.68.11.191:2083?security=tls&sni=jd.wxgqlfx.top&type=ws&path=/#🔒 VL-WS-TLS 🇺🇸 US-167.68.11.191:2083
 vless://a04be4ef-1797-4ca9-a549-4385ce42494c@185.146.173.221:443?security=tls&sni=vls4de.nimaxmusic.ir&type=ws&host=vls4de.nimaxmusic.ir&path=/vls4dews&fp=chrome#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.221:443
+vless://6cc5b6b6-b3d2-4c60-8197-5defdc8d6aa1@104.24.197.20:443?security=tls&sni=4sat.shop&type=ws&host=public.4sat.shop&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.197.20:443
