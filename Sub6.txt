@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://8545c44f-b1b4-4295-ae98-f0b6301a537f@172.66.46.214:2053?security=tls&sni=ios-azadnet.pages.dev&type=ws&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.46.214:2053
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.166.141:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.166.141:443
 vless://38d10eab-39b9-4794-a814-b394a33da7c5@104.25.23.180:443?security=tls&sni=off.v2box.lol.&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.23.180:443
 vless://0c47c8fd-4966-4351-8bdd-88d46b4a8cd1@104.25.254.188:443?security=tls&sni=freakv22.tm-online.xyz&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.254.188:443
@@ -603,3 +602,4 @@ vless://d42497eb-f317-4947-9930-32a707638d4a@172.64.108.106:80?security=none&typ
 vless://85e83afb-187f-4015-9e55-2cc4f093ee51@162.159.152.2:2095?security=none&type=ws&host=shhi.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FZEDMODEON-ZEDMODEON-ZEDMODEON#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.152.2:2095
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.186.125:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇫🇷 FR-35.181.186.125:22222
 vless://546cfb84-120f-43db-89db-5cba033bf9dc@162.159.135.232:8880?path=/@ZEDMODEON+TEL#🔒 VL-TCP-NA 🏴‍☠️ NA-162.159.135.232:8880
+vless://eb44e1c7-e5ba-4446-807c-a0768a8f4589@104.16.51.20:2083?security=tls&sni=amovpn6.fqservers.com&type=ws&host=amovpn6.fqservers.com&path=/channel:@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.51.20:2083

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://485c4e8f-f436-4724-a2ed-746281cce22b@69.164.203.163:2003?security=tls&sni=us2-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇺🇸 US-69.164.203.163:2003
 vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@154.17.2.103:11240?security=tls&sni=30388d70-6f5c-4d7c-8daa-9d3df7c5c526.9150e878-8296-4798-a172-c3fe66b8dee5.ddnsgeek.com&type=ws&path=%2Fpasge.pages.dev%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇺🇸 US-154.17.2.103:11240
 vless://3c110307-dcf0-4002-b944-6d2c9530dd23@104.18.12.130:2083?security=tls&sni=dash.zedmodeon.lat&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.12.130:2083
 vless://7108df3e-e7b3-44a5-8195-1657f103ea18@104.21.46.200:2095?security=none&type=ws&host=cloudmehranmmdv2ray.v2rayng6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.nofiltering2.SBS.&path=%2F%3Fed%3D1024#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.46.200:2095
@@ -603,3 +602,4 @@ trojan://a5da0a9c-97e2-4179-a51a-66566b677740@94.130.130.76:8080?security=tls&sn
 trojan://auto@104.20.5.134:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=@free_shekan@free_shekan@free_shekan@free_shekan@free_shekan@free_shekan@free_shekan@free_shekan@free_shekan@free_shekan@free_shekan@free_shekan@free_shekan#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.5.134:443
 trojan://auto@172.67.174.252:443?security=tls&sni=esetsecuritylicense1.vowexa5791.workers.dev&type=ws&host=esetsecuritylicense1.vowexa5791.workers.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.174.252:443
 trojan://EgAMtxAquaO78-IvTSWpnQ@104.19.91.65:2096?security=tls&sni=mrz.learnturkishspeech.fun&type=ws&host=mrz.learnturkishspeech.fun&path=/book#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.91.65:2096
+trojan://299025b9-6b55-430c-be38-9a18c06873ac@91.199.84.57:12003?sni=cn1.one.edu.kg&allowInsecure=1#🔒 TR-TCP-NA 🇭🇰 HK-91.199.84.57:12003
