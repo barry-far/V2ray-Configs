@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://80d7094c-619b-4208-b844-05861a1c7439@104.21.26.245:443?security=tls&sni=eXpreSSvPNFrEE021.sADrAFARoKhi3333.wOrKeRs.dev&type=ws&host=ExPrESsVPNFREe021.SADrafAroKHi3333.woRKERs.Dev&path=%2FVbPMX1cFskR6m_C-%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.26.245:443
-vless://10638abe-7adc-4cdb-f3aa-6c41813de2a9@172.67.174.162:2053?security=tls&sni=venosvpn-mci.bukhjabaji.ir&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.174.162:2053
 vless://2136a808-ccd7-48cf-97c8-2c0b255e4715@104.26.15.85:8443?security=tls&sni=telegram-falcunargo-france.falcunar.asso.eu.org&type=ws&host=telegram-falcunargo-france.falcunar.asso.eu.org&path=%2FTelegram-V2ray_Alpha%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.15.85:8443
 vless://f6dc6757-39c8-4107-aa75-ef41e4a72864@188.114.96.3:2087?security=tls&sni=liV2rayb.lightningv.ir&type=grpc&serviceName=%2F%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-%40LiV2ray&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-188.114.96.3:2087
 vless://226dfc94-9413-470b-ad06-89834fd2dc41@104.25.254.35:8443?security=tls&sni=t.mmd111.sbs&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.254.35:8443
@@ -603,3 +601,5 @@ trojan://299025b9-6b55-430c-be38-9a18c06873ac@112.26.33.81:12022?sni=china2.one.
 trojan://01596265-168b-46a7-bcb7-25662c7a9546@188.114.98.0:443?security=tls&sni=hdfy7c1.foriran2.eu.org&type=grpc&serviceName=fYn1ncaQMA1foaK1hpquM#🔒 TR-GRPC-TLS 🏴‍☠️ NA-188.114.98.0:443
 trojan://cb1f26aa437d4bfa9b841d28503ce8cc@198.41.220.5:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.5:443
 trojan://TeleGram-VPNCTVIP@164.38.155.61:443?security=tls&sni=trojan-ws.vpnctvip.dns-dynamic.NeT&type=ws&host=trojan-ws.vpnctvip.dns-dynamic.NeT&path=%2FproxyIP%3Dproxyip.us.fxxk.dedyn.io&fp=random&alpn=h3,h2,http/1.1#🔒 TR-WS-TLS 🇬🇧 GB-164.38.155.61:443
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.231:443?sni=tjjd.yzyx1.v6.army&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.53.231:443
+trojan://951bbbc9-c5fd-441e-ac3d-c7fcfbf4a751@173.245.59.100:443?security=tls&sni=se1.trojanvpn.de&type=ws&host=se1.trojanvpn.de&path=/websocket#🔒 TR-WS-TLS 🏴‍☠️ NA-173.245.59.100:443
