@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://f4cec6cc-6177-423c-90f8-2ad9f0dd996b@104.21.20.148:2096?security=tls&sni=vpnct.arvancode.eu.org&type=ws&host=vpnct.arvancode.eu.org&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.20.148:2096
 vless://ffd0a0c3-914e-47c0-8b6a-ff2422167d7e@23.227.39.179:2083?security=tls&sni=n2vpn.projectis.ir&type=ws&host=n2vpn.projectis.ir&path=/@n2vpn&fp=chrome#🔒 VL-WS-TLS 🇨🇦 CA-23.227.39.179:2083
 vless://b2ea5f01-9824-46a0-b9c6-2ec87b50cbfa@172.64.35.131:80?type=ws&host=2.V2ray.debian.org.fxp.debian.org.speedtest.net.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95%E3%82%89%E3%82%8F.sunstars.online.&path=/telegram-AghayeVpn,telegram-AghayeVpn,telegram-AghayeVpn,telegram-AghayeVpn,telegram-AghayeVpn,telegram-AghayeVpn,telegram-AghayeVpn,telegram-AghayeVpn,telegram-AghayeVpn,telegram-AghayeVpn,telegram-AghayeVpn,telegram-AghayeVpn?ed%3D2048#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.35.131:80
 vless://d18d7d62-40ba-4588-a7b2-88e89db32557@104.16.219.243:8443?security=tls&sni=off.v2box.lol.&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.219.243:8443
@@ -602,4 +603,3 @@ trojan://d2698cf9-c47e-455c-8384-12e642cbba15@89.116.180.179:443?sni=p6us4.pqjc.
 trojan://656bcdfe-ae09-4170-a36e-1685ee10b26f@162.159.137.232:2083?security=tls&sni=missyousir.segaro.tech&type=ws&host=missyousir.segaro.tech&path=/OVmkPBATL0FijQ3AWVBo&fp=chrome&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.137.232:2083
 trojan://299025b9-6b55-430c-be38-9a18c06873ac@112.26.33.81:12022?sni=china2.one.edu.kg&allowInsecure=1#🔒 TR-TCP-NA 🇨🇳 CN-112.26.33.81:12022
 trojan://auto@104.26.13.54:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.13.54:443
-trojan://4c4dfa50-e321-11ee-9b28-1239d0255272@144.217.81.44:443?security=tls&sni=chatbuzzteambhm.chatbuzzt7150.workers.dev&type=tcp#🔒 TR-TCP-TLS 🇨🇦 CA-144.217.81.44:443
