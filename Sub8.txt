@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://03657712-7fec-425a-9f97-318d0b3020ac@94.101.176.218:443?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-94.101.176.218:443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@159.112.235.90:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇺🇸 US-159.112.235.90:443
 vless://6d196ba1-569f-4b2c-9160-998b3b1b19af@104.24.53.170:8880?type=ws&host=baghead%E5%88%9D%E5%90%BB%E6%97%B6%E7%9A%84%E7%88%B1%E6%83%85%E5%A5%87%E8%BF%B9%E4%B9%8B%E4%B9%A6.suonycars.buzz.&path=%2Ft.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro#🔒 VL-WS-NA 🏴‍☠️ NA-104.24.53.170:8880
 vless://e7d59303-ea07-4206-8035-5d83f2eba4e0@188.114.98.224:8880?security=none&type=ws&host=2.V2ray.debian.org.fxp.debian.org.speedtest.net.zula.ir.らわなさらわ.mralpha-vpn.COM.#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.98.224:8880
 vless://2cd43f95-7f19-4a94-acae-aa5ca0825724@198.41.212.114:2096?security=tls&sni=korosh.orewasanji.fun&type=grpc&serviceName=korosh&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-198.41.212.114:2096
@@ -601,5 +603,3 @@ vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.64.144:443?security=tls&sni
 vless://a139a1de-b010-4e79-9f49-0e836d21a54b@172.66.213.5:2087?security=tls&sni=liV2rayb.lightningv.ir&type=grpc&serviceName=/@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-@LiV2ray&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.66.213.5:2087
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.78.254:443?security=tls&sni=B458aB02.caa-CHANEL-WORKEr-PaGE-FReE-JHUIhnUJhpHJkL-nIHgkjN.Pages.DeV&type=ws&host=B458AB02.caa-ChaNEL-wORkER-PAge-fREE-jhuiHnuJhpHjKl-NIHgkJN.paGes.dEv&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.78.254:443
 vless://4b519a00-d905-46ce-934c-19372922b859@185.143.232.200:443?security=tls&sni=arvancloud.ir&type=ws&host=perperper.chert383pert.website&path=%2F59qDzYe2g6pqbYQa&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇮🇷 IR-185.143.232.200:443
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.8.211.95:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-45.8.211.95:443
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@167.68.11.46:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-167.68.11.46:443

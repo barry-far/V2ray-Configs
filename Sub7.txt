@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@159.112.235.14:8443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-159.112.235.14:8443
+vless://ca3f2ed6-1dc0-47dd-84b0-730f2732871b@162.159.134.234:8080?security=none&type=ws&host=hrtv.numall.xyz.&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.134.234:8080
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.234.130:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.234.130:443
 vless://d92f2c5c-5fe5-4034-b48a-6e50ff820877@104.17.245.203:8080?security=none&sni=de7.vlessx.us&type=ws#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.245.203:8080
 vless://76713785-a539-4c35-998d-e246c499c37a@45.67.215.83:80?security=none&type=ws&host=8.v2ray.n.speedtest.net.check-host.net.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B778.wiki.&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER%3Fed%3D2048#🔒 VL-WS-NONE 🇷🇺 RU-45.67.215.83:80
@@ -601,5 +603,3 @@ vless://1ef91e6f-7522-4ded-84ea-4523dd2a15d6@104.21.4.56:2053?security=tls&sni=u
 vless://4045c6b7-1d53-4574-98cd-df21db40b0dc@172.64.20.37:2053?security=tls&sni=itcenteriran.blog&type=ws&host=itcenteriran.blog&path=%2Fp%3D19#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.20.37:2053
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@188.244.122.152:443?security=tls&sni=v300.ylkszy.eu.org&type=ws&path=/?proxyip#🔒 VL-WS-TLS 🇩🇪 DE-188.244.122.152:443
 vless://2f0374ab-4fcf-4759-ba35-7977906ae522@5.57.38.247:35057?security=none&type=grpc#🔒 VL-GRPC-NONE 🇮🇷 IR-5.57.38.247:35057
-vless://03657712-7fec-425a-9f97-318d0b3020ac@94.101.176.218:443?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-94.101.176.218:443
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@159.112.235.90:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇺🇸 US-159.112.235.90:443
