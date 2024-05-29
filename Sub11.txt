@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://9f98310e-25c2-4016-9d3c-8adaa8b160dc@104.16.51.20:2087?security=tls&sni=agtw4gmgtuulnbadgfxbsyjtdhsryw4nd.fqservers.com&type=ws&host=agtw4gmgtuulnbadgfxbsyjtdhsryw4nd.fqservers.com&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.51.20:2087
 vless://03a9c9ee-1e6e-4779-8171-b2aac2357d0c@162.159.135.79:8443?security=tls&sni=Tigoo.dignity-19.com&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.135.79:8443
 vless://ae864180-a98d-4a45-9205-a6f596c3a675@141.105.130.170:59478?security=none&type=tcp#🔒 VL-TCP-NONE 🇺🇦 UA-141.105.130.170:59478
 vless://61b8beb5-c2f5-4bae-9046-658bd8cba724@104.16.102.112:2087?security=tls&sni=cloud-lb1.cyberscaler.com&type=ws&host=cloud-lb1.cyberscaler.com&path=%2Fqwertu&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.102.112:2087
@@ -603,3 +602,4 @@ trojan://457ce692-8a0e-485a-a80b-6f057ea1ba61@5.253.41.160:443?#🔒 TR-TCP-NA �
 trojan://224c91ee-7e18-4f1e-86bb-c1836f218c95@52.229.161.252:443?#🔒 TR-TCP-NA 🇭🇰 HK-52.229.161.252:443
 trojan://Ck0nkbbsur@104.18.37.248:2096?security=tls&sni=tls.redbullplus.xyz&type=ws&host=tls.redbullplus.xyz&path=%2Fwsss#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.37.248:2096
 trojan://auto@172.67.213.48:443?security=tls&sni=esetsecuritylicense2.wawafec355.workers.dev&type=ws&host=esetsecuritylicense2.wawafec355.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.213.48:443
+trojan://tIErrUuX7j@173.245.58.96:2053?security=tls&sni=vr.v2ray962.filegear-sg.me&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 TR-GRPC-TLS 🏴‍☠️ NA-173.245.58.96:2053

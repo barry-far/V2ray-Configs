@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://c0276440-f163-4f40-a08c-78b158ce6c4f@s4.upyun.online:12340?allowInsecure=1&sni=free.upyun.online#%F0%9F%87%AA%F0%9F%87%BA%20%E6%AC%A7%E6%B4%B2%28%E6%AC%A2%E8%BF%8E%E8%AE%A2%E9%98%85Youtube%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B%29
 trojan://71b55a84-3fac-4458-abff-eaad79219c91@jgwld3.gaox.ml:443?allowInsecure=1&sni=jgwld3.gaox.ml#%F0%9F%87%AA%F0%9F%87%BA%20%E6%AC%A7%E6%B4%B2%28%E6%AC%A2%E8%BF%8E%E8%AE%A2%E9%98%85Youtube%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B%29
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqvCfh7og5qyn5rSyKOasoui/juiuoumYhVlvdXR1YmXnoLTop6PotYTmupDlkJspIiwiYWRkIjoiMTE2LjE2Mi40My4zOCIsInBvcnQiOiIzMDA3NSIsInR5cGUiOiJub25lIiwiaWQiOiJjZjhhY2FlZC04ZWE3LTNjYWYtYjQ1Ny0zYmExM2I2NGQ4ZGQiLCJhaWQiOiIxIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZpZGVvcyIsImhvc3QiOiJ0Lm1lL3ZwbmhhdCIsInRscyI6IiJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqvCfh7og5qyn5rSyKOasoui/juiuoumYhVlvdXR1YmXnoLTop6PotYTmupDlkJspIiwiYWRkIjoiNTFqcDEuZmFuczgueHl6IiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6IjdmNGZmMmUxLWMwOGYtMzViZC1hZmU3LTRhNmEzODY5MDdhYSIsImFpZCI6IjIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5IiwiaG9zdCI6IjUxanAxLmZhbnM4Lnh5eiIsInRscyI6InRscyJ9
@@ -603,3 +602,4 @@ vless://f2935d71-b188-4669-aa5e-fb38288c1bcf@185.146.173.122:8080?security=none&
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@14.102.228.210:2096?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-14.102.228.210:2096
 vless://3cbc7f82-974c-4472-be41-47bde81775fc@151.101.194.168:80?security=none&type=ws&host=aklisvpn.com&path=/@aklisvpn#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.168:80
 vless://fd1a257d-4de1-4bfb-92df-ed83c26de348@104.18.202.232:8080?security=none&type=ws&host=.V2ray.Community.&path=/Join--.V2ray.re#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.202.232:8080
+vless://3cbaf436-93cc-4db1-be69-c5353076be15@172.67.57.252:80?type=ws&path=/graphql#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.57.252:80
