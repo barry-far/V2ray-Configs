@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://25d0ee2d-4190-52be-b892-45811c6ba210@172.67.166.192:2087?security=tls&sni=folani.iiipok.WoRkeRs.Dev&type=ws&host=folani.iiipok.WoRkeRs.Dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=safari&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.166.192:2087
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.37.198:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.37.198:443
-vless://02b66e2f-4582-4b30-8590-de3c17c249c3@104.21.76.161:2096?security=tls&sni=mhunitedkimgdomlondonv2raymhcn27.wagnervpn.org&type=grpc&serviceName=www.speedtest.net&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.76.161:2096
-vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@104.21.37.112:443?security=tls&sni=sANDWOrM.PaGES.DEV&type=ws&host=SaNdWORM.pAgES.DEV&path=/D5PXtLY0cCm3QaZ8&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.37.112:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.75.210:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.75.210:443
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@45.205.0.173:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-45.205.0.173:8443
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.242.230.56:2053?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F#🔒 VL-WS-TLS 🇱🇺 LU-94.242.230.56:2053
 vless://aaf32ee2-4803-4581-bfdd-b647a66d3b6b@104.21.79.51:2087?security=tls&sni=turkey-mci-hhh.jsfui232.ir&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.79.51:2087
 vless://a0514d9b-d109-47fd-b173-1e7f83268f21@104.21.235.76:80?type=ws&path=/graphql#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.235.76:80
 vless://3765fd78-f300-4022-825d-2fd993b7e1db@104.25.5.139:2052?security=none&type=ws&host=MmdV2rayng-LookiVpn.mmdam.ir.&path=%2F%40Mmd_V2rayng-%40LookiVpn%3Fed%3D1024#🔒 VL-WS-NONE 🏴‍☠️ NA-104.25.5.139:2052
@@ -603,3 +596,10 @@ trojan://c8742e83-c325-4332-a427-9cdc997a4775@185.143.233.225:443?security=tls&s
 trojan://NISHIKUITAN222@104.21.76.195:443?security=tls&sni=t226.ylks.link&type=ws&host=t226.ylks.link&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.76.195:443
 trojan://a5da0a9c-97e2-4179-a51a-66566b677740@94.130.130.76:8080?security=tls&sni=server-64283.prod.hosts.ooklaserver.net&type=tcp#🔒 TR-TCP-TLS 🇩🇪 DE-94.130.130.76:8080
 trojan://auto@104.21.31.51:443?security=tls&sni=esetsecuritylicense1.vowexa5791.workers.dev&type=ws&host=esetsecuritylicense1.vowexa5791.workers.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.31.51:443
+trojan://NISHIKUITAN222@61.247.83.116:39308?security=tls&sni=t331.ylks.link&type=ws&host=t331.ylks.link&path=/#🔒 TR-WS-TLS 🇰🇷 KR-61.247.83.116:39308
+trojan://auto@162.159.136.232:8443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.136.232:8443
+trojan://951bbbc9-c5fd-441e-ac3d-c7fcfbf4a751@173.245.58.100:443?security=tls&sni=se1.trojanvpn.de&type=ws&host=se1.trojanvpn.de&path=%2Fwebsocket#🔒 TR-WS-TLS 🏴‍☠️ NA-173.245.58.100:443
+trojan://d8fd60d7-4c50-47c8-9e2d-adf37ad81af4@104.46.210.0:443?#🔒 TR-TCP-NA 🇯🇵 JP-104.46.210.0:443
+trojan://telegram-id-privatevpns@63.34.192.157:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-63.34.192.157:22222
+trojan://auto@162.159.137.232:8443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.137.232:8443
+trojan://d2698cf9-c47e-455c-8384-12e642cbba15@167.68.5.183:443?sni=6us3.pqjc.buzz&type=ws&path=/pq/us3&allowInsecure=1#🔒 TR-WS-NA 🇺🇸 US-167.68.5.183:443
