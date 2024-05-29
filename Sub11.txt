@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://599ffc06-2d62-40ab-af6d-4875d93c4965@104.25.249.132:2083?security=tls&sni=ai-duet-3.arianzagrosmachine.WORKErs.DEv&type=ws&host=ai-duet-3.arianzagrosmachine.WORKErs.DEv&path=vless-ws%2F%3Fed%3D2048&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.249.132:2083
 vless://d78497b1-5298-4337-852f-fe38ac6a9222@185.133.35.170:443?security=tls&sni=cdn.hinata.ir&type=ws&host=cdn.hinata.ir&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇧🇷 BR-185.133.35.170:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.140.225:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.140.225:443
 vless://e6aae0f8-e19a-4bc5-a3f4-efe82ad83673@104.21.23.243:443?security=tls&sni=le.bo3kot.com&type=grpc&serviceName=@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.23.243:443
@@ -602,4 +603,3 @@ trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.19.171.36:443?security=tls&sni=job
 trojan://6x8HcghsjS@103.214.68.57:10003?sni=yes998.chickenkiller.com#🔒 TR-TCP-NA 🇳🇱 NL-103.214.68.57:10003
 trojan://ef86718e-5d48-4163-a076-66078ee4d954@172.232.43.111:443?#🔒 TR-TCP-NA 🇫🇷 FR-172.232.43.111:443
 trojan://Maradona_vpn@185.59.218.220:443?security=tls&sni=teo.history-paint.art&type=grpc&serviceName=grpc20337&fp=chrome&alpn=h2#🔒 TR-GRPC-TLS 🇷🇺 RU-185.59.218.220:443
-trojan://auto@104.18.13.229:2053?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.13.229:2053
