@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://0504ee23-2718-4c28-93c0-040af1c57632@172.67.205.127:2096?security=tls&sni=Kerman.Ptsls.Com.&type=grpc&serviceName=TEL:@Alfred_Config,TEL:@Alfred_Config,TEL:@Alfred_Config,TEL:@Alfred_Config,TEL:@Alfred_Config,TEL:@Alfred_Config&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.205.127:2096
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@152.70.155.147:443?security=tls&sni=jp222.ylks01.eu.org&type=ws&path=/proxyip#🔒 VL-WS-TLS 🇺🇸 US-152.70.155.147:443
-vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@47.236.117.48:2087?security=tls&sni=tg.dns68.cloudns.nz&type=ws&host=tg.dns68.cloudns.nz&fp=chrome#🔒 VL-WS-TLS 🇸🇬 SG-47.236.117.48:2087
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@27.50.48.108:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇸🇬 SG-27.50.48.108:443
-vless://4f6d5821-2bf8-40ff-ad2f-1794c962f27a@104.21.24.72:2053?security=tls&sni=kanal-ma-falcunargo.johiki7549.workers.dev&type=ws&host=kanal-ma-falcunargo.johiki7549.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.24.72:2053
-vless://fc1191c8-e724-482f-a492-90d3d386719c@104.21.18.174:443?security=tls&sni=sisand.waztow.WorKErs.dEv&type=ws&host=sisand.waztow.WorKErs.dEv&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.18.174:443
-vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@8.210.65.1:2096?security=tls&sni=tg.dns68.cloudns.nz&type=ws&host=tg.dns68.cloudns.nz&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-8.210.65.1:2096
-vless://f4674168-f45c-45ed-8e6c-78ed71d3114f@66.235.200.0:2087?security=tls&sni=mAh3.irAnWeB.ShOP&type=ws&host=mAh3.irAnWeB.ShOP&path=/@mahsa_net+@azadi_az_inja_migzare&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🇺🇸 US-66.235.200.0:2087
 vless://86e00829-7b2c-4fac-a594-2dfaa7556d68@104.21.16.10:2053?security=tls&sni=smconfing444.lakav69944.workers.dev&type=ws&host=smconfing444.lakav69944.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=firefox&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.16.10:2053
 vless://2ca42987-551b-4494-a854-da2d9178f4cd@104.18.15.19:2087?security=tls&sni=MpHnPvWn22.zImBa-zUlA.OrG&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.15.19:2087
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@172.66.47.90:443?security=tls&sni=BIA-PAIN-bAChE.PaGes.dev&type=ws&host=bia-paIn-bAcHe.PaGES.Dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.90:443
@@ -603,3 +595,11 @@ trojan://auto@172.67.181.172:443?security=tls&sni=esetsecuritylicense1.cxlrazo.w
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.132:8443?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.53.132:8443
 trojan://299025b9-6b55-430c-be38-9a18c06873ac@112.26.33.81:12069?sni=china4.one.edu.kg&allowInsecure=1#🔒 TR-TCP-NA 🇨🇳 CN-112.26.33.81:12069
 trojan://c581852e-7f3e-4f4a-9669-d0e54cc2802a@172.233.120.173:443?#🔒 TR-TCP-NA 🇪🇸 ES-172.233.120.173:443
+trojan://1ZTbMoSRnm@172.67.10.53:2083?security=tls&sni=mikasa.megafair.store&type=ws&host=mikasa.megafair.store&fp=chrome&alpn=h3,h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.10.53:2083
+trojan://yGcJzk5XRZ@13.250.38.199:48357?security=none&type=ws&host=m.whatsapp.com&path=%2F#🔒 TR-WS-NONE 🇸🇬 SG-13.250.38.199:48357
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.217:443?sni=tjjd.yzyx1.v6.army&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.53.217:443
+trojan://telegram-id-directvpn@35.156.143.15:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-35.156.143.15:22222
+trojan://EgAMtxAquaO78-IvTSWpnQ@104.25.8.217:2096?security=tls&sni=mrz.learnturkishspeech.fun&type=ws&host=mrz.learnturkishspeech.fun&path=/book#🔒 TR-WS-TLS 🏴‍☠️ NA-104.25.8.217:2096
+trojan://telegram-id-directvpn@35.176.217.207:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-35.176.217.207:22222
+trojan://c8742e83-c325-4332-a427-9cdc997a4775@185.143.233.225:443?security=tls&sni=dl.allavatar.top&type=ws&host=dl.allavatar.top&path=/tr/t/tNtL/gfdr#🔒 TR-WS-TLS 🇮🇷 IR-185.143.233.225:443
+trojan://KfHraA7j5h@147.78.140.39:8443?security=tls&sni=Wsd5yct6uv-Mvd57fc7yvjFy-Po9iU6vBy87y7hcUf5rcy.danesh-bonyan.Store&type=ws&host=eiiim.danesh-bonyan.store&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.#🔒 TR-WS-TLS 🇧🇬 BG-147.78.140.39:8443
