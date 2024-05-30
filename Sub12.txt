@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@8.217.121.207:2053?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-8.217.121.207:2053
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.89.64:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇱🇺 LU-188.42.89.64:443
 vless://7a0acb98-9bfe-47fe-bb26-0fbe453af731@77.83.203.90:59143?security=none&type=tcp#🔒 VL-TCP-NONE 🇹🇷 TR-77.83.203.90:59143
 vless://aba1d422-8ea1-4934-a685-b6df5ab46c41@172.67.204.237:2087?security=tls&sni=dl4.mn-g.ir&type=ws&host=dl4.mn-g.ir&path=%2F&fp=random&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.204.237:2087
 vless://0f0f7cc8-edcd-436d-bf9d-f7bfdb6ed9ca@104.21.60.209:2082?security=none&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.60.209:2082
@@ -601,5 +603,3 @@ trojan://kh06dw8cR3@212.183.88.157:8443?security=tls&sni=YeRt5yct6uv-VI57fc7yvjF
 trojan://75f6e456-1bcc-4bc5-95fb-4382852562c1@95.164.46.235:443?#🔒 TR-TCP-NA 🇮🇹 IT-95.164.46.235:443
 trojan://telegram-id-directvpn@3.137.111.221:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇺🇸 US-3.137.111.221:22222
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.109:8443?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.109:8443
-trojan://auto@172.66.44.131:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.44.131:443
-trojan://lrdxw@104.21.68.185:443?security=tls&sni=trojan-lrdxw.ala1-f11.workers.dev&type=ws&host=trojan-lrdxw.ala1-f11.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.68.185:443
