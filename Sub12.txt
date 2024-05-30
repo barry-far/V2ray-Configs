@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@147.78.140.233:443?security=tls&sni=v300.ylkszy.eu.org&type=ws&path=/?proxyip#🔒 VL-WS-TLS 🇧🇬 BG-147.78.140.233:443
-vless://c54dd620-fa5f-46de-82c2-9d1492ee74e4@103.98.215.248:443?security=tls&flow=xtls-rprx-vision&sni=tor2.jarviskit.com&type=tcp&fp=chrome&alpn=h2,http/1.1#🔒 VL-TCP-TLS 🇨🇦 CA-103.98.215.248:443
-vless://1dc84f56-e1d5-466c-8047-897192fde26a@104.17.193.81:443?security=tls&sni=sajjad5.fastatom.top&type=grpc&serviceName=gamingmaster.ir&fp=firefox&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.193.81:443
 vless://55341cc4-d38a-42d2-b5a7-61fcc77b56f1@108.162.192.154:2087?security=tls&sni=Tigoo.dignity-19.com&type=grpc&serviceName=Psp&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-108.162.192.154:2087
 vless://f68b1ea9-3c4e-405a-98b1-35ee3db36000@172.67.249.75:80?type=ws&path=/graphql#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.249.75:80
 vless://58dbfb96-afac-4251-9189-137e883e65ab@172.67.2.238:8880?security=none&type=ws&host=worker-bitter-tooth-2833.geyoleg265.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.2.238:8880
@@ -603,3 +600,6 @@ trojan://NISHIKUITAN222@8.219.83.201:2083?security=tls&sni=t226.ylks.link&type=w
 trojan://b8841c50-c3ad-11ee-9be0-1239d0255272@54.38.156.210:443?#🔒 TR-TCP-NA 🇩🇪 DE-54.38.156.210:443
 trojan://auto@104.18.13.229:2053?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.13.229:2053
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.232:2083?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.232:2083
+trojan://telegram-id-directvpn@3.74.142.93:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.74.142.93:22222
+trojan://auto@162.159.135.232:8443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.135.232:8443
+trojan://cacabab-aabc-baca-dabc-abbcaccbabca@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
