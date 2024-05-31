@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vmess://eyJ2IjoiMiIsInBzIjoi8J+Ht/Cfh7ogX1JVX+S/hOe9l+aWr+iBlOmCpiIsImFkZCI6IjQ1LjEzNi4yNDUuMjQwIiwicG9ydCI6IjEyOTEwIiwidHlwZSI6Im5vbmUiLCJpZCI6IjgyNTljYjFjLWRkNmMtNDczOS05Yzg4LWFmNTUwZDk3NzUyNSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6InRscyJ9
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.77.53.200:6379#%F0%9F%87%B5%F0%9F%87%B1%20_PL_%E6%B3%A2%E5%85%B0
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@51.77.53.200:6679#%F0%9F%87%B5%F0%9F%87%B1%20_PL_%E6%B3%A2%E5%85%B0
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@51.77.53.200:6697#%F0%9F%87%B5%F0%9F%87%B1%20_PL_%E6%B3%A2%E5%85%B0
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggX1VTX+e+juWbvSIsImFkZCI6InJ1c3NpYS5jb20iLCJwb3J0IjoiODg4MCIsInR5cGUiOiJub25lIiwiaWQiOiI2NGE1N2I1Zi00NWUwLTQwYzMtODMxNi05N2QwZmY1M2ZkOTYiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2FwaS92My9kb3dubG9hZC5nZXRGaWxlIiwiaG9zdCI6InNzc3ViLnYyLjAwMS5zc3JzdWIuY29tIiwidGxzIjoiIn0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggX0NOX+S4reWbvS0+8J+HuvCfh7hfVVNf576O5Zu9IiwiYWRkIjoiMTgzLjI0MC4xNzkuMjA3IiwicG9ydCI6IjMwMDEzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjViZDU4OTlhLTRiNzgtNGQ3NS04NTcwLTRkMjFiNDM0MjJjNCIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
 trojan://TNDSJfNv@36.151.195.48:4787?allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
@@ -603,3 +599,7 @@ vless://c14f397e-682b-4949-fbdd-96b6020e137a@190.93.247.155:2083?security=tls&sn
 vless://2af943ef-8eac-4fb8-eeff-67ec8a555b8e@172.67.193.36:8880?security=none&type=ws&host=Are.xn--78-pv2cvta065cac9302fea377a148g.com.&path=/Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.193.36:8880
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@162.159.137.23:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.137.23:443
 vless://1235b6fb-7f15-4361-8da3-d1a079bdf484@104.21.7.50:443?security=tls&sni=who-doesnt-care.BacheBiaPain.IR&type=ws&host=who-doesnt-care.BacheBiaPain.IR&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.7.50:443
+vless://7307d896-1969-430c-8c27-1d5dbaf1f44f@162.159.153.2:8080?security=none&type=ws&host=daily-configs.v2ray.mihanyas.ir.mbj.farsroid.com.vigilantecollection.com.&path=/---@Daily_Configs---@Daily_Configs---@Daily_Configs---@Daily_Configs---@Daily_Configs#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.153.2:8080
+vless://fc03933c-9b0b-4eab-9c5f-626ea67c5bff@104.16.209.12:8443?security=tls&sni=nl.cypherpunks.fun&type=ws&host=nl.cypherpunks.fun&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.209.12:8443
+vless://1ea40d23-e223-4be9-a830-036c9740b830@104.21.58.226:443?security=tls&sni=mamadtatardo442.my442vpn442.workers.dev&type=ws&host=mamadtatardo442.my442vpn442.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.58.226:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@150.230.221.148:443?security=tls&sni=zdy331.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇯🇵 JP-150.230.221.148:443
