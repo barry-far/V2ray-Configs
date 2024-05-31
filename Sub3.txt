@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggX0NOX+S4reWbvS0+8J+HuvCfh7hfVVNf576O5Zu9IiwiYWRkIjoiMTgzLjI0MC4xNzkuMjA3IiwicG9ydCI6IjMwMDEzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjViZDU4OTlhLTRiNzgtNGQ3NS04NTcwLTRkMjFiNDM0MjJjNCIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
-trojan://TNDSJfNv@36.151.195.48:4787?allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
-trojan://TNDSJfNv@36.151.195.48:4603?allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@51.77.53.200:2375#%F0%9F%87%B5%F0%9F%87%B1%20_PL_%E6%B3%A2%E5%85%B0
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggX1VTX+e+juWbvS0+8J+HrvCfh7NfSU5f5Y2w5bqmIiwiYWRkIjoiMTcyLjY3LjE2NC43OCIsInBvcnQiOiIyMDUyIiwidHlwZSI6Im5vbmUiLCJpZCI6ImMyODZkYWEyLTU5ZGUtNDU1Yy04ZGU4LWVjMDMyYjZjZTJlOCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6ImluMy53aXNoLm1sIiwidGxzIjoiIn0=
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.77.53.200:8118#%F0%9F%87%B5%F0%9F%87%B1%20_PL_%E6%B3%A2%E5%85%B0
@@ -603,3 +600,6 @@ vless://f1c0ba66-9682-4e0a-950b-c239eacdd4cb@190.93.247.155:2053?security=tls&sn
 vless://1be898bc-df68-4c6d-98ce-8351e8728ea3@5.253.41.160:443?security=tls&sni=jp-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇯🇵 JP-5.253.41.160:443
 vless://ca3f2ed6-1dc0-47dd-84b0-730f2732871b@205.233.181.232:8080?security=none&type=ws&host=hrtv.numall.xyz.&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-205.233.181.232:8080
 vless://d0be39fd-4bca-4e37-80d5-715d512aad7e@172.67.186.232:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=%2Fws%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.186.232:443
+vless://bddf481c-ea09-469f-a1b0-a3c8e963fa6e@162.159.135.234:443?security=tls&sni=green.aria0mani0shop.sbs&type=ws&host=green.aria0mani0shop.sbs&path=/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.135.234:443
+vless://8155d2bb-0eb4-40ff-ba1d-95df410a672a@104.18.202.232:8443?security=tls&sni=01.ev02-02-q2wx8ryz0vic3bfmd1sng7pjjn6lqk4p.tech&type=grpc&serviceName=@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.202.232:8443
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.67.1:80?type=ws&host=binance.co.kp#🔒 VL-WS-NA 🇺🇸 US-151.101.67.1:80
