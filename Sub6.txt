@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://7fdaf33f-00a0-4331-8668-813c7f0f0cb2@49.13.225.84:443?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-49.13.225.84:443
+vless://4d5400ef-201d-43a3-890f-c767746fc524@104.21.32.208:443?security=tls&sni=PpaL03.EDmUnD-RAU.wORkeRs.dev&type=ws&host=pPaL03.EdMUnD-RAu.WoRKErS.DEv&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.32.208:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.200.1:443?security=tls&sni=xxx.donated001.workers.dev&type=ws#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.200.1:443
 vless://5521744a-f20b-407b-87b7-3797b30d3f2c@104.17.228.234:2095?security=none&type=ws&host=frtvd.oxnetirz214.workers.dev&path=%2F..............%40Free_V2rng...............%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.228.234:2095
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.218.111:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.218.111:443
@@ -601,5 +603,3 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.22.116.225:443?security=tls&sni=
 vless://6dc254fd-c36e-413f-ad4b-39bb76e420ed@66.235.200.107:8443?security=tls&sni=vmessorg.xn--54qv00ez5ar77g.co&type=ws&host=vmessorg.xn--54qv00ez5ar77g.co&path=/&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-66.235.200.107:8443
 vless://c25d9ab6-b6be-4034-9bb8-966b4651cade@104.21.62.144:2083?security=tls&sni=sauron.melkore.ir&type=ws&host=sauron.melkore.ir&path=/&fp=chrome&alpn=http/1.1,h2,h3#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.62.144:2083
 vless://4045c6b7-1d53-4574-98cd-df21db40b0dc@172.64.106.51:2053?security=tls&sni=itcenteriran.blog&type=ws&host=itcenteriran.blog#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.106.51:2053
-vless://8a84e7db-6c09-4cb8-bdfb-552f0360a6cb@104.21.50.175:2083?security=tls&sni=selinc---1----selinc----1---selinc------1.gcjmjwbq.workers.dev&type=ws&host=selinc---1----selinc----1---selinc------1.gcjmjwbq.workers.dev&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.50.175:2083
-vless://234b7bfa-49d6-436b-fb8b-8805503209a7@188.114.98.224:2053?security=tls&sni=sima.danesh.shop&type=grpc&serviceName=wearestand#🔒 VL-GRPC-TLS 🏴‍☠️ NA-188.114.98.224:2053
