@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://a61ef647-36c6-40c1-8fff-a3a65e473c7a@172.67.187.122:2096?security=tls&sni=p30download.ir-notting-hill.com&type=ws&host=proxy.ir-notting-hill.com&path=%2F&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.187.122:2096
+vless://d4e4f972-15fb-4748-85ef-f5c77438ee91@162.159.137.232:2096?security=tls&sni=poy-uk.sg-forum.info&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.137.232:2096
 vless://27296b86-e52d-4293-8814-20f041c291a1@172.67.169.190:8443?security=tls&sni=selinc--2--selinc--2--selinc--2.laafydr.workers.dev&type=ws&host=selinc--2--selinc--2--selinc--2.laafydr.workers.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.169.190:8443
 vless://790adf74-4e4d-4ae2-9fc4-121b95f77297@172.67.214.179:2053?security=tls&sni=gr.boskot.com&type=grpc&serviceName=vless#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.214.179:2053
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.71.187:443?security=tls&sni=zdy306.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.71.187:443
@@ -601,5 +603,3 @@ vless://1aaddeec-846e-4f85-b90d-7b1a50ae039b@18.163.75.89:443?security=tls&sni=d
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.24.250:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.24.250:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@66.81.247.19:443?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-66.81.247.19:443
 vless://f182fdb7-6945-4719-bd4f-868465e5a2d7@172.66.44.158:80?security=none&type=ws&host=yeCtW3ZIVaWuNVSezf6F.cInIMO.apP&path=%2Fbackup#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.44.158:80
-vless://4dff7215-1e48-4b7b-8a2f-8fe0be2ac6a8@172.66.213.5:2053?security=tls&sni=jetfreewarp.pages.dev&type=ws&host=jetfreewarp.pages.dev&path=%2F%3Fed%3D2560&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.213.5:2053
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.43:8443?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.43:8443
