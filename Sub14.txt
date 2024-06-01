@@ -3,6 +3,16 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://c7f9b8f0-bfdb-11ee-a15c-1239d0255272@172.67.159.13:443?security=tls&sni=de1.test3.net&type=ws&host=de1.test3.net&path=/howdy#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.159.13:443
+trojan://telegram-id-privatevpns@51.21.80.15:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-51.21.80.15:22222
+trojan://telegram-id-privatevpns@52.50.24.222:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-52.50.24.222:22222
+trojan://656bcdfe-ae09-4170-a36e-1685ee10b26f@162.159.135.232:2083?security=tls&sni=missyousir.segaro.tech&type=ws&host=missyousir.segaro.tech&path=/OVmkPBATL0FijQ3AWVBo&fp=chrome&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.135.232:2083
+trojan://slfhRjS5Xi@13.250.38.199:30706?security=none&type=ws&host=store.steampowered.com&path=%2F#🔒 TR-WS-NONE 🇸🇬 SG-13.250.38.199:30706
+trojan://bcf96c9b-30bf-4ab0-bc28-6076218f2a14@103.224.182.249:443?security=tls&sni=z9.gozargah.one&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-103.224.182.249:443
+trojan://DyF9KXR8gx5EclDF6pT2lS3BejSRDazY7C0aYwaOApn33ZquZyIOex4CS83NAC@154.31.114.174:28333?security=tls&sni=nagoya.meijireform.com&type=tcp#🔒 TR-TCP-TLS 🇯🇵 JP-154.31.114.174:28333
+trojan://2997aacd-4f1b-42fb-b225-c1596f9ca5c1@173.245.49.31:443?security=tls&sni=B0lVxLJll.diamondgalery.ir&type=grpc&serviceName=U13Hsk6pJ3kzSE4vrlte50vDf&fp=chrome&alpn=h2#🔒 TR-GRPC-TLS 🏴‍☠️ NA-173.245.49.31:443
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.11:2087?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.11:2087
+trojan://242a3d8eee5e4ed1a6bfa4141d549a25@104.16.159.1:443?security=tls&sni=jobsapplyworld.com&type=ws&host=jobsapplyworld.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.1:443
 trojan://984e400bf5d541b7b0815913fe0c432a@104.19.171.9:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=%2F6b777a91&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.171.9:443
 trojan://FtEizCoS0v0MUqSQBgMm2A@172.66.213.38:2083?security=tls&sni=gerMnV2ray.naziitness.coM&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-172.66.213.38:2083
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@198.41.220.2:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.2:443
@@ -593,13 +603,3 @@ ss://ZDM2MGQxMWUtZDQyNi00NTgzLWI1NWUtNTI0YWIxZjBhZmE5Og==@104.26.5.4:2096#🔒 S
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@69.50.93.111:6679#🔒 SS-TCP-NA 🇺🇸 US-69.50.93.111:6679
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.90.61.153:989#🔒 SS-TCP-NA 🇳🇴 NO-185.90.61.153:989
 ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.17.63.242:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.17.63.242:80
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.120:3306#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.120:3306
-ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@80.92.204.106:9011#🔒 SS-TCP-NA 🇩🇪 DE-80.92.204.106:9011
-ss://YjBlNmEyYzktZTY2Ny00ZTQyLTljYjMtNzdkN2RiM2U3MzZiOg==@104.21.43.221:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.43.221:443
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#🔒 SS-TCP-NA 🇧🇪 BE-192.71.249.78:989
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.75.137.71:8000#🔒 SS-TCP-NA 🇺🇸 US-38.75.137.71:8000
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVeG00QUR3ZnRLZFhxNXFSQTRaZkhT@49.13.10.50:1194#🔒 SS-TCP-NA 🇩🇪 DE-49.13.10.50:1194
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.86.135.31:8091#🔒 SS-TCP-NA 🇺🇸 US-38.86.135.31:8091
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@15.204.87.217:6379#🔒 SS-TCP-NA 🇺🇸 US-15.204.87.217:6379
-ss://ZThkNmI0NmEtZDYxYS0xMWVlLWFhYTgtMDA1MDU2MDNlNzBkOg==@104.26.10.137:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.26.10.137:443
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.111.114.133:7001#🔒 SS-TCP-NA 🇨🇦 CA-38.111.114.133:7001
