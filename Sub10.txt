@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://62dd9f59-4b3d-4c3c-b59b-51b71baed832@172.232.43.111:2003?security=tls&sni=fr2-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇫🇷 FR-172.232.43.111:2003
+vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@158.178.240.232:23559?security=tls&sni=v300.ylkszy.eu.org&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇸🇬 SG-158.178.240.232:23559
 vless://d7dd3a35b68b4992b319a85b8a1fc8e5@3.35.139.150:8443?security=tls&sni=tg.dns68.cloudns.nz&type=ws&host=tg.dns68.cloudns.nz&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇰🇷 KR-3.35.139.150:8443
 vless://1043dcf4-b8a4-45de-bb61-e64535939ebc@104.26.14.85:8080?security=none&type=ws&host=vipserverservice.snapp.ir.com.org.spd.spod.xn--chinese-fs4l.xn--blqw2a5no5ed8cm6xw0gw2i6ooehteuz1wcw61apn4a.com.&path=Mmdv2rayng-V2rayngmmd-telegram-mmd_v2rayng%3Fed%3D80#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.14.85:8080
 vless://9b69f8e7-b7f6-451a-940b-67cfa2dd64e1@45.159.216.18:2095?security=none&type=ws&host=V2ray-_-_-_-_-vMESSKHODAM.lars1.nl.&path=VMESSKHODAM-VMESSKHODAM-VMESSKHODAM-VMESSKHODAM-VMESSKHODAM-VMESSKHODAM-VMESSKHODAM/VMESSKHODAM?ed%3D1024#🔒 VL-WS-NONE 🇺🇸 US-45.159.216.18:2095
@@ -601,5 +603,3 @@ vless://075a365b-b0c7-4ba3-b5a6-597850c223f9@104.16.2.35:8880?security=none&type
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@132.226.230.177:48132?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇰🇷 KR-132.226.230.177:48132
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.189.245:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.189.245:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@66.81.247.19:8443?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-66.81.247.19:8443
-vless://b0138d55-a493-4dc3-9932-c6f0391707c1@104.21.66.206:2082?security=none&type=ws&host=malaysiadj.card-937.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.66.206:2082
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.183.136:80?security=none&type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.183.136:80
