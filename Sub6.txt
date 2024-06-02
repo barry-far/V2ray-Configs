@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://49e9aee4-ba22-40de-a1d5-9eeb935b10e3@172.67.186.23:2087?security=tls&sni=francess.almanalohapro.ir&type=grpc&serviceName=vless&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.186.23:2087
-vless://ae53d90e-618d-448a-96c5-66cdb0374077@85.133.146.64:2080?security=none&type=tcp&host=speedtest.net&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.146.64:2080
-vless://970a7f46-00c3-4ddc-8299-eadc5026ff32@195.123.213.46:2003?security=tls&sni=ua-full.privateip.net&type=grpc&serviceName=GRPC&path=/&allowInsecure=1#🔒 VL-GRPC-TLS 🇱🇻 LV-195.123.213.46:2003
-vless://fcf414f7-38ac-49dc-8227-d75d94c35476@151.101.169.57:443?security=tls&sni=fastly.com&type=ws&host=v2rayrolly.com&path=/Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly#🔒 VL-WS-TLS 🇺🇸 US-151.101.169.57:443
 vless://f4cec6cc-6177-423c-90f8-2ad9f0dd996b@172.67.193.36:2096?security=tls&sni=vpnct.arvancode.eu.org&type=ws&host=vpnct.arvancode.eu.org&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.193.36:2096
 vless://70aa6fd6-9d04-4657-9eaa-2946541f6deb@188.114.96.217:80?security=none&type=ws&host=071ll2532.16965a6a7d.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.96.217:80
 vless://aa2dc840-be38-4b4d-a002-ba234999fd55@104.19.164.12:8080?security=none&type=ws&host=cdn-allxn--b6gaceuorg.l4o117en.workers.dev&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.164.12:8080
@@ -603,3 +599,7 @@ vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@146.56.130.201:8443?security=tls&sn
 vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@104.16.68.38:80?type=ws&host=ada57.cwvgq.com&path=%2Fusers%3Fed%3D2048#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.68.38:80
 vless://e7ed4a9f-c9fb-40e9-a6c8-b951e1cfb789@193.151.155.69:51760?security=none&type=tcp&host=varzesh3.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-193.151.155.69:51760
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@156.225.72.24:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-156.225.72.24:443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@156.225.72.49:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇺🇸 US-156.225.72.49:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@130.250.137.147:2052?security=none&type=ws&path=%2Fblue#🔒 VL-WS-NONE 🇺🇸 US-130.250.137.147:2052
+vless://b5ba6e01-0259-436c-874c-27565ab36ab5@85.159.208.19:443?security=tls&flow=xtls-rprx-vision&sni=uk-freevmess.privateip.net&type=tcp&path=%2f&allowInsecure=1#🔒 VL-TCP-TLS 🇬🇧 GB-85.159.208.19:443
+vless://51b939e6-ffbe-4b1a-8347-710436f5a704@172.67.204.84:2095?security=none&type=ws&host=V2ray-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.204.84:2095
