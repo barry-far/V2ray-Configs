@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://7379eb18-959d-4b33-ddf7-e9369a0e1769@170.114.46.1:443?security=tls&sni=ger.vwfghin.info&type=grpc#🔒 VL-GRPC-TLS 🇺🇸 US-170.114.46.1:443
-vless://b71b0234-3967-4cfb-bbac-00a9ec8b1637@104.24.32.188:8443?security=tls&sni=melody.howareu.xyz&type=ws&host=melody.howareu.xyz&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.32.188:8443
-vless://10716279-b1ee-41d8-b63e-87782088305b@23.227.39.183:443?security=tls&sni=MamAne-FilTErchI.PAGES.DeV&type=ws&host=mAMAne-filtERChI.PAGES.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇨🇦 CA-23.227.39.183:443
-vless://2fe45196-b7ef-419b-995e-7e63ca0b57bf@104.18.202.232:8080?security=none&type=ws&host=sin.xn--78-pv2cvta065cac9302fea377a148g.com.&path=/Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.202.232:8080
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.155.195:8443?security=tls&sni=zdy226.kpcloud.eu.org&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.155.195:8443
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.207.90:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.207.90:80
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@168.100.6.53:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-168.100.6.53:443
 vless://adbb17ae-b8cb-4aee-a890-6329965abcac@172.67.175.132:2053?security=tls&sni=newworkfaridshahrivardo.abza.workers.dev&type=ws&host=newworkfaridshahrivardo.abza.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.175.132:2053
 vless://b1c53b03-8d32-4d2c-a572-c3f6c81bda8c@5.10.244.228:80?security=none&type=ws&host=a.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FZEDMODEON-TEL-ZEDMODEON-ZEDMODEON#🔒 VL-WS-NONE 🇳🇱 NL-5.10.244.228:80
 vless://9337abc3-6606-40f3-a1cc-f8171e392a21@188.245.34.90:2963?security=none&type=tcp&host=journalofbigdata.springeropen.com&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-188.245.34.90:2963
@@ -603,3 +596,10 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@104.19.38.15:2096?security=tls&sni=
 vless://01ab9337-f478-4765-9534-88f009f83ddb@8.219.191.40:2053?security=tls&sni=aut331.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-8.219.191.40:2053
 vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@47.237.84.173:2083?security=tls&sni=vless.pagess.filegear-sg.me&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇸🇬 SG-47.237.84.173:2083
 vless://f287ef5a-c0af-4025-a463-68253f43c1a8@104.18.202.209:443?security=tls&sni=%4ddVpnSec-%562rayNg-Free.snappfoodd.site&type=ws&serviceName=-Telegram:@Evay_vpn-Telegram:@Evay_vpn-Telegram:@Evay_vpn-Telegram:@Evay_vpn-Telegram:@Evay_vpn-Telegram:@Evay_vpn-Telegram:@Evay_vpn-Telegram:@Evay_vpn-Telegram:@Evay_vpn-Telegram:@Evay_vpn-Telegram:@Evay_vpn-Telegram:@Evay_vpn-Telegram:@Evay_vpn-Telegram:@Evay_vpn-Telegram:@Evay_vpn-Telegram:@Evay_vpn&host=%4ddVpnSec-%562rayNg-Free.snappfoodd.site&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.202.209:443
+vless://70f3c406-63b9-4ca9-b741-8b0c6acaa4bd@190.93.246.217:2087?security=tls&sni=de17.vlessx.us&type=ws&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.246.217:2087
+vless://effb1829-c983-4772-8df4-2e1b0c83d969@104.18.16.151:80?security=none&type=ws&host=1.ftp.debian.org.www.speedtest.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9167.Site.&path=//telegram-proxy-mtm-telegram-proxy-mtm-telegram-proxy-mtm?ed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.16.151:80
+vless://c32b1429-92aa-4be7-912e-4d63b0a31fc7@162.159.130.49:443?security=tls&sni=can01.nimserver.top&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.130.49:443
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.25.75.230:80?security=none&type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.25.75.230:80
+vless://f9e0b36b-f1d5-4f3f-87dd-1e14919915b9@104.16.133.229:443?security=tls&sni=c.cm8.rr.nu&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.133.229:443
+vless://01ab9337-f478-4765-9534-88f009f83ddb@47.236.75.113:2053?security=tls&sni=aut222.ylks.link&type=ws&path=/?ed#🔒 VL-WS-TLS 🇸🇬 SG-47.236.75.113:2053
+vless://6a4a7117-146f-4d71-8302-a96e39fd33dc@104.18.76.99:80?security=none&type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.76.99:80
