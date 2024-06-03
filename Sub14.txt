@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://20ccc96a-190a-438f-a269-be3fda7b245f@104.31.16.24:8443?security=tls&sni=configvip7.site&type=grpc&serviceName=@CONFIG_ViP7,#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.31.16.24:8443
+vless://9709a49f-40fc-4d0d-bc5c-77827947e30b@162.159.1.35:8080?security=none&type=ws&host=joinsevernettdd.xn--78-pv2cvta065cac9302fea377a148g.xyz.#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.1.35:8080
+vless://e9d4444f-e9f6-41e4-b066-8cf38b86a862@172.67.217.144:443?security=tls&sni=ua2-vless.sshmax.xyz&type=ws&host=ua2-vless.sshmax.xyz&path=%2Fvless#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.217.144:443
+vless://0eab9ab8-d0f0-4823-8af9-d1f95db842e8@178.239.154.119:3013?security=none&type=tcp&host=subscene.com&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-178.239.154.119:3013
 vless://fb301d2e-4430-4b41-95d6-764460b8ef13@104.17.8.241:2053?security=tls&sni=9b56CFEe5b258C44c45bA18FA122293.mIToweAr.cOm&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.8.241:2053
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.176.24.120:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-185.176.24.120:443
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@190.93.244.51:443?security=tls&sni=current.ircp.online&type=ws&host=current.ircp.online&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.244.51:443
@@ -599,7 +603,3 @@ ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.75.137.66:5004#🔒 SS-TCP-NA 🇺�
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@149.202.82.172:443#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:443
 ss://ZDM0MmQxMWUtZDQyNC00NTgzLWIzNmUtNTI0YWIxZjBhZmE0Og==@104.21.73.115:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.73.115:443
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.143.66.244:7307#🔒 SS-TCP-NA 🇺🇸 US-38.143.66.244:7307
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.68.135.18:7306#🔒 SS-TCP-NA 🇺🇸 US-38.68.135.18:7306
-ss://MzkyYTI0ZDItYjg3Yy00OThlLWE5N2EtNTFmMzAyN2YwNWM2Og==@172.67.167.116:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.167.116:443
-ss://ZDY5YjY2Y2ItNWZlMi00MGI5LTg0MmItMTk1MTk4MmY4MGFlOg==@104.21.13.159:2086#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.13.159:2086
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToycWw2WWtEcWdEUDhUQ2YySEZGTUZU@3.67.70.16:23456#🔒 SS-TCP-NA 🇩🇪 DE-3.67.70.16:23456
