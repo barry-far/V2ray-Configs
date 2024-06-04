@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?sni=cdn-21.gsmxreality.com&type=grpc&serviceName=443trojan&allowInsecure=1#🔒 TR-GRPC-NA 🏴‍☠️ NA-172.67.204.84:443
-trojan://984e400bf5d541b7b0815913fe0c432a@104.16.159.5:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.5:443
-trojan://TJCfE7Mx2YcA8kX8zg@149.50.75.62:4003?security=tls&sni=nl1.chuqiangtou.net&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇳🇱 NL-149.50.75.62:4003
 trojan://3c91d857-2d40-39b9-81c0-f6adde8037ff@141.11.108.8:4583?sni=cuvip.doubledou.win#🔒 TR-TCP-NA 🇫🇷 FR-141.11.108.8:4583
 trojan://4804f14b-c1f8-452d-a6ec-eff1490aeac9@104.16.61.8:443?security=tls&sni=hdfy6d3.freelines.net&type=ws&host=hdfy6d3.freelines.net&path=/Mf0ozB1t4KDNJYMWXN7kCm3lL&fp=chrome&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.61.8:443
 trojan://cb1f26aa437d4bfa9b841d28503ce8cc@198.41.220.5:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.5:443
@@ -603,3 +600,6 @@ ss://ZjBmNjdiODQtMjc3MC00NDEzLThiMjYtY2ZiMzAyZmFjMjQ3Og==@104.21.66.93:443#🔒 
 ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@45.89.52.66:9001#🔒 SS-TCP-NA 🇹🇷 TR-45.89.52.66:9001
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@15.204.87.225:5499#🔒 SS-TCP-NA 🇺🇸 US-15.204.87.225:5499
 ss://NDY1ZmM0M2MtOTg3Mi00MGY5LWJiOTQtZWJlZTkzNGU0MGI0Og==@23.227.38.135:443#🔒 SS-TCP-NA 🇨🇦 CA-23.227.38.135:443
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.97:7001#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.97:7001
+ss://NzFkY2U5YWYtZDc5MC00YjM4LWExZmQtNzc0NWUwOTIzYmQzOg==@172.67.214.223:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.214.223:443
+ss://NWQ4YjExNDktOGY3OC00MTU0LWE2NDctMTY1NjNlYzk5YzhhOg==@104.21.40.155:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.40.155:443
