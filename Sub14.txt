@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@94.177.8.26:130?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇦🇹 AT-94.177.8.26:130
+vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@162.159.255.121:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.255.121:443
+vless://242b7fb0-d590-57bd-9924-38092b4a8f21@172.67.212.171:2087?security=tls&sni=esetsecuritylicense.ujlqwtae.wORKERS.deV&type=ws&host=esetsecuritylicense.ujlqwtae.wORKERS.deV&path=vless-ws%2F%3Fed%3D2048&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.212.171:2087
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.22.116.198:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇬🇧 GB-31.22.116.198:443
+vless://ef6746d5-d4c5-5092-9b7f-fbfd372446b3@104.21.79.184:443?security=tls&sni=esetsecuritylicense.shsxucu.WoRKers.dEV&type=ws&host=esetsecuritylicense.shsxucu.WoRKers.dEV&fp=chrome&alpn=h3,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.79.184:443
+vless://01ab9337-f478-4765-9534-88f009f83ddb@47.236.146.249:443?security=tls&sni=aut300.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-47.236.146.249:443
+vless://329a4735-9d14-4fba-b8bc-5ccf8bc488cc@86.38.214.69:2087?security=tls&sni=LiV2raya.yoyoyo.ir&type=ws&host=LiV2raya.yoyoyo.ir&path=%2F%40L%49%47HTNING6-TEL--%40L%49%47HTNING6-TEL--%40L%49%47HTNING6-TEL--%40L%49%47HTNING6-JOIN-%40L%49%47HTNING6-TEL--%40L%49%47HTNING6-JOIN-%40L%49%47HTNING6-TEL-%40L%49%47HTNING6-TEL--%40L%49%47HTNING6-JOIN-%40L%49%47HTNING6-TEL--%40L%49%47HTNING6-%40LiV2ray%3Fed%3D1024&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇱🇹 LT-86.38.214.69:2087
+vless://4fe4db1a-8c03-44df-90fe-102534ce816f@172.66.47.175:443?security=tls&sni=pardazesh19.pages.dev&type=ws&host=pardazesh19.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.175:443
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@98.158.193.72:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-98.158.193.72:443
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.64.135.100:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.135.100:443
 vless://4034162a-f4f2-4bd9-bb11-70047ebe20cf@51.75.149.8:80?security=none&type=ws&host=google.com&path=%2Fmyiust%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇫🇷 FR-51.75.149.8:80
@@ -595,11 +603,3 @@ trojan://pUxG77WPOZ@104.18.202.232:80?security=none&type=ws&host=s9.in01.tech&pa
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.232:2096?sni=tjjd.yzyx1.v6.army&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.53.232:2096
 trojan://71409d3e488548e8bb076d229778f008@198.41.220.4:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.4:443
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.219:443?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.53.219:443
-trojan://123456@104.18.11.39:443?security=tls&sni=trojan-amp-id01.globalssh.xyz&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.18.11.39:443
-trojan://2cba4104747d49d18319e5ade1b93ab5@104.18.22.19:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=6b777a91&fp=chrome&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.22.19:443
-trojan://2cba4104747d49d18319e5ade1b93ab5@198.41.220.18:443?security=tls&sni=avianrecruit.com&type=ws&host=avianrecruit.com&path=6b777a91&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.18:443
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.197:2083?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.197:2083
-trojan://b3965d2d-3b82-45cc-927b-1336aca3f3fe@139.162.49.215:443?#🔒 TR-TCP-NA 🇸🇬 SG-139.162.49.215:443
-trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#🔒 TR-TCP-NA 🇳🇱 NL-185.236.233.111:2053
-trojan://c7f9b8f0-bfdb-11ee-a15c-1239d0255272@104.21.41.21:443?security=tls&sni=de1.test3.net&type=ws&host=de1.test3.net&path=/howdy#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.41.21:443
-trojan://f0eb8c92ce8946aaba856569cff1a16b@104.19.159.2:443?security=tls&sni=avianrecruit.com&type=ws&host=avianrecruit.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.159.2:443
