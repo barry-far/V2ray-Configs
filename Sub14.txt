@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://a636c0fd-c580-469c-b32b-a8be341e0f15@104.21.28.8:8443?security=tls&sni=free3.riflvpn.tech&type=grpc&serviceName=f&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.28.8:8443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.198.137:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.198.137:443
 vless://1bab0961-b22c-411f-b955-09c4aed2d2c1@185.146.173.29:443?security=tls&sni=us1.hnkkt.top&type=ws&path=/gsjc/us1#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.29:443
 vless://c5f96dbd-e2ec-421e-b39d-c0476b39184b@104.24.191.251:80?security=none&type=ws&host=svhw2T7k8xn5DtsCw3sr.bAle.bIO&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.191.251:80
@@ -602,4 +603,3 @@ trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.181:8443?security=tls&sn
 trojan://05003b7a-8f03-41d5-b696-0119e8376a20@217.182.76.235:443?security=tls&sni=t6.teslacdn2.live&type=tcp&host=t6.teslacdn2.live#🔒 TR-TCP-TLS 🇫🇷 FR-217.182.76.235:443
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.126:2087?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.53.126:2087
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@162.159.153.2:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=6b777a91&fp=chrome&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.2:443
-trojan://OE1IBsAueh@54.169.171.52:443?security=tls&sni=aka.ms&type=ws&path=%2F&alpn=http%2F1.1&allowInsecure=1#🔒 TR-WS-TLS 🇸🇬 SG-54.169.171.52:443
