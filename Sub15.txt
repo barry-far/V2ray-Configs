@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://454f84df-724d-442a-a4a2-698a6d63f946@193.70.112.90:443?security=tls&sni=fr3-full.privateip.net&type=ws&path=%2fvless&allowInsecure=1#🔒 VL-WS-TLS 🇫🇷 FR-193.70.112.90:443
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.190.122:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.190.122:443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.154.58:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.154.58:80
 vless://0c47c8fd-4966-4351-8bdd-88d46b4a8cd1@104.25.254.188:443?security=tls&sni=freakv22.tm-online.xyz&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.254.188:443
@@ -602,4 +603,3 @@ trojan://telegram-id-privatevpns@18.171.64.184:22222?security=tls&sni=trojan.bur
 trojan://3c91d857-2d40-39b9-81c0-f6adde8037ff@141.11.108.8:4583?sni=cuvip.doubledou.win#🔒 TR-TCP-NA 🇫🇷 FR-141.11.108.8:4583
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@198.41.220.12:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.12:443
 trojan://2cba4104747d49d18319e5ade1b93ab5@104.18.23.19:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.23.19:443
-trojan://389ea04b-99fb-47db-9252-80046b6bfe3e@199.59.243.225:443?#🔒 TR-TCP-NA 🇺🇸 US-199.59.243.225:443
