@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://fb301d2e-4430-4b41-95d6-764460b8ef13@147.78.140.121:2053?security=tls&sni=9b56CFEe5b258C44c45bA18FA122293.mIToweAr.cOm&type=grpc#🔒 VL-GRPC-TLS 🇧🇬 BG-147.78.140.121:2053
+vless://6f995056-7802-4a1d-bff7-61678e626c3f@40.112.243.64:443?security=tls&sni=gerrrrw.azurewebsites.net&type=ws&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-40.112.243.64:443
 vless://2ca42987-551b-4494-a854-da2d9178f4cd@104.18.211.110:2087?security=tls&sni=KxQhHtGc22.zImBa-zUlA.OrG&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.211.110:2087
 vless://7e322a81-62dd-4301-a073-6e1900a6be71@104.21.55.62:2083?security=tls&sni=full.metesla.site&type=grpc&serviceName=@global_net_vpn&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.55.62:2083
 vless://b8f850de-6082-4498-a2ac-d7fae27c4d5c@[::ffff:6812:cbe8]:2086?security=none&type=ws&host=xn--047h.iman-v2ray.sbs.&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-[::ffff:6812:cbe8]:2086
@@ -601,5 +603,3 @@ vless://86ba8b32-71a7-589c-b728-991c7c726d60@104.17.206.5:2083?security=tls&sni=
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.217.149.28:80?security=none&type=ws&path=%2Fblue#🔒 VL-WS-NONE 🇭🇰 HK-8.217.149.28:80
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@140.238.31.153:15914?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F#🔒 VL-WS-TLS 🇰🇷 KR-140.238.31.153:15914
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@35.230.79.26:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇺🇸 US-35.230.79.26:443
-vless://2a3263e2-891c-4446-b474-a8c63acb6e25@173.245.58.154:2096?security=tls&sni=swe2.mbh-meti.com&type=ws&host=swe2.mbh-meti.com&path=%2F&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.58.154:2096
-vless://a04be4ef-1797-4ca9-a549-4385ce42494c@185.146.173.235:443?security=tls&sni=vls4de.nimaxmusic.ir&type=ws&path=%2Fvls4dews#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.235:443

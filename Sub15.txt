@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://2a3263e2-891c-4446-b474-a8c63acb6e25@173.245.58.154:2096?security=tls&sni=swe2.mbh-meti.com&type=ws&host=swe2.mbh-meti.com&path=%2F&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.58.154:2096
+vless://a04be4ef-1797-4ca9-a549-4385ce42494c@185.146.173.235:443?security=tls&sni=vls4de.nimaxmusic.ir&type=ws&path=%2Fvls4dews#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.235:443
 vless://3a7e0e9a-a564-49b5-aea8-0853825c7cd1@104.26.7.95:443?security=tls&sni=CreEw.RibiWa9933.WoRkeRs.DEV&type=ws&host=CrEew.RiBIwa9933.wOrkerS.deV&path=%2F%3Fed%3D2048&fp=random&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.7.95:443
 vless://3b1ba090-63a1-4710-9818-34be378bcfbd@104.21.103.216:8080?security=none&type=ws&host=realpydar.banndedd.ir&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.103.216:8080
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.60.189.175:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇨🇦 CA-52.60.189.175:22222
@@ -601,5 +603,3 @@ trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.231:2087?security=tls&sn
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.110:2083?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.110:2083
 trojan://2f211aae-3678-47a6-b231-46304443772f@188.114.97.82:443?security=tls&sni=cdir-0203.wlfvip.com&type=ws&host=cdir-0203.wlfvip.com&path=%2Ftrojanws%3Fed%3D2048&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-188.114.97.82:443
 trojan://iI72baKdja@45.85.119.200:2096?security=tls&sni=nleaaaaaa.piabolictash.online&type=grpc&serviceName=https://t.me/ViipNetwork&alpn=h2,http/1.1#🔒 TR-GRPC-TLS 🇷🇴 RO-45.85.119.200:2096
-trojan://a9d4426f1c76c6b@104.21.69.44:2053?security=tls&sni=bestfollower.fandlaandpro.ir&type=grpc&serviceName=sourceforge.net#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.21.69.44:2053
-trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?sni=cdn-21.gsmxreality.com&type=grpc&serviceName=443trojan&allowInsecure=1#🔒 TR-GRPC-NA 🏴‍☠️ NA-172.67.204.84:443
