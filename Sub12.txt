@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://1bab0961-b22c-411f-b955-09c4aed2d2c1@23.227.39.172:443?security=tls&sni=de1.hnkkt.top&type=ws&path=/gsjc/de1#🔒 VL-WS-TLS 🇨🇦 CA-23.227.39.172:443
+vless://ba34bf8f-e046-5934-a81e-b1612fb2d9b7@172.66.46.252:2095?security=none&type=ws&host=sugar.sugarbreakervpn.WorKeRs.Dev&path=vless-ws%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.46.252:2095
+vless://77a571fb-4fd2-4b37-8596-2b7d9728bb5c@172.67.148.99:8880?security=none&type=ws&host=xw.r4d.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.148.99:8880
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.97:443?security=tls&sni=jp005.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.97:443
+vless://ff252402-faf5-4d46-ad0d-4c279d2a06c6@152.42.208.82:26407?security=none&type=ws&host=m.facebook.com&path=%2F#🔒 VL-WS-NONE 🇸🇬 SG-152.42.208.82:26407
+vless://11d7b37e-5efd-45a8-bb19-2dabe016cfcf@185.162.231.227:443?security=tls&sni=joinFREV2RAY.Houselife.IR&type=grpc&serviceName=@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇦🇲 AM-185.162.231.227:443
+vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@185.193.30.155:443?security=tls&sni=v300.ylkszy.eu.org&type=ws&path=/?proxyip#🔒 VL-WS-TLS 🇬🇧 GB-185.193.30.155:443
 vless://79473718-0451-41c3-a0a2-9f6d21c99f75@172.66.47.125:443?security=tls&sni=9052b030.joinmahdiserver-90p.pages.dev&type=ws&host=9052b030.joinmahdiserver-90p.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.125:443
 vless://c57db8e2-555e-4c48-b262-ec20b4ae6a50@104.21.31.161:2083?security=tls&sni=selinc--3--3--3--selinc.eubda.workers.dev&type=ws&host=selinc--3--3--3--selinc.eubda.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.31.161:2083
 vless://b71b0234-3967-4cfb-bbac-00a9ec8b1637@104.19.251.69:8443?security=tls&sni=melody.howareu.xyz&type=ws&host=melody.howareu.xyz&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.251.69:8443
@@ -596,10 +603,3 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.235.83:80?security=none&type
 vless://19cf8872-7f7d-42d0-a7be-73f8654265ba@135.125.247.170:443?security=tls&sni=inconcinnity.norwaylovers.com&type=tcp&allowInsecure=1#🔒 VL-TCP-TLS 🇫🇷 FR-135.125.247.170:443
 vless://81afe82c-f1c3-4794-8eaf-aaffe4c664b9@185.146.173.206:443?security=tls&sni=g3ov.ferdowsi.shop&type=grpc&serviceName=Telegram:@SurfShark_ALA-Telegram:@SurfShark_ALA-Telegram:@SurfShark_ALA-Telegram:@SurfShark_ALA-Telegram:@SurfShark_ALA-Telegram:@SurfShark_ALA-Telegram:@SurfShark_ALA-Telegram:@SurfShark_ALA-Telegram:@SurfShark_ALA-Telegram:@SurfShark_ALA#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.206:443
 vless://9b12b685-9089-4f5e-bed4-ca060db7b979@95.164.117.128:443?security=tls&sni=de2-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇩🇪 DE-95.164.117.128:443
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.24.203:80?security=none&type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.24.203:80
-vless://d3a12e79-ef42-4268-b367-42eeb3494e60@172.67.73.163:2083?security=tls&sni=hagh.pages.dev&type=ws&host=hagh.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.73.163:2083
-vless://85dcf8d5-7eef-4d39-d371-0581ca137445@5.42.107.1:26615?security=none&type=tcp#🔒 VL-TCP-NONE 🇷🇺 RU-5.42.107.1:26615
-vless://ae53d90e-618d-448a-96c5-66cdb0374077@172.67.1.143:2086?security=none&type=ws&host=80.niloofargift.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.1.143:2086
-vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@162.159.129.74:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.129.74:443
-vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@162.159.130.81:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.130.81:443
-vless://d26c6e29-0efa-43d1-b3d1-89795c09da15@185.146.173.32:2096?security=tls&sni=fl.ZoV2ray.cfd&type=grpc&serviceName=@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.32:2096
