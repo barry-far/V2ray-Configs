@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://84e59ad7-ca22-4093-98b3-8b59617a3129@[::ffff:6815:4f8f]:443?security=tls&sni=at2.v2vless.xyz&type=ws&host=at2.v2vless.xyz&path=%2Fvless%3Fed%3D%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi&fp=safari#🔒 VL-WS-TLS 🏴‍☠️ NA-[::ffff:6815:4f8f]:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.27.206.92:2083?security=tls&sni=jp005.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.27.206.92:2083
-vless://1ff59fad-6cc6-4714-82b1-d4af47de08eb@23.227.60.164:80?security=none&type=ws&host=DiReCt49-13-163-226.CleAnMaRk.IR&path=/DiReCt49-13-163-226-CleAnMaRk-IR#🔒 VL-WS-NONE 🇨🇦 CA-23.227.60.164:80
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.202.44:80?security=none&type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.202.44:80
-vless://25b45954-6209-48c2-a412-c568c8154cf0@104.21.67.95:2083?security=tls&sni=hi.mobileiraniani.com&type=ws&path=%2F%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.67.95:2083
 vless://13be7b64-8a46-4724-9cf2-4c7eddd4c56b@104.21.75.237:2096?security=tls&sni=sPeEd.vbox778.info.&type=grpc&fp=firefox&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.75.237:2096
 vless://c94b206a-50c4-43d4-ad4c-6681d2ed9192@203.24.109.95:2083?security=tls&sni=gateway.rustbridge.site&type=ws&host=gateway.rustbridge.site#🔒 VL-WS-TLS 🇧🇿 BZ-203.24.109.95:2083
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.125.201:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.125.201:80
@@ -603,3 +598,8 @@ vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.212.64.16:443?security=tls&sni=s
 vless://e15117c7-59d0-4b40-8cce-0724e68f98f3@185.146.173.185:8080?type=ws&host=V2ray-_-_-_-_-MdVpnSec.TelegramChannelJoinBede.com.&path=/#🔒 VL-WS-NA 🇸🇪 SE-185.146.173.185:8080
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.21.254:80?security=none&type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.21.254:80
 vless://7f99da38-1333-4a8e-abf1-9ecd951b9365@172.67.171.12:443?security=tls&sni=jomong.kanal-tel-nufilter.store&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.171.12:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.219.202.130:80?security=none&type=ws&path=/blue#🔒 VL-WS-NONE 🇸🇬 SG-8.219.202.130:80
+vless://51baeda8-1288-458a-b5ae-b8b080b937b6@104.24.0.233:8880?security=none&type=ws&host=cherry.berry.strawberry.%E6%88%91%E4%BB%AC%E7%94%9F%E6%B4%BB%E5%9C%A8%E8%AF%A5%E6%AD%BB%E7%9A%84%E5%9C%B0%E7%8B%B1%E9%87%8C.shop.&path=%2FTelegram%3A%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%3Fed%3D1024#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.0.233:8880
+vless://1ff59fad-6cc6-4714-82b1-d4af47de08eb@188.42.88.15:80?security=none&type=ws&host=DiReCt49-13-163-226.CleAnMaRk.IR&path=/DiReCt49-13-163-226-CleAnMaRk-IR#🔒 VL-WS-NONE 🇱🇺 LU-188.42.88.15:80
+vless://5bad0d35-6fab-4044-d161-6d7633d639ae@18.160.41.49:443?security=tls&sni=app3-noizji4r.b4a.run&type=ws&path=/vless1#🔒 VL-WS-TLS 🇺🇸 US-18.160.41.49:443
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.234.168:80?type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.234.168:80
