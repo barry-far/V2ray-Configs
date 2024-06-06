@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://946f9b9b-01d3-4e35-be11-09bd3f12efc6@172.66.213.31:8880?security=none&type=ws&host=2.V2ray.debian.org.fxp.debian.org.speedtest.net.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95%E3%82%89%E3%82%8F.sony-playstation.fun.&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.213.31:8880
 vless://ae53d90e-618d-448a-96c5-66cdb0374077@79.175.176.139:2080?security=none&type=tcp&host=speedtest.net&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-79.175.176.139:2080
 vless://f5a84d2d-6ea2-4d80-986e-563c6e6af7f9@104.16.67.38:80?security=none&type=ws&host=htamiz3.kaghazacharrangi.sbs&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.67.38:80
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.241:443?security=tls&sni=jp005.ylks01.eu.org&type=ws&path=/blue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.241:443
@@ -603,3 +602,4 @@ vless://8a052c65-bdf6-485a-c1d7-cb2b23f15dfa@104.16.6.65:443?security=tls&sni=ge
 vless://0fdc0235-0055-4203-a66f-f29e7e663d10@172.66.47.109:2096?security=tls&sni=tnetplus3.pages.dev&type=ws&host=tnetplus3.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.109:2096
 vless://42cd7fff-39c8-4efd-88b0-75df7c88e894@[::ffff:ac40:6f94]:443?security=tls&sni=de2.v2vless.xyz&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-[::ffff:ac40:6f94]:443
 vless://1da545b0-2395-4d5c-abe8-8aee6671c859@162.159.134.234:443?security=tls&sni=BPB-worKEr-paNel-aQX.paGES.DEV&type=ws&host=BpB-WOrkEr-panEl-aqx.paGES.Dev&path=✅@Mtproto_Dx✅#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.134.234:443
+vless://664f5f11-1231-486d-b416-b7b3ecdae76a@104.19.130.28:443?security=tls&sni=HETZNER-D.pages.DEV&type=ws&host=HETZNER-D.pages.DEV&path=%2F%3Fed%3D2048&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.130.28:443
