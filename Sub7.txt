@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://3b2404b4-e287-4e25-9f5f-f47fa1458a78@173.245.58.51:2096?security=tls&sni=dash.zedmodeon1.site&type=grpc&serviceName=@ZEDMODEON&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-173.245.58.51:2096
 vless://57e15194-5fca-43bf-9672-9a51578ece6e@162.159.15.252:2053?security=tls&sni=fix.ahwaz14.ir&type=grpc&serviceName=fix.ahwaz14.ir&fp=firefox&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.15.252:2053
 vless://86ba8b32-71a7-589c-b728-991c7c726d60@104.17.84.68:443?security=tls&sni=esetsecuritylicense.jdnooo.wOrKErs.dev&type=ws&host=esetsecuritylicense.jdnooo.wOrKErs.dev&path=vless-ws%2F%3Fed%3D2048&fp=ios&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.84.68:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.139.111:2096?security=tls&sni=baipiao1.curly-train.pages.dev&type=ws&host=baipiao1.curly-train.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.139.111:2096
@@ -602,4 +603,3 @@ vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.70.244:443?security=tls&sni=
 vless://8545c44f-b1b4-4295-ae98-f0b6301a537f@172.66.45.42:2096?security=tls&sni=ios-azadnet.pages.dev&type=ws&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.45.42:2096
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@159.112.235.155:443?security=tls&sni=v005.ylkszy.eu.org&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-159.112.235.155:443
 vless://4e106351-e08b-431d-b052-697952371de0@85.9.111.100:20878?security=none&type=tcp&host=speedtest.net&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.9.111.100:20878
-vless://3c05dc89-8b85-4094-9014-eddf7f5b52bc@104.20.141.139:2087?security=tls&sni=xn--MGBgELdalguL2PBBIBGDHdbGFBb74k.QURaN313.CFd&type=grpc&serviceName=9TChSNA%40W8S8GuTi0vQsQRqQ1BTURE4XPhryTuXZLmSJ76aXb7QidqtyyJ1gItqyP10CqXGjwx%40IwrdT3g1Qbp6ddFhCwXiB7jQGafEu34wr7kD4xSsS41gaZKlX2ApheIwaql9gBhpPg8TaVYLNtpku1onesR%40VqmmughgfuvDhP6A3YwQVU1rHDgPvzjFDVRfDDvXhS%40R1jdlnpSJilqV0kwtteyko5zBZnk&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.20.141.139:2087
