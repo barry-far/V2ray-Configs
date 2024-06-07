@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://e5c62241-69be-4d74-b4f8-b458425403e1@46.245.64.105:49901?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-46.245.64.105:49901
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@104.26.13.140:8443?security=tls&sni=xin300.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.13.140:8443
-vless://5c0e4736-739f-413a-9bb7-04fa1a69ce7b@172.64.34.184:8880?security=none&type=ws&host=2.v2ray.debian.org.fxp.debian.org.speedtest.net.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95%E3%82%89%E3%82%8F.irdonald.click.&path=%2Ftelegram-donald%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.34.184:8880
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@150.230.27.23:16504?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇨🇦 CA-150.230.27.23:16504
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.227.168:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.227.168:443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.11.157:80?security=none&type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.11.157:80
 vless://db8248ba-7652-41bb-dbd0-6bcfe406ecb2@104.21.17.98:443?security=tls&sni=test.hotshellow.com&type=ws&path=/lg582228486#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.17.98:443
@@ -603,3 +599,7 @@ vless://df81e978-ef0e-4ded-bf5c-e0d8c6f02ee2@154.197.75.98:80?serviceName=-Teleg
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.22.116.238:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇬🇧 GB-31.22.116.238:443
 vless://68c421f0-278b-4fa4-9115-d86ee41d8798@195.211.46.218:80?security=none&type=ws&host=V2ray-_-_-_-_-_-CUSTOMVPNSERVER.oNlineDoWnloaderFIle.com.&path=/CUSTOMVPNSERVER-CUSTOMVPNSERVER-CUSTOMVPNSERVER-CUSTOMVPNSERVER#🔒 VL-WS-NONE 🇮🇷 IR-195.211.46.218:80
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@154.83.2.210:2087?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇸🇨 SC-154.83.2.210:2087
+vless://226dfc94-9413-470b-ad06-89834fd2dc41@104.25.254.35:8443?security=tls&sni=t.mmd111.sbs&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.254.35:8443
+vless://0ac87cdb-e122-46c9-f3ce-6a02d5b1678f@188.245.38.127:20569?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-188.245.38.127:20569
+vless://ad4aa165-c30d-48ec-9397-af1d1d3b1c4f@188.114.99.192:443?security=tls&sni=zamimm.e59b57f84c.workers.dev&type=ws&host=zamimm.e59b57f84c.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.192:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.80.111.132:443?security=tls&sni=jp005.ylks01.eu.org&type=ws&path=/blue#🔒 VL-WS-TLS 🇩🇪 DE-45.80.111.132:443
