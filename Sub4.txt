@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://cbbc04dc-ab1a-4410-a30b-5d83982374d5@188.116.21.168:443?security=reality&flow=xtls-rprx-vision&sni=account.zula.ir&type=tcp&fp=chrome&pbk=DNgb_P-ioc2QGkWL4fjncdvn3uMoH8_IIPEqiihwyjc&sid=7015e6&alpn=h2#🔒 VL-TCP-RLT 🇳🇱 NL-188.116.21.168:443
-vless://53a37908-4cb1-4ae4-bdad-6653dce9cdaf@5.75.231.243:443?security=reality&sni=Ftp.debian.org&type=grpc&serviceName=@vp22ray@vp22ray@vp22ray&fp=firefox&pbk=QUyXIx6S7HgIqh3oryjejQl8zgWwnKWJpoWINluG22A&sid=ee6bce0a#🔒 VL-GRPC-RLT 🇩🇪 DE-5.75.231.243:443
 vless://33043f58-e966-43d0-d4ea-b929627b44f8@49.13.73.9:443?security=reality&sni=help.mega.io&type=grpc&serviceName=@Hatunnel_vpn,@Hatunnel_vpn,@Hatunnel_vpn&fp=firefox&pbk=QloMGl_VaEtq9JJ3XhCS9JvTn5DYuHVEeAg46yGX9GE&sid=15ed3de4#🔒 VL-GRPC-RLT 🇩🇪 DE-49.13.73.9:443
 vless://fce0f0e4-425a-4cf6-a0ca-e7513517ff38@151.232.67.12:4004?security=reality&flow=xtls-rprx-vision&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=ui0fGumZiFhEhGU13KYIcR3coPPVHuGQMvK-_TThCVc&sid=e3631859#🔒 VL-TCP-RLT 🇮🇷 IR-151.232.67.12:4004
 vless://c584aa40-feab-415f-9917-885993ac60d0@190.93.246.241:8080?security=reality&sni=bia-to.code-v2.cfd&type=grpc&serviceName=@V2ray_Alpha&fp=chrome&pbk=o9ZHbcwSXSoc_8qYCy19iFR27lyTDbypcMKsaHkM3Go&allowInsecure=1#🔒 VL-GRPC-RLT 🏴‍☠️ NA-190.93.246.241:8080
@@ -603,3 +601,5 @@ vless://203b1231-e0e2-45a3-9909-d77a5b18ac4a@138.124.184.173:443?security=tls&sn
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.213.227:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.213.227:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.43.179.46:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇰🇿 KZ-31.43.179.46:443
 vless://b41e1631-ceb3-47c9-ba87-c65a46f2f5a8@104.18.203.232:2096?security=tls&sni=vpNeRor.SAjadHADadi.WEbsiTe&type=ws&host=VPnerOr.sajAdHaDaDI.WEbSITe&path=%2FeOwMtmADY6cWup8R%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.203.232:2096
+vless://9f5b4bbf-a758-4801-875c-0d6903bb9efd@104.21.24.40:443?security=tls&sni=esetsecuritylicense.modezdlg.workers.dev&type=ws&host=esetsecuritylicense.modezdlg.workers.dev&path=%2FTELEGRAM-GH_V2RAYNG%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.24.40:443
+vless://312b0699-a47a-496e-97b6-cb3af1654d35@172.67.72.18:8880?security=none&type=ws&host=918.hebav63406.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.72.18:8880
