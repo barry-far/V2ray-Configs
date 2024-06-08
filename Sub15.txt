@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.2:8443?security=tls&sni=a.ssll.gay&type=ws&path=twitter苏小柠#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.2:8443
-vless://2b383735-3c00-4cbd-8f7f-6e4e2a5e8ab6@172.67.189.222:443?security=tls&sni=cixoo.cixoo.store&type=ws&path=/ws&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.189.222:443
 vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@172.67.61.91:8080?security=none&type=ws&host=king1980.b91sptsl.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.61.91:8080
 vless://d0be39fd-4bca-4e37-80d5-715d512aad7e@104.18.244.192:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=%2Fws%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.244.192:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.195.186:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.195.186:443
@@ -603,3 +601,5 @@ trojan://telegram-id-directvpn@13.39.117.158:22222?security=tls&sni=trojan.burge
 trojan://c8742e83-c325-4332-a427-9cdc997a4775@185.143.234.225:443?security=tls&sni=dl.allavatar.top&type=ws&host=dl.allavatar.top&path=/tr/t/tNtL/gfdr#🔒 TR-WS-TLS 🇮🇷 IR-185.143.234.225:443
 trojan://kh06dw8cR3@212.183.88.157:8443?security=tls&sni=YeRt5yct6uv-VI57fc7yvjFy-Njdyy7hcUf5rcy.danesh-bonyan.Store&type=ws&host=eiiim.danesh-bonyan.store&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.#🔒 TR-WS-TLS 🇦🇹 AT-212.183.88.157:8443
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@162.159.153.2:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=6b777a91&fp=chrome&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.2:443
+trojan://8127b541-aa5d-4340-a945-df42d75b860c@95.164.117.128:443?#🔒 TR-TCP-NA 🇩🇪 DE-95.164.117.128:443
+trojan://c6c083cb-6312-44e4-91ed-4c6831f4f9a8@104.18.138.163:443?security=tls&sni=prosweed.ghodratebartar.ir&type=ws&host=prosweed.ghodratebartar.ir&path=%2FNHDAEsR7pxcS1u6yNX6K824c&fp=edge&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.138.163:443
