@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://826e43d2-dbe9-41a6-bbf8-3aed2f93f5d4@172.66.47.44:443?security=tls&sni=pardazeshvpn-tg20.pages.dev&type=ws&path=/?ed&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.44:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.219.99.169:80?security=none&type=ws&path=/blue#🔒 VL-WS-NONE 🇸🇬 SG-8.219.99.169:80
+vless://ae53d90e-618d-448a-96c5-66cdb0374077@188.75.79.17:2080?security=none&type=tcp&host=speedtest.net&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-188.75.79.17:2080
+vless://10716279-b1ee-41d8-b63e-87782088305b@23.227.39.107:443?security=tls&sni=mamAne-FiltErcHi.paGES.dEv&type=ws&host=MamaNE-fiLTERCHI.PAgEs.Dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇨🇦 CA-23.227.39.107:443
+vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.86.109:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.86.109:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.233.162:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.233.162:443
 vless://86cb9a9b-dc2e-45d6-b35d-7ce1daa32a15@172.64.229.28:8443?security=tls&sni=dns68.shift.cloudns.org&type=ws&host=dns68.shift.cloudns.org&path=Path%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.229.28:8443
 vless://02e75d78-58ad-4a73-afca-24b781d8fdf5@45.8.211.142:8443?security=tls&sni=Isa.kasler.sbs&type=grpc&serviceName=%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%40ev2rayy&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇷🇺 RU-45.8.211.142:8443
@@ -598,8 +603,3 @@ vless://99678074-122c-46db-97fc-80b604c20158@104.18.9.215:8080?security=none&sni
 vless://1622d31e-9023-4f1a-b553-9d10d7d2da90@104.24.157.122:443?security=tls&sni=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com&type=ws&host=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.157.122:443
 vless://4b1d9f3a-6cdf-49e8-929b-5e5cedae5d31@172.67.131.240:443?security=tls&sni=freedom15.maber99212.workers.dev&type=ws&host=freedom15.maber99212.workers.dev&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.131.240:443
 vless://ab182450-da9e-4976-b63f-4f8f3667edd9@104.25.255.14:80?security=none&type=ws&host=co2.samaneHHA.site&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.25.255.14:80
-vless://d1df4137-80cb-45b9-9292-36409ff7a88b@172.66.44.126:8443?security=tls&sni=pardazeshvpn-tg65.pages.dev&type=ws&host=pardazeshvpn-tg65.pages.dev&path=%2FTelegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.126:8443
-vless://b75b3034-36ab-4979-beae-3d02db1b11ec@104.18.16.149:443?security=tls&sni=always-online1.lp-airdrop.top&type=ws&host=always-online1.lp-airdrop.top#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.16.149:443
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.19.63.58:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.63.58:80
-vless://92c12734-d19e-40a1-f7a2-1735711d039b@172.67.134.112:443?security=tls&sni=slayer.mestavorze.workers.dev&type=ws&host=slayer.mestavorze.workers.dev&path=/downloader/32185&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.134.112:443
-vless://2b4bed25-a5ef-439d-93b1-395b7bcec58b@104.16.60.79:80?security=none&type=ws&host=workerr.dimon22287.workers.dev&path=%2Ftelegram-proxy_mtm-telegram-proxy_mtm%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.60.79:80
