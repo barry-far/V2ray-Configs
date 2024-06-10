@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.201.109:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.201.109:443
+vless://dcf149ac-2220-4cf8-987e-803baa0201e9@104.25.255.187:443?security=tls&sni=cc3.kosnanatfilterchi.eu.org&type=ws&host=cc3.kosnanatfilterchi.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.255.187:443
+vless://486c2641-9156-42e2-a43c-3004f9b74dc4@104.21.44.43:443?security=tls&sni=swedenhvgjeyhe5hye.may-the-force-be-with-you.sbs&type=ws&host=swedenhvgjeyhe5hye.may-the-force-be-with-you.sbs&path=/&alpn=http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.44.43:443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.195.62.65:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇫🇮 FI-45.195.62.65:443
+vless://ae53d90e-618d-448a-96c5-66cdb0374077@37.27.18.181:2080?security=none&type=tcp&host=speedtest.net&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇫🇮 FI-37.27.18.181:2080
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.19.161.247:80?security=none&type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.161.247:80
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@162.159.36.66:443?security=tls&sni=edge.020770.xyz&type=ws&host=edge.020770.xyz&path=%2Fvless%2Fb0138d55-a493-4dc3-9932-c6f0391707c1%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.36.66:443
 vless://f32c16b4-ae2b-449d-8002-599e4dfc448d@104.21.32.116:2053?security=tls&sni=bpro.ghodratebartar.ir&type=grpc&serviceName=bpro.ghodratebartar.ir&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.32.116:2053
@@ -598,8 +603,3 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.19.163.55:80?type=ws&host=us1.r
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.64.201.49:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.201.49:443
 vless://b22192ac-0f3a-5108-b0de-7b4e78766f3c@104.21.72.7:443?security=tls&sni=hhduwheh2g2i1.publlgis8hsksve-52f.WoRKErS.dEV&type=ws&host=hhduwheh2g2i1.publlgis8hsksve-52f.WoRKErS.dEV&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.72.7:443
 vless://3573e374-f9b1-4898-de16-3979bc0b528a@104.16.97.126:80?security=none&sni=bia-to-channel.unlimiteddev.xyz&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.97.126:80
-vless://0333b495-1f8b-4d75-be2e-11c023bf78e5@104.21.13.125:80?security=none&type=ws&host=nl21.vlessx.us#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.13.125:80
-vless://39dd9a95-cf18-4825-95ee-9536d27c51f3@172.67.165.166:2096?security=tls&sni=online-shop-fuer-elektronik-und.zabanistanbuli.ir&type=ws&path=%2F&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.165.166:2096
-vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.176.242:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.176.242:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.26.11.118:443?security=tls&sni=jp005.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.11.118:443
-vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@104.19.136.14:2083?security=tls&sni=pages.20230619.love&type=ws&host=pages.20230619.love#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.136.14:2083
