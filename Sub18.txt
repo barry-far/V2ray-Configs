@@ -3,21 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://241f01b9-8dfc-474f-8342-3fbd5c46417e@104.21.51.242:2087?sni=grpcfr.arminhadadi.site&type=grpc&serviceName=grpc&allowInsecure=1#🔒 TR-GRPC-NA 🏴‍☠️ NA-104.21.51.242:2087
-trojan://moist@132.145.95.170:39637?sni=trojan.freenods.sbs&type=ws&host=trojan.freenods.sbs#🔒 TR-WS-NA 🇰🇷 KR-132.145.95.170:39637
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.229:2053?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.229:2053
-trojan://pUxG77WPOZ@104.17.148.22:80?security=none&type=ws&host=s9.in01.tech&path=/#🔒 TR-WS-NONE 🏴‍☠️ NA-104.17.148.22:80
-trojan://EgAMtxAquaO78-IvTSWpnQ@104.19.91.65:2096?security=tls&sni=mrz.learnturkishspeech.fun&type=ws&host=mrz.learnturkishspeech.fun&path=/book#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.91.65:2096
-trojan://c8742e83-c325-4332-a427-9cdc997a4775@185.143.234.225:443?security=tls&sni=dl.allavatar.top&type=ws&host=dl.allavatar.top&path=/tr/t/tNtL/gfdr#🔒 TR-WS-TLS 🇮🇷 IR-185.143.234.225:443
-trojan://dba20dcb635e430fa4d3bfc303a149d2@190.93.246.247:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-190.93.246.247:443
-trojan://d2698cf9-c47e-455c-8384-12e642cbba15@89.116.180.179:443?sni=p6us4.pqjc.buzz&type=ws&path=/pq/us4&allowInsecure=1#🔒 TR-WS-NA 🇱🇹 LT-89.116.180.179:443
-trojan://ItSjMC37sc@185.146.173.31:443?sni=sus.suski2025.ir&allowInsecure=1#🔒 TR-TCP-NA 🇸🇪 SE-185.146.173.31:443
-trojan://NISHIKUITAN222@146.56.171.182:11659?security=tls&sni=t331.ylks.link&type=ws&host=t331.ylks.link&path=%2F#🔒 TR-WS-TLS 🇰🇷 KR-146.56.171.182:11659
-trojan://ca4596fb9bc63cf2@134.195.101.32:3389?allowInsecure=1#🔒 TR-TCP-NA 🇺🇸 US-134.195.101.32:3389
-trojan://sharecentre@3.64.163.50:443?#🔒 TR-TCP-NA 🇩🇪 DE-3.64.163.50:443
-trojan://62b9172d-cc3a-4001-8172-7804fbf1a09b@146.19.247.183:443?sni=aka.ms&type=ws&host=de1.trojanvpn.xyz&path=%2F#🔒 TR-WS-NA 🇩🇪 DE-146.19.247.183:443
-trojan://96884680-77e6-11eb-8d67-1239d0255272@163.172.211.74:443?sni=nl-trojan.bonds.id#🔒 TR-TCP-NA 🇳🇱 NL-163.172.211.74:443
-trojan://3c91d857-2d40-39b9-81c0-f6adde8037ff@141.11.108.8:4583?sni=cuvip.doubledou.win#🔒 TR-TCP-NA 🇫🇷 FR-141.11.108.8:4583
 trojan://auto@104.20.19.168:2083?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.19.168:2083
 trojan://moist@47.243.67.28:2083?sni=trojan.freenods.sbs&type=ws&host=trojan.freenods.sbs#🔒 TR-WS-NA 🇭🇰 HK-47.243.67.28:2083
 trojan://984e400bf5d541b7b0815913fe0c432a@104.17.215.14:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.215.14:443
@@ -603,3 +588,18 @@ ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.157.40.29:9101#🔒 SS-TCP-NA 🇺�
 ss://ZTc5NGRhNDUtMGQ4ZC00YjdhLTlhZTktYjBiODQ1MjhiMzYwOg==@104.21.1.80:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.1.80:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyd1VBVE1sTTNXbE43ME5JaDFURUc2@45.159.249.42:7843#🔒 SS-TCP-NA 🇫🇮 FI-45.159.249.42:7843
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@149.202.82.172:8009#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:8009
+ss://ODliM2NiYmEtZTZhYy00ODVhLTk0ODEtOTc2YTA0MTVlYWI5Og==@172.66.47.101:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.66.47.101:443
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.114.114.183:8119#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.183:8119
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@135.125.172.153:443#🔒 SS-TCP-NA 🇫🇷 FR-135.125.172.153:443
+ss://NmFkMDg3NDctNDJiOS00NjE4LThmMTEtYWM0N2RlMGRhMGY4Og==@104.21.36.170:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.36.170:80
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.75.136.21:8009#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:8009
+ss://YWEyZGM4NDAtYmUzOC00YjRkLWEwMDItYmEyMzQ5OTlmZDU1Og==@172.67.64.81:8080#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.64.81:8080
+ss://YWVzLTI1Ni1jZmI6S0JHalpZY3k0U3lSU2htQQ==@217.30.10.70:9044#🔒 SS-TCP-NA 🇵🇱 PL-217.30.10.70:9044
+ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.18.174.7:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.18.174.7:80
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.20:3306#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.20:3306
+ss://MzNmOGM0ZjQtMjUxNS00Nzk4LTllYTAtMTVmMjAzMGVmNGQ4Og==@172.67.133.177:8880#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.133.177:8880
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.154.136.106:5500#🔒 SS-TCP-NA 🇺🇸 US-23.154.136.106:5500
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.89:8118#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.89:8118
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.86.135.225:7002#🔒 SS-TCP-NA 🇺🇸 US-38.86.135.225:7002
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.162.200.130:5004#🔒 SS-TCP-NA 🇨🇦 CA-23.162.200.130:5004
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5QnZrdzVhdXBOeTg=@104.25.254.46:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.25.254.46:443
