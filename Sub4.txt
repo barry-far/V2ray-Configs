@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@47.243.91.58:8443?security=tls&sni=vless.pagess.filegear-sg.me&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-47.243.91.58:8443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.26.12.31:2083?security=tls&sni=jp111.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.12.31:2083
 vless://25d0ee2d-4190-52be-b892-45811c6ba210@104.21.59.165:2053?security=tls&sni=folani.iiipok.wORKErs.deV&type=ws&host=folani.iiipok.wORKErs.deV&path=%2Fvless-ws%2F%3Fed%3D2048&fp=firefox&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.59.165:2053
 vless://539d6b83-e246-4bc1-b65b-5c2ef4dde2b3@104.21.65.133:443?security=tls&sni=xheykhv2ray.savteamfree.com.&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.65.133:443
@@ -603,3 +602,4 @@ vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.10.94:443?security=tls&sni=3
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@146.59.14.96:443?security=tls&sni=kk116.ylks.link&type=ws&path=%2Fyoutube-%E7%94%B1%E9%9B%B6%E9%96%8B%E5%A7%8B#🔒 VL-WS-TLS 🇫🇷 FR-146.59.14.96:443
 vless://3c39d502-8522-41a3-8604-75f9d2360882@212.80.19.125:2087?security=none&type=tcp&host=www.speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-212.80.19.125:2087
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.217.21:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.217.21:443
+vless://85bc3be1-f8d3-4f8c-806c-65375fd364df@185.16.110.61:8880?security=none&type=ws&host=2.V2ray.debian.org.fxp.debian.org.speedtest.net.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95%E3%82%89%E3%82%8F.mralpha-vpn.COM.&path=%2FTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%3Fed%3D2048#🔒 VL-WS-NONE 🇫🇷 FR-185.16.110.61:8880
