@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://678ac895-92c2-4f27-a9d4-f1a89c5f5365@168.100.6.132:2087?security=tls&sni=mositr.freenods.sbs&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-168.100.6.132:2087
+vless://1d1a7193-61a9-4fc1-9778-dd517cf9f919@172.67.136.208:80?security=none&type=ws&host=workerr.mcgrooge12.workers.dev&path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.136.208:80
 vless://8ac6dc1b-e6d8-4e36-a019-487c8a48ad64@172.67.223.33:80?security=none&type=ws&host=admin.irayanconfig.ir#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.223.33:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.183.252:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.183.252:80
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.64.167.117:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.167.117:443
@@ -601,5 +603,3 @@ trojan://ypDt8RkT7J@51.158.217.161:43118?security=tls&sni=tewmk.phooeyunfold.com
 trojan://9e1be001-0c89-4be0-888a-7648967e8df9@172.233.245.20:443?#🔒 TR-TCP-NA 🇫🇷 FR-172.233.245.20:443
 trojan://NISHIKUITAN222@8.222.214.231:8443?security=tls&sni=t111.ylks.link&type=ws&host=t111.ylks.link&path=%2F#🔒 TR-WS-TLS 🇸🇬 SG-8.222.214.231:8443
 trojan://0cc6b4268dea0ba8@5.44.249.53:3306?security=tls&sni=n2.gladns.com&type=ws&host=TG.WangCai_1&path=%2Fgateway%2Fconnect#🔒 TR-WS-TLS 🇸🇬 SG-5.44.249.53:3306
-trojan://moist@8.210.100.23:2096?sni=trojan.freenods.sbs&type=ws&host=trojan.freenods.sbs#🔒 TR-WS-NA 🇭🇰 HK-8.210.100.23:2096
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.199:2087?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.199:2087

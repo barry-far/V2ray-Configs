@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://ee1a92a0-936a-449a-bbe5-060ecfc057ea@128.140.78.78:443?security=reality&flow=xtls-rprx-vision&sni=direct.playstation.com&type=tcp&fp=chrome&pbk=SF3Hh2nJngYLNMf9_4gs045vCKpKu_0g3EogBDl0zj0&sid=016796fc#🔒 VL-TCP-RLT 🇩🇪 DE-128.140.78.78:443
+vless://07669291-5061-4e74-a5d7-1f94a5a36367@91.107.176.13:8080?security=reality&flow=xtls-rprx-vision&sni=mdundo.com&type=tcp&fp=chrome&pbk=UQcENeMy3VVqYDJIPm68FVHz9r2lC34ydM5chOKa5RU&sid=18cada#🔒 VL-TCP-RLT 🇩🇪 DE-91.107.176.13:8080
 vless://a0660613-bab4-456f-91b7-b8923788ed3d@128.140.49.220:443?security=reality&flow=xtls-rprx-vision&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=mNXhz9oVUOChfXonV3TJcv_IB1-epvPy0OXR--qY82E&sid=758910ee7eab4a1b#🔒 VL-TCP-RLT 🇩🇪 DE-128.140.49.220:443
 vless://ba211e88-dfef-4faa-8274-afe75da9b518@157.90.161.70:443?security=reality&sni=*.hetzner.com&type=grpc&serviceName=@ipV2Ray&fp=firefox&pbk=aWV-bNNZsIZUUrWIN2eLzN9snTl3P_KcCH-l66AfFWs&sid=79872b68#🔒 VL-GRPC-RLT 🇩🇪 DE-157.90.161.70:443
 vless://71a162cc-7fad-409d-87fa-5ca9e13474fb@20.18.72.238:56701?security=reality&flow=xtls-rprx-vision&sni=addons.mozilla.org&type=tcp&fp=chrome&pbk=sW8BfHeovVzmbFuAnr9nH8oJaKYze6shKoKMdek5ai8&sid=792147b8#🔒 VL-TCP-RLT 🇯🇵 JP-20.18.72.238:56701
@@ -601,5 +603,3 @@ vless://03e8d234-e793-424d-9d8e-45c04a1eb684@172.67.185.129:2083?security=tls&sn
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@31.12.75.140:2053?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=/?ed#🔒 VL-WS-TLS 🇷🇺 RU-31.12.75.140:2053
 vless://7d0f9e85-aad5-45c2-8e0b-80399fddc9c6@172.67.129.13:2095?security=none&type=ws&host=MARKETEPIC.V2ray.Community.Hamisheluxbemon.epicmarket-http.IR.#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.129.13:2095
 vless://be40e282-0efd-489b-9350-a1dd266c9961@162.159.134.234:2096?security=tls&sni=ads.zed-zoon.tech&type=grpc&serviceName=Channel---Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.134.234:2096
-vless://7e322a81-62dd-4301-a073-6e1900a6be71@104.21.55.62:2083?security=tls&sni=full.metesla.site&type=grpc&serviceName=@global_net_vpn&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.55.62:2083
-vless://e4e7b149-8bd8-4266-8cbb-0987604dbc87@104.17.158.128:443?security=tls&sni=toujiediansigema.5112233.xyz&type=ws&host=toujiediansigema.5112233.xyz&path=%2FTG@juzibaipiao%E5%81%B7%E8%8A%82%E7%82%B9%E6%AD%BB%E5%90%97&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.158.128:443

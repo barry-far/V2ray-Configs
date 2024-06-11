@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://2ca42987-551b-4494-a854-da2d9178f4cd@104.18.41.176:2087?security=tls&sni=LzPmJySw22.zImBa-zUlA.OrG&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.41.176:2087
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.138.106:443?security=tls&sni=PrOxYsTOREpanEl.eu.OrG&type=ws&host=PrOXYstORepAneL.eu.OrG&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.138.106:443
 vless://91484c71-0762-47b8-82ad-8eae6f240278@162.159.128.233:2096?security=tls&sni=join-zedmodeon.zedmodeon-zedmodeon-zedmodeon.shop&type=grpc&serviceName=@ZEDMODEON+@ZEDMODEON+@ZEDMODEON&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.128.233:2096
 vless://eb30a342-4946-46c2-a057-34834fcf6a0d@104.21.20.148:443?security=tls&sni=football.azadistadium.com&type=grpc&serviceName=telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.20.148:443
 vless://22bdfa10-74f1-43db-a537-9a8ce50f56c2@85.133.153.15:2023?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.153.15:2023
@@ -601,5 +603,3 @@ vless://10638abe-7adc-4cdb-f3aa-6c41813de2a9@172.67.174.162:2053?security=tls&sn
 vless://99bd9072-226f-48f8-8ee1-7fc01542c903@190.93.244.170:8080?security=none&type=ws&host=dac9f71a1490f05a.sh.ger.bandinng.ir&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-190.93.244.170:8080
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.227.60:443?security=tls&sni=936a99B4.Vde5-MlX81LANeo.pAgES.dEv&type=ws&host=936a99B4.vDE5-MLx81LANeO.pAgeS.DEV&path=%2FKkhHL0gsSoZ7M6id%2FZGU1Lm1lcmxpbm56Lmxpbms%3D%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.227.60:443
 vless://c688395a-b36b-4071-974b-bc91ac2ad2c4@172.66.44.82:443?security=tls&sni=edtunnel-b6t.pages.dev&type=ws&host=edtunnel-b6t.pages.dev&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.82:443
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@45.205.0.144:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-45.205.0.144:8443
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.11.138.184:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇬🇧 GB-3.11.138.184:22222

@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@104.21.90.210:8443?security=tls&sni=tnetplus-1wc.pages.dev&type=ws&host=tnetplus-1wc.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.90.210:8443
+vless://c32b1429-92aa-4be7-912e-4d63b0a31fc7@172.67.40.183:443?security=tls&sni=can01.nimserver.top&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.40.183:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.154.65:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.154.65:80
 vless://e481b242-aff5-4d0d-af98-e2924e696023@162.159.129.233:8880?security=none&type=ws&host=shahrokh.haramzade.bokhoresh.lol.ftp.debian.org.shahrokh.haramzade.bar.ghabre.mordehat.binamoos.publicer.net.%E3%83%95%E3%82%A1%E3%83%AB%E3%83%8F%E3%83%89%E3%83%BB%E3%83%9E%E3%83%80%E3%82%AB%E3%83%A9%E3%83%96.bokhoresh.lol.&path=%2FBugFreeNet.BugFreeNet.BugFreeNet.BugFreeNet.BugFreeNet.BugFreeNet.BugFreeNet.BugFreeNet.BugFreeNet.BugFreeNet.BugFreeNet.BugFreeNet.%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.129.233:8880
 vless://8ae88ee2-2f11-46ad-8302-ba388712196a@162.159.138.232:2053?security=tls&sni=cdn.biglog.sbs&type=ws&host=cdn.biglog.sbs&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.138.232:2053
@@ -601,5 +603,3 @@ vless://3b1ba090-63a1-4710-9818-34be378bcfbd@104.21.120.47:8080?security=none&ty
 vless://39dd9a95-cf18-4825-95ee-9536d27c51f3@104.21.16.9:2096?security=tls&sni=online-shop-fuer-elektronik-und.zabanistanbuli.ir&type=ws&path=%2F&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.16.9:2096
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.118.134:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.118.134:80
 vless://5e643328-05a4-4e79-a89c-d98e0929113b@185.18.213.153:22242?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇷 IR-185.18.213.153:22242
-vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@162.159.243.34:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.243.34:443
-vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.1.224:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.1.224:443
