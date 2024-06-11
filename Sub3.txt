@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@23.162.200.181:8000#%F0%9F%87%A8%F0%9F%87%A6%20_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.75.136.21:2375#%F0%9F%87%BA%F0%9F%87%B8%20_US_%E7%BE%8E%E5%9B%BD
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@51.77.53.200:8009#%F0%9F%87%B5%F0%9F%87%B1%20_PL_%E6%B3%A2%E5%85%B0
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.53.80:443#%F0%9F%87%AC%F0%9F%87%A7%20_GB_%E8%8B%B1%E5%9B%BD
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.75.136.21:2376#%F0%9F%87%BA%F0%9F%87%B8%20_US_%E7%BE%8E%E5%9B%BD
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NTNhNGQ0Yy0xNTNmLTQ4OTctOWE5Yi04NTI4YjJiZmFmYjI@us01.mmyjiedian.com:50001#%F0%9F%87%A8%F0%9F%87%A6%20_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.75.136.21:443#%F0%9F%87%BA%F0%9F%87%B8%20_US_%E7%BE%8E%E5%9B%BD
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NTNhNGQ0Yy0xNTNmLTQ4OTctOWE5Yi04NTI4YjJiZmFmYjI@gb01.mmyjiedian.com:40021#%F0%9F%87%AC%F0%9F%87%A7%20_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%AC%F0%9F%87%A7_GB_%E8%8B%B1%E5%9B%BD
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.75.136.21:5000#%F0%9F%87%BA%F0%9F%87%B8%20_US_%E7%BE%8E%E5%9B%BD
@@ -603,3 +597,9 @@ vless://6d196ba1-569f-4b2c-9160-998b3b1b19af@104.24.53.170:8880?type=ws&host=bag
 vless://f182fdb7-6945-4719-bd4f-868465e5a2d7@172.66.44.158:80?security=none&type=ws&host=yeCtW3ZIVaWuNVSezf6F.cInIMO.apP&path=/backup#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.44.158:80
 vless://c3338dcd-369a-4254-9a55-a96015a90dc6@104.21.31.112:443?security=tls&sni=39cb7e91b7e02850.hcvjfhbnghfgafxgyghfh.space&type=grpc&serviceName=443vless#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.31.112:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.187.96:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.187.96:80
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@45.131.7.252:443?security=tls&sni=mmdv2.pages.dev&type=ws&path=%2F%3Fed&fp=randomized#🔒 VL-WS-TLS 🇳🇱 NL-45.131.7.252:443
+vless://46c6a611-da2c-491a-a554-4452b94c2976@172.67.193.36:8080?security=none&type=ws&host=maznet-_-_-maznet_-_-_-.%E5%BE%B7%E9%BB%91%E5%85%B0%E8%B0%A2%E9%87%8C%E5%A4%AB%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E6%98%AF%E8%81%AA%E6%98%8E%E4%BA%BA%E5%8E%BB%E7%9A%84%E5%9C%B0%E6%96%B9.shop.&path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.193.36:8080
+vless://9e6e7697-9fb8-4136-8f05-bcfd82284020@104.21.27.155:2087?security=tls&sni=nafas.hackers85.sbs&type=ws&host=nafas.hackers85.sbs&path=%2F%40hackers85&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.27.155:2087
+vless://be8962c2-c299-4b2e-a76d-373ddfd9c886@45.131.4.9:80?security=none&type=ws&host=IRON.man.policeoficer-45.GAMERme.IR#🔒 VL-WS-NONE 🇳🇱 NL-45.131.4.9:80
+vless://95de9214-d60b-11ee-aaa8-00505603e70d@198.244.191.173:80?security=none&type=ws&path=%2Fwebsocket#🔒 VL-WS-NONE 🇬🇧 GB-198.244.191.173:80
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.44.28:443?security=tls&sni=pPal03.nERo-TriStaN.worKeRS.dev&type=ws&host=PPAL03.nERo-TRisTAN.workerS.DeV&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.44.28:443
