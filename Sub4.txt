@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://e82351c5-c339-4d48-b90d-3524c5547912@142.93.166.107:443?security=reality&sni=*.partyverleih-glauberg.de&type=grpc&serviceName=@ipV2Ray&fp=chrome&pbk=LD8y7bs5T8tNSLcB83NQXpo0_LfHk76WWykNwXJRG3I&sid=304a9854#🔒 VL-GRPC-RLT 🇩🇪 DE-142.93.166.107:443
+vless://54ce117a-fd26-4b2e-b540-15f95ba3cc63@159.69.25.131:443?security=reality&sni=www.xbox.com&type=grpc&fp=chrome&pbk=1_NaRFGvbJUim7_qlQ8Dibh_27d3X_p_w2xUvrGZlhg&sid=751ba1a6#🔒 VL-GRPC-RLT 🇩🇪 DE-159.69.25.131:443
 vless://365ec4f6-53cb-43d1-ac2b-3ef7c6ea187f@5.161.57.190:443?security=reality&flow=xtls-rprx-vision&sni=medium.com&type=tcp&fp=chrome&pbk=kMx-bxE7gxQkMtx-MID5ERj5FWMfiyD7QXGqcB0ON3M&sid=a2490c7e829f3d40&allowInsecure=1#🔒 VL-TCP-RLT 🇺🇸 US-5.161.57.190:443
 vless://1596e7f0-2106-468f-e2b0-93f19e83bd0c@116.203.149.241:443?security=reality&sni=greenpepper.ir&type=grpc&serviceName=@ipV2Ray&fp=chrome&pbk=wxzZx9_9R0QXG4Hjc8e3_ckaUIbn9oKc5yKsBqh8ulc&sid=a18472f7#🔒 VL-GRPC-RLT 🇩🇪 DE-116.203.149.241:443
 vless://a09373e2-e120-457d-9ec9-ea7fe8bedb52@185.125.171.13:8443?security=reality&sni=partner.g2.com&type=grpc&serviceName=g2com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒 VL-GRPC-RLT 🇳🇴 NO-185.125.171.13:8443
@@ -601,5 +603,3 @@ vless://5820fa47-3140-45f8-cdf0-d3e71cfe8cc5@104.24.191.39:2083?security=tls&sni
 vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@172.67.95.232:8080?security=none&type=ws&host=king1980.b91sptsl.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.95.232:8080
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.252.167:80?security=none&type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.252.167:80
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.118.201:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.118.201:80
-vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.219.136:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.219.136:443
-vless://40856a88-43ba-47d2-ba1a-46478b1060eb@104.16.147.108:2087?security=tls&sni=tst.secretshop.tech&type=grpc&serviceName=%40iphonebax&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.147.108:2087

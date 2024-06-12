@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://ddb00f36-d544-4e35-afbf-64297aa68d03@188.114.96.1:2083?security=tls&sni=sisana.muzres.WORKerS.DeV&type=ws&host=sisana.muzres.WORKerS.DeV&path=vless-ws%2F%3Fed%3D2048&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.1:2083
+vless://ecd404a2-70b2-4e89-8339-89536cdfae52@198.41.223.86:8080?security=none&type=ws&path=/?ed#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.223.86:8080
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@152.228.191.232:443?security=tls&sni=kk300.ylks.link&type=ws&path=%2Fyoutube-%E7%94%B1%E9%9B%B6%E9%96%8B%E5%A7%8B#🔒 VL-WS-TLS 🇫🇷 FR-152.228.191.232:443
 vless://b1c53b03-8d32-4d2c-a572-c3f6c81bda8c@77.75.199.4:80?security=none&type=ws&host=a.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FZEDMODEON-TEL-ZEDMODEON-ZEDMODEON#🔒 VL-WS-NONE 🇬🇧 GB-77.75.199.4:80
 vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.210.244:8919?type=tcp&serviceName=-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any&host=varzesh3.com&path=/&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-62.60.210.244:8919
@@ -601,5 +603,3 @@ trojan://52701795-3c3b-46b4-b7cf-c5978b3a4cf2@104.21.47.176:443?security=tls&sni
 trojan://0cb2cd1f-870b-485c-914a-60aba39eed39@74.63.241.21:443?#🔒 TR-TCP-NA 🇺🇸 US-74.63.241.21:443
 trojan://zIvR7ryOXv@159.223.207.182:34428?security=tls&sni=drehitm.duckdns.org#🔒 TR-TCP-TLS 🇺🇸 US-159.223.207.182:34428
 trojan://raZ-DOohDZVH8PTgAHsqRg@89.23.103.249:2083?security=tls&sni=gstatic.com&type=ws#🔒 TR-WS-TLS 🇳🇱 NL-89.23.103.249:2083
-trojan://telegram-id-privatevpns@13.50.203.187:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.50.203.187:22222
-trojan://NISHIKUITAN222@47.236.93.176:8443?security=tls&sni=t111.ylks.link&type=ws&host=t111.ylks.link&path=%2F#🔒 TR-WS-TLS 🇸🇬 SG-47.236.93.176:8443

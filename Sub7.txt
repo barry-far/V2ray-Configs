@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@152.67.231.219:443?security=tls&sni=jp331.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-152.67.231.219:443
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.31.105:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.31.105:443
 vless://c2d391d5-9f1e-4721-bd25-b335d14caf07@185.146.173.20:8080?type=ws&host=DUwC0ik5lWCiueUniUDG.niGc-aR.com&path=%2Fbackup#🔒 VL-WS-NA 🇸🇪 SE-185.146.173.20:8080
 vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@104.22.48.253:80?security=none&type=ws&host=ehda.sajaditsme.com#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.48.253:80
 vless://4804f14b-c1f8-452d-a6ec-eff1490aeac9@217.69.1.123:443?security=tls&sni=hdfy6d1.cpionline.cc&type=grpc&serviceName=Bc5xLs413y7FzoZoavn2kmJ&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇫🇷 FR-217.69.1.123:443
@@ -601,5 +603,3 @@ vless://4baa3a94-7b86-471d-b022-25d6141ee9db@104.19.250.20:80?type=ws&host=7fe60
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.58.142:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.58.142:80
 vless://0859b63e-cb81-4c01-bf5a-739f90e72f92@104.21.73.45:2095?security=none&type=ws&host=v2ray-_-_-_-_-_-vpn.frev2ray.kellekcollection.myname.houselife.IR.&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.73.45:2095
 vless://d0be39fd-4bca-4e37-80d5-715d512aad7e@172.67.111.59:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=/ws/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.111.59:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.21.80.85:443?security=tls&sni=jp010.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.80.85:443
-vless://ff252402-faf5-4d46-ad0d-4c279d2a06c6@152.42.208.82:26407?security=none&type=ws&host=m.facebook.com&path=%2F#🔒 VL-WS-NONE 🇸🇬 SG-152.42.208.82:26407
