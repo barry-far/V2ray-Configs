@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://d8247ade-9831-4c88-9d99-5c8b50731801@45.33.115.18:443?security=tls&sni=us2-full.privateip.net&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-45.33.115.18:443
+trojan://b84d16a244460e09@5.44.249.44:3306?security=tls&sni=n2.gladns.com&type=ws&host=TG.WangCai_1&path=/gateway/connect#🔒 TR-WS-TLS 🇸🇬 SG-5.44.249.44:3306
+trojan://242a3d8eee5e4ed1a6bfa4141d549a25@198.41.220.2:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.2:443
+trojan://182228812d1e0f23@45.11.104.94:3306?security=tls&sni=n2.gladns.com&type=ws&host=TG.oeo12&path=%2Fgateway%2Fconnect#🔒 TR-WS-TLS 🇭🇰 HK-45.11.104.94:3306
 trojan://NISHIKUITAN222@47.237.83.20:8443?security=tls&sni=t009.ylks.link&type=ws&host=t009.ylks.link&path=%2F#🔒 TR-WS-TLS 🇸🇬 SG-47.237.83.20:8443
 trojan://299025b9-6b55-430c-be38-9a18c06873ac@91.199.84.122:12034?sni=china3.one.edu.kg&allowInsecure=1#🔒 TR-TCP-NA 🇭🇰 HK-91.199.84.122:12034
 trojan://NISHIKUITAN222@47.236.164.215:443?sni=t222.ylks.link&allowInsecure=0#🔒 TR-TCP-NA 🇸🇬 SG-47.236.164.215:443
@@ -599,7 +603,3 @@ ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.86.135.31:445#🔒 SS-TCP-NA 🇺�
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.26:8119#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.26:8119
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.157.40.89:7002#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.89:7002
 ss://YWEyZGM4NDAtYmUzOC00YjRkLWEwMDItYmEyMzQ5OTlmZDU1Og==@104.19.164.12:8080#🔒 SS-TCP-NA 🏴‍☠️ NA-104.19.164.12:8080
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.157.40.29:7001#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.29:7001
-ss://YzQzY2YzMGMtMThmMS00ZTIwLWJkODgtNzNiMTI4OGM1MjAyOg==@104.27.62.243:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.27.62.243:443
-ss://MzA0MDk2YzAtODg1Mi00ZTYxLWJhOWItZWNlOTI1MDIzMGUzOg==@104.21.20.45:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.20.45:80
-ss://NDgwNGYxNGItYzFmOC00NTJkLWE2ZWMtZWZmMTQ5MGFlYWM5Og==@217.69.1.123:443#🔒 SS-TCP-NA 🇫🇷 FR-217.69.1.123:443

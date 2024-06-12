@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.219.79:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.219.79:80
+vless://fb301d2e-4430-4b41-95d6-764460b8ef13@147.78.140.121:2053?security=tls&sni=9b56CFEe5b258C44c45bA18FA122293.mIToweAr.cOm&type=grpc#🔒 VL-GRPC-TLS 🇧🇬 BG-147.78.140.121:2053
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.208.198:80?security=none&type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.208.198:80
+vless://cec5fd94-3ff0-4ad2-ad78-423269ce9717@104.21.85.75:8443?security=tls&sni=ice.moderplus.com&type=grpc&serviceName=xyz&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.85.75:8443
 vless://cdd562e2-93bc-4541-8f74-28dd32ed52b4@172.67.2.238:2086?security=none&type=ws&host=mci.你有一个不光彩的问题.website.&path=/?ed#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.2.238:2086
 vless://e66073a2-d662-4f4e-9ca3-6f5d92a34c60@172.66.3.108:8080?security=none&type=ws&host=svm.zula.ir.gta.ir.zula.com.mast.com.rast.com.shoplfooioood.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95karsovalomn.atkfood.com.&path=%2FAmVpn-AmVpn-AmVpn-AmVpn-AmVpnn-AmVpn-AmVpn%3Fed%3D1024#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.3.108:8080
 vless://9d77ccf6-6710-4265-d0aa-1e07850e42dc@172.67.73.163:2087?security=tls&sni=prod01-cloud-sea-net01.cyberscaler.com&type=ws&host=prod01-cloud-sea-net01.cyberscaler.com&path=/sports-online/&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.73.163:2087
@@ -599,7 +603,3 @@ trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.239:2087?sni=tjjd.yzyx1.
 trojan://3F98apiP9b@104.21.69.44:2083?security=tls&sni=deheueu3gev77uknbcxst6.jerifun.ir&type=ws&host=de.jerifun.ir#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.69.44:2083
 trojan://0fd9b883-0551-4ed1-b978-528183b459a2@8.218.173.78:2083?security=tls&sni=mfjd.591haoka.com&type=ws&host=mfjd.591haoka.com#🔒 TR-WS-TLS 🇭🇰 HK-8.218.173.78:2083
 trojan://EgAMtxAquaO78-IvTSWpnQ@104.25.8.217:2096?security=tls&sni=mrz.learnturkishspeech.fun&type=ws&host=mrz.learnturkishspeech.fun&path=/book#🔒 TR-WS-TLS 🏴‍☠️ NA-104.25.8.217:2096
-trojan://d8247ade-9831-4c88-9d99-5c8b50731801@45.33.115.18:443?security=tls&sni=us2-full.privateip.net&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-45.33.115.18:443
-trojan://b84d16a244460e09@5.44.249.44:3306?security=tls&sni=n2.gladns.com&type=ws&host=TG.WangCai_1&path=/gateway/connect#🔒 TR-WS-TLS 🇸🇬 SG-5.44.249.44:3306
-trojan://242a3d8eee5e4ed1a6bfa4141d549a25@198.41.220.2:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.2:443
-trojan://182228812d1e0f23@45.11.104.94:3306?security=tls&sni=n2.gladns.com&type=ws&host=TG.oeo12&path=%2Fgateway%2Fconnect#🔒 TR-WS-TLS 🇭🇰 HK-45.11.104.94:3306
