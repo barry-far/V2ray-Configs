@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://3e98d049-b8c4-4e9b-ae73-869f3981d2f9@45.95.232.110:443?security=reality&flow=xtls-rprx-vision&sni=mdundo.com&type=tcp&fp=chrome&pbk=mg27CNAYLf_Ur6787uTVq_RVfKuiM5MVwbReFVDg5ks&sid=190d32b118caf07f#🔒 VL-TCP-RLT 🇨🇭 CH-45.95.232.110:443
 vless://8d790521-6152-4134-8996-7c60ebf9978b@128.140.125.61:443?security=reality&sni=help.mega.io&type=grpc&serviceName=,@hatunnel_vpn,@hatunnel_vpn,@hatunnel_vpn,@hatunnel_vpn,@hatunnel_vpn,@hatunnel_vpn,@hatunnel_vpn,@hatunnel_vpn,@hatunnel_vpn,@hatunnel_vpn,@hatunnel_vpn,@hatunnel_vpn&fp=firefox&pbk=QloMGl_VaEtq9JJ3XhCS9JvTn5DYuHVEeAg46yGX9GE&sid=15ed3de4#🔒 VL-GRPC-RLT 🇩🇪 DE-128.140.125.61:443
 vless://c889caa5-d506-4b81-ace2-685bb1f7bfb5@95.179.157.223:7594?security=reality&sni=dash.cloudflare.com&type=grpc&serviceName=@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar&fp=chrome&pbk=LRTVHQ8fP4UW24W7IpxduMyW4WIhAzXzpV7f1CDxRx4&sid=703639c2#🔒 VL-GRPC-RLT 🇳🇱 NL-95.179.157.223:7594
 vless://9ea79dd6-fb8c-4bc2-9581-afdbabee500a@104.168.107.230:6855?security=reality&flow=xtls-rprx-vision&sni=squadhelp.com&type=tcp&fp=chrome&pbk=kt-d9jx_cCmvmWiL4CP5IPAKHhjAF-oBmsGhyG1U704&sid=7a06db71e78640de#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:6855
@@ -603,3 +602,4 @@ vless://4c03d139-631b-41dd-be68-933c3df0d7c2@162.159.7.226:443?security=tls&sni=
 vless://ac74b675-7e14-41ee-b91a-4ff5533b86c9@185.146.173.208:8443?security=tls&sni=ha1125m.aligolizadehmaraheh.com&type=ws&host=ha1125m.aligolizadehmaraheh.com&path=%2Fws1#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.208:8443
 vless://61d93b9b-00d0-4df1-8027-6e036f4c1f11@172.67.168.58:443?security=tls&sni=freedom13.bypasojd.workers.dev&type=ws&host=freedom13.bypasojd.workers.dev&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.168.58:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.85.119.96:443?security=tls&sni=kk070.ylks.link&type=ws&path=/blue#🔒 VL-WS-TLS 🇷🇴 RO-45.85.119.96:443
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.11.157:80?security=none&type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.11.157:80
