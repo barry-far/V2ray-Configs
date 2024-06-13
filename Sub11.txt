@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://42cd7fff-39c8-4efd-88b0-75df7c88e894@[::ffff:ac40:6f94]:443?security=tls&sni=de2.v2vless.xyz&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-[::ffff:ac40:6f94]:443
 vless://f68b1ea9-3c4e-405a-98b1-35ee3db36000@104.21.235.75:80?security=none&type=ws&host=vr4RlSu.kallepache.store&path=%2Fgraphql#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.235.75:80
 vless://a9348e7c-b216-46ab-a1e4-44e777974d6e@104.21.66.152:2053?security=tls&sni=beest.turkalphapro.ir&type=grpc&serviceName=beest.turkalphapro.ir&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.66.152:2053
 vless://13732170-05c7-4bd6-acd6-9ed74b4d1c1b@162.159.153.2:2096?security=tls&sni=kanal-falcunargo-rmarat.falcunar.asso.eu.org&type=ws&host=kanal-falcunargo-rmarat.falcunar.asso.eu.org&path=/?ed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.2:2096
@@ -603,3 +602,4 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.16.31:80?security=none&type=
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.60.105:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.60.105:80
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.236.118.216:2083?security=tls&sni=zdy306.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇸🇬 SG-47.236.118.216:2083
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.28.12:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.28.12:443
+vless://ddfaf7cb-ed2f-4ab8-8a76-32f7ad15eb02@51.75.77.237:443?security=tls&flow=xtls-rprx-vision&sni=de-full.privateip.net&type=tcp&path=%2f&allowInsecure=1#🔒 VL-TCP-TLS 🇩🇪 DE-51.75.77.237:443

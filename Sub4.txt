@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://884d5bbe-136b-4f2a-9018-daf4d15636a8@45.67.32.147:22441?security=reality&sni=jino.ru&type=http&path=/getout&fp=chrome&pbk=ka7Beu3x7VjM_UqCT07d98enNKfkEbwXqZtFlr40_Q0&sid=fff248e8#🔒 VL-HTTP-RLT 🇷🇺 RU-45.67.32.147:22441
 vless://0f3f1d10-26f5-4779-ac6a-475fbf5ba497@104.168.107.230:7321?security=reality&flow=xtls-rprx-vision&sni=placehold.it&type=tcp&fp=chrome&pbk=IgvfPWBFYUlAt8A_ATMXHDBhvKzhG6zn6Fg8SLabqlk&sid=558f87707a80d3a5#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:7321
 vless://492610dd-3879-4884-b80f-d0b3685cb366@70.34.207.87:2093?security=reality&sni=stackoverflow.com&type=http&fp=chrome&pbk=7kjyM2dPWAj_zy6VnB88fevwjT4m3XRna6H2rfSEdH0&sid=d710e2b9#🔒 VL-HTTP-RLT 🇸🇪 SE-70.34.207.87:2093
 vless://a09373e2-e120-457d-9ec9-ea7fe8bedb52@185.125.171.13:8443?security=reality&sni=partner.g2.com&type=grpc&serviceName=g2com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒 VL-GRPC-RLT 🇳🇴 NO-185.125.171.13:8443
@@ -603,3 +602,4 @@ vless://9b4a2cd4-7d28-4ebe-d701-95723b811aff@104.21.69.44:80?security=none&type=
 vless://4b1d9f3a-6cdf-49e8-929b-5e5cedae5d31@104.21.12.61:443?security=tls&sni=freedom15.maber99212.workers.dev&type=ws&host=freedom15.maber99212.workers.dev&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.12.61:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.19.146.118:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.19.146.118:80
 vless://4e1c51e2-e65e-4674-88ae-cdd83c0ddda5@172.67.156.80:2087?security=tls&sni=sina-mci-panel.eystem.ir&type=grpc&serviceName=%40V_2rayy_NG-%40V_2rayy_NG-%40V_2rayy_NG-%40V_2rayy_NG-%40V_2rayy_NG-%40V_2rayy_NG-%40V_2rayy_NG-&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.156.80:2087
+vless://4045c6b7-1d53-4574-98cd-df21db40b0dc@172.67.118.209:2053?security=tls&sni=itcenteriran.blog&type=ws&host=itcenteriran.blog&path=%2Fp%3D19#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.118.209:2053
