@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://8d790521-6152-4134-8996-7c60ebf9978b@128.140.125.61:443?security=reality&sni=help.mega.io&type=grpc&serviceName=,@hatunnel_vpn,@hatunnel_vpn,@hatunnel_vpn,@hatunnel_vpn,@hatunnel_vpn,@hatunnel_vpn,@hatunnel_vpn,@hatunnel_vpn,@hatunnel_vpn,@hatunnel_vpn,@hatunnel_vpn,@hatunnel_vpn&fp=firefox&pbk=QloMGl_VaEtq9JJ3XhCS9JvTn5DYuHVEeAg46yGX9GE&sid=15ed3de4#🔒 VL-GRPC-RLT 🇩🇪 DE-128.140.125.61:443
 vless://fce0f0e4-425a-4cf6-a0ca-e7513517ff38@45.90.162.6:4004?security=reality&flow=xtls-rprx-vision&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=ui0fGumZiFhEhGU13KYIcR3coPPVHuGQMvK-_TThCVc&sid=e3631859#🔒 VL-TCP-RLT 🇫🇷 FR-45.90.162.6:4004
 vless://1d392b76-07e0-4490-ac60-4c1efefedff0@45.67.32.147:34500?security=reality&sni=yandex.ru&type=http&path=%2Fdetails&fp=random&pbk=lLLKkcHjHsbdgjmOmJ9tsjh5R0nFEvKI9Ye5Gd9YeD4&sid=2c508a3e#🔒 VL-HTTP-RLT 🇷🇺 RU-45.67.32.147:34500
 vless://e82351c5-c339-4d48-b90d-3524c5547912@142.93.166.107:443?security=reality&sni=*.partyverleih-glauberg.de&type=grpc&serviceName=@ipV2Ray&fp=chrome&pbk=LD8y7bs5T8tNSLcB83NQXpo0_LfHk76WWykNwXJRG3I&sid=304a9854#🔒 VL-GRPC-RLT 🇩🇪 DE-142.93.166.107:443
@@ -603,3 +602,4 @@ vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@47.236.104.11:2087?security=tls&sni
 vless://1235b6fb-7f15-4361-8da3-d1a079bdf484@172.67.135.195:443?security=tls&sni=who-doesnt-care.BacheBiaPain.IR&type=ws&host=who-doesnt-care.BacheBiaPain.IR&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.135.195:443
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.250.183:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.250.183:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.222.180.86:80?security=none&type=ws&path=/blue#🔒 VL-WS-NONE 🇸🇬 SG-8.222.180.86:80
+vless://5521744a-f20b-407b-87b7-3797b30d3f2c@104.16.54.79:8080?security=none&type=ws&host=frtvd.oxnetirz214.workers.dev&path=%2F..............%40Free_V2rng...............%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.54.79:8080
