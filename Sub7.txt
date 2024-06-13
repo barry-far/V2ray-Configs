@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@172.67.77.77:80?security=none&type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.77.77:80
-vless://9732cb8d-7bfb-4333-9951-787a0976b044@104.21.69.44:2053?security=tls&sni=aabbjjc.f-vipo.ir&type=ws&host=aabbjjc.f-vipo.ir&path=%2F%3Fed%3D2087&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.69.44:2053
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@193.123.235.59:443?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇰🇷 KR-193.123.235.59:443
 vless://a99ab406-6967-47c4-b700-2ec169edceb1@172.67.173.10:2087?security=tls&sni=a.liopiol.ir&type=ws&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.173.10:2087
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.101.233:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.101.233:443
@@ -603,3 +601,5 @@ vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.242.252.237:2053?security=tls&sn
 vless://aa2dc840-be38-4b4d-a002-ba234999fd55@104.21.228.181:8080?security=none&type=ws&host=cdn-allxn--b6gaceuorg.l4o117en.workers.dev&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.228.181:8080
 vless://40466920-330c-430f-be2c-99a31f87008e@104.16.25.248:443?security=tls&sni=hpv2ray-netherlands.goldxray.com&type=grpc&serviceName=TELEGRAM:@HpV2rayNg&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.25.248:443
 vless://9fc6bb34-39be-4fcf-9567-9ec74b3a59d9@108.162.193.81:443?security=tls&sni=hpi2sk.a27app.com&type=ws&host=hpi2sk.a27app.com&path=%2Fwss&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.193.81:443
+vless://d2369f28-4eea-41fe-998c-14bf8b5e1914@172.67.214.179:2083?security=tls&sni=le.bo3kot.com&type=grpc&serviceName=@MxV2ray,@MxV2ray,@MxV2ray,&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.214.179:2083
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.237.5:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.237.5:80
