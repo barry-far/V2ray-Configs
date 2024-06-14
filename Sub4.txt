@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://ee07639f-ca84-4b93-950b-eac9c1f4eb3f@65.109.195.165:443?security=reality&sni=m05r3bf1t7.execute-api.eu-west-1.amazonaws.com&type=tcp&fp=firefox&pbk=cN11L2DIETgMceN6hX0p7ZRKArOgcZUXvEMfImeSmGo&sid=97ad8890#🔒 VL-TCP-RLT 🇫🇮 FI-65.109.195.165:443
+vless://0f3f1d10-26f5-4779-ac6a-475fbf5ba497@104.168.107.230:7321?security=reality&flow=xtls-rprx-vision&sni=placehold.it&type=tcp&fp=chrome&pbk=IgvfPWBFYUlAt8A_ATMXHDBhvKzhG6zn6Fg8SLabqlk&sid=558f87707a80d3a5#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:7321
 vless://9f34276e-9573-45a4-bd80-86b72e13563e@89.23.103.229:443?security=reality&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=IsmdLsy1lHrliuyajHf7kAW1lSPT7RKLZlM4RTj6gwQ&sid=4efc89e5#🔒 VL-TCP-RLT 🇳🇱 NL-89.23.103.229:443
 vless://2ddd4400-437d-4f6c-8a69-3075aa4b4bd5@104.168.107.230:8443?security=reality&flow=xtls-rprx-vision&sni=aws.amazon.com&type=tcp&fp=chrome&pbk=o5EfgcN8py69lS0Mesu8y_AO7a9agnwiGTfq6-nQUzE&sid=c9c2b90f0318d517#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:8443
 vless://cbbc04dc-ab1a-4410-a30b-5d83982374d5@188.116.21.168:443?security=reality&flow=xtls-rprx-vision&sni=account.zula.ir&type=tcp&fp=chrome&pbk=DNgb_P-ioc2QGkWL4fjncdvn3uMoH8_IIPEqiihwyjc&sid=7015e6&alpn=h2#🔒 VL-TCP-RLT 🇳🇱 NL-188.116.21.168:443
@@ -601,5 +603,3 @@ vless://775213ac-3976-439a-8977-3277c0e4735d@94.247.142.241:443?security=tls&sni
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.104.151:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-185.148.104.151:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.30.171:2087?security=tls&sni=jp010.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.30.171:2087
 vless://6e643b53-f30a-443d-a069-c5826f365403@188.114.97.122:2087?security=tls&sni=sni2.tohid3aeed.com&type=ws&host=sni2.tohid3aeed.com&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.122:2087
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.25.31.119:80?security=none&type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.25.31.119:80
-vless://9dd2a179-ef34-4607-852c-db8b067b8e93@162.159.134.233:8880?security=none&type=ws&host=aksjbebqoqoshhw.debian.org.fxp.debian.org.speedtest.net.らわなさらわ.shahprokh.shop.#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.134.233:8880

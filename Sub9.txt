@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://ada35bae-0fde-41a1-b302-f5d97aadf648@172.66.192.70:443?security=tls&sni=mindroom-5cz.pages.dev&type=ws&host=mindroom-5cz.pages.dev&path=%2F@MIND_ROOM2%2F%3Fed%3D2560&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.192.70:443
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.156.43:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.156.43:80
 vless://01ab9337-f478-4765-9534-88f009f83ddb@130.61.23.77:443?security=tls&sni=aut022.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇩🇪 DE-130.61.23.77:443
 vless://70f5d3b8-7d31-4d7d-9467-e43752d66fca@104.21.25.220:2096?security=tls&sni=sub.shadowsokstes.WoRkErs.DeV&type=ws&host=sub.shadowsokstes.WoRkErs.DeV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.25.220:2096
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.19.157.136:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.19.157.136:80
@@ -601,5 +603,3 @@ vless://a6fa9485-41e7-4bfb-9c6d-8336b5a66f47@104.20.19.78:2087?security=tls&sni=
 vless://fab2dccf-2ef0-4275-a5be-700138723cb2@172.67.129.254:443?security=tls&sni=PPaL03S.tIANna-STrOMAN-Jr.WoRKERs.DEv&type=ws&host=ppAL03S.tiANNa-StrOMAn-Jr.wORkErs.DeV&path=%2FRmh0yWuOVINSnU8r%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.129.254:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.84.84:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.84.84:443
 vless://54a47217-b810-4017-adb7-237e273c35ce@104.21.71.210:8443?security=tls&sni=r.donekaftr.ir&type=grpc&serviceName=abc&fp=ios&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.71.210:8443
-vless://25c5cbda-39e5-47ed-b36c-b87ffef2378d@104.18.9.38:443?security=tls&sni=worker-fancy-base-7d08.yajici1215.workers.DEV&type=ws&host=worker-fancy-base-7d08.yajici1215.workers.DEV&path=%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.9.38:443
-vless://e4ceb917-3020-4486-a1ab-36534aed11de@85.9.111.20:5053?security=none&type=ws&host=s16.leader21.top&path=/http#🔒 VL-WS-NONE 🇮🇷 IR-85.9.111.20:5053
