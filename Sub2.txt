@@ -268,7 +268,6 @@ vless://b45d5e6f-beb2-4712-8990-a78f6deea53a@us-full.privateip.net:2003?type=grp
 vless://3b0d2976-a844-4181-858a-9ab9b26b5bfc@tr-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20Vless%20gRPC%20@V2rayStore
 vless://f65f00f9-f906-43a7-a45a-5de7eb1b342b@kz-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20Vless%20gRPC%20@V2rayStore
 vless://c0cb3c77-0674-4705-b8af-eba5c2b4ddd2@uk-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20Vless%20gRPC%20@V2rayStore
-vless://bbec8d43-e507-4587-a1eb-5528600ea07f@uk2-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20Vless%20gRPC%20@V2rayStore
 vless://ddfaf7cb-ed2f-4ab8-8a76-32f7ad15eb02@de-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Vless%20gRPC%20@V2rayStore
 vless://10af440a-e560-4b03-b9a4-8e7cd055e5a4@de2-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Vless%20gRPC%20@V2rayStore
 vless://e3df3d48-b758-4f21-88c5-6790c3892f3c@au-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20Vless%20gRPC%20@V2rayStore
@@ -373,11 +372,9 @@ ss://aes-256-gcm:3f66cb8f-9f66-46ba-8619-254718d134b7@ca-full.privateip.net:8443
 ss://aes-256-gcm:ce1dc98a-b28d-4cd1-8a23-b3b608c17d9f@jp-full.privateip.net:8443#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20Shadowsocks%20@V2rayStore
 ss://aes-256-gcm:31d1af85-1419-4ff6-8b18-c26d5a316ce4@fr2-full.privateip.net:8443#%F0%9F%87%AB%F0%9F%87%B7%20France%20Shadowsocks%20@V2rayStore
 vless://35898db4-3f4f-426e-a086-3358d8d1a652@us-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Vless%20TCP%20@V2rayStore
-vless://4e2b1a01-d4b8-478f-9367-e402f66e7895@us2-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Vless%20TCP%20@V2rayStore
 vless://7b8f29a7-5a28-47ac-8cca-27234f048e61@tr-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20Vless%20TCP%20@V2rayStore
 vless://647f1c6a-50ed-45bd-a612-c7572e0de1b1@kz-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20Vless%20TCP%20@V2rayStore
 vless://4a26c7e7-ea92-4259-87d6-86833e874394@uk-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20Vless%20TCP%20@V2rayStore
-vless://cc0dc9e3-7504-4d78-904a-e856ab425c80@uk2-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20Vless%20TCP%20@V2rayStore
 vless://fe6b171f-0996-4cca-89b6-8bf2b7f70cb4@de-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Vless%20TCP%20@V2rayStore
 vless://94e0bd36-57bb-4d1c-8315-0840fe0d26b3@de2-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Vless%20TCP%20@V2rayStore
 vless://d13a1784-da0e-4038-a427-3c3ab3449cfc@au-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20Vless%20TCP%20@V2rayStore
@@ -603,3 +600,6 @@ vmess://eyJhZGQiOiAiMTA0LjIxLjgzLjEwOCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.61.37:80?type=ws&host=kr1.175852.xyz&path=/abcde#👉🆔 @v2ray_configs_pool`
 vless://0ebb1677-4902-476f-bc03-3e8c7ca6fd21@104.21.80.190:2083?security=tls&sni=node.vauth.workers.dev&type=ws&host=node.vauth.workers.dev&fp=chrome#👉🆔 @v2ray_configs_pool`
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.30:443?security=tls&sni=hk222.ylks.link&type=ws&path=/blue#👉🆔 @v2ray_configs_pool`
+vless://b8d718c6-7516-4259-b4e6-253e280bc6b6@173.245.58.100:443?security=tls&sni=bia-vip-programs.hsjsak.ir&type=ws&host=bia-vip-programs.hsjsak.ir&path=%2F%3Fed%3D2048&fp=random#👉🆔 @v2ray_configs_pool`
+vless://c7bc99c9-236e-49be-8443-6a672646d992@185.146.173.59:2052?security=none&type=ws&host=2.V2rayV2ray-_-_-V2ray.irantech.Org.&path=%2FTelegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy%3Fed%3D2048#👉🆔 @v2ray_configs_pool`
+vless://63e0ccc3-bceb-46ce-a418-1c6a71d20e3f@104.21.42.56:443?security=tls&sni=182z9jcb6ezumr1jfpg50pa12rebmhitb24aynjgmflkcv78khyhgfit4563fdk.myy1h3.workers.Dev&type=ws&host=182z9jcb6ezumr1jfpg50pa12rebmhitb24aynjgmflkcv78khyhgfit4563fdk.myy1h3.workers.Dev&path=%2FTelegram%2Bchannel%2B%3A%2B@pandavpntc&fp=chrome#👉🆔 @v2ray_configs_pool`
