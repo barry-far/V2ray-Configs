@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.138.147:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.138.147:80
-vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@198.41.222.6:8080?security=none&sni=king1980.b91sptsl.workers.dev&type=ws&host=king1980.b91sptsl.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.222.6:8080
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.26.12.140:443?security=tls&sni=zdy010.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.12.140:443
 vless://0895c839-54e8-4522-cfa0-d1a5b1b34827@104.21.90.218:2086?security=none&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.90.218:2086
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.20.36:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.20.36:443
@@ -603,3 +601,5 @@ trojan://dba20dcb635e430fa4d3bfc303a149d2@104.19.171.4:443?security=tls&sni=jobs
 trojan://auto@104.26.12.54:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.12.54:443
 trojan://6c6bcdab-767c-4a36-8419-4ebc8c3b7066@143.198.62.157:443?security=tls&sni=vkvd127.mycdn.me&type=tcp&fp=chrome&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-143.198.62.157:443
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.142:2083?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.142:2083
+trojan://cb1f26aa437d4bfa9b841d28503ce8cc@104.16.159.2:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=6b777a91&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.2:443
+trojan://8d4ab0f0-79be-11eb-be0b-1239d0255272@103.93.59.208:443?sni=id2-trojan.bonds.id#🔒 TR-TCP-NA 🇮🇩 ID-103.93.59.208:443

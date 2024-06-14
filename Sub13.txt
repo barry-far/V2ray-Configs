@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.237.11.182:2083?security=tls&sni=zdy226.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇸🇬 SG-47.237.11.182:2083
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@146.70.175.173:80?security=none&type=ws&path=/blue#🔒 VL-WS-NONE 🇳🇱 NL-146.70.175.173:80
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.19.159.77:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.19.159.77:80
 vless://09c795fd-4c13-491e-b419-2598410077b9@185.53.142.132:443?security=tls&sni=xn--rgbk3dif70f.jObfiNeX.ir.&type=grpc&serviceName=/@custom_config?ed%3D2056#🔒 VL-GRPC-TLS 🇮🇷 IR-185.53.142.132:443
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.64.201.250:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.201.250:443
@@ -603,3 +601,5 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.123.227:443?security=tls&sni
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.99.187:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.99.187:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.238.231:80?security=none&type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.238.231:80
 vless://4e106351-e08b-431d-b052-697952371de0@85.9.111.100:20878?security=none&type=tcp&host=speedtest.net&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.9.111.100:20878
+vless://53b5f2e8-a736-4b71-8337-c744b63f9411@104.31.16.196:2053?security=tls&sni=hf.v2raystore.sbs&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.31.16.196:2053
+vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.19.234.59:443?security=tls&sni=biA-Pain-BAcHE.PAgEs.Dev&type=ws&host=bIA-PaIn-bacHe.Pages.deV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.234.59:443
