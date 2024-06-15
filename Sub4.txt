@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://ac554074-ad55-41c6-9fc1-5af16ace00f1@49.13.139.192:443?security=reality&sni=*.danishshakeel.me&type=grpc&serviceName=@ipV2Ray&fp=firefox&pbk=jSxs7VtFMN2tQOo9dKG63UHNfjqcXt-krPDrEfer1n4&sid=45796768#🔒 VL-GRPC-RLT 🇩🇪 DE-49.13.139.192:443
+vless://b06ab343-eb1f-444e-a3b5-c30e534287a7@77.221.153.165:443?security=reality&sni=check-host.net&type=grpc&fp=chrome&pbk=ey-KPiHB639nbyJecr2PmSnqXfGFfDywIUfnnIOm7VQ#🔒 VL-GRPC-RLT 🇫🇷 FR-77.221.153.165:443
 vless://eefcf749-fcfc-4321-b974-2828d4acb15c@185.142.238.222:443?security=reality&flow=xtls-rprx-vision&sni=guerrilla-games.com&type=tcp&fp=chrome&pbk=imTeVCUujulNZ2LJNaZrWlOGcN0tgm0km15N8jc55j4&sid=dcd651ed#🔒 VL-TCP-RLT 🇳🇱 NL-185.142.238.222:443
 vless://403b4334-de17-4687-9f50-293609685a25@45.67.32.147:14875?security=reality&flow=xtls-rprx-vision&sni=yahoo.com&type=tcp&fp=random&pbk=2mte9DEeo0OwNppy36bIfMqAXL4yLiFbhDqOGXu8XVI&sid=e34371db#🔒 VL-TCP-RLT 🇷🇺 RU-45.67.32.147:14875
 vless://0aec0e6f-5a12-4405-a742-b8e2f26a381f@95.216.215.127:6969?security=reality&sni=cdn.discordapp.com&type=h2&fp=chrome&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=3a622700e73c6642#🔒 VL-H2-RLT 🇫🇮 FI-95.216.215.127:6969
@@ -601,5 +603,3 @@ vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@104.21.95.103:443?security=tls&sni=
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.191.7:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.191.7:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.80.131:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.80.131:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.156.27:2053?security=tls&sni=baipiao1.curly-train.pages.dev&type=ws&host=baipiao1.curly-train.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.156.27:2053
-vless://f6df22c8-4221-4d4b-8076-a1bf695aea24@162.159.135.234:80?security=none&type=ws&host=ShhProxyFreViP.免费上网85.org.&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.135.234:80
-vless://734072e0-82af-4ca9-979e-3f84c6b66b97@104.16.4.189:80?type=ws&host=%E4%B8%8D%E8%A6%81%E5%AF%B9%E4%B8%96newlife.%E7%AB%99%E9%95%BFbadho.silence2.%E5%A4%9C%E7%8C%AB%E5%AD%90%E9%85%92%E5%90%A7%E6%9E%AA%E6%88%98.suonycars.buzz.&path=%2Ft.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro%2F%3Fed%3D2048#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.4.189:80
