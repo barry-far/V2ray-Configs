@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://cdb51593-d993-418b-bc2d-c405ebb6ba35@172.104.184.110:443?security=tls&sni=sg2-full.privateip.net#%F0%9F%87%B8%F0%9F%87%ACSG-172.104.184.110-0939
+trojan://cdb51593-d993-418b-bc2d-c405ebb6ba35@sg2-full.privateip.net:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-172.104.184.110-0149
 ss://YWVzLTI1Ni1nY206Y2JkNTI4MGMtMmJkNy00ZjhiLWEyMWYtYjdmNjNmZGQ2MjZi@sg-full.privateip.net:8443#%F0%9F%87%B8%F0%9F%87%ACSG-139.162.35.118-1795
 vmess://ewogICAgImFkZCI6ICIxMjguMTk5LjE2MS4yMzAiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogImJlZmQwODVhLTkxZjctNDYwOC1iYzQ1LWY0MGMxYWMyZjRiNyIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi92MnJheSIsCiAgICAicG9ydCI6IDk5LAogICAgInBzIjogIvCfh7jwn4esU0ctMTI4LjE5OS4xNjEuMjMwLTAyMTgiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 trojan://b4c35226-f245-4123-8c49-cbf02dca0d50@it-full.privateip.net:443?security=tls#%F0%9F%87%AE%F0%9F%87%B9IT-95.164.46.235-0162
@@ -601,5 +603,3 @@ vless://75a405d8-7074-40c8-a91d-dc031f35f9f3@104.168.107.230:9795?encryption=non
 vless://27db736f-31fa-40db-85f8-b463d4658533@104.168.107.230:9942?encryption=none&flow=xtls-rprx-vision&security=reality&sni=linuxfoundation.org&fp=chrome&pbk=QQHxQK7ocGHvaCmqtW3QapnKiBVd4ZjjM3zhCGVMPS4&sid=db68e802226b21cd&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-9942 | 21.51ms
 vless://ff99c9ac-c9c0-4e82-9613-05acca58d4d9@104.168.107.230:9996?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hacks.mozilla.org&fp=chrome&pbk=QQHxQK7ocGHvaCmqtW3QapnKiBVd4ZjjM3zhCGVMPS4&sid=db68e802226b21cd&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-9996 | 21.36ms
 vless://480ab81c-0601-46c2-af53-ed922bf56362@104.168.107.230:10036?encryption=none&flow=xtls-rprx-vision&security=reality&sni=docker.com&fp=chrome&pbk=QQHxQK7ocGHvaCmqtW3QapnKiBVd4ZjjM3zhCGVMPS4&sid=db68e802226b21cd&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-10036 | 21.37ms
-vless://026197ea-70a3-41f7-b0b1-524d8068cbde@104.168.107.230:10050?encryption=none&flow=xtls-rprx-vision&security=reality&sni=blogs.windows.com&fp=chrome&pbk=QQHxQK7ocGHvaCmqtW3QapnKiBVd4ZjjM3zhCGVMPS4&sid=db68e802226b21cd&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-10050 | 21.03ms
-
