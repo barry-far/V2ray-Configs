@@ -3,6 +3,20 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://2997d686-d910-441b-a15c-c8d11c366025@185.234.66.155:2053?security=tls&sni=ftp.debian.org&type=tcp#🔒 TR-TCP-TLS 🇹🇷 TR-185.234.66.155:2053
+trojan://a2c8194b-fcfd-4c39-a6bd-31ea9f4ea671@54.37.220.201:443?security=tls&sni=upload.soft98.download&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇫🇷 FR-54.37.220.201:443
+trojan://saMgiangGt@104.21.18.57:443?security=tls&sni=teo.history-paint.art&type=grpc&serviceName=grpc17224&fp=chrome&alpn=h2#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.21.18.57:443
+trojan://52701795-3c3b-46b4-b7cf-c5978b3a4cf2@104.21.47.176:443?security=tls&sni=hdfyc1.achaemenidempireofpersia.uk&type=grpc&serviceName=xw7uebRG4KlUXGGYTVEagC5V7fI&fp=chrome&alpn=http%2F1.1#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.21.47.176:443
+trojan://baa7fdc5-a9cb-435a-982b-ccd82cb1f8c0@104.16.60.10:443?security=tls&sni=ybv27nj.diamondgalery.ir&type=ws&host=ybv27nj.diamondgalery.ir&path=%2FU13Hsk6pJ3kV6p1uO5Avv#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.60.10:443
+trojan://3F98apiP9b@104.21.69.44:2083?security=tls&sni=deheueu3gev77uknbcxst6.jerifun.ir&type=ws&host=de.jerifun.ir#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.69.44:2083
+trojan://a7029915-363b-3b8e-9494-782dd871725c@91.149.237.179:19211?security=tls&sni=eplcgame.com&type=tcp#🔒 TR-TCP-TLS 🇭🇰 HK-91.149.237.179:19211
+trojan://qG9K8AGnn9XH5jUqeFu96g@104.16.123.175:2083?security=tls&sni=cdn13.cdn2cdn.com&type=ws&host=cdn13.cdn2cdn.com&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.123.175:2083
+trojan://cb1f26aa437d4bfa9b841d28503ce8cc@104.16.159.2:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=6b777a91&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.2:443
+trojan://918eba0d3ff04abc803fb00e18d0fcb5@202.64.1.143:443?security=tls&sni=www.gpt123.one&type=tcp#🔒 TR-TCP-TLS 🇭🇰 HK-202.64.1.143:443
+trojan://b12f4be0-e874-568e-954f-942dcc3a67e9@104.21.69.44:2096?security=tls&sni=trojan.trojan0.woRkeRS.deV&type=ws&host=trojan.trojan0.woRkeRS.deV&path=trojan-ws%2F%3Fed%3D2048&fp=chrome&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.69.44:2096
+trojan://NISHIKUITAN222@47.237.86.185:8443?security=tls&sni=t009.ylks.link&type=ws&host=t009.ylks.link&path=%2F#🔒 TR-WS-TLS 🇸🇬 SG-47.237.86.185:8443
+trojan://242a3d8eee5e4ed1a6bfa4141d549a25@104.16.159.1:443?security=tls&sni=jobsapplyworld.com&type=ws&host=jobsapplyworld.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.1:443
+trojan://2f211aae-3678-47a6-b231-46304443772f@188.114.97.82:443?security=tls&sni=cdir-0203.wlfvip.com&type=ws&host=cdir-0203.wlfvip.com&path=%2Ftrojanws%3Fed%3D2048&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-188.114.97.82:443
 trojan://d8fd60d7-4c50-47c8-9e2d-adf37ad81af4@74.226.136.204:443?#🔒 TR-TCP-NA 🇯🇵 JP-74.226.136.204:443
 trojan://qj1Dz1CJmFQRhWr1SP80aA@104.16.1.10:443?sni=cdn-21.gsmxreality.com&type=grpc&serviceName=443trojan&allowInsecure=1#🔒 TR-GRPC-NA 🏴‍☠️ NA-104.16.1.10:443
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.16.192.1:443?security=tls&sni=sherasheba.com&type=ws&host=sherasheba.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.192.1:443
@@ -589,17 +603,3 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@5.188.6.8:989#🔒 SS-TCP-NA 🇺�
 ss://YWVzLTEyOC1nY206MGJmNDE4MTAtNTQ3Ny00OTQwLTkwNjQtZTM3MDU1Y2RhNmIx@203.218.240.98:11004#🔒 SS-TCP-NA 🇭🇰 HK-203.218.240.98:11004
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.157.40.89:6379#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.89:6379
 ss://YzM3MDgzMjMtNDhmZS00OWMyLWFhZWYtODRkMGE0Y2QxMmZmOg==@170.114.45.159:443#🔒 SS-TCP-NA 🇺🇸 US-170.114.45.159:443
-ss://NDZkYmFjOGItZWFiYS00Mjc1LTk0MGMtODE5Zjk1ZDE2OTE2Og==@104.17.249.203:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.17.249.203:443
-ss://MTAxMDUwMWEtY2E5YS00NzljLTg0ZDAtMTMwOGQ5Nzc4OWI1Og==@104.21.25.228:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.25.228:443
-ss://ODliM2NiYmEtZTZhYy00ODVhLTk0ODEtOTc2YTA0MTVlYWI5Og==@172.66.44.95:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.66.44.95:443
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.248:8882#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.248:8882
-ss://YWVzLTI1Ni1jZmI6U241QjdqVHFyNzZhQ0pUOA==@103.172.116.79:9097#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9097
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphY2trb2tPaQ==@92.223.109.205:51348#🔒 SS-TCP-NA 🇷🇺 RU-92.223.109.205:51348
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.157.40.83:6379#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.83:6379
-ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.18.3.29:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.18.3.29:80
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.77.53.200:5004#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:5004
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.111.114.133:8888#🔒 SS-TCP-NA 🇨🇦 CA-38.111.114.133:8888
-ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@172.67.163.153:80#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.163.153:80
-ss://OWU2N2YxNWMtMTc4Zi00OTRjLWE4NDMtZjM3MWUzYjNmYTVkOg==@198.41.212.30:8080#🔒 SS-TCP-NA 🏴‍☠️ NA-198.41.212.30:8080
-ss://NDQzN2FmM2QtOWQwNi00ZjM2LTg2YzYtYmQ0MTYzOGE2NjU3Og==@104.21.77.3:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.77.3:443
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.86.135.185:443#🔒 SS-TCP-NA 🇺🇸 US-38.86.135.185:443
