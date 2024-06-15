@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://678ac895-92c2-4f27-a9d4-f1a89c5f5365@168.100.6.132:2087?security=tls&sni=mositr.freenods.sbs&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-168.100.6.132:2087
-vless://7b790c95-e4a0-45e8-961c-f962b688f773@172.66.213.100:80?security=none&type=ws&host=V2ray-Vip-Mci.xn--85-pv2cl2k5x3fipr.org.&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.213.100:80
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@43.154.104.77:443?security=tls&sni=xin022.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇭🇰 HK-43.154.104.77:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.94.169.235:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇦 UA-45.94.169.235:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@150.230.221.148:443?security=tls&sni=zdy331.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇯🇵 JP-150.230.221.148:443
@@ -603,3 +601,5 @@ trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.53:2083?security=tls&sni
 trojan://6455f944-7c07-4ab0-b88f-440e581f41d9@182.209.240.254:443?#🔒 TR-TCP-NA 🇰🇷 KR-182.209.240.254:443
 trojan://auto@3.35.139.150:8443?security=tls&sni=vip.123789.pp.ua&type=ws&host=vip.123789.pp.ua&path=%2FproxyIP%3Dproxyip.oracle.fxxk.dedyn.io&fp=randomized&alpn=http%2F1.1#🔒 TR-WS-TLS 🇰🇷 KR-3.35.139.150:8443
 trojan://Libertas*One*E*@104.21.67.195:443?security=tls&sni=ironone.libertasiran.cloud&type=ws&path=%2Fn890&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.67.195:443
+trojan://656bcdfe-ae09-4170-a36e-1685ee10b26f@162.159.136.232:2083?security=tls&sni=missyousir.segaro.tech&type=ws&host=missyousir.segaro.tech&path=/OVmkPBATL0FijQ3AWVBo&fp=chrome&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.136.232:2083
+trojan://0fd9b883-0551-4ed1-b978-528183b459a2@8.217.123.243:2087?security=tls&sni=mfjd.591haoka.com&type=ws&host=mfjd.591haoka.com#🔒 TR-WS-TLS 🇭🇰 HK-8.217.123.243:2087
