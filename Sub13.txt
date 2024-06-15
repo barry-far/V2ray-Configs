@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.64.96.255:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.96.255:443
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.70.202:2096?security=tls&sni=yRe2-jUd7-nN-72-OuEhgA6-UebaFx-23kl.paGEs.dEV&type=ws&path=%2FyoKAXAhz5JeXP6PO%2FdWFlMS5veG5ldHdvcmtzLmxpbms&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.70.202:2096
 vless://04289dbf-9c65-444b-8bcc-c39282708770@45.140.167.94:443?security=tls&sni=sourceforge.net&type=grpc&serviceName=grpc&fp=chrome#🔒 VL-GRPC-TLS 🇬🇧 GB-45.140.167.94:443
 vless://77de458b-5d58-4379-927a-7e749b2d17f8@172.67.197.82:443?security=tls&sni=test.gold15.ir&type=grpc&serviceName=fast.com&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.197.82:443
 vless://7379eb18-959d-4b33-ddf7-e9369a0e1769@170.114.46.169:443?security=tls&sni=ger.vwfghin.info&type=grpc#🔒 VL-GRPC-TLS 🇺🇸 US-170.114.46.169:443
@@ -601,5 +603,3 @@ vless://ce12313e-dab2-49ee-8806-399eb91136b2@104.17.248.203:2096?security=tls&sn
 vless://112435f2-9343-490c-a420-2e990f7f349f@85.9.102.114:32368?security=none&type=tcp&path=/m&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.9.102.114:32368
 vless://01ab9337-f478-4765-9534-88f009f83ddb@47.237.14.220:2053?security=tls&sni=aut331.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-47.237.14.220:2053
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.108.228:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.108.228:80
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.199.233:2053?security=tls&sni=kk111.ylks.link&type=ws&path=%2Fyoutube-%E7%94%B1%E9%9B%B6%E9%96%8B%E5%A7%8B#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.199.233:2053
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.218.201.73:80?security=none&type=ws&path=%2Fblue#🔒 VL-WS-NONE 🇭🇰 HK-8.218.201.73:80

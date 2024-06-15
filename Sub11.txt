@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://97d9db8c-5756-4e2f-8462-8ede639c0a1f@185.237.13.191:8880?security=none&type=tcp#🔒 VL-TCP-NONE 🇬🇧 GB-185.237.13.191:8880
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.61:443?security=tls&sni=hk800.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.61:443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.19.63.58:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.63.58:80
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.25.2.60:443?security=tls&sni=dW-3r-B4p-Bh3c-2t1-42-v-NwW01-D0N-2k3-PfIW-n1yW-AfrEB-c65.pAgeS.DeV&type=ws&host=dw-3R-B4P-Bh3C-2t1-42-v-NwW01-d0n-2k3-PfiW-N1Yw-aFREB-C65.PagES.deV&path=%2F-----------bia-Kanal-Free_V2rng-----------%3D%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.2.60:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.137.88:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.137.88:443
@@ -601,5 +603,3 @@ vless://532d46c5-7625-4aab-887b-200c5da2849a@104.21.20.112:80?security=none&type
 vless://72be266b-6278-4766-9c4f-81a0f4040f52@93.123.11.11:443?security=tls&sni=vipclassc.serveminecraft.net&type=ws&host=vipclassc.serveminecraft.net&path=%2FVIPCLASSC&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇬🇧 GB-93.123.11.11:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.252.165:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.252.165:80
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.197.52:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.197.52:80
-vless://92c12734-d19e-40a1-f7a2-1735711d039b@104.21.25.178:443?security=tls&sni=slayer.mestavorze.workers.dev&type=ws&host=slayer.mestavorze.workers.dev&path=/downloader/32185&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.25.178:443
-vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@190.93.246.166:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.246.166:443
