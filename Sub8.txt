@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://ed0dc7de-364f-4228-abf6-b027890bcd93@104.26.6.214:2083?security=tls&sni=cf.yicanny.com&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.6.214:2083
-vless://5925eed9-c282-4eac-ffc0-871cfaaaf8de@185.146.173.82:443?security=tls&sni=21A455A7F7F7a7ecc5bF3c2035014a107f7894799456828eC84075ba9eDA7f1.auiyf.com&type=ws&host=21A455A7F7F7a7ecc5bF3c2035014a107f7894799456828eC84075ba9eDA7f1.auiyf.com&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.82:443
 vless://112435f2-9343-490c-a420-2e990f7f349f@85.9.102.114:32368?security=none&type=tcp&path=/m&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.9.102.114:32368
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.22.15.132:2053?security=tls&sni=jp010.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.15.132:2053
 vless://5d8b1149-8f78-4154-a647-16563ec99c8a@172.67.154.101:443?security=tls&sni=hello-world-empty-feather-0943.sitosa5105.workers.Dev&type=ws&host=hello-world-empty-feather-0943.sitosa5105.workers.Dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.154.101:443
@@ -603,3 +601,5 @@ vless://e6aedcd2-24ad-4bdd-82c5-006d84179197@104.18.202.232:443?security=tls&sni
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.232:2083?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.232:2083
 vless://25d5ece5-8952-4529-98fa-30b09bacd307@172.67.204.84:2053?security=tls&sni=Ter.Iranasanejesh.org&type=grpc&serviceName=@Catvpns@Catvpns@Catvpns@Catvpns@Catvpns@Catvpns@Catvpns@Catvpns#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.204.84:2053
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@141.11.202.123:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F#🔒 VL-WS-TLS 🇫🇷 FR-141.11.202.123:443
+vless://b698d363-fc2f-4cf3-bb24-9edca375b34b@172.67.155.34:443?security=tls&sni=irnv2ray.irnv2ray.workers.dev&type=ws&host=irnv2ray.irnv2ray.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.155.34:443
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.99.136:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.99.136:80
