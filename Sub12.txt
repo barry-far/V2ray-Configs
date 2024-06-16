@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.156.225:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.156.225:80
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.19.174.68:443?security=tls&sni=jp070.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.174.68:443
 vless://130a1c25-e0f0-4a43-9e2c-6d4ce6290681@46.226.162.42:443?security=tls&sni=gbr01.abvpn.ru&type=ws&path=/websocket&fp=chrome#🔒 VL-WS-TLS 🇬🇧 GB-46.226.162.42:443
 vless://926c7f49-52f8-4904-f2c6-550ede4794e5@185.109.21.198:2096?security=tls&sni=bomb.epsia.cfd&type=grpc&serviceName=@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇷🇺 RU-185.109.21.198:2096
@@ -603,3 +602,4 @@ vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@144.21.51.110:443?security=tls&sni=
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.27.210:80?security=none&type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.27.210:80
 vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@152.70.82.108:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇯🇵 JP-152.70.82.108:443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@172.67.207.234:80?security=none&type=ws&host=us1.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.207.234:80
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.130.7:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.130.7:80
