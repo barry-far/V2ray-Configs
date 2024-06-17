@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://ce12313e-dab2-49ee-8806-399eb91136b2@104.18.23.19:2096?security=tls&sni=api1.htve.ir&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.23.19:2096
+vless://a9aade56-6aaf-4212-a65b-21d11add48f7@104.19.54.50:8080?security=none&type=ws&host=WWW.photoggenic.com.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.54.50:8080
+vless://73f0da18-c165-4dd6-9a1c-d33f8d124186@104.17.148.22:2082?security=none&type=ws&host=列列男事的事列上赛男.novaball.LINK.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.148.22:2082
+vless://6dc254fd-c36e-413f-ad4b-39bb76e420ed@66.235.200.107:8443?security=tls&sni=vmessorg.xn--54qv00ez5ar77g.co&type=ws&host=vmessorg.xn--54qv00ez5ar77g.co&path=/&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-66.235.200.107:8443
+vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.16.160.137:443?security=tls&sni=BiA-PAiN-bAcHe.PAGes.deV&type=ws&host=bIA-PAIN-BacHe.pAGeS.DEV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.160.137:443
+vless://39e42da6-c027-44ac-9112-0cbf23666a1a@128.140.127.204:8443?security=none&type=ws&host=Mark.miracletaxbits.top.&path=/V2rayyngvpn#🔒 VL-WS-NONE 🇩🇪 DE-128.140.127.204:8443
 vless://d863d446-d17b-4105-b372-dcc53581fb3f@185.83.183.155:42147?security=none&type=tcp&host=amirzaplus.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.83.183.155:42147
 vless://514d4474-fe80-45ba-9b69-0c86fe4201eb@23.227.60.56:8080?security=none&type=ws&host=su2.mahanocean.ir#🔒 VL-WS-NONE 🇨🇦 CA-23.227.60.56:8080
 vless://dd516f31-d139-4655-990e-2a0dfab6aab2@185.146.173.25:2052?security=none&type=ws&host=baStani-kim.vipNufilter.oNline.#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.25:2052
@@ -597,9 +603,3 @@ trojan://auto@172.66.44.131:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&t
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@198.41.220.2:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.2:443
 trojan://auto@188.114.99.222:443?security=tls&sni=migekehcode27.kiwaja6458.workers.dev&type=ws&host=migekehcode27.kiwaja6458.workers.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-188.114.99.222:443
 trojan://EgAMtxAquaO78-IvTSWpnQ@104.17.182.232:2096?security=tls&sni=mrz.learnturkishspeech.fun&type=ws&host=mrz.learnturkishspeech.fun&path=/book#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.182.232:2096
-trojan://0e81a9cd-d849-4101-8d64-574c283207de@172.67.204.84:2083?security=tls&sni=de1.trojanvpn.de&type=ws&host=de1.trojanvpn.de&path=/websocket#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.204.84:2083
-trojan://auto@104.21.69.44:2087?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.69.44:2087
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.232:2096?sni=tjjd.yzyx1.v6.army#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.53.232:2096
-trojan://NISHIKUITAN222@104.26.13.31:443?security=tls&sni=t600.ylks.link&type=ws&host=t600.ylks.link&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.13.31:443
-trojan://NISHIKUITAN222@8.219.161.129:8443?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.161.129:8443
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.230:2096?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.230:2096
