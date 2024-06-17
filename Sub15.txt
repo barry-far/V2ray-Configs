@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://25ab221a-c3b8-4196-8519-a2f3176629c2@172.105.252.35:2003?security=tls&sni=in-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇮🇳 IN-172.105.252.35:2003
+vless://0905460d-6edc-4a82-8ec8-6b76090b41c8@104.21.2.27:443?security=tls&sni=who-cares.BacheBiaPain.IR&type=ws&host=who-cares.BacheBiaPain.IR&path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2048&fp=randomized&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.2.27:443
+vless://d480372f-6596-4177-ae85-28af07adf1cb@104.21.37.97:2053?security=tls&sni=selinc--5--selinc--5--selinc.muosqv.workers.dev&type=ws&host=selinc--5--selinc--5--selinc.muosqv.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=safari&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.37.97:2053
+vless://297121ff-c2a0-4f7a-b17c-8517e1e43707@172.67.209.25:443?security=tls&sni=easynet23.mfrpb.workers.dev&type=ws&host=easynet23.mfrpb.workers.dev&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.209.25:443
 vless://6e643b53-f30a-443d-a069-c5826f365403@188.114.97.122:2087?security=tls&sni=sni2.tohid3aeed.com&type=ws&host=sni2.tohid3aeed.com&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.122:2087
 vless://abaedaf5-8ccc-4b47-9fbe-2805a753d094@172.67.139.60:80?security=none&type=ws&host=8c6baad81228c5e4.rebeetb.eu.Org#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.139.60:80
 vless://d342d11e-d424-4583-b36e-524ab1f0afa5@172.67.215.214:443?security=tls&sni=telegram-vpnhttpinjectorfree-1.childnotnamed.workers.dev&type=ws&host=telegram-vpnhttpinjectorfree-1.childnotnamed.workers.dev&path=%2F%3Fed%3D2048&fp=randomized&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.215.214:443
@@ -599,7 +603,3 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.251.34:80?security=none&type
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.243.92:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.243.92:443
 vless://79dcfd28-02af-42fd-af73-232f31ae0201@104.21.13.248:8880?security=none&type=ws&host=kiava.aws.amazon.com.fx.debian.org.speedtest.net.xn--mgba2h8quf.kiava.fun#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.13.248:8880
 vless://a8940256-38a9-4fa6-afb8-a8304aa796d3@104.21.79.143:8443?security=tls&sni=no1.v2vless.xyz&type=ws&host=no1.v2vless.xyz&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.79.143:8443
-vless://775213ac-3976-439a-8977-3277c0e4735d@62.72.166.67:2096?security=tls&sni=fq521.6789.cloudns.be&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇯🇴 JO-62.72.166.67:2096
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.113.100:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.113.100:80
-vless://79dcfd28-02af-42fd-af73-232f31ae0201@104.26.15.148:8880?security=none&type=ws&host=kiava.aws.amazon.com.f1.debian.org.speedtest.net.xn--mgba2h8quf.kiava.fun#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.15.148:8880
-vless://d672ec4f-afba-4f61-af09-eec872f97e99@104.18.29.181:8443?security=tls&sni=test75.pages.dev&type=ws&host=test75.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.29.181:8443
