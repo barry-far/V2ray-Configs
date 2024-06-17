@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://9fd51347-19c6-4c38-a245-4daf385279e2@151.101.15.164:80?security=none&sni=pardazeshvpn.tg2.com&type=ws&host=pardazeshvpn.tg2.com&path=%2FTelegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN%3Fed%3D2048&fp=chrome#🔒 VL-WS-NONE 🇺🇸 US-151.101.15.164:80
+vless://0b3726cf-675e-44d3-a38b-89f4c8973053@172.67.212.172:80?security=none&type=ws&host=1.1.1.1.netmaask.site.com.nursiii.shop&path=%2F%40Netmaask%40Netmaask%40Netmaask%40Netmaask%40Netmaask%40Netmaask%40Netmaask%40Netmaask%40Netmaask#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.212.172:80
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@104.26.5.60:443?security=tls&sni=xin009.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.5.60:443
+vless://02b66e2f-4582-4b30-8590-de3c17c249c3@172.67.197.118:2096?security=tls&sni=mhunitedkimgdomlondonv2raymhcn27.wagnervpn.org&type=grpc&serviceName=www.speedtest.net&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.197.118:2096
+vless://9f98310e-25c2-4016-9d3c-8adaa8b160dc@104.16.12.44:2087?security=tls&sni=agtw4gmgtuulnbadgfxbsyjtdhsryw4nd.fqservers.com&type=ws&host=agtw4gmgtuulnbadgfxbsyjtdhsryw4nd.fqservers.com&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.12.44:2087
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.222.38:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.222.38:80
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@198.41.212.232:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.212.232:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.128.214:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.128.214:80
@@ -598,8 +603,3 @@ trojan://NISHIKUITAN222@146.56.171.182:11659?security=tls&sni=t331.ylks.link&typ
 trojan://0fd9b883-0551-4ed1-b978-528183b459a2@8.217.181.213:2087?security=tls&sni=mfjd.591haoka.com&type=ws&host=mfjd.591haoka.com&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🇭🇰 HK-8.217.181.213:2087
 trojan://ypDt8RkT7J@51.158.217.161:43118?security=tls&sni=tewmk.phooeyunfold.com&type=tcp&fp=random&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-51.158.217.161:43118
 trojan://0cb2cd1f-870b-485c-914a-60aba39eed39@82.192.82.227:443?#🔒 TR-TCP-NA 🇳🇱 NL-82.192.82.227:443
-trojan://2cba4104747d49d18319e5ade1b93ab5@198.41.220.18:443?security=tls&sni=avianrecruit.com&type=ws&host=avianrecruit.com&path=6b777a91&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.18:443
-trojan://0fd9b883-0551-4ed1-b978-528183b459a2@8.218.173.78:2083?security=tls&sni=mfjd.591haoka.com&type=ws&host=mfjd.591haoka.com#🔒 TR-WS-TLS 🇭🇰 HK-8.218.173.78:2083
-trojan://984e400bf5d541b7b0815913fe0c432a@104.16.159.5:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.5:443
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.109:8443?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.109:8443
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.157:2087?sni=tjjd.yzyx1.v6.army&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.53.157:2087
