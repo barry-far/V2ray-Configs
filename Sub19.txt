@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.209.127:2053?security=tls&sni=jp111.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.209.127:2053
-vless://2cb02f6c-b29d-4f57-b347-f81a681d77bc@140.99.233.31:2053?security=tls&sni=v2rayfree1.iraninjas.site&type=grpc&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🇩🇪 DE-140.99.233.31:2053
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.16.2.189:443?security=tls&sni=gOdZillA-mR-DaRKarSha-ONETOpKIng.PaGEs.dEV&type=ws&host=GodZiLla-Mr-darkarsha-ONeTOPKING.pAGes.DEv&path=%2FhmBvkyQIpkFvHI5p%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.2.189:443
-vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.221.66:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.221.66:443
-vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.160.41:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.160.41:443
-vless://0ebb1677-4902-476f-bc03-3e8c7ca6fd21@104.21.80.190:8880?security=none&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.80.190:8880
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.113.95:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.113.95:80
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.176.108:80?type=ws&host=kr1.175852.xyz&path=%2Fabcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.176.108:80
 vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@152.70.175.23:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇩🇪 DE-152.70.175.23:443
@@ -603,3 +597,9 @@ trojan://e5f9c753-d401-487f-a77b-1004b7f0f439@64.110.68.141:20102?security=tls&s
 trojan://ypDt8RkT7J@121.127.46.131:43118?security=tls&sni=tpmrt.phooeyunfold.com&type=tcp&fp=chrome&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-121.127.46.131:43118
 trojan://ypDt8RkT7J@213.186.36.123:43118?security=tls&sni=wylbe.phooeyunfold.com&type=tcp&fp=chrome&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-213.186.36.123:43118
 trojan://NISHIKUITAN222@172.67.155.195:443?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.155.195:443
+trojan://NISHIKUITAN222@8.219.111.175:8443?security=tls&sni=t221.ylks.link&type=ws&host=t221.ylks.link&path=%2F#🔒 TR-WS-TLS 🇸🇬 SG-8.219.111.175:8443
+trojan://a2c8194b-fcfd-4c39-a6bd-31ea9f4ea671@54.37.220.201:443?security=tls&sni=upload.soft98.download&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇫🇷 FR-54.37.220.201:443
+trojan://NISHIKUITAN222@47.237.100.206:8443?security=tls&sni=t009.ylks.link&type=ws&host=t009.ylks.link&path=%2F#🔒 TR-WS-TLS 🇸🇬 SG-47.237.100.206:8443
+trojan://36360cc3-957a-4597-9abf-f73f29641ee3@104.18.202.232:443?security=tls&sni=rand.gcorecloud.info&type=grpc&serviceName=0uXZLEZPdjyKouXtRbzQXkBQQ&fp=chrome&alpn=h2#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.18.202.232:443
+trojan://telegram-id-privatevpns@54.220.120.45:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-54.220.120.45:22222
+trojan://c8742e83-c325-4332-a427-9cdc997a4775@185.143.233.225:443?security=tls&sni=dl.allavatar.top&type=ws&host=dl.allavatar.top&path=/tr/t/tNtL/gfdr#🔒 TR-WS-TLS 🇮🇷 IR-185.143.233.225:443
