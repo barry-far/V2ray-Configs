@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.238.228.212:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇪🇸 ES-185.238.228.212:443
 vless://fa80408d-f7ce-4c96-ac0b-6c1b791b5b69@23.227.39.179:2053?security=tls&sni=n2vpn.projectis.ir&type=ws&host=n2vpn.projectis.ir&path=/@n2vpn&fp=chrome#🔒 VL-WS-TLS 🇨🇦 CA-23.227.39.179:2053
 vless://ce12313e-dab2-49ee-8806-399eb91136b2@104.21.7.50:2096?security=tls&sni=api1.htve.ir&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.7.50:2096
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.88.241:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇱🇺 LU-188.42.88.241:443
@@ -602,4 +603,3 @@ trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.168:2087?security=tls&sn
 trojan://96884680-77e6-11eb-8d67-1239d0255272@163.172.211.74:443?sni=nl-trojan.bonds.id#🔒 TR-TCP-NA 🇳🇱 NL-163.172.211.74:443
 trojan://NISHIKUITAN222@47.236.232.148:8443?security=tls&sni=t221.ylks.link&type=ws&host=t221.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-47.236.232.148:8443
 trojan://d8fd60d7-4c50-47c8-9e2d-adf37ad81af4@172.207.175.114:443?#🔒 TR-TCP-NA 🇯🇵 JP-172.207.175.114:443
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.132:8443?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.53.132:8443
