@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://9237e8fb-70d3-4405-bb73-69f4ed40b26b@188.114.97.167:8880?security=none&type=ws&host=de1ocean.mohamadphp.ir&path=/vless#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.97.167:8880
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.238.228.184:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇪🇸 ES-185.238.228.184:443
+vless://d7858867-cb84-41b6-84a8-f59c94170f48@104.21.51.44:2053?security=tls&sni=Loop.v2rayvpn2.sbs&type=grpc&serviceName=@piavpngo-@piavpngo-@piavpngo-@piavpngo-@piavpngo-@piavpngo-@piavpngo-&alpn=http/1.1,h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.51.44:2053
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.111.164:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.111.164:443
 vless://779ff60c-334e-43f0-b8f7-87392b3d8018@185.146.173.18:80?security=none&type=ws&host=bia-channel-hajimamad-join-bede.golden-ping.ir#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.18:80
 vless://51baeda8-1288-458a-b5ae-b8b080b937b6@104.16.60.8:8880?type=ws&host=xn--7xvv6b.xn--gtvy9j.xn--vl1axf.xn--2024-965f794bzbu32k74w57mfzf.site.#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.60.8:8880
@@ -600,6 +603,3 @@ trojan://9ace71cd-912b-47b4-9fe4-444fdc00070d@195.123.213.46:443?security=tls&sn
 trojan://0fd9b883-0551-4ed1-b978-528183b459a2@8.218.228.152:2096?security=tls&sni=mfjd.591haoka.com&type=ws&host=mfjd.591haoka.com#🔒 TR-WS-TLS 🇭🇰 HK-8.218.228.152:2096
 trojan://5041df4c-b3ae-481d-adf9-79b39f4810f2@172.67.148.211:2083?security=tls&sni=taqboostan.zagros.top&type=grpc&serviceName=OVmkPBATL0FOwZU9iYzyeZwbq&fp=chrome&alpn=h2#🔒 TR-GRPC-TLS 🏴‍☠️ NA-172.67.148.211:2083
 trojan://36d48ba9-7445-4b41-b210-58f4e07a627a@104.31.16.120:443?security=tls&sni=in01.trojanyyds.xyz&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.31.16.120:443
-trojan://qG9K8AGnn9XH5jUqeFu96g@104.16.123.175:2083?security=tls&sni=cdn13.cdn2cdn.com&type=ws&host=cdn13.cdn2cdn.com&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.123.175:2083
-trojan://qj1Dz1CJmFQRhWr1SP80aA@104.21.69.44:443?sni=cdn-21.gsmxreality.com&type=grpc&serviceName=443trojan&allowInsecure=1#🔒 TR-GRPC-NA 🏴‍☠️ NA-104.21.69.44:443
-trojan://pUxG77WPOZ@104.18.203.232:80?security=none&type=ws&host=s9.in01.tech&path=/#🔒 TR-WS-NONE 🏴‍☠️ NA-104.18.203.232:80
