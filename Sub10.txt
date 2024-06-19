@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://16b7b47f-48cc-424b-a9c0-fdd33e835042@45.56.67.132:443?security=tls&sni=us2-full.privateip.net#🔒 TR-TCP-TLS 🇺🇸 US-45.56.67.132:443
-trojan://299025b9-6b55-430c-be38-9a18c06873ac@91.199.84.122:12069?sni=china4.one.edu.kg&allowInsecure=1#🔒 TR-TCP-NA 🇭🇰 HK-91.199.84.122:12069
-trojan://2cba4104747d49d18319e5ade1b93ab5@104.18.22.19:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=6b777a91&fp=chrome&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.22.19:443
-trojan://656bcdfe-ae09-4170-a36e-1685ee10b26f@162.159.138.232:2083?security=tls&sni=missyousir.segaro.tech&type=ws&host=missyousir.segaro.tech&path=/OVmkPBATL0FijQ3AWVBo&fp=chrome&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.138.232:2083
 trojan://904dd222-2514-4a68-9185-32f89113afd9@152.70.240.180:24852?sni=kr01.freeflyingcloud.xyz&allowInsecure=1#🔒 TR-TCP-NA 🇰🇷 KR-152.70.240.180:24852
 trojan://ca4596fb9bc63cf2@134.195.101.32:3389?#🔒 TR-TCP-NA 🇺🇸 US-134.195.101.32:3389
 trojan://NISHIKUITAN222@8.219.49.65:8443?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.49.65:8443
@@ -603,3 +599,7 @@ ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.83:8091#🔒 SS-TCP-NA 🇺�
 ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.17.63.56:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.17.63.56:80
 ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@172.67.2.238:80#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.2.238:80
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@54.36.174.181:8119#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:8119
+ss://MWQxYTcxOTMtNjFhOS00ZmMxLTk3NzgtZGQ1MTdjZjlmOTE5Og==@172.67.136.208:8443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.136.208:8443
+ss://NDA0NWM2YjctMWQ1My00NTc0LTk4Y2QtZGYyMWRiNDBiMGRjOg==@172.67.106.126:2053#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.106.126:2053
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206UFc0TE91eXVwbGhVTTRmWEQrdjdoNkNvcFdEMlNpNGlPTjF5Qzdab1pHUT06aysvbmlCQnQwMUQ3OEpKTEZHY3B4cHlISngwN2J3dWFKdlVVSXVjTnNHTT0=@172.67.204.84:8880#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.204.84:8880
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5RWxpMHZ5b0xNUkNRcWxuNkhVVlpFT3JFcWpHN0FlZmo2UkJ1eHN4TVFoTWV2T2s=@130.0.233.247:51348#🔒 SS-TCP-NA 🇺🇦 UA-130.0.233.247:51348
