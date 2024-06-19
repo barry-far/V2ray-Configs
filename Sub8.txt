@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://eb3ad716-faf4-417e-85d2-b0504e3a7912@162.159.136.234:8443?security=tls&sni=discord.gg&type=grpc&serviceName=@u3erVpn&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.136.234:8443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@205.233.181.109:443?security=tls&sni=kk111.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.109:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.178.127:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.178.127:443
 vless://2ca42987-551b-4494-a854-da2d9178f4cd@104.18.15.19:2087?security=tls&sni=MpHnPvWn22.zImBa-zUlA.OrG&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.15.19:2087
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.18.250.109:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇨🇭 CH-185.18.250.109:443
@@ -603,3 +601,5 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.243.86.79:80?security=none&type=
 vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@130.61.185.98:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇩🇪 DE-130.61.185.98:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.210.34.188:80?security=none&type=ws&path=/blue#🔒 VL-WS-NONE 🇭🇰 HK-8.210.34.188:80
 vless://cbacaab-acba-bcaa-cdba-bcaabcbccbaa@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
+vmess://eyJhZGQiOiAiMTI3LjAuMC4xIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImNiYWFiY2EtYWNiYS1hY2JhLWRiYWMtYmNiYmFiY2NjYWFhIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6IDEwODAsICJwcyI6ICJcdWQ4M2RcdWRkMDQgTEFURVNULVVQREFURSBcdWQ4M2RcdWRjYzUgV0VELTMwLUtIT1JEQUQtMTQwMyBcdWQ4M2RcdWRkNTEgMTA6NTUiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
+vmess://eyJhZGQiOiAiMzguNzUuMTM3LjI3IiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogIjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMjIzMjQiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMtMzguNzUuMTM3LjI3OjIyMzI0IiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=

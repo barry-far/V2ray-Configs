@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://telegram-id-directvpn@3.140.129.167:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇺🇸 US-3.140.129.167:22222
-trojan://904dd222-2514-4a68-9185-32f89113afd9@152.70.240.180:24852?sni=kr01.freeflyingcloud.xyz&allowInsecure=1#🔒 TR-TCP-NA 🇰🇷 KR-152.70.240.180:24852
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@198.41.220.12:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.12:443
 trojan://ypDt8RkT7J@151.115.83.239:43118?security=tls&sni=egajz.phooeyunfold.com&type=tcp&fp=chrome&alpn=http/1.1#🔒 TR-TCP-TLS 🇵🇱 PL-151.115.83.239:43118
 trojan://6d8ab172-b064-4c44-9b16-373ec932d31a@178.79.140.181:443?security=tls&sni=uk2-full.privateip.net&allowInsecure=1#🔒 TR-TCP-TLS 🇬🇧 GB-178.79.140.181:443
@@ -603,3 +601,5 @@ ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@145.239.6.202:8009#🔒 SS-TCP-NA 🇬
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.235.49.152:989#🔒 SS-TCP-NA 🇮🇸 IS-37.235.49.152:989
 ss://ZWI0NGUxYzctZTViYS00NDQ2LTgwN2MtYTA3NjhhOGY0NTg5Og==@104.16.120.12:2083#🔒 SS-TCP-NA 🏴‍☠️ NA-104.16.120.12:2083
 ss://MTAxMDUwMWEtY2E5YS00NzljLTg0ZDAtMTMwOGQ5Nzc4OWI1Og==@172.67.134.218:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.134.218:443
+ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6TUVpRi9sWTZhQ1lWTXhGRDBaTWVJc1ZWOXprU3VlcU1zbVVxY01PNzJDdz0=@178.62.199.238:443#🔒 SS-TCP-NA 🇳🇱 NL-178.62.199.238:443
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.75.136.6:5500#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.6:5500
