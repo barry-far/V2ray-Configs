@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.218.210:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.218.210:443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.135.237:80?security=none&type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.135.237:80
 vless://538ec70c-b386-51ad-8155-aeaed37a22b6@104.27.5.195:8443?security=tls&sni=newus.sspeednetokala.Us.kg&type=ws&host=newus.sspeednetokala.Us.kg&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.27.5.195:8443
 vless://40bd0854-8a76-428a-993d-fea77db2a59d@172.67.69.236:8443?security=tls&sni=telegram-falcunargo-stoniya.falcunar.asso.eu.org.&type=ws&host=telegram-falcunargo-stoniya.falcunar.asso.eu.org.&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.69.236:8443
@@ -603,3 +602,4 @@ trojan://NISHIKUITAN222@47.236.17.193:8443?sni=t221.ylks.link#🔒 TR-TCP-NA �
 trojan://compassvpn-794T1C3EDa@104.17.223.175:2083?security=tls&sni=147457129.19kala.co&type=ws&host=147457129.19kala.co&path=/&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.223.175:2083
 trojan://0cb2cd1f-870b-485c-914a-60aba39eed39@185.107.56.52:443?#🔒 TR-TCP-NA 🇳🇱 NL-185.107.56.52:443
 trojan://cd1a8365-bc1f-4af6-a064-5dee051f0690@172.232.250.227:443?#🔒 TR-TCP-NA 🇮🇩 ID-172.232.250.227:443
+trojan://f159cb8d-8cb8-45ac-99f3-8f8838f355dd@91.194.11.168:443?#🔒 TR-TCP-NA 🇨🇦 CA-91.194.11.168:443
