@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.80.111.198:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇩🇪 DE-45.80.111.198:443
 vless://79dcfd28-02af-42fd-af73-232f31ae0201@172.67.73.174:8880?security=none&type=ws&host=kiava.aws.amazon.com.f1.debian.org.speedtest.net.xn--mgba2h8quf.kiava.fun#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.73.174:8880
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.105.76:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.105.76:80
 vless://a2c96a8e-0dec-49f3-945b-efb6353c11e8@23.227.39.179:2096?security=tls&sni=n2vpn.projectis.ir&type=ws&host=n2vpn.projectis.ir&path=/@n2vpn&fp=chrome#🔒 VL-WS-TLS 🇨🇦 CA-23.227.39.179:2096
@@ -603,3 +602,4 @@ trojan://telegram-id-privatevpns@35.180.153.82:22222?security=tls&sni=trojan.bur
 trojan://EgAMtxAquaO78-IvTSWpnQ@104.16.65.148:2096?security=tls&sni=mrz.learnturkishspeech.fun&type=ws&host=mrz.learnturkishspeech.fun&path=/book#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.65.148:2096
 trojan://affae2e0-e84b-11ec-b09f-1239d0255272@172.104.51.247:443?#🔒 TR-TCP-NA 🇸🇬 SG-172.104.51.247:443
 trojan://qjIPNzdyWS@172.67.204.84:8080?security=none&type=ws&host=mmd.net.napster6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.fpsvpn.SHOP.#🔒 TR-WS-NONE 🏴‍☠️ NA-172.67.204.84:8080
+trojan://telegram-id-directvpn@16.170.77.20:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-16.170.77.20:22222
