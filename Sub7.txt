@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.26.13.31:2087?security=tls&sni=jp555.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.13.31:2087
-vless://1289c2a9-046d-43f6-b8b9-ba9b5945ee84@85.192.41.140:27900?security=none&type=tcp&host=kukala.ir&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇳🇱 NL-85.192.41.140:27900
-vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@104.21.46.106:443?security=tls&sni=edgu.pureboy.eu.org&type=ws&host=edgu.pureboy.eu.org&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.46.106:443
-vless://19cd42b4-36c9-4bee-ad2a-81287569c5fa@139.162.255.149:443?security=tls&flow=xtls-rprx-vision&sni=uk-freevmess.privateip.net&type=tcp&path=%2f&allowInsecure=1#🔒 VL-TCP-TLS 🇬🇧 GB-139.162.255.149:443
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.176.24.113:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-185.176.24.113:443
-vless://4534d7c9-c5dd-490a-9f14-75245f58ae01@51.195.149.115:26475?security=none&type=tcp#🔒 VL-TCP-NONE 🇬🇧 GB-51.195.149.115:26475
-vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@8.219.201.245:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇸🇬 SG-8.219.201.245:443
 vless://e4e7b149-8bd8-4266-8cbb-0987604dbc87@104.17.53.18:443?security=tls&sni=toujiediansigema.5112233.xyz&type=ws&host=toujiediansigema.5112233.xyz&path=%2FTG%40juzibaipiao%E5%81%B7%E8%8A%82%E7%82%B9%E6%AD%BB%E5%90%97#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.53.18:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.22.247:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.22.247:80
 vless://cf2c462f-4ebb-43b4-be8d-97fc3038f8a6@172.67.171.94:80?security=none&sni=fr2.vless.site&type=ws&host=Fr2.vless.site.&path=/vless+@hopev2ray,@hopev2ray#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.171.94:80
@@ -603,3 +596,10 @@ vless://44ad3873-4587-4d94-b6a6-d2b14e6310cc@172.67.158.16:2087?security=tls&sni
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.22.116.155:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇬🇧 GB-31.22.116.155:443
 vless://d7dd3a35b68b4992b319a85b8a1fc8e5@213.35.115.68:443?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org#🔒 VL-WS-TLS 🇸🇬 SG-213.35.115.68:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.221.106:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.221.106:80
+vless://7749a882-27cf-40f1-c90e-fd2040e46f60@104.31.16.155:80?security=none&type=ws&host=bpi.ir.bankmellat.ir.ilna.ir.jobinja.ir.iro.ir.karafarinbank.ir.mche.or.ir.cbi.ir.iran.gov.ir.khamenei.ir.esam.ir.bahesab.ir.ponisha.ir.parsian-bank.ir.refah-bank.ir.ime.ac.ir.irna.ir.bank-maskan.ir.bmi.ir.iauh.ac.ir.ebanksepah.ir.mahtabighadimi.sbs.&path=%2F&fp=chrome#🔒 VL-WS-NONE 🏴‍☠️ NA-104.31.16.155:80
+vless://fc1191c8-e724-482f-a492-90d3d386719c@104.21.18.174:2096?security=tls&sni=sisand.waztow.wOrkErS.DEv&type=ws&host=sisand.waztow.wOrkErS.DEv&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.18.174:2096
+vless://61958b98-d52a-420e-bb42-a3fd22985895@104.17.249.203:2096?security=tls&sni=italia.dalixw.fun&type=grpc&serviceName=.....&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.249.203:2096
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@204.93.210.6:2087?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-204.93.210.6:2087
+vless://342387f3-a105-4492-85fe-7e899de5e72c@95.164.116.35:2003?security=tls&sni=tr-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇹🇷 TR-95.164.116.35:2003
+vless://b3a313ec-7bea-5315-93ee-38ada6002bd8@185.148.106.74:80?security=none&type=ws&host=sany.sany27654.WORkeRs.dev&path=vless-ws%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇺🇸 US-185.148.106.74:80
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.130.230:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.130.230:443
