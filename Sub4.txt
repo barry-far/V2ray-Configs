@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.2:8443?security=tls&sni=a.ssll.gay&type=ws&path=twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.2:8443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.217.207.60:80?security=none&type=ws&path=/blue#🔒 VL-WS-NONE 🇭🇰 HK-8.217.207.60:80
 vless://e1ad1088-c7ab-4c06-83b1-27c8188e631b@104.18.14.229:443?security=tls&sni=cpanel.pharmaweb.info&type=ws&host=cpanel.pharmaweb.info&path=/wws&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.14.229:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.192.23:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.192.23:80
 vless://ee797f86-e248-40be-b8fc-200b977f4bfb@185.146.173.158:8443?security=tls&sni=footlo.argha-v2pedia.monster&type=grpc&serviceName=Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.158:8443
@@ -603,3 +601,5 @@ vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.210.161:8919?type=tcp&service
 vless://2deb6940-0b30-47f3-b06b-46498a120464@172.67.173.10:2087?security=tls&sni=b.liopiol.ir&type=ws&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.173.10:2087
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.217.220:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.217.220:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.74.155.26:80?security=none&type=ws&path=/blue#🔒 VL-WS-NONE 🇸🇬 SG-47.74.155.26:80
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.221.75:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.221.75:80
+vless://52de3fa6-1673-4918-a90d-21d2b69de98e@188.114.96.182:443?security=tls&sni=eb8c0c64.888766.pages.dev&type=ws&host=eb8c0c64.888766.pages.dev&path=%2Ftelegram-proxy_mtm%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.182:443
