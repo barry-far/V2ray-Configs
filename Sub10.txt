@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://559c3b5f-3dd1-47e4-94ad-017cb392a7ba@162.159.135.234:443?security=tls&sni=de1.trojanvpn.de&type=ws&host=de1.trojanvpn.dE&path=/path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.135.234:443
-trojan://auto@172.64.153.235:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.153.235:443
-trojan://d2382a15-ae45-40ab-8925-84792b584bd8@54.248.69.188:20230?sni=421421.xyz#🔒 TR-TCP-NA 🇯🇵 JP-54.248.69.188:20230
-trojan://ypDt8RkT7J@138.199.23.100:43118?security=tls&sni=radtz.phooeyunfold.com&type=tcp&fp=chrome&alpn=http/1.1#🔒 TR-TCP-TLS 🇯🇵 JP-138.199.23.100:43118
-trojan://0b1371aa-649d-41dc-9126-338c87936500@95.164.33.62:443?sni=sourceforge.net&type=ws&host=se1.trojanvpn.de&path=/websocket&allowInsecure=1#🔒 TR-WS-NA 🇸🇪 SE-95.164.33.62:443
-trojan://qjIPNzdyWS@104.21.69.44:8080?security=none&type=ws&host=mmd.net.napster6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.fpsvpn.SHOP.#🔒 TR-WS-NONE 🏴‍☠️ NA-104.21.69.44:8080
-trojan://NISHIKUITAN222@8.219.139.13:8443?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.139.13:8443
 trojan://8786fc10-c976-46a4-a97c-9f2056302f03@172.233.121.184:443?security=tls&sni=es-full.privateip.net&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇪🇸 ES-172.233.121.184:443
 trojan://a36dfa0e-5a34-4e77-8513-87350f38e0a6@104.16.35.41:443?security=tls&sni=lmtsg3.cfyun01.sbs&type=ws&host=lmtsg3.cfyun01.sbs&path=/CFYUN#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.35.41:443
 trojan://949ba53c-e322-44df-889c-77f7af870d2b@95.164.116.35:443?#🔒 TR-TCP-NA 🇹🇷 TR-95.164.116.35:443
@@ -603,3 +596,10 @@ ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@198.41.212.213:80#🔒
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@162.19.83.28:443#🔒 SS-TCP-NA 🇫🇷 FR-162.19.83.28:443
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.91.101.11:2375#🔒 SS-TCP-NA 🇺🇸 US-38.91.101.11:2375
 ss://ODliM2NiYmEtZTZhYy00ODVhLTk0ODEtOTc2YTA0MTVlYWI5Og==@162.159.137.232:443#🔒 SS-TCP-NA 🏴‍☠️ NA-162.159.137.232:443
+ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@198.41.204.93:80#🔒 SS-TCP-NA 🏴‍☠️ NA-198.41.204.93:80
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.120:8118#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.120:8118
+ss://NTUxMmJmNjktYTU2My00ZWE3LWJlMmItMmQxNGQyN2U2MzIzOg==@172.67.131.187:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.131.187:443
+ss://ODliM2NiYmEtZTZhYy00ODVhLTk0ODEtOTc2YTA0MTVlYWI5Og==@104.21.88.131:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.88.131:443
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.110.1.43:6679#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.43:6679
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzE1MzRmZi04M2EzLTQxMzctOTFiNy03OWUxNDQ0ODk2NDM=@46.232.123.37:50242#🔒 SS-TCP-NA 🇭🇰 HK-46.232.123.37:50242
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:800#🔒 SS-TCP-NA 🇨🇦 CA-134.195.196.178:800
