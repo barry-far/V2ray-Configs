@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://7f01595b-1195-4f98-b8ad-d06bd6ea906d@194.246.114.54:2003?security=tls&sni=hk-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇲🇩 MD-194.246.114.54:2003
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.22.247:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.22.247:80
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.15:443?security=tls&sni=kk700.ylks.link&type=ws&path=/blue#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.15:443
 vless://6f714a12-953b-40df-ba37-129e28abd39e@188.114.97.141:8080?security=none&type=ws&host=redc.servernet.fun.&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.97.141:8080
 vless://91968473-fe77-4d88-8bb4-7279279bc9d4@104.21.25.49:80?security=none&type=ws&host=Ua2.vless.site.&path=%2Fvless#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.25.49:80
@@ -603,3 +601,5 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.217.232.246:8443?security=tls&sni
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.126.210:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.126.210:80
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.90:443?security=tls&sni=kk600.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.90:443
 vless://1cee36ed-5b67-4d62-cb83-01c783ef6fa2@190.93.246.241:8443?security=tls&sni=antiV2ray-poV2ray-gRPC-WS.AhV2ray.fun&type=grpc&serviceName=@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-190.93.246.241:8443
+vless://35caec98-86de-4f38-a011-eb7e134446c7@172.67.197.28:443?security=tls&sni=anaSErViCeZilOrX.iXpUB.WORKErS.deV&type=ws&host=anaserVicEZIlOrX.IXPUb.WoRKErs.DEV&path=%2F@VPNHTTPInjectorfree#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.197.28:443
+vless://c1ba9a09-50a8-4656-959b-cd124deca7de@104.21.13.125:443?security=tls&sni=ru2.vless.site&type=ws&host=ru2.vless.site&path=%2Fvless&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.13.125:443

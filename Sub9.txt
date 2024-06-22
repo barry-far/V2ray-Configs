@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.243.107.148:8443?security=tls&sni=kk999.ylks.link&type=ws&path=/blue#🔒 VL-WS-TLS 🇭🇰 HK-47.243.107.148:8443
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.207.125:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.207.125:80
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.206.168:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.206.168:80
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.176.26.87:443?security=tls&sni=hk700.ylks.link&type=ws&path=/?proxyip#🔒 VL-WS-TLS 🇰🇿 KZ-185.176.26.87:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.152.172:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.152.172:80
@@ -603,3 +601,5 @@ trojan://dfbf0d67-f03d-4184-a224-c2d64a571f99@104.155.138.21:12340?#🔒 TR-TCP-
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.187:2087?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.53.187:2087
 trojan://d3e663d2-5cce-56e1-a199-2fec6078fcb4@104.16.201.94:8443?security=tls&sni=mailbox.CPIforPERSiA.uk&type=ws&host=mailbox.CPIforPERSiA.uk&path=trojan-ws%2F%3Fed&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.201.94:8443
 trojan://BO7e2KO_KlAjuJY-HYoabQ@104.21.3.201:443?security=tls&sni=n37-at.netzrun.com&type=ws&path=%2Fid#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.3.201:443
+trojan://299025b9-6b55-430c-be38-9a18c06873ac@91.199.84.122:12005?sni=cn1.one.edu.kg&allowInsecure=1#🔒 TR-TCP-NA 🇭🇰 HK-91.199.84.122:12005
+trojan://ypDt8RkT7J@151.115.83.239:43118?security=tls&sni=egajz.phooeyunfold.com&type=tcp&fp=random&alpn=http/1.1#🔒 TR-TCP-TLS 🇵🇱 PL-151.115.83.239:43118
