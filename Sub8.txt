@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://78dcde94-5b99-4dc0-a0a7-43c92df4f76b@45.152.112.197:80?security=none&type=tcp#🔒 VL-TCP-NONE 🇫🇷 FR-45.152.112.197:80
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.251:2053?security=tls&sni=a.ssll.gay&type=ws&path=twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.251:2053
 vless://062a0481-6aca-48a4-bf6f-cf59b365beba@78.39.47.164:11000?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇷 IR-78.39.47.164:11000
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.57.52:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.57.52:80
@@ -603,3 +602,4 @@ vless://21a0376a-22c9-44d0-873f-ecc8e646e692@172.67.171.58:80?security=none&type
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@188.244.122.152:443?security=tls&sni=v111.ylkszy.eu.org&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇩🇪 DE-188.244.122.152:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.209.139:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.209.139:80
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.152.89:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.152.89:80
+vless://f15ec648-5637-494e-a2be-0a2c8d757653@172.66.47.198:443?security=tls&sni=bc788f58.parsa-aryayi.pages.dev&type=ws&host=bc788f58.parsa-aryayi.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.198:443
