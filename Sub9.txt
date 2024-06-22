@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://fc1191c8-e724-482f-a492-90d3d386719c@104.21.18.174:8443?security=tls&sni=sisand.waztow.wORkERS.dEv&type=ws&host=sisand.waztow.wORkERS.dEv&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.18.174:8443
+vless://32235aa7-695c-4bac-b942-8ee6c0f35c46@104.18.5.250:8443?security=tls&sni=free2.fylink.tech&type=ws&host=free2.fylink.tech#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.5.250:8443
 vless://1f98b5cc-140f-46b4-987f-6936da9f2238@104.26.7.95:80?security=none&type=ws&host=crxre.ribiwa9933.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.7.95:80
 vless://1ff59fad-6cc6-4714-82b1-d4af47de08eb@185.162.228.7:80?security=none&type=ws&host=DiReCt49-13-163-226.CleAnMaRk.IR&path=/DiReCt49-13-163-226-CleAnMaRk-IR#🔒 VL-WS-NONE 🇦🇲 AM-185.162.228.7:80
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.210.156.6:80?security=none&type=ws&path=/blue#🔒 VL-WS-NONE 🇭🇰 HK-8.210.156.6:80
@@ -601,5 +603,3 @@ trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.97:443?security=tls&sni=
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.235:8443?sni=tjjd.yzyx1.v6.army#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.52.235:8443
 trojan://NISHIKUITAN222@104.26.13.31:2053?security=tls&sni=t111.ylks.link&type=ws&host=t111.ylks.link&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.13.31:2053
 trojan://knRrjEPWd5@164.90.167.137:2095?type=ws&host=164.90.167.137&path=%2F2.v2ray.debian.org.fxp.debian.org.speedtest.net.%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%C3%B9%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD.madariran.filegear-sg.m#🔒 TR-WS-NA 🇩🇪 DE-164.90.167.137:2095
-trojan://NISHIKUITAN222@8.219.100.168:8443?security=tls&sni=t009.ylks.link&type=ws&host=t009.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.100.168:8443
-trojan://telegram-id-directvpn@63.34.41.2:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-63.34.41.2:22222

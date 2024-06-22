@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://408ac76d-672f-4292-bb5b-c2a55db05cc4@92.223.124.48:80?security=none&type=ws&host=pardazeshvpn.com#🔒 VL-WS-NONE 🇩🇪 DE-92.223.124.48:80
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.213:443?security=tls&sni=kk700.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.213:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@206.238.237.197:443?security=tls&sni=zdy700.kpcloud.eu.org&type=ws&path=/blue#🔒 VL-WS-TLS 🇸🇬 SG-206.238.237.197:443
 vless://ffcb16ff-bb76-48b3-a44c-06bdf35e8482@104.21.31.240:443?security=tls&sni=free.itsvpns.app&type=ws&host=free.itsvpns.app&path=/wsfree&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.31.240:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.25.250:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.25.250:80
@@ -601,5 +603,3 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@5.188.33.40:8443?security=tls&sni=z
 vless://05ef858f-8b98-45f3-9619-76eadefd3827@193.151.139.36:13297?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-193.151.139.36:13297
 vless://8ba70152-f943-44ef-a4ae-8b853874a924@185.146.173.22:8880?security=none&type=ws&host=xn---qhantayawi--d-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&path=/@LIGHTNING6,+@LIGHTNING6#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.22:8880
 vless://c1978266-958c-4aa3-ba34-7eacac75aca1@104.18.14.19:443?security=tls&sni=bpb-worker-panel3.pages.dev&type=ws&host=bpb-worker-panel3.pages.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.14.19:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.159.219.235:443?security=tls&sni=hk700.ylks.link&type=ws&path=/blue#🔒 VL-WS-TLS 🇺🇸 US-45.159.219.235:443
-vless://fc5fd045-f911-4220-8f76-1ac4115e51c4@172.67.170.71:2087?security=tls&sni=bmw.nonoal.xyz&type=grpc&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.170.71:2087
