@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@47.237.100.206:2087?security=tls&sni=xin555.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇸🇬 SG-47.237.100.206:2087
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.206.168:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.206.168:80
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@210.186.12.244:443?security=tls&sni=xin555.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇲🇾 MY-210.186.12.244:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.242.125.241:80?security=none&type=ws&path=%2Fblue#🔒 VL-WS-NONE 🇭🇰 HK-47.242.125.241:80
-vless://9107b9d2-f3af-432c-bb27-e50d33cef4b1@193.151.146.226:8443?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-193.151.146.226:8443
 vless://e97866db-e63b-4d24-9618-80a3070cae6c@45.85.118.47:2083?security=tls&sni=akbari.top&type=grpc#🔒 VL-GRPC-TLS 🇷🇴 RO-45.85.118.47:2083
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.203:8443?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.203:8443
 vless://5683917d-3826-4a78-8156-b9293641c41a@195.123.213.46:443?security=tls&sni=ua-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇱🇻 LV-195.123.213.46:443
@@ -603,3 +598,8 @@ trojan://slfhRjS5Xi@18.136.195.155:30706?security=none&type=ws&host=store.steamp
 trojan://b4e8771997c94732acbc9ec4d19c2589@104.16.159.4:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.4:443
 trojan://lrdxw@172.67.197.210:443?security=tls&sni=trojan-lrdxw.ala1-f11.workers.dev&type=ws&host=trojan-lrdxw.ala1-f11.workers.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.197.210:443
 trojan://NISHIKUITAN222@47.236.170.225:8443?security=tls&sni=t033.ylks.link&type=ws&host=t033.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-47.236.170.225:8443
+trojan://96884680-77e6-11eb-8d67-1239d0255272@163.172.211.74:443?sni=nl-trojan.bonds.id#🔒 TR-TCP-NA 🇳🇱 NL-163.172.211.74:443
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.4:2087?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.4:2087
+trojan://NISHIKUITAN222@172.93.188.140:443?sni=t000.ylks.link#🔒 TR-TCP-NA 🇭🇰 HK-172.93.188.140:443
+trojan://ypDt8RkT7J@138.199.23.100:43118?security=tls&sni=radtz.phooeyunfold.com&type=tcp&fp=random&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇯🇵 JP-138.199.23.100:43118
+trojan://ypDt8RkT7J@212.102.54.11:43118?security=tls&sni=tpmrq.phooeyunfold.com&type=tcp&fp=chrome&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇹 IT-212.102.54.11:43118
