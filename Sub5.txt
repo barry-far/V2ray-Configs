@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@43.153.103.203:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-43.153.103.203:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.133.35.224:443?security=tls&sni=kk999.ylks.link&type=ws&path=/?proxyip#🔒 VL-WS-TLS 🇧🇷 BR-185.133.35.224:443
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@194.36.55.0:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇬🇧 GB-194.36.55.0:443
 vless://c249b5d1-5207-45ed-8f0b-a35052516ecf@185.146.173.206:2087?security=tls&sni=g4.ferdowsi.shop&type=grpc&serviceName=Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.206:2087
 vless://847f3858-0dcf-4363-b49b-63b5337d75a7@78.110.121.208:80?security=tls&sni=t1.morgoon.com&type=tcp&host=telewebion.com&path=/&headerType=http&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-TCP-TLS 🇮🇷 IR-78.110.121.208:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.43.179.245:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇿 KZ-31.43.179.245:443
@@ -603,3 +600,6 @@ vless://bbe9ef72-a93b-4ee6-918d-2d42b9836f9b@151.101.66.187:80?security=none&typ
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.119.253:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.119.253:443
 vless://d055975a-90f6-4d3f-b16e-e482edb94783@190.93.244.113:443?security=tls&sni=furi-guri-allnet.poshakbany.ir&type=grpc&serviceName=/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-190.93.244.113:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.148.199:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.148.199:80
+vless://86ed8559-9f58-4a10-9cc1-59bfe8db7f09@185.146.173.58:2053?security=tls&sni=Fi-Next.cgnm.ir&type=ws&host=Fi-Next.cgnm.ir&path=/&fp=chrome#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.58:2053
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@217.163.76.125:443?security=tls&sni=kk999.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇬🇧 GB-217.163.76.125:443
+vless://075a365b-b0c7-4ba3-b5a6-597850c223f9@104.16.2.35:8880?security=none&type=ws&host=sinaazizpor.wapgiz.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.2.35:8880
