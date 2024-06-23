@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@193.227.99.214:443?security=tls&sni=v111.ylkszy.eu.org&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇲🇹 MT-193.227.99.214:443
-vless://d360d11e-d426-4583-b55e-524ab1f0afa9@104.26.5.60:2096?security=tls&sni=worker-gentle-waterfall-6de8.tigerhungry4.workers.dev&type=ws&host=worker-gentle-waterfall-6de8.tigerhungry4.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.5.60:2096
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.195.70:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.195.70:80
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.252.114:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.252.114:80
 vless://1ff59fad-6cc6-4714-82b1-d4af47de08eb@104.31.16.196:80?security=none&type=ws&host=DiReCt49-13-163-226.CleAnMaRk.IR&path=/DiReCt49-13-163-226-CleAnMaRk-IR#🔒 VL-WS-NONE 🏴‍☠️ NA-104.31.16.196:80
 vless://93b665e3-7f2a-405c-a618-7988ea4c2fc7@185.112.249.10:443?security=tls&sni=libertyzone.xyz&type=ws&host=libertyzone.xyz&path=/22876/@persvpn&fp=chrome#🔒 VL-WS-TLS 🇸🇰 SK-185.112.249.10:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.236.180.51:8443?security=tls&sni=kk700.ylks.link&type=ws&path=/blue#🔒 VL-WS-TLS 🇸🇬 SG-47.236.180.51:8443
@@ -603,3 +599,7 @@ trojan://dba20dcb635e430fa4d3bfc303a149d2@104.17.61.9:443?security=tls&sni=jobsc
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.127:2083?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.127:2083
 trojan://zIvR7ryOXv@159.223.207.182:34428?security=tls&sni=drehitm.duckdns.org#🔒 TR-TCP-TLS 🇺🇸 US-159.223.207.182:34428
 trojan://ypDt8RkT7J@89.187.181.172:43118?security=tls&sni=egcmi.phooeyunfold.com&type=tcp&fp=random&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇺🇸 US-89.187.181.172:43118
+trojan://0fd9b883-0551-4ed1-b978-528183b459a2@8.218.3.198:2096?security=tls&sni=mfjd.591haoka.com&type=ws&host=mfjd.591haoka.com#🔒 TR-WS-TLS 🇭🇰 HK-8.218.3.198:2096
+trojan://a3bce210-eacc-11ee-be58-1239d0255272@104.21.69.44:443?sni=de2.test3.net&type=ws&host=de2.test3.net&path=/howdy#🔒 TR-WS-NA 🏴‍☠️ NA-104.21.69.44:443
+trojan://242a3d8eee5e4ed1a6bfa4141d549a25@198.41.220.12:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.12:443
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.215:2087?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.53.215:2087
