@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://c80f9385-324b-4185-a338-8af320030bbc@104.19.255.52:443?security=tls&sni=me.shopservices.ir.&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.19.255.52:443
+vless://d6ad63c2-6079-4f32-9d3e-065c2f4d5b42@104.21.19.124:80?security=none&type=ws&host=v2kingfree.3.5.3.5.ir.speedtest.shop.com.xn--fhqpqv8rrth13sbaaac958pc94anf0d8gmha8i.shop.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.19.124:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@167.68.11.95:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-167.68.11.95:443
 vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@172.66.47.151:443?security=tls&sni=iSaA1.paGes.DEv&type=ws&host=IsaA1.pAGEs.DEV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.151:443
 vless://514d4474-fe80-45ba-9b69-0c86fe4201eb@23.227.60.56:8080?security=none&type=ws&host=su2.mahanocean.ir#🔒 VL-WS-NONE 🇨🇦 CA-23.227.60.56:8080
@@ -601,5 +603,3 @@ vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.105.42:80?type=ws&host=kr1.1
 vless://636b1684-b26c-4a9c-bc6e-8e1197a36d74@190.93.244.0:8080?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🏴‍☠️ NA-190.93.244.0:8080
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.169.230:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.169.230:80
 vless://ba04b966-0f83-45f2-aa60-09215a149222@185.146.173.92:2082?security=none&type=ws&host=TirkOLa6nafar.SiaSepiD.coM.#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.92:2082
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.254.182:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.254.182:443
-vless://001bb217-4cf2-4b8a-b48d-b80ac72b116a@31.14.114.180:443?security=none&type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-31.14.114.180:443

@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://a175cf3b-772d-44ba-d079-7bab59087f54@203.32.121.53:443?security=tls&sni=vipnl.pablovpn.pw&type=grpc#🔒 VL-GRPC-TLS 🇻🇬 VG-203.32.121.53:443
+vless://31a20bed-de85-4507-81bc-e97c68b49d11@172.67.168.147:8443?security=tls&sni=parmo.kajesi4977.workers.dev&type=ws&host=parmo.kajesi4977.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.168.147:8443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@112.153.118.61:11777?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇷 KR-112.153.118.61:11777
 vless://8e62ae0c-efee-4a80-905c-fc06c768ff2a@188.114.97.167:2087?security=tls&sni=de2ocean.mohamadphp.ir&type=ws&host=de2ocean.mohamadphp.ir&path=/vless&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.167:2087
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@188.42.145.159:2096?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇷🇺 RU-188.42.145.159:2096
@@ -601,5 +603,3 @@ vless://9b76baa9-4269-4c46-aaec-4d884a305da0@[::ffff:681a:f50]:8443?security=tls
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.158.184:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.158.184:80
 vless://2d31f60d-2c72-46b1-b10a-190fb935ff7f@172.67.128.213:2086?security=none&type=ws&host=3.v2ray.debian.org.fxp.debian.org.speedtest.net.❤️らわなさらわ.smilei.online.#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.128.213:2086
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@188.114.97.43:443?security=tls&sni=test57.pages.dev&type=ws&host=test57.pages.dev&path=/freecodes#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.43:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.160:443?security=tls&sni=hk700.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.160:443
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.105.228:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.105.228:80
