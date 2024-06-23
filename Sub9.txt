@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://c54dd620-fa5f-46de-82c2-9d1492ee74e4@103.98.215.248:443?security=tls&flow=xtls-rprx-vision&sni=tor2.jarviskit.com&type=tcp&fp=chrome&alpn=h2,http/1.1#🔒 VL-TCP-TLS 🇨🇦 CA-103.98.215.248:443
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.19.154.66:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.19.154.66:80
+vless://29cf96e6-8008-4233-a883-4b5daeb72309@199.232.196.193:443?security=tls&sni=imgur.com&type=ws&host=That-Man-3.ir&path=%2F%40azadi_az_inja_migzare%3Fed%3D4096&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-199.232.196.193:443
+vless://29b3cbba-e6ac-485a-8481-976a0495eab9@104.21.38.42:443?security=tls&sni=esEtsecuriTyLIcensE.HTlMyO.woRKeRs.deV&type=ws&host=ESEtSECuRITYliCeNSE.HTLMyo.worKErs.dEV&path=%2FbvyqB3dVqwOk9obP%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.38.42:443
+vless://c4d98ed1-69a5-49ad-b785-25fd2e081326@172.67.219.166:2053?security=tls&sni=Poshtiban.ehsa0535.top&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.219.166:2053
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.133.68:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.133.68:80
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.221.106:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.221.106:80
 vless://6f6e8a5e-8954-491e-a892-1b8457befba5@104.16.60.8:2086?type=ws&host=cloutdcjvg.samancenter.com.&path=%2F%40Kingspeed_support-iran%3Fed%3D1024#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.60.8:2086
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.221.21:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.221.21:80
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.156.84:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.156.84:80
@@ -596,10 +603,3 @@ trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.145:2053?security=tls&sn
 trojan://ypDt8RkT7J@169.150.206.186:43118?security=tls&sni=tpmem.phooeyunfold.com#🔒 TR-TCP-TLS 🇩🇪 DE-169.150.206.186:43118
 trojan://559c3b5f-3dd1-47e4-94ad-017cb392a7ba@162.159.136.234:443?security=tls&sni=de1.trojanvpn.de&type=ws&host=de1.trojanvpn.dE&path=/path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.136.234:443
 trojan://NISHIKUITAN222@172.67.199.233:8443?security=tls&sni=t111.ylks.link&type=ws&host=t111.ylks.link&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.199.233:8443
-trojan://qj1Dz1CJmFQRhWr1SP80aA@104.21.69.44:443?sni=cdn-21.gsmxreality.com&type=grpc&serviceName=443trojan&allowInsecure=1#🔒 TR-GRPC-NA 🏴‍☠️ NA-104.21.69.44:443
-trojan://Libertas*One*E*@104.21.67.195:443?security=tls&sni=ironone.libertasiran.cloud&type=ws&path=/n890#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.67.195:443
-trojan://NISHIKUITAN222@8.219.194.170:8443?security=tls&sni=t222.ylks.link&type=ws&host=t222.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.194.170:8443
-trojan://ypDt8RkT7J@31.172.67.242:43118?security=tls&sni=tpmwh.phooeyunfold.com&type=tcp&fp=random&alpn=http/1.1#🔒 TR-TCP-TLS 🇷🇺 RU-31.172.67.242:43118
-trojan://NISHIKUITAN222@8.219.98.13:8443?security=tls&sni=t009.ylks.link&type=ws&host=t009.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.98.13:8443
-trojan://EgAMtxAquaO78-IvTSWpnQ@104.16.65.148:2096?security=tls&sni=mrz.learnturkishspeech.fun&type=ws&host=mrz.learnturkishspeech.fun&path=/book#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.65.148:2096
-trojan://9Mdw86d7Cz@132.145.208.20:443?sni=no.09.ijg.cc&type=tcp#🔒 TR-TCP-NA 🇺🇸 US-132.145.208.20:443
