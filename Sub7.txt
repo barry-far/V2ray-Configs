@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@130.61.83.37:443?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org#🔒 VL-WS-TLS 🇩🇪 DE-130.61.83.37:443
-vless://0a0b9604-f2a9-4d73-a698-8e2641d692ae@45.142.120.5:2053?security=tls&sni=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran.dewiw37019.workers.dev&type=ws&host=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran.dewiw37019.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇷🇺 RU-45.142.120.5:2053
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.215.139:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.215.139:80
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@172.64.229.44:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.229.44:80
-vless://770e8a1b-980e-474d-b583-2e4e98acb854@47.243.42.219:8880?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🇭🇰 HK-47.243.42.219:8880
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@206.238.236.167:443?security=tls&sni=zdy667.kpcloud.eu.org&type=ws&path=/blue#🔒 VL-WS-TLS 🇸🇬 SG-206.238.236.167:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.26.53:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.26.53:443
-vless://367bdec4-8f79-4d2e-a1db-f97ef265f2af@104.18.15.19:2096?security=tls&sni=dal.zedmodeon-zedmodeon-zedmodeon.shop&type=grpc&serviceName=@ZEDMODEON+@ZEDMODEON+@ZEDMODEON+@ZEDMODEON+@ZEDMODEON&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.15.19:2096
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.23:443?security=tls&sni=hk600.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.23:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.7.174:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.7.174:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.206.149:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.206.149:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.218.210:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.218.210:443
@@ -603,3 +594,12 @@ vless://e1f8f779-bd78-46a0-b196-707d169f4061@104.20.19.168:8080?security=none&sn
 vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.210.64.14:443?security=tls&sni=zdfdf6.azurewebsites.net&type=ws&path=%2F#🔒 VL-WS-TLS 🇯🇵 JP-20.210.64.14:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.57.52:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.57.52:80
 vless://b35352a6-a251-4bf5-bfc4-14f255f02888@104.21.78.226:443?security=tls&sni=mahdiserver.msebexj.workers.dev&type=ws&host=mahdiserver.msebexj.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.78.226:443
+vless://b724be94-21d1-4d04-a4cf-e08ab6df1349@104.21.32.238:2096?security=tls&sni=ua1.v2vless.xyz&type=ws&host=ua1.v2vless.xyz&path=%2Fvless%3Fed%3D%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%3Fed&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.32.238:2096
+vless://6584ed53-90b2-45d6-aa78-ff34867c814c@206.238.236.18:8443?security=tls&sni=yalda20232112.freedns.site&type=grpc&serviceName=freevpn&fp=chrome#🔒 VL-GRPC-TLS 🇸🇬 SG-206.238.236.18:8443
+vless://4d4da811-c5f3-4e73-a64a-232042b19fb7@185.146.173.94:2082?path=/TEL#🔒 VL-TCP-NA 🇸🇪 SE-185.146.173.94:2082
+vless://0f7ec369-3529-4e73-943b-19258212f1bb@162.159.0.33:443?security=tls&sni=c.2025vless.cloudns.be&type=ws&host=c.2025vless.cloudns.be#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.0.33:443
+vless://0bb7be14-76f4-4091-a9ba-80cbda2b406f@185.146.173.146:8880?security=none&type=ws&host=V2ray-_-_-_-_-_-Se.fhq0la447aac5504dSPeedtestircomnetmeleoSjanwjdifjsnjsx.ClOud.grm7VRayNg.CFD.&path=%2FJoin--ExpressVPN_420.ExpressVPN_420.ExpressVPN_420.ExpressVPN_420.ExpressVPN_420.ExpressVPN_420.ExpressVPN_420.ExpressVPN_420.ExpressVPN_420.ExpressVPN_420.ExpressVPN_420.ExpressVPN_420.ExpressVPN_420.ExpressVPN_420.ExpressVPN_420.ExpressVPN_420.ExpressVPN_420.ExpressVPN_420.ExpressVPN_420.ExpressVPN_420.ExpressVPN_420V2ray.re%3Fed%3D2048#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.146:8880
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.51.15:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.51.15:80
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.216.108:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.216.108:443
+vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@20.90.163.76:2053?security=tls&sni=v111.ylkszy.eu.org&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇬🇧 GB-20.90.163.76:2053
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.70.92:2087?security=tls&sni=jp555.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.70.92:2087
