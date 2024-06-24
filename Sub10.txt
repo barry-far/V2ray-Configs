@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://2e01ebcf-4bd6-4be4-9365-f5c623510512@104.20.5.172:80?security=none&type=ws&host=workerr.babray.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.5.172:80
+vless://8dd54a54-eb72-4b3a-970c-cb819dbdc3fb@185.59.218.3:443?security=tls&sni=DisVpn.us.kg&type=ws&host=DisVpn.us.kg&path=/Telegram+Join:+@DisVpn,Telegram+Join:+@DisVpn,@DisVpn&fp=chrome#🔒 VL-WS-TLS 🇷🇺 RU-185.59.218.3:443
 vless://8028c698-7958-4c18-e7e9-869a3926d7ee@172.67.170.52:443?security=tls&sni=ledzeppelin.ripita4433.workers.dev&type=ws&host=ledzeppelin.ripita4433.workers.dev&path=/downloader/46072&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.170.52:443
 vless://6cc5b6b6-b3d2-4c60-8197-5defdc8d6aa1@104.24.196.20:443?security=tls&sni=4sat.shop&type=ws&host=public.4sat.shop&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.196.20:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@172.64.229.67:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.229.67:80
@@ -601,5 +603,3 @@ trojan://6455f944-7c07-4ab0-b88f-440e581f41d9@182.209.240.254:443?#🔒 TR-TCP-N
 trojan://4f2f34cc-d2e9-4ca8-a687-68efe5ad5959@52.175.33.117:443?#🔒 TR-TCP-NA 🇭🇰 HK-52.175.33.117:443
 trojan://NISHIKUITAN222@8.219.78.1:8443?security=tls&sni=t009.ylks.link&type=ws&host=t009.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.78.1:8443
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.74:2053?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.53.74:2053
-trojan://0cb2cd1f-870b-485c-914a-60aba39eed39@82.192.82.227:443?#🔒 TR-TCP-NA 🇳🇱 NL-82.192.82.227:443
-trojan://242a3d8eee5e4ed1a6bfa4141d549a25@198.41.220.12:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.12:443

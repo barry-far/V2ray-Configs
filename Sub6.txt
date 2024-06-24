@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.106.134:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-185.148.106.134:443
+vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@188.244.122.152:443?security=tls&sni=v111.ylkszy.eu.org&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇩🇪 DE-188.244.122.152:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.24.254:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.24.254:80
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@205.233.181.196:443?security=tls&sni=zdy700.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.196:443
 vless://681ad492-75bf-47e7-c73c-1f705300da51@172.67.208.39:8443?security=tls&sni=ws.ArV2ray.fun&type=ws&host=ws.ArV2ray.fun&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.208.39:8443
@@ -601,5 +603,3 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.35.61:443?security=tls&sni=m
 vless://77de458b-5d58-4379-927a-7e749b2d17f8@172.67.197.82:443?security=tls&sni=test.gold15.ir&type=grpc&serviceName=fast.com&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.197.82:443
 vless://5512bf69-a563-4ea7-be2b-2d14d27e6323@104.21.10.208:443?security=tls&sni=falcUNArGOo.EBf9A41066.woRkErS.DEV&type=ws&host=fALcUnaRgOO.ebf9A41066.worKErs.dEv&path=%2FusDY5wtPlH9B9D0X%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.10.208:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.49.13:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.49.13:80
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.111.121:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.111.121:443
-vless://3d39930a-b33a-45d0-b511-f2b8d4d00c1e@91.195.110.245:2053?security=tls&sni=kfkjhkuyg.mic-mokhaderat-irancell-shatel-irancel.shop&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🇦🇲 AM-91.195.110.245:2053
