@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.199.19:2052?security=none&type=ws&host=RrGbFqCn2.IuBcInScKkSdNoI1.nEt&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.199.19:2052
+vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@104.16.190.131:443?security=tls&sni=bpb-worker-panel-h5f.pages.dev&type=ws&host=bpb-worker-panel-h5f.pages.dev&path=%2F%3Fed&fp=firefox#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.190.131:443
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.104.150:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.104.150:443
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.157.68:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.157.68:80
+vless://041f929a-63f6-4af1-a492-8cbff5797b8a@104.26.15.16:2096?security=tls&sni=telegram-falcunargo-emiratess.falcunar.asso.eu.org&type=ws&host=telegram-falcunargo-emiratess.falcunar.asso.eu.org&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.15.16:2096
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.198.244:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.198.244:80
 vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@192.9.180.162:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇦🇺 AU-192.9.180.162:443
 vless://ea20ef91-9e2c-4136-a8dd-db1d22f0b96d@104.21.65.133:443?security=tls&sni=V2ray.SvnBuy.Online&type=grpc&alpn=http/1.1,h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.65.133:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.102.192:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.102.192:80
@@ -597,9 +603,3 @@ vless://62f6b891-7988-4392-88c7-14134bb3ffa9@172.67.218.140:8443?security=tls&sn
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.152.155:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.152.155:80
 vless://a70e4c16-319a-49e4-bbe1-aa8c34d1380b@66.235.200.51:2053?security=tls&sni=figr1.blackflag.blog&type=grpc&serviceName=jkrv2ry&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-66.235.200.51:2053
 vless://74ee8b58-b56f-4145-b61c-9fbc1952208a@104.20.185.180:2082?security=none&type=ws&host=sg1.vlessx.us#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.185.180:2082
-vless://40bd0854-8a76-428a-993d-fea77db2a59d@172.67.69.236:8443?security=tls&sni=telegram-falcunargo-stoniya.falcunar.asso.eu.org.&type=ws&host=telegram-falcunargo-stoniya.falcunar.asso.eu.org.&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.69.236:8443
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.204.56:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.204.56:80
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.125.159:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.125.159:80
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.55.205:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.55.205:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.159.219.235:443?security=tls&sni=hk700.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-45.159.219.235:443
-vless://58dbfb96-afac-4251-9189-137e883e65ab@104.21.56.202:8880?security=none&type=ws&host=worker-bitter-tooth-2833.geyoleg265.workers.dev&path=%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.56.202:8880
