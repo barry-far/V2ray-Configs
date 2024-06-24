@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@205.233.181.153:443?security=tls&sni=kk111.ylks.link&type=ws&path=/blue#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.153:443
-vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@45.85.118.187:443?security=tls&sni=v111.ylkszy.eu.org&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇷🇴 RO-45.85.118.187:443
-vless://16b3cbba-e6ac-495a-9481-976a0415eab9@172.67.217.183:443?security=tls&sni=ESEtSECURItYlIcENse.shPnmm.WoRkeRS.Dev&type=ws&host=eSEtSeCURITYlICEnsE.sHpnmM.WOrKeRS.DEv&path=%2FrAQuyPffj94byXJx%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.217.183:443
-vless://724db7a8-3b33-40d2-9935-17b3e195567a@94.182.134.40:8081?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.134.40:8081
-vless://cec5fd94-3ff0-4ad2-ad78-423269ce9717@81.28.12.12:80?security=none&type=ws&host=pronkmicevpn.com&path=/bb#🔒 VL-WS-NONE 🇳🇱 NL-81.28.12.12:80
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.152.69:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.152.69:80
 vless://fb301d2e-4430-4b41-95d6-764460b8ef13@104.17.121.221:2053?security=tls&sni=9b56CFEe5b258C44c45bA18FA122293.mIToweAr.cOm&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.121.221:2053
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.31.16.99:443?security=tls&sni=AYATOLLAHNAJAFI.CF&type=ws&host=vtolink.ayatollahnajafi.cf#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.99:443
@@ -603,3 +598,8 @@ trojan://NISHIKUITAN222@8.219.51.211:8443?security=tls&sni=t111.ylks.link&type=w
 trojan://675821fd-e6d1-4e8e-b56e-efc84bc819a0@48.218.146.89:443?#🔒 TR-TCP-NA 🇯🇵 JP-48.218.146.89:443
 trojan://2cba4104747d49d18319e5ade1b93ab5@198.41.220.10:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.10:443
 trojan://dba20dcb635e430fa4d3bfc303a149d2@104.17.61.2:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.61.2:443
+trojan://656bcdfe-ae09-4170-a36e-1685ee10b26f@162.159.138.232:2083?security=tls&sni=missyousir.segaro.tech&type=ws&host=missyousir.segaro.tech&path=/OVmkPBATL0FijQ3AWVBo&fp=chrome&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.138.232:2083
+trojan://pUxG77WPOZ@104.18.202.232:80?security=none&type=ws&host=s9.in01.tech&path=/#🔒 TR-WS-NONE 🏴‍☠️ NA-104.18.202.232:80
+trojan://trojan@185.146.173.94:80?security=tls&sni=freevpn.ahadadi796.workers.dev&type=ws&host=freevpn.ahadadi796.workers.dev#🔒 TR-WS-TLS 🇸🇪 SE-185.146.173.94:80
+trojan://NISHIKUITAN222@104.19.51.59:443?security=tls&sni=t116.ylks.link&type=ws&host=t116.ylks.link&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.51.59:443
+trojan://auto@162.159.137.232:8443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.137.232:8443
