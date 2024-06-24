@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.219.23:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.219.23:443
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.20.112:80?security=none&type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.20.112:80
-vless://9107b9d2-f3af-432c-bb27-e50d33cef4b1@193.151.146.226:8443?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-193.151.146.226:8443
-vless://26bc21cd-89e0-43ec-aea4-3f21d3941c2c@188.114.97.3:2053?security=tls&sni=technoi-channel.o3co.ir&type=grpc&serviceName=Technoi&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-188.114.97.3:2053
-vless://130a1c25-e0f0-4a43-9e2c-6d4ce6290681@46.226.162.42:443?security=tls&sni=gbr01.abvpn.ru&type=ws&path=/websocket&fp=chrome#🔒 VL-WS-TLS 🇬🇧 GB-46.226.162.42:443
 vless://5da27733-3527-479e-bb81-4c5a9c75d83f@104.21.7.164:443?security=tls&sni=viphamester.wolfmoon.ir&type=grpc&serviceName=okala.com&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.7.164:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.206.221:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.206.221:80
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.174.138.170:443?security=tls&sni=zdy600.kpcloud.eu.org&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇷🇺 RU-185.174.138.170:443
@@ -603,3 +598,8 @@ vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.118.98:80?type=ws&host=kr1.1
 vless://cb74a4c3-f48d-4411-8f4c-2ffee5eab376@172.64.148.133:443?security=tls&sni=ae3b1077e4706405.koalalampour.space&type=ws&host=ead9935ad2d9ffaa.koalalampour.space&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.148.133:443
 vless://2deb6940-0b30-47f3-b06b-46498a120464@172.67.173.10:2087?security=tls&sni=b.liopiol.ir&type=ws&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.173.10:2087
 vless://5fe9ddd1-6cb7-4959-e963-9e60ddd70694@104.21.59.67:443?security=tls&sni=paradiselost.pafyegedro.workers.dev&type=ws&host=paradiselost.pafyegedro.workers.dev&path=/downloader/40943&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.59.67:443
+vless://0333b495-1f8b-4d75-be2e-11c023bf78e5@172.67.132.209:80?security=none&type=ws&host=nl21.vlessx.us#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.132.209:80
+vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@5.182.85.18:443?security=tls&sni=IgOpTe.PaSaRgAdMaNd.CoM&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇷🇺 RU-5.182.85.18:443
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.137.198:443?security=tls&sni=3k.pureboy.eu.org&type=ws&host=3k.pureboy.eu.org&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.137.198:443
+vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@185.148.104.135:443?security=tls&sni=v111.ylkszy.eu.org&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-185.148.104.135:443
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.17.249:80?security=none&type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.17.249:80
