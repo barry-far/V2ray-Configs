@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://ca55bbf2-0c13-4b63-9dcd-047c38551750@104.21.75.237:2087?security=tls&sni=erfan.erfan90.oNflaShdriVe.app.&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.75.237:2087
-vless://440a5fc6-4d97-46d5-93f7-adf90996081e@104.18.10.114:80?security=none&type=ws&host=bia-to-channel4.unlimiteddev.shop&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.10.114:80
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.157.112:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.157.112:80
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.179.253:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.179.253:80
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.210.207.214:80?security=none&type=ws&path=/blue#🔒 VL-WS-NONE 🇭🇰 HK-8.210.207.214:80
-vless://e0de7b12-20dd-4d6b-bfaa-307fed5a1d2b@104.18.39.116:2087?security=tls&sni=Cloud.zed-zoon.tech&type=grpc&serviceName=Channel---Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.39.116:2087
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.19.56.132:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.19.56.132:80
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@103.160.204.13:443?security=tls&sni=kk111.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-103.160.204.13:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.76.33.40:8443?security=tls&sni=kk667.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇭🇰 HK-47.76.33.40:8443
@@ -603,3 +597,9 @@ trojan://moist@8.210.203.7:2087?sni=trojan.freenods.sbs&type=ws&host=trojan.free
 trojan://2cba4104747d49d18319e5ade1b93ab5@104.18.23.19:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.23.19:443
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.175:443?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.175:443
 trojan://4xKIHqPURA@18.136.195.155:16547?security=tls&sni=m.zoom.us&type=ws&path=%2F&alpn=http%2F1.1&allowInsecure=1#🔒 TR-WS-TLS 🇸🇬 SG-18.136.195.155:16547
+trojan://telegram-id-privatevpns@54.246.228.175:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-54.246.228.175:22222
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.2:2053?sni=tjjd.yzyx1.v6.army#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.52.2:2053
+trojan://a2c8194b-fcfd-4c39-a6bd-31ea9f4ea671@54.37.220.201:443?security=tls&sni=upload.soft98.download&type=tcp#🔒 TR-TCP-TLS 🇫🇷 FR-54.37.220.201:443
+trojan://dacc0551-b15a-47da-8543-ef088dfa5904@14.29.166.190:58563?sni=us04.ckcloud.info#🔒 TR-TCP-NA 🇨🇳 CN-14.29.166.190:58563
+trojan://NISHIKUITAN222@198.41.221.0:443?security=tls&sni=t116.ylks.link&type=ws&host=t116.ylks.link&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.221.0:443
+trojan://7b561e94-42f3-4f92-979c-4cf97c328025@103.224.212.213:443?#🔒 TR-TCP-NA 🇦🇺 AU-103.224.212.213:443
