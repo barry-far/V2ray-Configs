@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://3aa85b65-a9fb-4dad-a11d-607d318ad71a@172.233.255.109:443?security=tls&sni=fr2-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇫🇷 FR-172.233.255.109:443
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.18.167.248:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.167.248:80
+vless://538ec70c-b386-51ad-8155-aeaed37a22b6@104.16.233.155:2053?security=tls&sni=newus.sspeednetokala.Us.kG&type=ws&host=newus.sspeednetokala.Us.kG&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.233.155:2053
+vless://70ea7a10-de3e-4922-bc7c-4dd7c2cef882@172.66.45.10:443?security=tls&sni=newtunnel-2xm.pages.dev&type=ws&path=%2Fvless&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.45.10:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.206.239:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.206.239:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@47.75.101.0:3443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇭🇰 HK-47.75.101.0:3443
 vless://9d653c49-f256-4754-baa3-65fdbd4deca2@185.146.173.237:443?security=tls&sni=sketch.busylance.ir.&type=ws&host=sketch.busylance.ir.&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.237:443
@@ -599,7 +603,3 @@ trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.115:2096?security=tls&sn
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.105:2087?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.53.105:2087
 trojan://d3e663d2-5cce-56e1-a199-2fec6078fcb4@104.16.201.94:8443?security=tls&sni=mailbox.CPIforPERSiA.uk&type=ws&host=mailbox.CPIforPERSiA.uk&path=trojan-ws%2F%3Fed&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.201.94:8443
 trojan://NISHIKUITAN222@8.219.78.1:8443?security=tls&sni=t009.ylks.link&type=ws&host=t009.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.78.1:8443
-trojan://NISHIKUITAN222@8.219.77.222:2083?security=tls&sni=t306.ylks.link&type=ws&host=t306.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.77.222:2083
-trojan://224c91ee-7e18-4f1e-86bb-c1836f218c95@48.218.12.224:443?#🔒 TR-TCP-NA 🇯🇵 JP-48.218.12.224:443
-trojan://d3e663d2-5cce-56e1-a199-2fec6078fcb4@172.67.73.163:2083?security=tls&sni=mailbox.CPIFOrpersiA.UK&type=ws&host=mailbox.CPIFOrpersiA.UK&path=trojan-ws%2F%3Fed&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.73.163:2083
-trojan://e8105dfd24414268b6c7652c63731097@104.18.25.92:443?security=tls&sni=avianrecruit.com&type=ws&host=avianrecruit.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.25.92:443
