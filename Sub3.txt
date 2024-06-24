@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://8e65723b-5159-3888-bcdb-6d23fe09af4e@azgy001.xiba1.xyz:20711?allowInsecure=1&sni=ssl.ssl12.xyz#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%28%E6%B2%B9%E7%AE%A1%3A%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B2.0%29
+trojan://8e65723b-5159-3888-bcdb-6d23fe09af4e@azhj001.xiba1.xyz:20725?allowInsecure=1&sni=ssl.ssl12.xyz#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%28%E6%B2%B9%E7%AE%A1%3A%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B2.0%29
+trojan://8e65723b-5159-3888-bcdb-6d23fe09af4e@azhj001.xiba1.xyz:20724?allowInsecure=1&sni=ssl.ssl12.xyz#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%28%E6%B2%B9%E7%AE%A1%3A%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B2.0%29
+trojan://8e65723b-5159-3888-bcdb-6d23fe09af4e@azhj001.xiba1.xyz:20718?allowInsecure=1&sni=ssl.ssl12.xyz#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%28%E6%B2%B9%E7%AE%A1%3A%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B2.0%29
 trojan://8e65723b-5159-3888-bcdb-6d23fe09af4e@azhj001.xiba1.xyz:20722?allowInsecure=1&sni=ssl.ssl12.xyz#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%28%E6%B2%B9%E7%AE%A1%3A%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B2.0%29
 trojan://8e65723b-5159-3888-bcdb-6d23fe09af4e@azhj001.xiba1.xyz:20721?allowInsecure=1&sni=ssl.ssl12.xyz#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%28%E6%B2%B9%E7%AE%A1%3A%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B2.0%29
 trojan://8e65723b-5159-3888-bcdb-6d23fe09af4e@azhj001.xiba1.xyz:20726?allowInsecure=1&sni=ssl.ssl12.xyz#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%28%E6%B2%B9%E7%AE%A1%3A%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B2.0%29
@@ -599,7 +603,3 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.194.103.24:22222?security=tls&sn
 vless://eb3ad716-faf4-417e-85d2-b0504e3a7912@162.159.135.234:8443?security=tls&sni=discord.gg&type=grpc&serviceName=@u3erVpn&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.135.234:8443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.246.20:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.246.20:80
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@[::ffff:6816:4442]:2053?security=tls&sni=xxx.donated004.workers.dev&type=ws&host=xxx.donated004.workers.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-[::ffff:6816:4442]:2053
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.252.56:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.252.56:80
-vless://0859b63e-cb81-4c01-bf5a-739f90e72f92@172.67.140.33:2095?security=none&type=ws&host=v2ray-_-_-_-_-_-vpn.frev2ray.kellekcollection.myname.houselife.IR.&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.140.33:2095
-vless://4045c6b7-1d53-4574-98cd-df21db40b0dc@104.16.68.38:2053?security=tls&sni=itcenteriran.blog&type=ws&host=itcenteriran.blog#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.68.38:2053
-vless://ce12313e-dab2-49ee-8806-399eb91136b2@104.17.248.203:2096?security=tls&sni=api1.htve.ir&type=grpc&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.248.203:2096

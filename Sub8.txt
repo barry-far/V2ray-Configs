@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.234.148:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.234.148:443
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.57.108:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.57.108:80
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.204.234:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.204.234:80
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@199.181.197.237:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-199.181.197.237:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@172.64.229.37:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.229.37:80
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.142.111:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.142.111:80
 vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@152.70.82.108:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇯🇵 JP-152.70.82.108:443
@@ -599,7 +603,3 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.124.80:443?security=tls&sni=
 vless://8155d2bb-0eb4-40ff-ba1d-95df410a672a@172.67.191.234:8443?security=tls&sni=01.ev02-02-q2wx8ryz0vic3bfmd1sng7pjjn6lqk4p.tech&type=grpc&serviceName=@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.191.234:8443
 vless://ef864178-98ac-493b-ae7e-054c362c348f@45.56.67.132:443?security=tls&sni=us2-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-45.56.67.132:443
 vless://1ff59fad-6cc6-4714-82b1-d4af47de08eb@185.162.228.32:80?security=none&type=ws&host=DiReCt49-13-163-226.CleAnMaRk.IR&path=/DiReCt49-13-163-226-CleAnMaRk-IR#🔒 VL-WS-NONE 🇦🇲 AM-185.162.228.32:80
-vless://d708c854-5646-42db-ba29-959b7861197b@104.25.254.88:8880?security=none&type=ws&host=2.v2ray.debian.org.fxp.debian.org.speedtest.net.らわなさらわ.jomong.space#🔒 VL-WS-NONE 🏴‍☠️ NA-104.25.254.88:8880
-vless://0c94ca98-3643-4cb4-de75-6167815af665@104.21.45.99:8443?security=tls&sni=admin.kanal-tel-nufilter.store&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.45.99:8443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@130.250.137.147:2052?security=none&type=ws&path=%2Fblue#🔒 VL-WS-NONE 🇺🇸 US-130.250.137.147:2052
-vless://99549e40-01ce-4621-b9d0-75ed8fddfa06@190.93.247.155:2083?security=tls&sni=allnet.deragv2ray.net&type=ws&host=allnet.deragv2ray.net&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.247.155:2083
