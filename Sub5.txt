@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://e51b714f-18ab-4969-a82d-4500649320bd@172.67.129.247:8080?type=ws&host=maz.%E5%83%8F%E9%B8%9F%E4%B8%80%E6%A0%B7%E8%87%AA%E7%94%B1.online.&path=%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.129.247:8080
-vless://290cba8a-4eb3-4c8e-80e9-25f1e1438992@104.21.12.150:80?security=none&type=ws&host=nl1.vlessx.us&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.12.150:80
-vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@104.16.23.29:443?security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&host=cf-wkrs-pages-vless-aoy.pages.dev&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.23.29:443
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@[::ffff:104.17.110.12]:443?security=tls&sni=xxx.donated005.workers.dev&type=ws&host=xxx.donated005.workers.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-[::ffff:104.17.110.12]:443
-vless://c0ac9d51-2540-487f-a4a6-26737c979558@162.159.135.232:2052?security=none&type=httpupgrade&host=jD.neT.v2rayng6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.SaMaN.Monster.#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-162.159.135.232:2052
-vless://2ca42987-551b-4494-a854-da2d9178f4cd@104.18.14.19:2087?security=tls&sni=MpHnPvWn22.zImBa-zUlA.OrG&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.14.19:2087
-vless://9bb36300-163b-4f2b-d404-ea52ec7aa240@104.17.148.22:2086?security=none&type=ws&host=zula.ir.www.speedtest.net.AfV2ray.Sbs.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.148.22:2086
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.215.240:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.215.240:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.195.62.141:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇫🇮 FI-45.195.62.141:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.252.85:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.252.85:80
@@ -603,3 +596,10 @@ vless://f54c1c56-d3b2-41b3-9974-78bdd8807939@104.22.51.162:8880?security=none&ty
 vless://1dffb1fd-09b3-4bbe-9631-a3ae6a9a57d1@104.18.78.200:80?security=none&type=ws&host=gxg7RQ.dL-apArAT.coM&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.78.200:80
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.139.111:2096?security=tls&sni=baipiao1.curly-train.pages.dev&type=ws&host=baipiao1.curly-train.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.139.111:2096
 vless://e12e05c5-d64f-4570-df75-86dfed4edaeb@65.21.188.58:80?security=none&type=tcp&host=CDsCC77A.ahvaz1.irancell.ir,+CDsCC77A.speedtest1.shatel.ir,+CDsCC77A.AHESPD2.mci.ir,+CDsCC77A.intraspeedtest2.mobinnet.ir,+CDsCC77A.st1.aminidc.com,+CDsCC77A.speedtest.aionet.ir,+CDsCC77A.esfahan1.irancell.ir,+CDsCC77A.speedtest.faradez.ir&headerType=http#🔒 VL-TCP-NONE 🇫🇮 FI-65.21.188.58:80
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.77:443?security=tls&sni=hk667.ylks.link&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.77:443
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.204.66:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.204.66:80
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.159.218.11:443?security=tls&sni=kk111.ylks.link&type=ws&path=/blue#🔒 VL-WS-TLS 🇺🇸 US-45.159.218.11:443
+vless://f2b7ed84-812e-4006-93af-a8f1876faf28@188.114.96.3:8080?security=none&type=ws&host=hfg.st1lol.ir&path=/Telegram:@v2logy,Telegram:@v2logy,Telegram:@v2logy,Telegram:@v2logy,Telegram:@v2logy,Telegram:@v2logy,Telegram:@v2logy,Telegram:@v2logy,Telegram:@v2logy#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.96.3:8080
+vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@144.24.85.158:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇰🇷 KR-144.24.85.158:443
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.110.189:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.110.189:80
+vless://9dbaf43b-2029-4900-ad41-8dce8be516d5@172.67.204.84:8080?security=none&type=ws&host=VPNCUSTOMIZE.V2ray.Community.&path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.204.84:8080
