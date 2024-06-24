@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.176.24.12:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-185.176.24.12:443
+vless://a93eacd2-2852-4d84-9355-fd1e6477dccc@172.64.160.149:80?security=none&type=ws&host=esten.free.hr&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.160.149:80
+vless://6cc5b6b6-b3d2-4c60-8197-5defdc8d6aa1@104.24.197.20:443?security=tls&sni=4sat.shop&type=ws&host=public.4sat.shop&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.197.20:443
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.130.230:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.130.230:443
 vless://5e4e10bb-96da-48f3-a615-9fd1a5690255@104.21.83.208:443?security=tls&sni=linde06.nofiltering2.sbs.&type=ws&host=linde06.nofiltering2.sbs.&path=%2Fnofiltering2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.83.208:443
 vless://cfa14880-381f-4524-bb41-02c96a7e8832@66.81.247.211:80?type=ws&host=freedom1.hamrahmarzban.com&path=%2FSvnProBot-V2ray69Speed.ir.shop.com%3Fed%3D2048#🔒 VL-WS-NA 🇺🇸 US-66.81.247.211:80
 vless://01b72230-7b65-4500-835c-957f62afd889@104.16.103.112:8080?security=none&type=ws&host=Seyyedmt-telegram-Seyyedmt-telegram.deraz.tech.&path=/Telegram:@seyyedmt-Telegram:@seyyedmt-Telegram:@seyyedmt-Telegram:@seyyedmt-Telegram:@seyyedmt-Telegram:@seyyedmt-Telegram:@seyyedmt-Telegram:@seyyedmt-Telegram:@seyyedmt#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.103.112:8080
@@ -599,7 +603,3 @@ vless://e160af6e-3942-c47b-6288-afdb42ae9f66@88.135.47.250:443?security=none&typ
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.159.218.23:443?security=tls&sni=hk700.ylks.link&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-45.159.218.23:443
 vless://6d2f1d2e-b85e-4730-a5e9-688475657c62@95.164.116.35:2003?security=tls&sni=tr-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇹🇷 TR-95.164.116.35:2003
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.157.202:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.157.202:80
-vless://69a93cbf-b851-4fe9-938a-cb2709eaa506@190.93.244.113:2087?security=tls&sni=furi-guri-allnet.poshakbany.ir&type=grpc&serviceName=%40nicolV2ray%2F%40nicolV2ray%2F%40nicolV2ray%2F%40nicolV2ray%2F%40nicolV2ray%2F%40nicolV2ray%2F%40nicolV2ray%2F%40nicolV2ray%2F%40nicolV2ray%2F%40nicolV2ray&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-190.93.244.113:2087
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.215.53:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.215.53:80
-vless://408ac76d-672f-4292-bb5b-c2a55db05cc4@92.223.124.48:80?security=none&type=ws&host=pardazeshvpn.com#🔒 VL-WS-NONE 🇩🇪 DE-92.223.124.48:80
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.198.66:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.198.66:80
