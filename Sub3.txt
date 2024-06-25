@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://8e65723b-5159-3888-bcdb-6d23fe09af4e@azhj001.xiba1.xyz:20725?allowInsecure=1&sni=ssl.ssl12.xyz#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%28%E6%B2%B9%E7%AE%A1%3A%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B2.0%29
+trojan://8e65723b-5159-3888-bcdb-6d23fe09af4e@azhj001.xiba1.xyz:20724?allowInsecure=1&sni=ssl.ssl12.xyz#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%28%E6%B2%B9%E7%AE%A1%3A%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B2.0%29
+trojan://8e65723b-5159-3888-bcdb-6d23fe09af4e@azhj001.xiba1.xyz:20718?allowInsecure=1&sni=ssl.ssl12.xyz#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%28%E6%B2%B9%E7%AE%A1%3A%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B2.0%29
+trojan://8e65723b-5159-3888-bcdb-6d23fe09af4e@azhj001.xiba1.xyz:20722?allowInsecure=1&sni=ssl.ssl12.xyz#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%28%E6%B2%B9%E7%AE%A1%3A%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B2.0%29
+trojan://8e65723b-5159-3888-bcdb-6d23fe09af4e@azhj001.xiba1.xyz:20721?allowInsecure=1&sni=ssl.ssl12.xyz#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%28%E6%B2%B9%E7%AE%A1%3A%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B2.0%29
 trojan://8e65723b-5159-3888-bcdb-6d23fe09af4e@azhj001.xiba1.xyz:20726?allowInsecure=1&sni=ssl.ssl12.xyz#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%28%E6%B2%B9%E7%AE%A1%3A%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B2.0%29
 trojan://8e65723b-5159-3888-bcdb-6d23fe09af4e@azhj001.xiba1.xyz:20720?allowInsecure=1&sni=ssl.ssl12.xyz#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%28%E6%B2%B9%E7%AE%A1%3A%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B2.0%29
 trojan://520619fd-948a-3ff2-90c1-16488c9bfa06@azhj001.xiba1.xyz:20727?allowInsecure=1&sni=ssl.ssl12.xyz#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%28%E6%B2%B9%E7%AE%A1%3A%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B2.0%29
@@ -598,8 +603,3 @@ vless://94538f05-e0b2-4711-b197-58f6e76e90d1@104.22.75.105:8080?type=ws&host=joi
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.105.69:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.105.69:80
 vless://b9f18c99-321b-48f3-8c92-981828f9ff82@104.21.20.148:2096?security=tls&sni=Iran.harchi.monster&type=grpc&serviceName=Asa&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.20.148:2096
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.64.230:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.64.230:443
-vless://0853bba0-e18b-49c1-b41a-44259366419b@104.24.237.170:2082?security=none&type=ws&host=oceannetworks.site&path=/mahdiprog#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.237.170:2082
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.22.247:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.22.247:80
-vless://4f6f85f9-9d32-4684-a952-338d2208e1af@104.18.37.111:80?security=none&type=ws&host=netbot.%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E4%BC%8A%E6%96%AF%E6%A2%85%E6%B4%9B.site.&path=%2Fdont%2Ftrust%2Fmelo#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.37.111:80
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.198.85:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.198.85:80
-vless://69a93cbf-b851-4fe9-938a-cb2709eaa506@190.93.244.113:2087?security=tls&sni=furi-guri-allnet.poshakbany.ir&type=grpc&serviceName=@nicolV2ray/@nicolV2ray/@nicolV2ray/@nicolV2ray/@nicolV2ray/@nicolV2ray/@nicolV2ray/@nicolV2ray/@nicolV2ray/@nicolV2ray&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-190.93.244.113:2087
