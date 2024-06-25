@@ -102,6 +102,7 @@ def main():
         "https://mrpooya.top/api/lena.php",
         "https://raw.githubusercontent.com/sarinaesmailzadeh/V2Hub/main/merged",
         "https://raw.githubusercontent.com/freev2rayconfig/V2RAY_SUBSCRIPTION_LINK/main/v2rayconfigs.txt",
+        "https://raw.githubusercontent.com/Everyday-VPN/Everyday-VPN/main/subscription/main.txt"
     ]
 
     decoded_links = decode_links(links)
