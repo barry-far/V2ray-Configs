@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://f76fb877-dc91-40e3-9d3f-ec6dbdb92f9c@159.69.49.67:80?security=reality&flow=xtls-rprx-vision&sni=anandtech.com&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒 VL-TCP-RLT 🇩🇪 DE-159.69.49.67:80
-vless://494fc59a-c1fb-440e-9075-1b8c6c5248cc@64.176.65.136:443?security=reality&sni=Pl-node.salarvand.org&type=tcp&fp=chrome&pbk=QR6H1DTulqfHGU6CqoxNwl4I2EIJ0B_5zG4wYFQctQA#🔒 VL-TCP-RLT 🇵🇱 PL-64.176.65.136:443
 vless://ba211e88-dfef-4faa-8274-afe75da9b518@157.90.161.70:443?security=reality&sni=*.hetzner.com&type=grpc&serviceName=@ipV2Ray&fp=chrome&pbk=aWV-bNNZsIZUUrWIN2eLzN9snTl3P_KcCH-l66AfFWs&sid=79872b68#🔒 VL-GRPC-RLT 🇩🇪 DE-157.90.161.70:443
 vless://702c098f-a29a-415d-af86-cf72a437c200@13.58.213.12:2096?security=reality&flow=xtls-rprx-vision&sni=faa.gov&type=tcp&fp=chrome&pbk=Ixe4NAFSom9HMmwisNqezIDDV-nwsfCpMiuy19FopjE&sid=70eb395fd3494e90#🔒 VL-TCP-RLT 🇺🇸 US-13.58.213.12:2096
 vless://16910000-8a18-4b1a-b177-f6e441dac8d5@5.75.199.134:2153?security=reality&sni=cdn.discordapp.com&type=grpc&serviceName=xyz&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒 VL-GRPC-RLT 🇩🇪 DE-5.75.199.134:2153
@@ -603,3 +601,5 @@ vless://f91a4d30-1afc-433c-9008-39b47f50d6fc@104.26.13.8:443?path=/Join--غیر�
 vless://9dba67d5-5398-4ad9-a848-55c673846644@172.67.157.203:2053?security=tls&sni=orientation-da1639422ad8f355d2371428.mitowear.com&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.157.203:2053
 vless://cca319c7-d0d3-46bc-be9f-cf9eabd7b7f7@63.141.128.17:443?security=tls&sni=classify6.appclouddeveloper.com&type=grpc&serviceName=5e56daa0&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-63.141.128.17:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.42.88.130:443?security=tls&sni=kk667.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇱🇺 LU-188.42.88.130:443
+vless://1ff59fad-6cc6-4714-82b1-d4af47de08eb@188.42.88.15:80?security=none&type=ws&host=DiReCt49-13-163-226.CleAnMaRk.IR&path=/DiReCt49-13-163-226-CleAnMaRk-IR#🔒 VL-WS-NONE 🇱🇺 LU-188.42.88.15:80
+vless://cdd562e2-93bc-4541-8f74-28dd32ed52b4@104.20.19.168:2086?security=none&type=ws&host=mci.你有一个不光彩的问题.website.&path=/?ed#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.19.168:2086
