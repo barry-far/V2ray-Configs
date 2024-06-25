@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://f9dd4f89-c47f-45ca-919c-013b46ff3be0@172.64.80.1:80?security=none&type=ws&host=双倍的.join-private.IR&path=/双倍的#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.80.1:80
+vless://7bedf632-b4c2-4e90-9d8b-f42ee7145534@141.193.213.10:443?security=tls&sni=shinobbbnbu.yaemiko.cloudns.org&type=ws&host=shinobu.yaemiko.cloudns.org&path=/&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-141.193.213.10:443
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@188.114.97.143:443?security=tls&sni=current.ircp.online&type=ws&host=current.ircp.online#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.143:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.22.33:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.22.33:80
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.22.249:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.22.249:80
@@ -601,5 +603,3 @@ trojan://telegram-id-directvpn@52.56.247.143:22222?security=tls&sni=trojan.burge
 trojan://9yu6m5okr@172.67.198.177:443?security=tls&sni=production.tj.ojan.workers.dev&type=ws&host=production.tj.ojan.workers.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.198.177:443
 trojan://dfbbc8de-8a4f-407d-8069-6de38d83c4e1@104.24.196.20:443?security=tls&sni=hdfy4c6.freelines.net&type=ws&host=hdfy4c6.freelines.net&path=/Q177OZ8bzrxRWBtLTlTL#🔒 TR-WS-TLS 🏴‍☠️ NA-104.24.196.20:443
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.137:2083?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.53.137:2083
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.132:8443?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.53.132:8443
-trojan://a36dfa0e-5a34-4e77-8513-87350f38e0a6@104.16.35.46:443?security=tls&sni=lmtsg3.cfyun01.sbs&type=ws&host=lmtsg3.cfyun01.sbs&path=/CFYUN#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.35.46:443

@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.205.70:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.205.70:80
+vless://9dba67d5-5398-4ad9-a848-55c673846644@104.21.8.177:2053?security=tls&sni=orientation-da1639422ad8f355d2371428.mitowear.com&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.8.177:2053
 vless://847f3858-0dcf-4363-b49b-63b5337d75a7@78.110.121.208:80?security=tls&sni=t1.morgoon.com&type=tcp&host=telewebion.com&path=/&headerType=http&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-TCP-TLS 🇮🇷 IR-78.110.121.208:80
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.243.51.171:2096?security=tls&sni=jp667.ylks01.eu.org&type=ws&path=/blue#🔒 VL-WS-TLS 🇭🇰 HK-47.243.51.171:2096
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@206.238.237.151:443?security=tls&sni=hk999.ylks.link&type=ws&path=/?proxyip#🔒 VL-WS-TLS 🇸🇬 SG-206.238.237.151:443
@@ -601,5 +603,3 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.218.85.128:80?security=none&type=
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.218.211.17:80?security=none&type=ws&path=/blue#🔒 VL-WS-NONE 🇭🇰 HK-8.218.211.17:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@164.38.155.25:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇬🇧 GB-164.38.155.25:443
 vless://9ad6196e-9332-4ba8-a60f-efd3bba1f37b@23.227.39.179:443?security=tls&sni=n2vpn.projectis.ir&type=ws&host=n2vpn.projectis.ir&path=/@n2vpn&fp=chrome#🔒 VL-WS-TLS 🇨🇦 CA-23.227.39.179:443
-vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.44.181:443?security=tls&sni=vpnmarket-8bm.pages.dev&type=ws&host=vpnmarket-8bm.pages.dev&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.181:443
-vless://fe1281aa-5b5f-405c-cb72-b34e2c923f90@104.20.154.201:443?security=tls&sni=max-allnet.mpyana.ir&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.20.154.201:443

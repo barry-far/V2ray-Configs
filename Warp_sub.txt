@@ -5,8 +5,8 @@
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
 warp://auto#WarpInWarp ⭐️&&detour=warp://auto#Warp 🇮🇷
-warp://162.159.192.150:1180?ifp=5-10#WiW-🟢&&detour=warp://162.159.192.179:1180?ifp=5-10#WARP-🟢
-warp://162.159.192.179:1180?ifp=5-10#WiW-🔵&&detour=warp://162.159.192.150:1180?ifp=5-10#WARP-🔵
+warp://188.114.97.73:864?ifp=5-10#WiW-🟢&&detour=warp://162.159.192.52:864?ifp=5-10#WARP-🟢
+warp://162.159.192.52:864?ifp=5-10#WiW-🔵&&detour=warp://188.114.97.73:864?ifp=5-10#WARP-🔵
 #warp://auto?ifp=10-20&ifps=40-100&ifpd=10-20#Warp_10-20_40-100_10-20
 #warp://auto?ifp=10-20&ifps=40-100&ifpd=30-200#Warp_10-20_40-100_30-50
 #warp://auto?ifp=10-20&ifps=40-100&ifpd=300-500#Warp_10-20_40-100_300-500
@@ -23,4 +23,4 @@ warp://auto?ifp=10-20&ifps=20-60&ifpd=5-10#to the rain&&detour=warp://auto?ifp=1
 warp://auto#WarpInWarp✅&&detour=warp://auto#Warp 🇮🇷 IP
 warp://auto#mansor427🇮🇷 &&detour=warp://auto#ÐΛɌ₭ᑎΞ𐒡𐒡🇩🇪
 warp://@auto/?ifp=5-10#🇮🇷𓄂𓆃 &&detour=warp://@auto/?ifp=5-10#🇩🇪ÐΛɌ₭ᑎΞ𐒡𐒡
-warp://188.114.97.192:894?ifp=10-20#𓄂𓆃 🇮🇷 IP&&detour=warp://162.159.192.105:4198?ifp=10-20#ÐΛɌ₭ᑎΞ𐒡𐒡 🇩🇪 IP
+warp://188.114.98.160:1014?ifp=10-20#𓄂𓆃 🇮🇷 IP&&detour=warp://188.114.97.123:7559?ifp=10-20#ÐΛɌ₭ᑎΞ𐒡𐒡 🇩🇪 IP

@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://fce0f0e4-425a-4cf6-a0ca-e7513517ff38@5.198.177.166:4004?security=reality&flow=xtls-rprx-vision&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=ui0fGumZiFhEhGU13KYIcR3coPPVHuGQMvK-_TThCVc&sid=e3631859#🔒 VL-TCP-RLT 🇮🇷 IR-5.198.177.166:4004
+vless://8c191e6b-ab70-4bfe-bd11-56b396990168@104.168.107.230:5474?security=reality&flow=xtls-rprx-vision&sni=support.cloudflare.com&type=tcp&fp=chrome&pbk=Owc44C8xT2Fa6Mg9d4yeBnSCWwc0gQCf48o1eTm6Shg&sid=a36b4f9bc64c25a7#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:5474
 vless://702c098f-a29a-415d-af86-cf72a437c200@45.32.154.78:443?security=reality&flow=xtls-rprx-vision&sni=cenl.org&type=tcp&fp=chrome&pbk=jwdDqazbeRaR7gxqjBTFaC566Nv10tJewF9tlKrp-Wk&sid=e520d0583ca8295d#🔒 VL-TCP-RLT 🇩🇪 DE-45.32.154.78:443
 vless://a0660613-bab4-456f-91b7-b8923788ed3d@128.140.49.220:443?security=reality&flow=xtls-rprx-vision&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=mNXhz9oVUOChfXonV3TJcv_IB1-epvPy0OXR--qY82E&sid=758910ee7eab4a1b#🔒 VL-TCP-RLT 🇩🇪 DE-128.140.49.220:443
 vless://c1272294-cba2-4fe2-8663-93cf92bab9be@167.235.130.134:443?security=reality&flow=xtls-rprx-vision&sni=none.felinefreedom.site&type=tcp&fp=chrome&pbk=It8T_WWejuo-QOwZsYWbe5gRBDQOLXp9wfnWDo_FIFQ&sid=4e69ed37#🔒 VL-TCP-RLT 🇩🇪 DE-167.235.130.134:443
@@ -601,5 +603,3 @@ vless://f7fe4c50-8f84-425a-8b60-6fbea946df9e@162.159.137.232:443?security=tls&sn
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.246.6:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.246.6:80
 vless://c4516bc5-9e46-4205-983e-2b8646e498dd@172.67.157.203:2083?security=tls&sni=cf.mitowear.com&type=ws#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.157.203:2083
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.115.241:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.115.241:443
-vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@104.16.190.131:443?security=tls&sni=bpb-worker-panel-h5f.pages.dev&type=ws&host=bpb-worker-panel-h5f.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.190.131:443
-vless://d7a6e691-eba4-4a64-b5fa-0ad2512e6005@190.93.244.170:443?security=tls&sni=radar.snapfooding.com&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-190.93.244.170:443
