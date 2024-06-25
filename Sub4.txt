@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://8bc328a4-eeb2-44f8-9beb-8144b7c7bfd1@104.168.107.230:8884?security=reality&flow=xtls-rprx-vision&sni=dnschecker.org&type=tcp&fp=chrome&pbk=QQHxQK7ocGHvaCmqtW3QapnKiBVd4ZjjM3zhCGVMPS4&sid=db68e802226b21cd#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:8884
-vless://a03bece2-d0ad-4032-b44d-0e08e6749e30@104.168.107.230:5738?security=reality&flow=xtls-rprx-vision&sni=addtoany.com&type=tcp&fp=chrome&pbk=Owc44C8xT2Fa6Mg9d4yeBnSCWwc0gQCf48o1eTm6Shg&sid=a36b4f9bc64c25a7#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:5738
 vless://a0562dec-26ac-43d4-ba1d-785c334e644f@37.27.21.47:443?security=reality&sni=greenpepper.ir&type=grpc&serviceName=@ipV2Ray&fp=chrome&pbk=FVe7_gsA7lnuX9z_V0vZXI9gD5outBiWIWZQsBpIzlI&sid=fada4f5f#🔒 VL-GRPC-RLT 🇫🇮 FI-37.27.21.47:443
 vless://a09373e2-e120-457d-9ec9-ea7fe8bedb52@185.125.171.13:443?security=reality&flow=xtls-rprx-vision&sni=partner.g2.com&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒 VL-TCP-RLT 🇳🇴 NO-185.125.171.13:443
 vless://ac554074-ad55-41c6-9fc1-5af16ace00f1@116.202.103.212:443?security=reality&sni=www.danishshakeel.me&type=grpc&fp=firefox&pbk=dt-8AYayJYIhVUKUcfNwD7t67i199CiGWqGfcsYj2Wo&sid=0cb80458#🔒 VL-GRPC-RLT 🇩🇪 DE-116.202.103.212:443
@@ -603,3 +601,5 @@ vless://2af155c5-8b42-4ef6-ab59-111f84907c7e@95.38.132.52:11015?security=none&ty
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.121.44:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.121.44:80
 vless://c9605cb5-f9be-45f3-94d1-57ba02a9c3d0@162.159.130.233:2095?security=none&type=ws&host=Yakuza.unique69.com&path=/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.130.233:2095
 vless://9107b9d2-f3af-432c-bb27-e50d33cef4b1@193.151.146.226:8443?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-193.151.146.226:8443
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.40.146:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.40.146:80
+vless://0f7ec369-3529-4e73-943b-19258212f1bb@162.159.2.9:443?security=tls&sni=c.2025vless.cloudns.be&type=ws&host=c.2025vless.cloudns.be&path=%2F%3Fed%3D2056#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.2.9:443
