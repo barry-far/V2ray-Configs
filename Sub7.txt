@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://492864e5-3865-46ef-eca0-f70632f3c607@185.146.173.67:8880?security=none&type=ws&host=7.v-_-_-_-_-_-_mainv2ray_-_-_-_-_-_-_mainv2ray.7.7.7.7.7.7.mralpha-vpn.COM.#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.67:8880
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.242.252.237:2096?security=tls&sni=jp667.ylks01.eu.org&type=ws&path=/blue#🔒 VL-WS-TLS 🇭🇰 HK-47.242.252.237:2096
-vless://2ca42987-551b-4494-a854-da2d9178f4cd@104.18.25.92:2087?security=tls&sni=LnCsYjPe22.zImBa-zUlA.OrG&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.25.92:2087
-vless://a2fb0467-2f65-4265-999a-1a84308c1d83@78.39.47.164:11000?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇷 IR-78.39.47.164:11000
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.206.125:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.206.125:80
-vless://dffd0356-baca-4802-98da-733bdb4a010e@188.114.98.18:80?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.98.18:80
-vless://f7d73ea4-27d4-41c2-d34c-aa1581bcf83f@185.143.234.103:443?security=tls&sni=bama.ir&type=ws&host=rulsvitalone-3b8673c740-nanov.apps.ir-thr-ba1.arvancaas.ir&path=/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇮🇷 IR-185.143.234.103:443
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.25.250:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.25.250:80
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.20.38:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.20.38:80
 vless://b71b0234-3967-4cfb-bbac-00a9ec8b1637@104.19.251.69:8443?security=tls&sni=melody.howareu.xyz&type=ws&host=melody.howareu.xyz&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.251.69:8443
 vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@172.64.150.145:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.150.145:443
@@ -603,3 +595,11 @@ vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.111.103:80?type=ws&host=kr1.
 vless://0ac87cdb-e122-46c9-f3ce-6a02d5b1678f@45.140.30.130:20569?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-45.140.30.130:20569
 vless://6eb07174-1887-4d62-9909-011d928a0a0a@104.21.63.220:2087?security=tls&sni=selinc------9-------selinc-------9------selinc.mjopnpex.workers.dev&type=ws&host=selinc------9-------selinc-------9------selinc.mjopnpex.workers.dev&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.63.220:2087
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.205.70:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.205.70:80
+vless://9dba67d5-5398-4ad9-a848-55c673846644@104.21.8.177:2053?security=tls&sni=orientation-da1639422ad8f355d2371428.mitowear.com&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.8.177:2053
+vless://847f3858-0dcf-4363-b49b-63b5337d75a7@78.110.121.208:80?security=tls&sni=t1.morgoon.com&type=tcp&host=telewebion.com&path=/&headerType=http&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-TCP-TLS 🇮🇷 IR-78.110.121.208:80
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.243.51.171:2096?security=tls&sni=jp667.ylks01.eu.org&type=ws&path=/blue#🔒 VL-WS-TLS 🇭🇰 HK-47.243.51.171:2096
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@206.238.237.151:443?security=tls&sni=hk999.ylks.link&type=ws&path=/?proxyip#🔒 VL-WS-TLS 🇸🇬 SG-206.238.237.151:443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@192.65.217.57:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇦🇺 AU-192.65.217.57:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.243.26.83:80?security=none&type=ws&path=/blue#🔒 VL-WS-NONE 🇭🇰 HK-47.243.26.83:80
+vless://9ca37727-0381-47e2-bcbb-2fe12875eaea@172.67.160.56:443?security=tls&sni=esetsECuRityLicEnse.XAagczZ.WorkERS.DEV&type=ws&host=esEtsECurItyliCEnsE.XaAGczz.worKers.deV&path=%2FGH1st3uOy36PWqdP%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.160.56:443
+vless://669ad826-af8a-434b-8e61-d8d7caa230c2@104.21.74.139:443?security=tls&sni=forwarder.aurorainiceland.com&type=ws&path=/nimws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.74.139:443
