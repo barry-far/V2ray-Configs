@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://0cb2cd1f-870b-485c-914a-60aba39eed39@185.107.56.52:443?#🔒 TR-TCP-NA 🇳🇱 NL-185.107.56.52:443
-trojan://918eba0d3ff04abc803fb00e18d0fcb5@202.64.1.143:443?security=tls&sni=www.gpt123.one&type=tcp#🔒 TR-TCP-TLS 🇭🇰 HK-202.64.1.143:443
-trojan://auto@159.246.55.132:443?sni=vip.123789.pp.ua&type=ws&host=vip.123789.pp.ua&path=/#🔒 TR-WS-NA 🇺🇸 US-159.246.55.132:443
-trojan://NISHIKUITAN222@47.237.92.26:8443?security=tls&sni=t009.ylks.link&type=ws&host=t009.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-47.237.92.26:8443
 trojan://dacc0551-b15a-47da-8543-ef088dfa5904@14.29.253.95:25106?sni=hk03.ckcloud.info#🔒 TR-TCP-NA 🇨🇳 CN-14.29.253.95:25106
 trojan://0cc6b4268dea0ba8@5.44.249.53:3306?security=tls&sni=n2.gladns.com&type=ws&host=TG.WangCai_1&path=/gateway/connect#🔒 TR-WS-TLS 🇸🇬 SG-5.44.249.53:3306
 trojan://b17fa17d-13a0-4e8a-a398-8e549ea8b208@23.227.38.11:443?sni=syndication-statutes-wanted-logo.trycloudflare.com&type=ws&path=/argox-tr#🔒 TR-WS-NA 🇨🇦 CA-23.227.38.11:443
@@ -603,3 +599,7 @@ ss://ZDM0MmQxMWUtZDQyNC00NTgzLWIzNmUtNTI0YWIxZjBhZmE0Og==@104.22.68.66:2053#🔒
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.75.137.105:9101#🔒 SS-TCP-NA 🇺🇸 US-38.75.137.105:9101
 ss://ZGM4ZWNjZGItZWNmYS00MzVmLTlhYzEtNWRjNDg4MmU3YjUxOg==@162.19.228.119:80#🔒 SS-TCP-NA 🇫🇷 FR-162.19.228.119:80
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOSjVlSllxc1NpWnFKZkFrR2lWanVB@185.190.251.57:5555#🔒 SS-TCP-NA 🇺🇸 US-185.190.251.57:5555
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.75.137.42:8091#🔒 SS-TCP-NA 🇺🇸 US-38.75.137.42:8091
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.162.200.181:8881#🔒 SS-TCP-NA 🇨🇦 CA-23.162.200.181:8881
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.120:3306#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.120:3306
+ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.18.98.165:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.18.98.165:80
