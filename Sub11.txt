@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://0f7ec369-3529-4e73-943b-19258212f1bb@108.162.193.100:443?security=tls&sni=c.2025vless.cloudns.be&type=ws&host=c.2025vless.cloudns.be&path=%2F%3Fed%3D2056#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.193.100:443
-vless://eb44e1c7-e5ba-4446-807c-a0768a8f4589@104.16.12.44:2083?security=tls&sni=amovpn6.fqservers.com&type=ws&host=amovpn6.fqservers.com&path=%2Fchannel%3A%40VPNAMOHELP_%40VPNAMOHELP_%40VPNAMOHELP_%40VPNAMOHELP_%40VPNAMOHELP_%40VPNAMOHELP&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.12.44:2083
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@47.242.252.237:2083?security=tls&sni=xin667.ylks.link&type=ws&path=/blue#🔒 VL-WS-TLS 🇭🇰 HK-47.242.252.237:2083
 vless://dab6b473-1c06-4760-81b0-e56cc0beb1e3@162.159.137.232:8080?security=none&type=ws&host=de2.过滤器.store.&path=/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.137.232:8080
 vless://111b2c5b-dfab-480c-d9ea-26e940d8d12c@193.151.151.96:8004?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-193.151.151.96:8004
@@ -603,3 +601,5 @@ trojan://auto@104.18.34.21:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&ty
 trojan://9yu6m5okr@104.21.50.5:443?security=tls&sni=production.tj.ojan.workers.dev&type=ws&host=production.tj.ojan.workers.dev&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.50.5:443
 trojan://ab602e02-624b-44f0-a51b-25ed53f70048@144.126.145.43:443?security=tls&sni=us.eaxeg.be&type=ws&host=us.eaxeg.be&path=%2Fq7ugFVneYzh1SQ9N70H4Y2aW&fp=chrome&alpn=http/1.1#🔒 TR-WS-TLS 🇺🇸 US-144.126.145.43:443
 trojan://telegram-VPNHTTPIinjectorfree@188.114.96.3:443?security=tls&sni=telegram-vpnhttpinjectorfree-016.judeen650.workers.dev&type=ws&host=telegram-vpnhttpinjectorfree-016.judeen650.workers.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-188.114.96.3:443
+trojan://d59b6b26-9c70-4f3a-af3e-f09712ea5274@45.56.67.132:443?#🔒 TR-TCP-NA 🇺🇸 US-45.56.67.132:443
+trojan://656bcdfe-ae09-4170-a36e-1685ee10b26f@162.159.138.232:2083?security=tls&sni=missyousir.segaro.tech&type=ws&host=missyousir.segaro.tech&path=/OVmkPBATL0FijQ3AWVBo&fp=chrome&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.138.232:2083
