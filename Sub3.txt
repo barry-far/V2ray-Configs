@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://8e65723b-5159-3888-bcdb-6d23fe09af4e@azgy001.xiba1.xyz:20710?allowInsecure=1&sni=ssl.ssl12.xyz#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%28%E6%B2%B9%E7%AE%A1%3A%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B2.0%29
-trojan://8e65723b-5159-3888-bcdb-6d23fe09af4e@azgy001.xiba1.xyz:20716?allowInsecure=1&sni=ssl.ssl12.xyz#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%28%E6%B2%B9%E7%AE%A1%3A%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B2.0%29
-trojan://8e65723b-5159-3888-bcdb-6d23fe09af4e@azgy001.xiba1.xyz:20711?allowInsecure=1&sni=ssl.ssl12.xyz#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%28%E6%B2%B9%E7%AE%A1%3A%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B2.0%29
 trojan://8e65723b-5159-3888-bcdb-6d23fe09af4e@azhj001.xiba1.xyz:20725?allowInsecure=1&sni=ssl.ssl12.xyz#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%28%E6%B2%B9%E7%AE%A1%3A%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B2.0%29
 trojan://8e65723b-5159-3888-bcdb-6d23fe09af4e@azhj001.xiba1.xyz:20724?allowInsecure=1&sni=ssl.ssl12.xyz#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%28%E6%B2%B9%E7%AE%A1%3A%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B2.0%29
 trojan://8e65723b-5159-3888-bcdb-6d23fe09af4e@azhj001.xiba1.xyz:20718?allowInsecure=1&sni=ssl.ssl12.xyz#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%28%E6%B2%B9%E7%AE%A1%3A%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B2.0%29
@@ -603,3 +600,6 @@ vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.160.251:80?type=ws&host=kr1.
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.172.89:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.172.89:80
 vless://0a0b9604-f2a9-4d73-a698-8e2641d692ae@45.142.120.5:2053?security=tls&sni=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran.dewiw37019.workers.dev&type=ws&host=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran.dewiw37019.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇷🇺 RU-45.142.120.5:2053
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.108.121:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.108.121:443
+vless://c5a265b1-d3d7-4079-9dd2-e7d5c7da3637@188.114.96.216:443?security=tls&sni=ffffrwewrg3.af3025eb2e.workers.dev&type=ws&host=ffffrwewrg3.af3025eb2e.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.216:443
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.205.70:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.205.70:80
+vless://bc827d67-f095-4c65-9327-33039decb888@104.21.12.44:443?security=tls&sni=s5c.giga-downloader.com&type=ws&host=s5c.giga-downloader.com&path=/ws5/8080&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.12.44:443
