@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@170.114.46.140:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-170.114.46.140:443
+vless://d708c854-5646-42db-ba29-959b7861197b@104.25.254.88:8880?security=none&type=ws&host=2.v2ray.debian.org.fxp.debian.org.speedtest.net.らわなさらわ.jomong.space#🔒 VL-WS-NONE 🏴‍☠️ NA-104.25.254.88:8880
+vless://1ff59fad-6cc6-4714-82b1-d4af47de08eb@23.227.60.186:80?security=none&type=ws&host=DiReCt49-13-163-226.CleAnMaRk.IR&path=/DiReCt49-13-163-226-CleAnMaRk-IR#🔒 VL-WS-NONE 🇨🇦 CA-23.227.60.186:80
+vless://ef864178-98ac-493b-ae7e-054c362c348f@45.56.67.132:2003?security=tls&sni=us2-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇺🇸 US-45.56.67.132:2003
+vless://1ff59fad-6cc6-4714-82b1-d4af47de08eb@185.162.228.32:80?security=none&type=ws&host=DiReCt49-13-163-226.CleAnMaRk.IR&path=/DiReCt49-13-163-226-CleAnMaRk-IR#🔒 VL-WS-NONE 🇦🇲 AM-185.162.228.32:80
+vless://7509f896-2115-4420-b487-501c9103bebd@132.226.22.106:34237?security=tls&sni=ccs.443888.xyz&type=ws&path=%2Fvless%3Fed&fp=chrome#🔒 VL-WS-TLS 🇰🇷 KR-132.226.22.106:34237
+vless://b3a313ec-7bea-5315-93ee-38ada6002bd8@45.131.7.10:80?security=none&type=ws&host=sany.sany27654.WORkeRs.dev&path=vless-ws%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇳🇱 NL-45.131.7.10:80
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.204.170:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.204.170:80
 vless://e12e05c5-d64f-4570-df75-86dfed4edaeb@65.21.188.58:80?security=none&type=tcp&host=CDsCC77A.ahvaz1.irancell.ir,+CDsCC77A.speedtest1.shatel.ir,+CDsCC77A.AHESPD2.mci.ir,+CDsCC77A.intraspeedtest2.mobinnet.ir,+CDsCC77A.st1.aminidc.com,+CDsCC77A.speedtest.aionet.ir,+CDsCC77A.esfahan1.irancell.ir,+CDsCC77A.speedtest.faradez.ir&headerType=http#🔒 VL-TCP-NONE 🇫🇮 FI-65.21.188.58:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.235.152:80?security=none&type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.235.152:80
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.25.251:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.25.251:80
@@ -595,11 +603,3 @@ trojan://88496c26-3356-47fc-b786-fb8e41a3ff55@129.153.145.216:443?security=tls&s
 trojan://b3965d2d-3b82-45cc-927b-1336aca3f3fe@139.162.49.215:443?#🔒 TR-TCP-NA 🇸🇬 SG-139.162.49.215:443
 trojan://pUxG77WPOZ@104.18.203.232:80?security=none&type=ws&host=s9.in01.tech&path=/#🔒 TR-WS-NONE 🏴‍☠️ NA-104.18.203.232:80
 trojan://sharecentre@3.64.163.50:443?#🔒 TR-TCP-NA 🇩🇪 DE-3.64.163.50:443
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.141:2083?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.141:2083
-trojan://nkmnlPd4k2@45.67.32.147:31104?security=reality&sni=discordapp.com&type=grpc#🔒 TR-GRPC-REALITY 🇷🇺 RU-45.67.32.147:31104
-trojan://EgAMtxAquaO78-IvTSWpnQ@104.16.9.97:2096?security=tls&sni=mrz.learnturkishspeech.fun&type=ws&host=mrz.learnturkishspeech.fun&path=/book#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.9.97:2096
-trojan://NISHIKUITAN222@8.219.100.168:8443?security=tls&sni=t009.ylks.link&type=ws&host=t009.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.100.168:8443
-trojan://NISHIKUITAN222@8.219.198.139:443?security=tls&sni=t667.ylks.link&type=ws&host=t667.ylks.link&path=%2F#🔒 TR-WS-TLS 🇸🇬 SG-8.219.198.139:443
-trojan://0fd9b883-0551-4ed1-b978-528183b459a2@8.210.85.222:2087?sni=mfjd.591haoka.com#🔒 TR-TCP-NA 🇭🇰 HK-8.210.85.222:2087
-trojan://NISHIKUITAN222@213.35.98.64:443?security=tls&sni=t600.ylks.link&type=ws&host=t600.ylks.link&path=%2F#🔒 TR-WS-TLS 🇸🇬 SG-213.35.98.64:443
-trojan://951bbbc9-c5fd-441e-ac3d-c7fcfbf4a751@173.245.59.100:443?security=tls&sni=se1.trojanvpn.de&type=ws&host=se1.trojanvpn.de&path=/websocket#🔒 TR-WS-TLS 🏴‍☠️ NA-173.245.59.100:443
