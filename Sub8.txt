@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.252.5:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.252.5:80
-vless://f42a9610-5dde-4ce0-bd4b-afbc30876170@185.146.173.95:8080?security=none&type=ws&host=xn--047h.iman-v2ray.sbs.&path=%2F#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.95:8080
-vless://ce12313e-dab2-49ee-8806-399eb91136b2@104.18.23.19:2096?security=tls&sni=api1.htve.ir&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.23.19:2096
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.61.180:443?security=tls&sni=pPal03.lAKEn-aBHiraAM.WoRKERs.DeV&type=ws&host=PPal03.LAkEN-AbhIraAm.WOrkErS.deV&path=%2FZ2xcIKzLEcHApagm%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.61.180:443
-vless://fa80408d-f7ce-4c96-ac0b-6c1b791b5b69@23.227.39.179:2053?security=tls&sni=n2vpn.projectis.ir&type=ws&host=n2vpn.projectis.ir&path=/@n2vpn&fp=chrome#🔒 VL-WS-TLS 🇨🇦 CA-23.227.39.179:2053
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@64.110.83.231:23022?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇰🇷 KR-64.110.83.231:23022
 vless://770e8a1b-980e-474d-b583-2e4e98acb854@47.243.42.219:8880?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🇭🇰 HK-47.243.42.219:8880
 vless://d480372f-6596-4177-ae85-28af07adf1cb@172.67.206.221:2053?security=tls&sni=selinc--5--selinc--5--selinc.muosqv.workers.dev&type=ws&host=selinc--5--selinc--5--selinc.muosqv.workers.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.206.221:2053
@@ -603,3 +598,8 @@ vless://e358c5c6-0b2f-e6ce-5d5f-c8c11a194a92@87.107.162.104:443?security=none&ty
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@129.154.223.89:15800?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇷 KR-129.154.223.89:15800
 vless://c9605cb5-f9be-45f3-94d1-57ba02a9c3d0@162.159.130.233:2095?security=none&type=ws&host=Yakuza.unique69.com&path=/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.130.233:2095
 vless://34cca50d-721a-4d01-9288-0ae36afa81dd@190.93.247.155:8443?security=tls&sni=weed.shadan.online&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-190.93.247.155:8443
+vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@8.219.1.169:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇸🇬 SG-8.219.1.169:443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.218.216:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.218.216:443
+vless://e4e7b149-8bd8-4266-8cbb-0987604dbc87@104.19.223.37:443?security=tls&sni=toujiediansigema.5112233.xyz&type=ws&host=toujiediansigema.5112233.xyz&path=%2FTG%40juzibaipiao%E5%81%B7%E8%8A%82%E7%82%B9%E6%AD%BB%E5%90%97#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.223.37:443
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.136.67:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.136.67:80
+vless://f21bd1f1-e293-40a0-974b-8825eaf89e66@104.17.42.10:2083?security=tls&sni=dlqz.meysaam.com&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.42.10:2083

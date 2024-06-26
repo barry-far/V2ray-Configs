@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@193.227.99.214:443?security=tls&sni=v111.ylkszy.eu.org&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇲🇹 MT-193.227.99.214:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.248.178:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.248.178:443
-vless://146d4de0-ae98-411b-940c-03937947e1ef@172.66.47.190:443?security=tls&sni=v2ray1ng.pages.dev&type=ws&host=v2ray1ng.pages.dev&path=/VIP&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.190:443
-vless://ffcb16ff-bb76-48b3-a44c-06bdf35e8482@104.21.31.240:443?security=tls&sni=free.itsvpns.app&type=ws&host=free.itsvpns.app&path=/wsfree&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.31.240:443
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.170.103:443?security=tls&sni=3k.pureboy.eu.org&type=ws&host=3k.pureboy.eu.org#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.170.103:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.102.40:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.102.40:80
 vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@150.230.149.208:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇩🇪 DE-150.230.149.208:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@206.238.236.161:443?security=tls&sni=zdy667.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇸🇬 SG-206.238.236.161:443
@@ -603,3 +598,8 @@ trojan://NISHIKUITAN222@47.236.117.48:443?security=tls&sni=t000.ylks.link&type=w
 trojan://1ZTbMoSRnm@104.17.239.159:2083?security=tls&sni=mIkAsa.mEgAfAiR.sToRe&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.17.239.159:2083
 trojan://qG9K8AGnn9XH5jUqeFu96g@104.16.123.175:2083?security=tls&sni=cdn13.cdn2cdn.com&type=ws&host=cdn13.cdn2cdn.com&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.123.175:2083
 trojan://559c3b5f-3dd1-47e4-94ad-017cb392a7ba@162.159.135.234:443?security=tls&sni=de1.trojanvpn.de&type=ws&host=de1.trojanvpn.dE&path=/path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.135.234:443
+trojan://0cb2cd1f-870b-485c-914a-60aba39eed39@74.63.241.19:443?#🔒 TR-TCP-NA 🇺🇸 US-74.63.241.19:443
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.232:2083?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.232:2083
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.19:2087?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.19:2087
+trojan://f0eb8c92ce8946aaba856569cff1a16b@104.17.61.6:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.61.6:443
+trojan://NISHIKUITAN222@172.93.188.140:443?sni=t000.ylks.link#🔒 TR-TCP-NA 🇭🇰 HK-172.93.188.140:443
