@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://de73848a-c470-48ea-a686-1209b622fc5f@46.245.65.175:3002?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-46.245.65.175:3002
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.102.1:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.102.1:80
-vless://770e8a1b-980e-474d-b583-2e4e98acb854@8.218.65.237:8080?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🇭🇰 HK-8.218.65.237:8080
 vless://fcf40615-3026-4e62-86fd-0b97385b9e67@104.21.27.155:2087?security=tls&sni=nafas.hackers85.sbs&type=ws&host=nafas.hackers85.sbs&path=/@hackers85&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.27.155:2087
 vless://0ac87cdb-e122-46c9-f3ce-6a02d5b1678f@45.140.30.130:20569?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-45.140.30.130:20569
 vless://cfa14880-381f-4524-bb41-02c96a7e8832@104.25.71.208:80?security=none&type=ws&host=freedom1.hamrahmarzban.com#🔒 VL-WS-NONE 🏴‍☠️ NA-104.25.71.208:80
@@ -603,3 +600,6 @@ vless://77de458b-5d58-4379-927a-7e749b2d17f8@104.21.21.88:443?security=tls&sni=t
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.104.178:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-185.148.104.178:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@168.100.6.53:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇺🇸 US-168.100.6.53:443
 vless://51b48b68-dca3-4e47-bad1-f29df214ca21@172.66.47.42:2096?security=tls&sni=sd2.fitledge.ir&type=ws&host=sd2.fitledge.ir&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.42:2096
+vless://7b5a7775-4006-49af-96c4-b2506a794f99@104.31.16.95:443?security=tls&sni=laj.iranianmobail.ir&type=ws&host=laj.iranianmobail.ir&path=/9KsgRW1AnYtwZOVz&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.95:443
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@89.116.180.161:2096?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🇱🇹 LT-89.116.180.161:2096
+vless://4131c154-4f6b-488d-abee-b53e9f9d4cf0@85.9.101.36:43327?security=none&type=tcp&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.9.101.36:43327

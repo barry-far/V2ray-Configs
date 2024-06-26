@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://fce0f0e4-425a-4cf6-a0ca-e7513517ff38@84.54.32.172:4004?security=reality&flow=xtls-rprx-vision&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=ui0fGumZiFhEhGU13KYIcR3coPPVHuGQMvK-_TThCVc&sid=e3631859#🔒 VL-TCP-RLT 🇫🇷 FR-84.54.32.172:4004
-vless://a09373e2-e120-457d-9ec9-ea7fe8bedb52@185.125.171.13:8443?security=reality&sni=partner.g2.com&type=grpc&serviceName=g2com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒 VL-GRPC-RLT 🇳🇴 NO-185.125.171.13:8443
-vless://8d901d39-f250-46fd-db03-77276961adbe@8.217.226.145:31800?security=reality&flow=xtls-rprx-vision&sni=swdist.apple.com&type=tcp&fp=chrome&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU#🔒 VL-TCP-RLT 🇭🇰 HK-8.217.226.145:31800
 vless://ec3b9c37-7cde-46ab-aefd-7e17e1f06fa1@104.168.107.230:5676?security=reality&flow=xtls-rprx-vision&sni=arnebrachhold.de&type=tcp&fp=chrome&pbk=QQHxQK7ocGHvaCmqtW3QapnKiBVd4ZjjM3zhCGVMPS4&sid=db68e802226b21cd#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:5676
 vless://ae9d4f00-3f68-4811-ba81-672ac8f1904b@199.59.243.226:24916?security=reality&sni=mega.io&type=grpc&fp=chrome&pbk=VZBW4ZiScdRuWl0PfVoYmgbJc-3sZVMvd6BXZg4ycws&sid=7a3a52136c#🔒 VL-GRPC-RLT 🇺🇸 US-199.59.243.226:24916
 vless://605b7757-7a88-45f9-b085-e0a5a28a62dc@151.80.52.21:45565?security=reality&sni=cdn.discordapp.com&type=grpc&serviceName=/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023&fp=chrome&pbk=NEb-qsPBq_rx6wePGyXBWNcWA_PJL2bpr2lpdxl7pnw&sid=6dd0636e#🔒 VL-GRPC-RLT 🇫🇷 FR-151.80.52.21:45565
@@ -603,3 +600,6 @@ vless://9af577f2-0a7a-4448-ae0b-6985c53ea634@45.131.211.179:2083?security=tls&sn
 vless://5af10469-3ec3-4353-94d2-297b7215a15b@104.21.31.146:443?security=tls&sni=continuity.sasuke.ir&type=ws&host=continuity.sasuke.ir&path=/ws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.31.146:443
 vless://505094ea-297c-496a-af29-ed33db58f820@172.66.47.19:80?security=none&type=ws&host=speedtest.net.ir.com.site.事列列男事的事列上赛男.ir.novaball.lINK.#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.47.19:80
 vless://cfb6d9ad-7a14-4061-b159-8902fd73bb43@188.114.98.224:2095?security=none&type=ws&host=DigiV2ray---_-_---DIGIq.radioTehran.org.#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.98.224:2095
+vless://b324b5d9-dd94-4b6f-b636-cc3e48d8a7fa@172.67.187.56:2083?security=tls&sni=marketepicnode10.bestgameir2.ir&type=ws&path=/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.187.56:2083
+vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@141.147.147.28:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇯🇵 JP-141.147.147.28:443
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.142.120:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.142.120:80
