@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://e6fbedc0-2926-4b28-be63-5fb2e05f9208@104.26.13.8:2096?security=tls&sni=mz.49z.info&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.26.13.8:2096
+vless://e41b9c55-9fcd-46e8-a913-2812d7805eb7@5.190.131.5:443?security=none&type=tcp&host=speedtest.net&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.190.131.5:443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@147.78.140.131:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇧🇬 BG-147.78.140.131:443
+vless://c57db8e2-555e-4c48-b262-ec20b4ae6a50@172.67.178.69:443?security=tls&sni=selinc--3--3--3--selinc.eubda.workers.dev&type=ws&host=selinc--3--3--3--selinc.eubda.workers.dev&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.178.69:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@205.233.181.71:443?security=tls&sni=kk626.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.71:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.19.230.57:443?security=tls&sni=523afb17.IRS23.pAgES.Dev&type=ws&host=523AfB17.IRS23.pagES.DEv&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.230.57:443
 vless://d3ee451d-3877-4c0a-858f-0b4e4a00de99@66.235.200.129:8443?security=tls&sni=vmessorg.xn--54qv00ez5ar77g.co&type=ws&host=vmessorg.xn--54qv00ez5ar77g.co&path=/&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-66.235.200.129:8443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.120.6:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.120.6:80
@@ -598,8 +603,3 @@ vless://20dec600-1cea-427d-8ca6-aec8ab3e29be@172.67.211.198:443?security=tls&sni
 vless://1ef034ba-20d5-41b0-a922-d7e6def1a706@104.21.74.97:443?security=tls&sni=dd.limoo.online&type=ws&host=dd.limoo.online#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.74.97:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@199.212.90.22:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇨🇦 CA-199.212.90.22:443
 vless://ce12313e-dab2-49ee-8806-399eb91136b2@104.17.247.203:2096?security=tls&sni=api1.htve.ir&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.247.203:2096
-vless://f784a8af-4e2b-47c1-b4cd-28b76836194d@185.143.233.225:80?type=ws&host=16.ok-config-19.buzz&path=/@Lusty_Queen_VPN,@Lusty_Queen_VPN,@Lusty_Queen_VPN,@Lusty_Queen_VPN,@Lusty_Queen_VPN,@Lusty_Queen_VPN,@Lusty_Queen_VPN,@Lusty_Queen_VPN,@Lusty_Queen_VPN,@Lusty_Queen_VPN,@Lusty_Queen_VPN,@Lusty_Queen_VPN,@Lusty_Queen_VPN,@Lusty_Queen_VPN,@Lusty_Queen_VPN,#🔒 VL-WS-NA 🇮🇷 IR-185.143.233.225:80
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.109.127:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.109.127:80
-vless://df4608a5-0ceb-4513-b991-596f541bccdb@172.64.87.176:443?security=tls&sni=cfdy.yueuzi.dynv6.net&type=ws&host=cfdy.yueuzi.dynv6.net&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.87.176:443
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.201.129:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.201.129:80
-vless://61958b98-d52a-420e-bb42-a3fd22985895@104.17.249.203:2096?security=tls&sni=italia.dalixw.fun&type=grpc&serviceName=.....&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.249.203:2096
