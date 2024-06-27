@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://349956b8-b0c8-45ac-acb9-ed7881fc88b1@162.159.136.232:2083?security=tls&sni=worker-calm-rice-ce3a.alanaziziyani88aa79.workers.dev&type=ws&host=worker-calm-rice-ce3a.alanaziziyani88aa79.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.136.232:2083
-vless://18a3f404-572c-4f9d-a87f-4329a7c134a1@104.21.78.138:8443?security=tls&sni=selinc----7------selinc-------7------selinc.qnhvrd.workers.dev&type=ws&host=selinc----7------selinc-------7------selinc.qnhvrd.workers.dev&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.78.138:8443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.26.5.57:2087?security=tls&sni=jp999.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.5.57:2087
 vless://9fea4f96-8cc8-44c5-9450-797c3be88a31@104.21.32.226:2087?security=tls&sni=sina-mci-panel.eystem.ir&type=grpc&serviceName=@V_2rayy_NG-@V_2rayy_NG-@V_2rayy_NG-@V_2rayy_NG-@V_2rayy_NG-@V_2rayy_NG-@V_2rayy_NG-&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.32.226:2087
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.14.65:80?security=none&type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.14.65:80
@@ -603,3 +601,5 @@ trojan://0cb2cd1f-870b-485c-914a-60aba39eed39@74.63.241.21:443?#🔒 TR-TCP-NA �
 trojan://NISHIKUITAN222@8.220.223.223:443?security=tls&sni=t667.ylks.link&type=ws&host=t667.ylks.link&path=/#🔒 TR-WS-TLS 🇰🇷 KR-8.220.223.223:443
 trojan://559c3b5f-3dd1-47e4-94ad-017cb392a7ba@162.159.133.234:443?security=tls&sni=de1.trojanvpn.de&type=ws&host=de1.trojanvpn.dE&path=/path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.133.234:443
 trojan://zIvR7ryOXv@159.223.207.182:34428?security=tls&sni=drehitm.duckdns.org#🔒 TR-TCP-TLS 🇺🇸 US-159.223.207.182:34428
+trojan://d8fd60d7-4c50-47c8-9e2d-adf37ad81af4@20.2.3.7:443?#🔒 TR-TCP-NA 🇭🇰 HK-20.2.3.7:443
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.17.147.11:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.11:443
