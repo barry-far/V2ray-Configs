@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://fc1191c8-e724-482f-a492-90d3d386719c@104.21.18.174:2053?security=tls&sni=sisand.waztow.WOrkerS.Dev&type=ws&host=sisand.waztow.WOrkerS.Dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.18.174:2053
 vless://f922a88b-d4f5-4371-924e-c0335c990532@190.93.246.241:2087?type=grpc&serviceName=Telegram#🔒 VL-GRPC-NA 🏴‍☠️ NA-190.93.246.241:2087
 vless://e982aa04-033d-4811-a6eb-724ea8e5300d@172.105.18.131:443?security=tls&sni=ca2-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇨🇦 CA-172.105.18.131:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.19.29:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.19.29:80
@@ -602,4 +603,3 @@ vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.198.131:80?type=ws&host=kr1.
 vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@104.16.60.8:8080?security=none&sni=vcp3.cushingreflex5.workers.dev&type=ws&path=/ahmedquran19.xyz:443/current_time#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.60.8:8080
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@147.185.161.44:443?security=tls&sni=v000.ylkszy.eu.org&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-147.185.161.44:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.102.151:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.102.151:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@205.233.181.32:443?security=tls&sni=kk111.ylks.link&type=ws&path=/blue#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.32:443
