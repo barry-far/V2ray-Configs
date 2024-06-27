@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://1f48f432-fff4-474f-c3a6-08cf1db5b709@104.21.2.232:443?security=tls&sni=pay.technator.net&type=ws&host=pay.technator.net&path=/image/20992#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.2.232:443
 vless://312b0699-a47a-496e-97b6-cb3af1654d35@104.26.2.36:8880?security=none&type=ws&host=918.hebav63406.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.2.36:8880
 vless://b71b0234-3967-4cfb-bbac-00a9ec8b1637@104.20.196.26:8443?security=tls&sni=melody.howareu.xyz&type=ws&host=melody.howareu.xyz&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.196.26:8443
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@172.64.111.9:443?security=tls&sni=edge.020770.xyz&type=ws&host=edge.020770.xyz#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.111.9:443
@@ -603,3 +602,4 @@ vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.18.250.185:2053?security=tls&sn
 vless://5fd30283-078d-4ee6-873b-4ecb8fec1958@162.159.135.234:2082?security=none&type=ws&host=none.error_none.error_10101010.iRAN-chEck-hOst-SERVER-sitesssssssssssssssssssssss--sssssssssss.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.135.234:2082
 vless://89894929-d005-45a6-92bd-468a8ecad6af@46.102.132.64:32942?security=none&type=tcp&host=speedtest.net&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-46.102.132.64:32942
 vless://6f995056-7802-4a1d-bff7-61678e626c3f@52.228.84.37:443?security=tls&sni=kkul8.azurewebsites.net&type=ws&host=kkul8.azurewebsites.net&path=/#🔒 VL-WS-TLS 🇨🇦 CA-52.228.84.37:443
+vless://211267ce-6387-413e-b221-30c6283ab397@172.67.188.149:2087?security=tls&sni=eu.bookmarkingonline.info&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.188.149:2087
