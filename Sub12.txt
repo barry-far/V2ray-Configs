@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://82c91f31-470c-4ea7-8602-27e3d916d62b@62.60.210.90:8580?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-62.60.210.90:8580
+vless://f7d2e53e-0728-49b0-89f7-ad730ee0cc49@172.67.190.251:2083?security=tls&sni=uciran-uciran-uciran-uciran-uciran-uciran-uciran.wamivah516.workers.dev&type=ws&host=uciran-uciran-uciran-uciran-uciran-uciran-uciran.wamivah516.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.190.251:2083
+vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@104.21.37.112:443?security=tls&sni=sANDWOrM.PaGES.DEV&type=ws&host=SaNdWORM.pAgES.DEV&path=/D5PXtLY0cCm3QaZ8&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.37.112:443
+vless://988194d4-7e32-4055-9dd7-e8469fd1e2b4@78.109.194.114:57838?security=none&type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-78.109.194.114:57838
 vless://61817e64-10ca-47be-97e8-9d6ff6aa2a5d@172.67.147.142:443?security=tls&sni=rsfrndc.foriran.trade&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.147.142:443
 vless://badb3c78-0456-47da-b6f8-cfc841d347af@172.67.218.252:2095?security=none&type=ws&host=Flashv2ray-ferance-heder.cataba.ir&path=%2FV2ray.motorcycles%3Fed%3D80#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.218.252:2095
 vless://609435cb-3fab-420c-8aa6-27712246be02@172.66.47.156:443?security=tls&sni=pardazeshvpn-tg15.pages.dev&type=ws&host=pardazeshvpn-tg15.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.156:443
@@ -599,7 +603,3 @@ trojan://299025b9-6b55-430c-be38-9a18c06873ac@91.199.84.122:12003?sni=cn1.one.ed
 trojan://auto@162.159.137.232:8443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.137.232:8443
 trojan://4CCF9A9AB80E9889198B02ECE7FA08DD@154.44.27.99:43005?security=tls&sni=j0080.ruixiangseo.xyz#🔒 TR-TCP-TLS 🇭🇰 HK-154.44.27.99:43005
 trojan://c7f9b8f0-bfdb-11ee-a15c-1239d0255272@104.21.41.21:443?security=tls&sni=de1.test3.net&type=ws&host=de1.test3.net&path=/howdy#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.41.21:443
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.71:2087?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.71:2087
-trojan://0cb2cd1f-870b-485c-914a-60aba39eed39@74.63.241.26:443?#🔒 TR-TCP-NA 🇺🇸 US-74.63.241.26:443
-trojan://NISHIKUITAN222@47.237.92.26:8443?security=tls&sni=t009.ylks.link&type=ws&host=t009.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-47.237.92.26:8443
-trojan://299025b9-6b55-430c-be38-9a18c06873ac@91.199.84.122:12051?sni=china3.one.edu.kg&allowInsecure=1#🔒 TR-TCP-NA 🇭🇰 HK-91.199.84.122:12051
