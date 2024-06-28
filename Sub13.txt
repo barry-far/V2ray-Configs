@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.42.62:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.42.62:80
+vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@45.149.12.175:443?security=tls&sni=IgOpTe.PaSaRgAdMaNd.CoM&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇳🇱 NL-45.149.12.175:443
+vless://8546c46f-27c7-4e28-878b-96836bd5b86a@193.151.144.139:2052?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-193.151.144.139:2052
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.208.19:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.208.19:80
+vless://0859b63e-cb81-4c01-bf5a-739f90e72f92@172.67.140.33:2095?security=none&type=ws&host=v2ray-_-_-_-_-_-vpn.frev2ray.kellekcollection.myname.houselife.IR.&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.140.33:2095
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.130.248:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.130.248:80
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.66.47.7:443?security=tls&sni=jp999.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.7:443
 vless://713e999f-9590-4419-e49c-5a682ec5d4f7@104.24.197.20:2083?security=tls&sni=ch.RxV2ray.space&type=grpc&serviceName=@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.24.197.20:2083
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.135.9.15:443?security=tls&sni=zdy00.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇩🇪 DE-185.135.9.15:443
@@ -597,9 +603,3 @@ trojan://auto@172.67.181.172:443?security=tls&sni=esetsecuritylicense1.cxlrazo.w
 trojan://0cb2cd1f-870b-485c-914a-60aba39eed39@74.63.241.19:443?#🔒 TR-TCP-NA 🇺🇸 US-74.63.241.19:443
 trojan://96884680-77e6-11eb-8d67-1239d0255272@163.172.211.74:443?sni=nl-trojan.bonds.id#🔒 TR-TCP-NA 🇳🇱 NL-163.172.211.74:443
 trojan://8d4ab0f0-79be-11eb-be0b-1239d0255272@103.93.59.208:443?sni=id2-trojan.bonds.id#🔒 TR-TCP-NA 🇮🇩 ID-103.93.59.208:443
-trojan://A9l6_eMgylRZu0YiSqunsQ@172.67.200.234:2096?security=tls&sni=usa.iwontletgo.cloud&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-172.67.200.234:2096
-trojan://d9576e81-fc34-46f2-b624-0c1e99cde4be@5.253.41.160:443?#🔒 TR-TCP-NA 🇨🇾 CY-5.253.41.160:443
-trojan://d3e663d2-5cce-56e1-a199-2fec6078fcb4@104.18.185.80:2096?security=tls&sni=mailbox.CpiForPersia.Uk&type=ws&host=mailbox.CpiForPersia.Uk&path=trojan-ws%2F%3Fed&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.185.80:2096
-trojan://5751bfb0-1fd0-11ef-a62a-1239d0255272@103.252.90.93:443?#🔒 TR-TCP-NA 🇫🇷 FR-103.252.90.93:443
-trojan://oZAugtgF5T@146.190.87.238:443?security=tls&sni=aka.ms&type=ws&host=aka.ms&path=/#🔒 TR-WS-TLS 🇸🇬 SG-146.190.87.238:443
-trojan://ypDt8RkT7J@212.102.54.11:43118?security=tls&sni=tpmrq.phooeyunfold.com#🔒 TR-TCP-TLS 🇮🇹 IT-212.102.54.11:43118
