@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.198.158:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.198.158:80
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.46.13:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.46.13:80
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.246.199:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.246.199:80
+vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@131.186.28.236:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇰🇷 KR-131.186.28.236:443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.120.199:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.120.199:80
 vless://82c91f31-470c-4ea7-8602-27e3d916d62b@62.60.212.217:8580?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-62.60.212.217:8580
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.110.189:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.110.189:80
@@ -599,7 +603,3 @@ trojan://9yu6m5okr@172.67.198.177:443?security=tls&sni=production.tj.ojan.worker
 trojan://7cd28316-d91f-4eeb-a61a-98a0195199bc@14.29.253.95:46912?security=tls&sni=hk03.ckcloud.info&type=tcp#🔒 TR-TCP-TLS 🇨🇳 CN-14.29.253.95:46912
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.118:2096?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.53.118:2096
 trojan://7cd28316-d91f-4eeb-a61a-98a0195199bc@14.29.220.3:45852?security=tls&sni=id01.ckcloud.info&type=tcp#🔒 TR-TCP-TLS 🇨🇳 CN-14.29.220.3:45852
-trojan://26a663656e575c0b@5.44.249.50:3306?sni=n2.gladns.com#🔒 TR-TCP-NA 🇸🇬 SG-5.44.249.50:3306
-trojan://e16e9768-240f-4ff2-8c29-36d220ed2aa4@104.26.11.194:443?security=tls&sni=msnghdfy4c1.iraniancpi.uk&type=ws&host=msnghdfy4c1.iraniancpi.uk&path=%2F4xLDSO3FrWl2DhIibUbDFdhZ&fp=chrome&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.11.194:443
-trojan://6223991b-3be5-41cd-a200-f6fe9de0596c@120.233.47.184:30021?security=tls&sni=jp03.6kk.org&type=tcp#🔒 TR-TCP-TLS 🇨🇳 CN-120.233.47.184:30021
-trojan://882f187b-feb1-4be7-8678-32460f1ecfe6@194.195.125.6:443?#🔒 TR-TCP-NA 🇦🇺 AU-194.195.125.6:443
