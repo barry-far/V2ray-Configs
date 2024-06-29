@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.172.78:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.172.78:80
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.159.217.220:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-45.159.217.220:443
 vless://fc5fd045-f911-4220-8f76-1ac4115e51c4@172.67.170.71:2087?security=tls&sni=bmw.nonoal.xyz&type=grpc&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.170.71:2087
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.155.11:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.155.11:80
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@212.183.88.239:443?security=tls&sni=jp726.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇦🇹 AT-212.183.88.239:443
@@ -601,5 +603,3 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.110.118:80?security=none&typ
 vless://1b4d8825-7d93-4fa0-9bf8-1575cec3b45f@162.159.130.233:2095?security=none&type=ws&host=Vxlan.unique69.com&path=%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.130.233:2095
 vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@128.1.18.29:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇯🇵 JP-128.1.18.29:443
 vless://392afad2-43e3-4414-a5c3-b529a44df4e3@104.21.92.119:80?security=none&type=ws&host=7.arsalanv2.sbs&path=/@v2rayNG_VPNN#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.92.119:80
-vless://d0f0a53b-dd41-488f-bcca-4be3d37d6475@5.160.152.103:18312?security=none&type=tcp&host=Zula.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.160.152.103:18312
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.75.210:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.75.210:443

@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://7cd28316-d91f-4eeb-a61a-98a0195199bc@14.29.166.190:14490?security=tls&sni=hk04.ckcloud.info&type=tcp#🔒 TR-TCP-TLS 🇨🇳 CN-14.29.166.190:14490
+trojan://d3e663d2-5cce-56e1-a199-2fec6078fcb4@104.16.201.94:8443?security=tls&sni=mailbox.CPIforPERSiA.uk&type=ws&host=mailbox.CPIforPERSiA.uk&path=trojan-ws%2F%3Fed&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.201.94:8443
 trojan://d3e663d2-5cce-56e1-a199-2fec6078fcb4@172.67.73.163:2083?security=tls&sni=mailbox.CPIFOrpersiA.UK&type=ws&host=mailbox.CPIFOrpersiA.UK&path=trojan-ws%2F%3Fed&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.73.163:2083
 trojan://6223991b-3be5-41cd-a200-f6fe9de0596c@183.232.167.124:30056?security=tls&sni=v1kr01.fuqiangren.com&type=tcp#🔒 TR-TCP-TLS 🇨🇳 CN-183.232.167.124:30056
 trojan://656bcdfe-ae09-4170-a36e-1685ee10b26f@162.159.137.232:2083?security=tls&sni=missyousir.segaro.tech&type=ws&host=missyousir.segaro.tech&path=/OVmkPBATL0FijQ3AWVBo&fp=chrome&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.137.232:2083
@@ -601,5 +603,3 @@ ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.75.137.66:2376#🔒 SS-TCP-NA 🇺�
 ss://MjVkYTI5NmUtMWQ5Ni00OGFlLTk4NjctNDM0Mjc5NmNkNzQyOg==@172.67.149.95:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.149.95:443
 ss://NDQzN2FmM2QtOWQwNi00ZjM2LTg2YzYtYmQ0MTYzOGE2NjU3Og==@104.21.77.3:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.77.3:443
 ss://NDA0NWM2YjctMWQ1My00NTc0LTk4Y2QtZGYyMWRiNDBiMGRjOg==@172.64.20.37:2053#🔒 SS-TCP-NA 🏴‍☠️ NA-172.64.20.37:2053
-ss://YmNhZTIxNzEtOTE5Ny00ZWZhLWFmZTgtZjgwOWNhNDA2ZGJiOg==@172.67.155.176:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.155.176:443
-ss://Y2hhY2hhMjAtcG9seTEzMDU6dTE3VDNCdnBZYWFpdVcyYw==@34.193.97.35:443#🔒 SS-TCP-NA 🇺🇸 US-34.193.97.35:443
