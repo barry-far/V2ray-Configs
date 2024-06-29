@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://9865a18c-994b-49d6-8e07-6fd387d0fc15@104.21.93.52:443?security=tls&sni=joinmahdiserver.ohsxrx.workers.dev&type=ws&host=joinmahdiserver.ohsxrx.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.93.52:443
+vless://cead5a7e-4a1d-4f93-8825-429969dd2fb8@162.159.135.234:2083?security=tls&sni=new.top-speed.shop&type=grpc&serviceName=go-ogle&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.135.234:2083
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.122.181:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.122.181:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.90.86:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.90.86:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.155.95:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.155.95:80
@@ -601,5 +603,3 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.79.104.67:443?security=tls&sni=
 vless://75a6d62e-a371-41c8-ab53-8c6e6e8201fb@104.18.203.232:2053?security=tls&sni=6d1.narnino.org&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.203.232:2053
 vless://a045a67b-d827-4927-881d-0dec13102ce2@116.202.221.237:8083?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-116.202.221.237:8083
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.201.109:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.201.109:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.47.116:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.47.116:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.135.9.52:443?security=tls&sni=zdy600.kpcloud.eu.org&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇩🇪 DE-185.135.9.52:443
