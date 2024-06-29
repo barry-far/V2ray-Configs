@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.213.67:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.213.67:80
 vless://0b56814b-3c31-4646-ef9c-da6e605b6be2@192.200.160.76:2096?security=tls&sni=panel.h3i0.site&type=grpc#🔒 VL-GRPC-TLS 🇺🇸 US-192.200.160.76:2096
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.44.201:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.44.201:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.254.203:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.254.203:80
@@ -602,4 +603,3 @@ trojan://telegram-id-privatevpns@15.236.0.55:22222?security=tls&sni=trojan.burge
 trojan://ypDt8RkT7J@121.127.46.131:43118?security=tls&sni=tpmrt.phooeyunfold.com&type=tcp&fp=random&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇸🇪 SE-121.127.46.131:43118
 trojan://b3965d2d-3b82-45cc-927b-1336aca3f3fe@139.162.49.215:443?#🔒 TR-TCP-NA 🇸🇬 SG-139.162.49.215:443
 trojan://4732adfa16c6450bbef87264e41332db@104.17.147.4:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.4:443
-trojan://NISHIKUITAN222@8.222.165.117:8443?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.222.165.117:8443

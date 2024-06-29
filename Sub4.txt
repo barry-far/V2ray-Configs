@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@172.67.144.73:443?security=tls&sni=bypass.dd-6b2.workers.dev&type=ws&host=bypass.dd-6b2.workers.dev&path=%2F@bypass_filter%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.144.73:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.151.161:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.151.161:80
 vless://f20bcdc7-1a98-4573-aef5-653a40524c87@104.21.72.167:443?security=tls&sni=esetsecuritylicense.ltlumj.workers.dev&type=ws&host=esetsecuritylicense.ltlumj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.72.167:443
 vless://cfb6d9ad-7a14-4061-b159-8902fd73bb48@104.17.147.22:2095?security=none&type=ws&host=www.speedtest.net.ftp.debian.org.xn--ihqvla424c49bba047b50okggl0rcfo5o3aus3a.website.&path=%2FDIGIV2RAY--DigiV2ray--digiv2ray--DIGIV2RAY--DigiV2ray--digiv2ray--DigiV2ray--DigiV2ray%3Fed%3D1024#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.147.22:2095
@@ -602,4 +603,3 @@ vless://fbfe3a78-4131-41c2-8906-42ce52090686@104.21.69.44:8080?security=none&sni
 vless://a9aade56-6aaf-4212-a65b-21d11add48f7@104.19.54.50:8080?security=none&type=ws&host=WWW.photoggenic.com.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.54.50:8080
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.113.166:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.113.166:80
 vless://b48ee0fe-db2c-4e32-9d57-ac70c88ffa8d@104.21.95.147:2053?security=tls&sni=t5.funlifea.shop&type=grpc&fp=chrome&alpn=http/1.1,h2,h3#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.95.147:2053
-vless://74ee8b58-b56f-4145-b61c-9fbc1952208a@104.20.185.180:2082?security=none&type=ws&host=sg1.vlessx.us#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.185.180:2082
