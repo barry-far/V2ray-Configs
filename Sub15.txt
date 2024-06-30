@@ -3,17 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://0cb2cd1f-870b-485c-914a-60aba39eed39@74.63.241.26:443?#🔒 TR-TCP-NA 🇺🇸 US-74.63.241.26:443
-trojan://7cd28316-d91f-4eeb-a61a-98a0195199bc@14.29.220.3:14490?security=tls&sni=hk04.ckcloud.info&type=tcp#🔒 TR-TCP-TLS 🇨🇳 CN-14.29.220.3:14490
-trojan://NISHIKUITAN222@47.236.253.41:8443?security=tls&sni=t221.ylks.link&type=ws&host=t221.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-47.236.253.41:8443
-trojan://NISHIKUITAN222@104.26.13.31:443?security=tls&sni=t600.ylks.link&type=ws&host=t600.ylks.link&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.13.31:443
-trojan://auto@172.67.181.172:443?security=tls&sni=esetsecuritylicense1.cxlrazo.workers.dev&type=ws&host=esetsecuritylicense1.cxlrazo.workers.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.181.172:443
-trojan://7cd28316-d91f-4eeb-a61a-98a0195199bc@14.116.151.254:15976?security=tls&sni=hk02.ckcloud.info&type=tcp#🔒 TR-TCP-TLS 🇨🇳 CN-14.116.151.254:15976
-trojan://auto@104.21.35.43:443?security=tls&sni=esetsecuritylicense3.wawafec355.workers.dev&type=ws&host=esetsecuritylicense3.wawafec355.workers.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.35.43:443
-trojan://NISHIKUITAN222@8.222.181.117:8443?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.222.181.117:8443
-trojan://9bPT0131yR@164.90.167.137:2095?type=ws&host=164.90.167.137&path=%2F2.v2ray.debian.org.fxp.debian.org.speedtest.net.%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%C3%B9%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD.madariran.filegear-sg.m#🔒 TR-WS-NA 🇩🇪 DE-164.90.167.137:2095
-trojan://NISHIKUITAN222@8.222.169.222:8443?security=tls&sni=t222.ylks.link&type=ws&host=t222.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.222.169.222:8443
-trojan://NISHIKUITAN222@34.135.226.181:443?security=tls&sni=t667.ylks.link&type=ws&host=t667.ylks.link&path=%2F#🔒 TR-WS-TLS 🇺🇸 US-34.135.226.181:443
 trojan://b4e8771997c94732acbc9ec4d19c2589@198.41.220.8:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.8:443
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.142:2083?sni=tjjd.yzyx1.v6.army#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.52.142:2083
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.67:2096?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.67:2096
@@ -603,3 +592,14 @@ ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@212.102.47.198:443#🔒 SS-TCP-NA 🇺🇸
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.121.43.71:8119#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:8119
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkWFk5bGFYMDJJaXJvUXNtckxSZUJZ@212.47.237.254:443#🔒 SS-TCP-NA 🇫🇷 FR-212.47.237.254:443
 ss://YWVzLTI1Ni1nY206NjQ2M2U2NGUtYTBjYy00MDNkLWEwYzQtYzU2MGFiZjMzNTNj@120.226.149.70:35107#🔒 SS-TCP-NA 🇨🇳 CN-120.226.149.70:35107
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@217.182.198.219:2376#🔒 SS-TCP-NA 🇩🇪 DE-217.182.198.219:2376
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:5000#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:5000
+ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.18.67.30:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.18.67.30:80
+ss://NzBlYTdhMTAtZGUzZS00OTIyLWJjN2MtNGRkN2MyY2VmODgyOg==@172.66.45.10:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.66.45.10:443
+ss://NWQ4YjExNDktOGY3OC00MTU0LWE2NDctMTY1NjNlYzk5YzhhOg==@104.21.40.155:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.40.155:443
+ss://ZDZmNzk2MzAtYWE5NC00NTM2LWIyZWYtODk5YjVhY2IzYjQ5Og==@104.16.67.38:2052#🔒 SS-TCP-NA 🏴‍☠️ NA-104.16.67.38:2052
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.154.136.106:5500#🔒 SS-TCP-NA 🇺🇸 US-23.154.136.106:5500
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@54.36.174.181:7002#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:7002
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.89:8009#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.89:8009
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.102:8118#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.102:8118
+ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg==@213.183.63.69:9030#🔒 SS-TCP-NA 🇧🇬 BG-213.183.63.69:9030
