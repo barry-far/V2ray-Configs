@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://081ce48c-1c37-471f-8de4-3d41c6fe67ef@188.245.37.124:8088?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-188.245.37.124:8088
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.107.29:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.107.29:80
-vless://7509f896-2115-4420-b487-501c9103bebd@193.122.118.149:34237?security=tls&sni=ccs.443888.xyz&type=ws&path=%2Fvless%3Fed&fp=chrome#🔒 VL-WS-TLS 🇰🇷 KR-193.122.118.149:34237
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.118.62:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.118.62:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.39.205:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.39.205:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.43.179.245:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇿 KZ-31.43.179.245:443
 vless://dab6b473-1c06-4760-81b0-e56cc0beb1e3@162.159.138.232:8080?security=none&type=ws&host=de2.过滤器.store.&path=/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.138.232:8080
@@ -603,3 +599,7 @@ trojan://7cd28316-d91f-4eeb-a61a-98a0195199bc@14.116.151.254:25881?security=tls&
 trojan://NISHIKUITAN222@43.153.80.208:443?security=tls&sni=t221.ylks.link&type=ws&host=t221.ylks.link&path=/#🔒 TR-WS-TLS 🇺🇸 US-43.153.80.208:443
 trojan://auto@162.159.128.233:8443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.128.233:8443
 trojan://6223991b-3be5-41cd-a200-f6fe9de0596c@120.233.47.184:30003?security=tls&sni=v2tw01.fuqiangren.com&type=tcp#🔒 TR-TCP-TLS 🇨🇳 CN-120.233.47.184:30003
+trojan://6223991b-3be5-41cd-a200-f6fe9de0596c@120.233.47.184:30053?security=tls&sni=v2phl01.fuqiangren.com&type=tcp#🔒 TR-TCP-TLS 🇨🇳 CN-120.233.47.184:30053
+trojan://d3e663d2-5cce-56e1-a199-2fec6078fcb4@162.159.130.67:2087?security=tls&sni=mailbox.CPiFORPErsIa.Uk&type=ws&host=mailbox.CPiFORPErsIa.Uk&path=trojan-ws%2F%3Fed&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.130.67:2087
+trojan://telegram-id-privatevpns@18.175.101.176:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp#🔒 TR-TCP-TLS 🇬🇧 GB-18.175.101.176:22222
+trojan://6223991b-3be5-41cd-a200-f6fe9de0596c@183.232.167.124:30052?security=tls&sni=v2th01.fuqiangren.com&type=tcp#🔒 TR-TCP-TLS 🇨🇳 CN-183.232.167.124:30052
