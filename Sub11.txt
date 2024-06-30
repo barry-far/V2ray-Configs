@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.205.94:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.205.94:80
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.148.107:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.148.107:80
 vless://eb404f21-2ad7-43b2-8b7c-2ae2302b1156@14.102.228.71:2053?security=tls&sni=de1.v2vless.xyz&type=ws&host=de1.v2vless.xyz&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-14.102.228.71:2053
 vless://fae371fe-b27e-4354-9913-400596208387@86.38.214.36:2053?security=tls&sni=dl12.peymod.com&type=grpc&serviceName=@V2RIRAN-TEL--@V2RIRAN-TEL--@V2RIRAN-TEL--@V2RIRAN-JOIN-@V2RIRAN-TEL--@V2RIRAN-JOIN-@V2RIRAN-TEL-@V2RIRAN-TEL--@V2RIRAN-JOIN-@V2RIRAN-TEL--@V2RIRAN-@ViV2ray/2053&fp=chrome&alpn=http/1.1,h2#🔒 VL-GRPC-TLS 🇱🇹 LT-86.38.214.36:2053
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@83.229.4.142:8443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇯🇵 JP-83.229.4.142:8443
@@ -601,5 +603,3 @@ vless://05a74544-8bc1-4929-882b-3073a4491560@104.16.146.108:443?security=tls&sni
 vless://561a4ec2-7f74-4217-9856-a7684673de8c@104.20.31.213:80?security=none&type=ws&host=rel.shopservices.ir.&path=%2FSpdNet%40SpdNet%40SpdNet%40SpdNet%40SpdNet%40SpdNet%3Fed%3D2052#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.31.213:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.89.199:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.89.199:80
 vless://349956b8-b0c8-45ac-acb9-ed7881fc88b1@162.159.135.232:443?security=tls&sni=worker-calm-rice-ce3a.alanaziziyani88aa79.workers.dev&type=ws&host=worker-calm-rice-ce3a.alanaziziyani88aa79.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.135.232:443
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.152.162:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.152.162:80
-vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@45.205.0.196:443?security=tls&sni=PAGES.DEV&type=ws&host=tmcir.pages.dev&path=%2FTelegram%2FXV2ray%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-45.205.0.196:443
