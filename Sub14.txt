@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://001bb217-4cf2-4b8a-b48d-b80ac72b116a@31.14.114.180:443?security=none&type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-31.14.114.180:443
+vless://fb301d2e-4430-4b41-95d6-764460b8ef13@173.245.59.39:2053?security=tls&sni=9b56CFEe5b258C44c45bA18FA122293.mIToweAr.cOm&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-173.245.59.39:2053
+vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@162.159.200.49:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.200.49:443
+vless://f26122cc-07bb-4cc8-e854-d9cae451baaa@45.85.118.81:2087?security=tls&sni=gp.mrclothshop.fun&type=grpc#🔒 VL-GRPC-TLS 🇷🇴 RO-45.85.118.81:2087
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.188.2:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.188.2:80
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@188.114.97.151:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.97.151:80
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.221.227:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.221.227:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.233.30:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.233.30:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@170.114.46.187:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-170.114.46.187:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.24.254:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.24.254:80
@@ -596,10 +603,3 @@ trojan://6223991b-3be5-41cd-a200-f6fe9de0596c@120.233.47.184:30061?security=tls&
 trojan://ypDt8RkT7J@62.210.83.57:43118?security=tls&sni=ruvil.phooeyunfold.com&type=tcp&fp=random&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇫🇷 FR-62.210.83.57:43118
 trojan://pUxG77WPOZ@104.17.147.22:80?security=none&type=ws&host=s9.in01.tech&path=/#🔒 TR-WS-NONE 🏴‍☠️ NA-104.17.147.22:80
 trojan://NISHIKUITAN222@8.219.0.48:8443?security=tls&sni=t221.ylks.link&type=ws&host=t221.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.0.48:8443
-trojan://cb1f26aa437d4bfa9b841d28503ce8cc@104.19.171.5:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.171.5:443
-trojan://ZJU29smXwp@104.21.17.137:2053?security=tls&sni=damn-mci-again-3.danesh-bonyan.Store&type=ws&host=f-1.danesh-bonyan.store&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.17.137:2053
-trojan://dfbbc8de-8a4f-407d-8069-6de38d83c4e1@104.24.197.20:443?security=tls&sni=hdfy4c6.freelines.net&type=ws&host=hdfy4c6.freelines.net&path=/Q177OZ8bzrxRWBtLTlTL#🔒 TR-WS-TLS 🏴‍☠️ NA-104.24.197.20:443
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.138:2096?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.53.138:2096
-trojan://NISHIKUITAN222@8.219.198.139:8443?security=tls&sni=t009.ylks.link&type=ws&host=t009.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.198.139:8443
-trojan://telegram-VPNHTTPIinjectorfree@104.18.5.250:443?security=tls&sni=telegram-vpnhttpinjectorfree-016.judeen650.workers.dev&type=ws&host=telegram-vpnhttpinjectorfree-016.judeen650.workers.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.5.250:443
-trojan://Libertas*One*E*@172.67.180.35:443?security=tls&sni=ironone.libertasiran.cloud&type=ws&path=/n890&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.180.35:443
