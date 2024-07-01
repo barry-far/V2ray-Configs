@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://2241fc16-20e2-4e70-b11d-7bed62f16849@172.64.138.167:443?security=tls&sni=fi2-vless.sshmax.xyz&type=ws&host=fi2-vless.sshmax.xyz&path=%2Fvless#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.138.167:443
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.113.252:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.113.252:80
-vless://c123cc6a-528b-4992-fc03-e2aa9f313782@185.46.1.203:13008?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-185.46.1.203:13008
-vless://eae02a50-e329-4647-926e-8439e685f317@154.219.5.71:443?security=tls&sni=first.pinocchio1.ir.&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🇸🇬 SG-154.219.5.71:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.105.192:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.105.192:80
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.64.172.235:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.172.235:443
 vless://09c795fd-4c13-491e-b419-2598410077b9@185.53.142.134:443?security=tls&sni=xn--rgbk3dif70f.jObfiNeX.ir.&type=grpc#🔒 VL-GRPC-TLS 🇮🇷 IR-185.53.142.134:443
@@ -603,3 +599,7 @@ vless://2169fc1b-1e61-4d44-e42e-34230695d5d5@104.18.12.126:2053?security=tls&sni
 vless://3575d763-5557-4f01-baec-1a6fc5c5f58f@172.66.47.158:80?security=none&type=ws&host=GGO5Ho.dIVaR.prO&path=/backup#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.47.158:80
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.105.69:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.105.69:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.91.110:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.91.110:80
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.111.164:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.111.164:443
+vless://947391e1-408e-4ba2-8a56-05cd972082e5@104.17.182.61:8443?security=tls&sni=ri.aminivip2023.site&type=ws&host=ri.aminivip2023.site&path=/V2zed&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.182.61:8443
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.209.219:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.209.219:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@63.141.128.27:443?security=tls&sni=kk667.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-63.141.128.27:443
