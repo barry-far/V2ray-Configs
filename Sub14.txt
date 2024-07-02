@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://86ed8559-9f58-4a10-9cc1-59bfe8db7f09@185.146.173.58:2053?security=tls&sni=Fi-Next.cgnm.ir&type=ws&host=Fi-Next.cgnm.ir&path=/&fp=chrome#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.58:2053
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.167.159:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.167.159:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.89.199:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.89.199:80
 vless://ca3ee03d-c4e8-4da0-b77e-b35b08b401cc@172.234.222.143:443?security=tls&sni=server1.popprime.shop&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🇺🇸 US-172.234.222.143:443
 vless://5427ac51-57c6-49ad-a5b3-e0652461358c@94.182.152.121:8080?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.152.121:8080
@@ -601,5 +603,3 @@ trojan://kP90Yjp90S@212.183.88.40:8443?security=tls&sni=Tdd5yct6uv-Vhd57fc7yvjFy
 trojan://iI72baKdja@45.85.119.200:2096?security=tls&sni=nleaaaaaa.piabolictash.online&type=grpc&serviceName=https://t.me/ViipNetwork&alpn=h2,http/1.1#🔒 TR-GRPC-TLS 🇷🇴 RO-45.85.119.200:2096
 trojan://e8105dfd24414268b6c7652c63731097@104.18.24.92:443?security=tls&sni=avianrecruit.com&type=ws&host=avianrecruit.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.24.92:443
 trojan://baa7fdc5-a9cb-435a-982b-ccd82cb1f8c0@168.100.6.189:443?security=tls&sni=YbV27nj.diamondgalery.ir&type=ws&host=YbV27nj.diamondgalery.ir&path=/U13Hsk6pJ3kV6p1uO5Avv#🔒 TR-WS-TLS 🇺🇸 US-168.100.6.189:443
-trojan://telegram-id-privatevpns@52.17.58.182:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-52.17.58.182:22222
-trojan://XSVPNCH@170.64.236.70:80?security=tls&sni=xn--zcaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.khorma2210.ir&type=tcp&host=xn--zcaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.khorma2210.ir&path=/admin/product/1&headerType=http#🔒 TR-TCP-TLS 🇦🇺 AU-170.64.236.70:80
