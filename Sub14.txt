@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.110.11:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.110.11:80
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.194.251:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.194.251:80
 vless://fd690086-c197-470d-bad6-708b338ef237@104.16.102.112:2096?security=tls&sni=marzn.lyRa-st.ir.&type=ws&host=marzn.lyRa-st.ir.&path=/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.102.112:2096
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.42.139:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.42.139:443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.147.43:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.147.43:80
@@ -601,5 +603,3 @@ trojan://242a3d8eee5e4ed1a6bfa4141d549a25@104.16.159.1:443?security=tls&sni=jobs
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.115:2096?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.53.115:2096
 trojan://52701795-3c3b-46b4-b7cf-c5978b3a4cf2@104.21.47.176:443?security=tls&sni=hdfyc1.achaemenidempireofpersia.uk&type=grpc&serviceName=xw7uebRG4KlUXGGYTVEagC5V7fI#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.21.47.176:443
 trojan://NISHIKUITAN222@47.236.254.120:8443?security=tls&sni=t033.ylks.link&type=ws&host=t033.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-47.236.254.120:8443
-trojan://ypDt8RkT7J@51.158.217.130:43118?security=tls&sni=toflf.phooeyunfold.com&type=tcp&fp=chrome&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-51.158.217.130:43118
-trojan://48f04205-1d91-4e6f-bd41-2e703c8ecd30@14.29.166.190:10187?sni=hk04.ckcloud.info#🔒 TR-TCP-NA 🇨🇳 CN-14.29.166.190:10187

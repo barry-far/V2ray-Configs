@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://198d91bf-b239-4588-ac19-70b398003e0c@172.67.142.187:2096?security=tls&sni=selincchanelselinc.jdyece.workers.dev&type=ws&host=selincchanelselinc.jdyece.workers.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.142.187:2096
+vless://d3484b27-0cdf-469b-953e-1066d4e488f8@172.67.157.96:443?security=tls&sni=configsenator.amirmohamad-na2006.workers.dev&type=ws&host=configsenator.amirmohamad-na2006.workers.dev&path=/&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.157.96:443
 vless://09c795fd-4c13-491e-b419-2598410077b9@185.53.142.134:443?security=tls&sni=xn--rgbk3dif70f.jObfiNeX.ir.&type=grpc#🔒 VL-GRPC-TLS 🇮🇷 IR-185.53.142.134:443
 vless://b9a56e8c-1b2d-414c-8e36-04484c6786b2@45.94.169.113:2095?security=none&type=ws&host=V2ray-_-_-_-_-_-cDn.Mamadv2raYng.CoM.&path=%2Ftelegram-Academi_vpn%2Ctelegram-Academi_vpn%2Ctelegram-Academi_vpn%2Ctelegram-Academi_vpn%2Ctelegram-Academi_vpn%2Ctelegram-Academi_vpn%2Ctelegram-Academi_vpn%2Ctelegram-Academi_vpn%2Ctelegram-Academi_vpn%2Ctelegram-Academi_vpn%2Ctelegram-Academi_vpn%2Ctelegram-Academi_vpn%2Ctelegram-Academi_vpn%2Ctelegram-Lookivpn%2Ctelegram-Academi_vpn%2CMmdv2rayng-V2rayngmmd-telegram-mehran-v2ray%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇦 UA-45.94.169.113:2095
 vless://ab1b4f44-6469-4c11-950b-c5c94e452dbf@104.20.68.32:8443?security=tls&sni=AntiV2ray.godratmand.link&serviceName=@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2&fp=chrome#🔒 VL-TCP-TLS 🏴‍☠️ NA-104.20.68.32:8443
@@ -601,5 +603,3 @@ vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.152.91:80?type=ws&host=kr1.
 vless://919ed879-a2ae-4425-cd17-80ab84cdd7d7@203.32.121.53:2087?security=tls&sni=des.pablovpn.pw&type=grpc#🔒 VL-GRPC-TLS 🇻🇬 VG-203.32.121.53:2087
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.18.80.210:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.80.210:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.123.159:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.123.159:80
-vless://538cc8f2-55ef-422b-ba47-f3c2433f5a7c@87.236.208.92:2025?security=none&type=tcp&host=playstation.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-87.236.208.92:2025
-vless://38928290-00af-4255-9006-57df913e1f95@185.53.142.134:80?security=none&type=ws&host=92322070.v2rAy.speedtest.net.parSpaCk.coM.pCi.ir.xn--10-cg7e.xn--4oqa52uba3842Dca.kiNg4uSd.sHop.#🔒 VL-WS-NONE 🇮🇷 IR-185.53.142.134:80
