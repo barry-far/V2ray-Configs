@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.86.98:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.86.98:80
-vless://f5a5dc15-9543-4660-af81-33ea6137196d@95.179.161.201:8880?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-95.179.161.201:8880
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.97.28:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.97.28:80
 vless://86ba8b32-71a7-589c-b728-991c7c726d60@104.17.3.54:2096?security=tls&sni=esetsecuritylicense.jdnooo.woRkERs.dEV&type=ws&host=esetsecuritylicense.jdnooo.woRkERs.dEV&path=vless-ws%2F%3Fed%3D2048&fp=chrome&alpn=h3,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.3.54:2096
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@206.238.236.167:443?security=tls&sni=zdy667.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇸🇬 SG-206.238.236.167:443
@@ -603,3 +601,5 @@ trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.246:8443?security=tls&sn
 trojan://f91f38bb-72d5-4f3e-8311-1788986293f5@104.21.43.13:443?sni=iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpnc.iran-mehr14.ir&type=grpc&serviceName=2pxF1YL0obWgOVYsTfLJX3ihXJUp#🔒 TR-GRPC-NA 🏴‍☠️ NA-104.21.43.13:443
 trojan://acfef609-b3c7-4e52-b292-8921d5fca90d@91.194.11.168:443?#🔒 TR-TCP-NA 🇨🇦 CA-91.194.11.168:443
 trojan://3F98apiP9b@104.21.69.44:2083?security=tls&sni=deheueu3gev77uknbcxst6.jerifun.ir&type=ws&host=de.jerifun.ir#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.69.44:2083
+trojan://0cb2cd1f-870b-485c-914a-60aba39eed39@69.162.95.5:443?#🔒 TR-TCP-NA 🇺🇸 US-69.162.95.5:443
+trojan://d3e663d2-5cce-56e1-a199-2fec6078fcb4@104.18.185.80:2096?security=tls&sni=mailbox.CpiForPersia.Uk&type=ws&host=mailbox.CpiForPersia.Uk&path=trojan-ws%2F%3Fed&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.185.80:2096
