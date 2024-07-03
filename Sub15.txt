@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://40d748ac-c130-42f0-ad3b-4eeb26c39e42@194.195.125.6:2003?security=tls&sni=au-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇦🇺 AU-194.195.125.6:2003
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.19.36.224:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.36.224:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.67.26:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.67.26:80
 vless://55fc4207-e693-4324-efde-0aa98550580c@65.108.244.90:442?security=none&type=tcp#🔒 VL-TCP-NONE 🇫🇮 FI-65.108.244.90:442
@@ -602,4 +603,3 @@ trojan://19c80ce9-0935-41b9-b077-277621316a87@45.76.33.120:443?security=tls&sni=
 trojan://aa6eb272-1d8d-4461-9687-85ddbab1adb0@172.234.222.138:80?security=tls&sni=us2.trojanvh.xyz&type=tcp&host=us2.trojanvh.xyz#🔒 TR-TCP-TLS 🇺🇸 US-172.234.222.138:80
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.239:2087?sni=tjjd.yzyx1.v6.army#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.53.239:2087
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@162.159.153.2:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.2:443
-trojan://c7f9b8f0-bfdb-11ee-a15c-1239d0255272@172.67.159.13:443?security=tls&sni=de1.test3.net&type=ws&host=de1.test3.net&path=/howdy#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.159.13:443
