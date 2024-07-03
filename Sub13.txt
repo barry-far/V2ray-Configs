@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://097ab42d-c4dd-4a69-9b4b-92f0da96299e@5.75.195.158:57254?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-5.75.195.158:57254
+vless://eae02a50-e329-4647-926e-8439e685f317@86.38.214.31:443?security=tls&sni=first.pinocchio1.ir.&type=grpc&serviceName=%2Fcustom_config%3Fed%3D2048&fp=firefox&alpn=http%2F1.1#🔒 VL-GRPC-TLS 🇱🇹 LT-86.38.214.31:443
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.218.9:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.218.9:443
+vless://322bd3ff-dcbc-4cd8-b636-5e0a77d6f68f@154.219.5.47:443?security=tls&sni=second.pinocchio1.ir.&type=grpc&serviceName=%2Fcustom_config%3Fed%3D2048&fp=firefox&alpn=http/1.1#🔒 VL-GRPC-TLS 🇸🇬 SG-154.219.5.47:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.22.79:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.22.79:80
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.31.16.99:443?security=tls&sni=AYATOLLAHNAJAFI.CF&type=ws&host=vtolink.ayatollahnajafi.cf#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.99:443
 vless://00000000-0000-0000-0000-000000000005@185.143.232.253:443?security=tls&sni=3f40e40b00522eb1eb9bfb420b8bb012.skyroom.online&type=ws&host=flsrv.cdnplus1.ir&path=/downloadws?13011683841757#🔒 VL-WS-TLS 🇮🇷 IR-185.143.232.253:443
@@ -599,7 +603,3 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@206.238.236.167:443?security=tls&sn
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.198.71:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.198.71:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.118.186:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.118.186:80
 vless://4804f14b-c1f8-452d-a6ec-eff1490aeac9@104.27.193.64:443?security=tls&sni=hdfy6c3.foriran.trade&type=ws&host=hdfy6c3.foriran.trade&path=/Bc5xLs413y7DNJYMWXN7kCm3lL#🔒 VL-WS-TLS 🏴‍☠️ NA-104.27.193.64:443
-vless://21c67716-e8cb-452d-a36c-a6ca41e17d1a@104.21.79.143:2083?security=tls&sni=ambatukamnotthatship2.v2logy.ir&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.79.143:2083
-vless://f177e178-96e2-4ea3-a603-e90cea3c4a7c@104.31.16.8:80?security=none&type=ws&host=FuRnItURE.MAHdAviAt.Uk&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.31.16.8:80
-vless://f69d4594-2d18-4266-abc4-eeb9c5604ca5@172.67.221.245:443?security=tls&sni=www.12reddddddd.bf&type=ws&host=www.12reddddddd.bf&path=/975e3406-9ac4-45fc-a12b-30fbe810c75f#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.221.245:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.61.180:443?security=tls&sni=pPal03.lAKEn-aBHiraAM.WoRKERs.DeV&type=ws&host=PPal03.LAkEN-AbhIraAm.WOrkErS.deV&path=%2FZ2xcIKzLEcHApagm%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.61.180:443
