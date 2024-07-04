@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://41fc5ded-4034-48b7-9b52-d2197cf8bab4@89.23.108.139:443?security=reality&flow=xtls-rprx-vision&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=Ae0Goc3z62ExXLIekZe5CbOeVvq12slHkFpqAYrH6BQ&sid=cb590e6fe1b987bc#🔒 VL-TCP-RLT 🇩🇪 DE-89.23.108.139:443
+vless://6e157726-a0a9-4645-b545-946abb8899c4@104.24.177.7:2083?security=reality&sni=www.speedtest.net&type=grpc&serviceName=Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAMTelegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAMTelegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAMgonTelegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM&fp=chrome&pbk=7P9Jg6K-CjbrZt8zh9LrHoXsZtQgfPZL4Eqs7p_SlX0&sid=38e9e471#🔒 VL-GRPC-RLT 🏴‍☠️ NA-104.24.177.7:2083
 vless://2266a8e6-5ea2-40b2-82c3-e16998522162@190.93.246.241:2096?security=reality&sni=www.speedtest.net&type=grpc&serviceName=@Shh_Proxy,@Shh_Proxy&fp=chrome&pbk=GxGzAVN9xi1aXGv_-EUwj8qLldhHG0oVQ-OOgVkoMlU&sid=25988b1f#🔒 VL-GRPC-RLT 🏴‍☠️ NA-190.93.246.241:2096
 vless://10ee4274-4e4c-41c4-afae-bd3cc9221b8e@176.124.220.224:443?security=reality&sni=discord.com&type=grpc&serviceName=@set_v2ray&fp=chrome&pbk=Au6mR8g2KPx04u9kb709QtDUZVgs9VMpHi12RXy5O18&sid=3f8157b6#🔒 VL-GRPC-RLT 🇫🇮 FI-176.124.220.224:443
 vless://0f98119a-7416-48ff-caac-f7b7968876c8@199.59.243.226:443?security=reality&sni=ftp.debian.org&type=grpc&serviceName=@unlimiteddev&fp=chrome&pbk=n2W5WOauba-84nET0XuNUYzmpI5BxdzkF_YUOpSgtjE&sid=f47b01e2#🔒 VL-GRPC-RLT 🇺🇸 US-199.59.243.226:443
@@ -601,5 +603,3 @@ vless://253e78fc-d3eb-454c-89e5-3268f76c6276@104.17.148.22:8443?security=tls&sni
 vless://d0cb0805-3db7-4eb2-8848-c70936ce935a@104.18.202.232:8443?security=tls&sni=FIn.Melov2ray.Shop&type=grpc&serviceName=@melov2ray&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.202.232:8443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.135.237:80?security=none&type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.135.237:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.18.250.109:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇨🇭 CH-185.18.250.109:443
-vless://ba6016d9-cd7a-467f-9589-3e29708b11a1@104.21.25.96:80?type=ws&host=Se1.vless.site.&path=%2Fvless%20%40hopev2ray%2C%40hopev2ray#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.25.96:80
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.202.201:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.202.201:80
