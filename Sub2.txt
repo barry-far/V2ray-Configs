@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://cf052982-23bb-4404-8817-05302c50fcd3@116.202.99.47:56372?type=tcp&security=reality&pbk=YdveG9_ciK2YgrnXMN6Ncid3h5dK44rI1Rhb29RTDWE&fp=firefox&sni=sourceforge.net&sid=e7f19002&spx=/#🇩🇪DE | 🔴 | vless | @Capital_NET | 10
+vless://0448c6ea-34ce-487a-93be-8e57bd2f2fa8@116.202.99.47:49124?type=tcp&security=reality&pbk=rBdocIQXi2MdXwQYubRsn4fTG1_3XMZiNgtn9u3yzwI&fp=firefox&sni=dalan-group.de&sid=0bf98883&spx=/#🇩🇪DE | 🔴 | vless | @Capital_NET | 11
+vless://dd777f39-2996-4269-b88f-0b64436d0274@104.31.16.133:2096?type=ws&path=/&host=capitalnet.sameasyou.sbs&security=tls&fp=firefox&alpn=h2,http/1.1&sni=joinchannel.sameasyou.sbs#🇺🇸US | 🔴 | vless | @Capital_NET | 12
+vless://6aeba177-ee11-41c0-9d51-5136a3032deb@66.235.200.51:2053?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=capitalnet.buffalochest.cfd&fp=chrome&type=ws&sni=joinchannel.buffalochest.cfd#🇺🇸US | 🔴 | vless | @Capital_NET | 13
 vless://0e8c32f7-a465-4ac7-b9a4-b6bf38a43e7f@104.22.13.192:2053?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=capitalnet.blacksugar.cfd&fp=chrome&type=ws&sni=joinchannel.blacksugar.cfd#🚩CF | 🔴 | vless | @Capital_NET | 14
 vless://dd777f39-2996-4269-b88f-0b64436d0274@23.227.60.12:2096?type=ws&path=/&host=capitalnet.sameasyou.sbs&security=tls&fp=firefox&alpn=h2,http/1.1&sni=joinchannel.sameasyou.sbs#🇨🇦CA | 🔴 | vless | @Capital_NET | 16
 vless://dd777f39-2996-4269-b88f-0b64436d0274@104.31.16.133:2096?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=capitalnet.jokerv2ray.store&fp=firefox&type=ws&sni=joincha5nnel.jokerv2ray.store#🇺🇸US | 🔴 | vless | @Capital_NET | 17
@@ -599,7 +603,3 @@ vless://c7af5083-b86c-4edd-8a97-01ddaba17a4f@176.96.137.139:2083?security=realit
 vless://b0107817-029c-432c-ad4d-bd1e9e1c3471@65.108.58.248:443?security=reality&sni=greenpepper.ir&type=grpc&serviceName=@VPNwedbaz--@vpnwedbaz&fp=chrome&pbk=RL6RJY-vbjYIUpDulvSJ8LHI9zCsJ0ICWWY5I-coWwE&sid=cac59972#🔒 VL-GRPC-RLT 🇫🇮 FI-65.108.58.248:443
 vless://fdd17480-5577-45c6-950e-aeac7396d269@104.168.107.230:4607?security=reality&flow=xtls-rprx-vision&sni=magicbus.ca&type=tcp&fp=chrome&pbk=QQHxQK7ocGHvaCmqtW3QapnKiBVd4ZjjM3zhCGVMPS4&sid=db68e802226b21cd#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:4607
 vless://d5e775de-0530-4062-a654-25dd2ba648d2@77.221.143.183:33000?security=reality&sni=www.speedtest.net&type=grpc&serviceName=b&fp=chrome&pbk=JrN7nZEbUeBJFHTAKwtz5Dmd10SGgA8UCHEMLA2xOg0&sid=be7f13dd#🔒 VL-GRPC-RLT 🇸🇪 SE-77.221.143.183:33000
-vless://54ce117a-fd26-4b2e-b540-15f95ba3cc63@159.69.25.131:443?security=reality&sni=www.xbox.com&type=grpc&fp=chrome&pbk=1_NaRFGvbJUim7_qlQ8Dibh_27d3X_p_w2xUvrGZlhg&sid=751ba1a6#🔒 VL-GRPC-RLT 🇩🇪 DE-159.69.25.131:443
-vless://658f48f3-3207-41af-bf90-1de764d4424e@176.96.137.139:2096?security=reality&flow=xtls-rprx-vision&sni=dash.cloudflare.com&type=tcp&fp=chrome&pbk=21Wy4raA5577OR54aGehA9q8wuFLV38XCbUr39e0SV0&sid=c3949bd4#🔒 VL-TCP-RLT 🇩🇪 DE-176.96.137.139:2096
-vless://fce0f0e4-425a-4cf6-a0ca-e7513517ff38@45.90.160.151:4004?security=reality&flow=xtls-rprx-vision&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=ui0fGumZiFhEhGU13KYIcR3coPPVHuGQMvK-_TThCVc&sid=e3631859#🔒 VL-TCP-RLT 🇫🇷 FR-45.90.160.151:4004
-vless://a0660613-bab4-456f-91b7-b8923788ed3d@128.140.49.220:443?security=reality&flow=xtls-rprx-vision&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=mNXhz9oVUOChfXonV3TJcv_IB1-epvPy0OXR--qY82E&sid=758910ee7eab4a1b#🔒 VL-TCP-RLT 🇩🇪 DE-128.140.49.220:443

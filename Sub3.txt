@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://54ce117a-fd26-4b2e-b540-15f95ba3cc63@159.69.25.131:443?security=reality&sni=www.xbox.com&type=grpc&fp=chrome&pbk=1_NaRFGvbJUim7_qlQ8Dibh_27d3X_p_w2xUvrGZlhg&sid=751ba1a6#🔒 VL-GRPC-RLT 🇩🇪 DE-159.69.25.131:443
+vless://658f48f3-3207-41af-bf90-1de764d4424e@176.96.137.139:2096?security=reality&flow=xtls-rprx-vision&sni=dash.cloudflare.com&type=tcp&fp=chrome&pbk=21Wy4raA5577OR54aGehA9q8wuFLV38XCbUr39e0SV0&sid=c3949bd4#🔒 VL-TCP-RLT 🇩🇪 DE-176.96.137.139:2096
+vless://fce0f0e4-425a-4cf6-a0ca-e7513517ff38@45.90.160.151:4004?security=reality&flow=xtls-rprx-vision&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=ui0fGumZiFhEhGU13KYIcR3coPPVHuGQMvK-_TThCVc&sid=e3631859#🔒 VL-TCP-RLT 🇫🇷 FR-45.90.160.151:4004
+vless://a0660613-bab4-456f-91b7-b8923788ed3d@128.140.49.220:443?security=reality&flow=xtls-rprx-vision&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=mNXhz9oVUOChfXonV3TJcv_IB1-epvPy0OXR--qY82E&sid=758910ee7eab4a1b#🔒 VL-TCP-RLT 🇩🇪 DE-128.140.49.220:443
 vless://cf0ecf99-0417-4eb5-b6ba-ddd839cad04a@116.203.200.108:443?security=reality&sni=www.speedtest.net&type=grpc&serviceName=@Shh_Proxy&fp=chrome&pbk=u4DFt-PrivHRMh7R56mwDwkOS_R19q1ts5tSgQdxqnw&sid=a715cc23#🔒 VL-GRPC-RLT 🇩🇪 DE-116.203.200.108:443
 vless://a0562dec-26ac-43d4-ba1d-785c334e644f@65.108.244.106:443?security=reality&sni=greenpepper.ir&type=grpc&serviceName=%40ipV2Ray&fp=firefox&pbk=XuBmd_9lf646T80SEzIXo5DzWFsUfoLY72OXzHLB9mE&sid=fada4f5f#🔒 VL-GRPC-RLT 🇫🇮 FI-65.108.244.106:443
 vless://f52063bb-d315-4562-a1dd-84a1cab535ea@45.151.62.156:8443?security=reality&sni=discordapp.com&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒 VL-TCP-RLT 🇷🇺 RU-45.151.62.156:8443
@@ -599,7 +603,3 @@ vless://c19bf80f-a413-42d6-8096-d785b269a251@104.17.148.22:2083?security=tls&sni
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.95.77:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.95.77:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.40.146:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.40.146:80
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.57.108:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.57.108:80
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.98.234:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.98.234:80
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.19.166.180:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.166.180:80
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.255.67.204:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇮🇪 IE-3.255.67.204:22222
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.33.41:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.33.41:80
