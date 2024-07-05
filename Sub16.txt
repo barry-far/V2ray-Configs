@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://35ae9f57-0a63-43dc-a391-530f05c96963@104.21.25.39:443?security=tls&sni=be2-vless.sshmax.xyz&type=ws&host=be2-vless.sshmax.xyz&path=/vless&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.25.39:443
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.158.58:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.158.58:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.104.71:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-185.148.104.71:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@154.83.2.32:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇸🇨 SC-154.83.2.32:443
 vless://d055975a-90f6-4d3f-b16e-e482edb94783@190.93.244.113:443?security=tls&sni=furi-guri-allnet.poshakbany.ir&type=grpc&serviceName=/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-190.93.244.113:443
@@ -601,5 +603,3 @@ trojan://656bcdfe-ae09-4170-a36e-1685ee10b26f@162.159.128.233:2083?security=tls&
 trojan://q8uTrVmj95aTrFAa@91.195.240.12:443?#🔒 TR-TCP-NA 🇩🇪 DE-91.195.240.12:443
 trojan://FtEizCoS0v0MUqSQBgMm2A@172.66.213.38:2083?security=tls&sni=gerMnV2ray.naziitness.coM&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-172.66.213.38:2083
 trojan://4732adfa16c6450bbef87264e41332db@104.17.61.7:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.61.7:443
-trojan://moist@8.210.203.7:2087?sni=trojan.freenods.sbs&type=ws&host=trojan.freenods.sbs#🔒 TR-WS-NA 🇭🇰 HK-8.210.203.7:2087
-trojan://414035fc-dd34-4ef8-abdd-2d3ffcb4e387@172.105.18.131:443?#🔒 TR-TCP-NA 🇨🇦 CA-172.105.18.131:443
