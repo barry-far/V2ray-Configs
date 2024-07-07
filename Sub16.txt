@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://03a9c9ee-1e6e-4779-8171-b2aac2357d0c@104.21.45.154:8443?security=tls&sni=Tigoo.dignity-19.com&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.45.154:8443
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.26.1.77:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.1.77:80
+vless://12b3cbba-e6ac-485a-9481-546a0415eab9@172.67.190.208:443?security=tls&sni=eSETSECURITyLIcEnse.gpGRbd.woRKErS.dEv&type=ws&host=EsETsECUrItyLiCENsE.GpGrbd.WorkERS.Dev&path=%2FBtvjgv4WL5X48Nfv%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.190.208:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.42.145.142:443?security=tls&sni=kk626.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇷🇺 RU-188.42.145.142:443
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.250.88:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.250.88:80
 vless://c0564435-4115-4515-919d-9630cfcb334a@188.114.98.1:2096?security=tls&sni=xn---qhanatyawi--d-46l653dkga9cvyxa5b70931e3mha.zedmodeon.xyz&type=ws&host=xn---qhanatyawi--d-46l653dkga9cvyxa5b70931e3mha.zedmodeon.xyz&path=/ZEDMODEON-ZEDMODEON-ZEDMODEON&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.1:2096
 vless://b04859a9-1156-4d22-8873-60980d5b599d@104.21.72.252:8080?security=none&type=ws&host=connectix.eo-wee3242343-rewre-efwe-f-ewffew-f-ewa-f290fwa-fawfe.online&path=/connectix#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.72.252:8080
 vless://76b3cbba-e6ac-435a-9481-976a0415eab6@104.21.51.93:443?security=tls&sni=esETSECUrITyLICENse.LYFsoME.Workers.dEV&type=ws&host=ESeTSEcurITYLiCEnse.lyFSomE.workErS.dev&path=%2FgnyxKZGYlihhWQtc%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.51.93:443
@@ -598,8 +603,3 @@ vless://a65d68c2-ef23-498d-9a56-d34fae42a125@185.238.228.143:8443?security=tls&s
 vless://2362217c-bfee-4074-8f6f-478876f77fd4@190.93.247.32:2052?security=none&type=ws&host=3.ftp.debian.org.www.speedtest.net.人人人人人人人人人人.shop.#🔒 VL-WS-NONE 🏴‍☠️ NA-190.93.247.32:2052
 vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@104.21.59.95:443?security=tls&sni=w1.sylar8.eu.org&type=ws&host=w1.sylar8.eu.org#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.59.95:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.129.69:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.129.69:80
-vless://f68b1ea9-3c4e-405a-98b1-35ee3db36000@104.21.94.25:80?type=ws&host=vr4RlSu.kallepache.store&path=/graphql#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.94.25:80
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.36.113:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.36.113:80
-vless://312b0699-a47a-496e-97b6-cb3af1654d35@104.26.2.36:8880?security=none&type=ws&host=918.hebav63406.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.2.36:8880
-vless://5931ee53-98dd-45bb-a3de-bdb9aa4331ae@185.159.247.12:2053?security=tls&sni=dl12.peymod.com&type=grpc&serviceName=%40V2RIRAN-TEL--%40V2RIRAN-TEL--%40V2RIRAN-TEL--%40V2RIRAN-JOIN-%40V2RIRAN-TEL--%40V2RIRAN-JOIN-%40V2RIRAN-TEL-%40V2RIRAN-TEL--%40V2RIRAN-JOIN-%40V2RIRAN-TEL--%40V2RIRAN-%40ViV2ray%2F2053&fp=chrome&alpn=http%2F1.1%2Ch2#🔒 VL-GRPC-TLS 🇧🇷 BR-185.159.247.12:2053
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.159.3:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.159.3:80
