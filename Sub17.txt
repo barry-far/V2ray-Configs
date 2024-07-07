@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@193.9.49.114:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-193.9.49.114:443
+vless://9ab3fa2d-9cf2-4edf-a535-a4e879cf7ddc@162.159.133.234:2053?security=tls&sni=TestForV2ray.vpncustomize.com&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.133.234:2053
+vless://bf3f195d-d18c-448d-bde6-4e99abf2bcdd@157.20.129.16:2087?security=tls&sni=Us-cdn.cgnm.ir&type=httpupgrade&host=Us-cdn.cgnm.ir&path=%40HideNg_App%3Fed%3D1024#🔒 VL-HTTPUPGRADE-TLS 🇮🇳 IN-157.20.129.16:2087
+vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@8.219.66.156:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇸🇬 SG-8.219.66.156:443
 vless://713e999f-9590-4419-e49c-5a682ec5d4f7@104.24.197.20:2083?security=tls&sni=ch.RxV2ray.space&type=grpc&serviceName=@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.24.197.20:2083
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.218.45:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.218.45:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.67.73:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.67.73:80
@@ -599,7 +603,3 @@ vmess://eyJhZGQiOiAiMTI3LjAuMC4xIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImNh
 trojan://babcaca-acba-aacb-cabd-bcccbaaacbab@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 MON-18-TIR-1403 🕑 02:00
 trojan://bcabcaa-baca-caba-bcad-bccacabcaabb@127.0.0.1:2080?security=tls&type=tcp#🎁 DONATE-SPONSORING ❤️ DARAMET.COM/SOROUSHMIRZAEI
 trojan://TGov79VWt3KT_ZPL4bbvoA@104.17.148.22:2087?security=tls&sni=trx.freedomundead.space&type=ws&host=trx.freedomundead.space&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.148.22:2087
-trojan://0fd9b883-0551-4ed1-b978-528183b459a2@47.76.49.246:2053?security=tls&sni=mfjd.591haoka.com&type=ws&host=mfjd.591haoka.com#🔒 TR-WS-TLS 🇭🇰 HK-47.76.49.246:2053
-trojan://moist@132.145.95.170:39637?sni=trojan.freenods.sbs&type=ws&host=trojan.freenods.sbs#🔒 TR-WS-NA 🇰🇷 KR-132.145.95.170:39637
-trojan://F9D3CpxDl8a3ezeZNSBSAa2RcZNSBSAa2RcY8IyagD67Yn3S30ZTElRj4wFX5On3S30ZT@23.106.33.161:443?security=tls&sni=scarily.golfland.club&type=tcp&fp=chrome#🔒 TR-TCP-TLS 🇬🇧 GB-23.106.33.161:443
-trojan://e16e9768-240f-4ff2-8c29-36d220ed2aa4@104.18.23.19:443?security=tls&sni=msnghdfy4c2.cpiforpersia.uk&type=grpc&serviceName=4xLDSO3FrWl2DhrWGqHh74mj&fp=chrome&alpn=h2#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.18.23.19:443
