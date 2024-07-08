@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg576O5Zu9IENsb3VkRmxhcmXoioLngrkiLCJhZGQiOiIxMDQuMTguNTcuMTIxIiwicG9ydCI6IjIwNTIiLCJ0eXBlIjoiYXV0byIsImlkIjoiZDZiNmQ5ODItZDUyZi00NjVhLWI5ODgtODU2NzBiMjNmNjRhIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiY2RuMi5mcmVlZ3JhZGVseS54eXoiLCJ0bHMiOiIifQ==
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg576O5Zu9IENsb3VkRmxhcmXoioLngrkiLCJhZGQiOiIxMDQuMTkuNDcuMTkyIiwicG9ydCI6Ijg0NDMiLCJ0eXBlIjoiYXV0byIsImlkIjoiMzkxMzVhMzktZTZjYS00M2RmLWEzNjAtZDg1OWVlYTU4ZDg2IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiaGswMS5saW5raXRub3cubmV0IiwidGxzIjoidGxzIn0=
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg576O5Zu9IENsb3VkRmxhcmXoioLngrkiLCJhZGQiOiIxNzIuNjQuMjMzLjI3IiwicG9ydCI6IjIwODYiLCJ0eXBlIjoibm9uZSIsImlkIjoiZTllM2NjMTMtZGI0OC00Y2MxLThjMjQtNzYyNjQzOWE1MzM5IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6ImdpdGh1Yi5jb20vQWx2aW45OTk5IiwiaG9zdCI6ImlwMi4xNDU3MjMwLnh5eiIsInRscyI6IiJ9
-ss://YWVzLTI1Ni1nY206ZmIxZmRlZGU2YzBmNDk0OA@185.22.155.97:8917#%F0%9F%87%B7%F0%9F%87%BA%20%E4%BF%84%E7%BD%97%E6%96%AF%2Bv2rayfree.eu.org
 trojan://2cba4104747d49d18319e5ade1b93ab5@198.41.220.18:443?allowInsecure=0&sni=avianrecruit.com&ws=1&wspath=6b777a91#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20CloudFlare%E8%8A%82%E7%82%B9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg576O5Zu9IENsb3VkRmxhcmXoioLngrkiLCJhZGQiOiIxNzIuNjcuMS4xNDMiLCJwb3J0IjoiNDQzIiwidHlwZSI6Imd1biIsImlkIjoiMjUxNzgwYzEtMTUwMS00M2IzLWJlMmEtZDE0NGEyMGQ0NzlhIiwiYWlkIjoiMCIsIm5ldCI6ImdycGMiLCJwYXRoIjoiTmJzMkRTVFNrRldlNEtWbms5QUhRdiIsImhvc3QiOiIiLCJ0bHMiOiJ0bHMifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7Mg5bm/5Lic55yB5bm/5bee5biCIOenu+WKqCIsImFkZCI6IjE4My4yMzYuNTEuMjMiLCJwb3J0IjoiNTQ0MzciLCJ0eXBlIjoibm9uZSIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiNjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
@@ -603,3 +599,7 @@ vless://d19cd8ff-62c4-4160-80bb-4b2452878a9d@154.219.5.213:2053?security=tls&sni
 vless://c57db8e2-555e-4c48-b262-ec20b4ae6a50@104.21.31.161:2096?security=tls&sni=selinc--3--3--3--selinc.eubda.workers.dev&type=ws&host=selinc--3--3--3--selinc.eubda.workers.dev&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.31.161:2096
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.36.210:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.36.210:443
 vless://1a8fc4e7-9c26-41df-85b7-814e6392ff69@198.202.211.128:443?security=tls&sni=PQNIMsrV2rayJGiioii92129TxTulSawMINngMahdiUk.PQmin.lat&type=grpc#🔒 VL-GRPC-TLS 🇺🇸 US-198.202.211.128:443
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.212.181:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.212.181:80
+vless://866bf81c-8edd-4073-abd8-adabceaa6eea@104.26.12.204:443?security=tls&sni=pardazesh13.pages.dev&type=ws&host=pardazesh13.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.12.204:443
+vless://257b4196-c939-477b-b8d1-3be948934766@86.38.214.33:2053?security=tls&sni=dl13.peymod.com&type=grpc&serviceName=@V2RIRAN-TEL--@V2RIRAN-TEL--@V2RIRAN-TEL--@V2RIRAN-JOIN-@V2RIRAN-TEL--@V2RIRAN-JOIN-@V2RIRAN-TEL-@V2RIRAN-TEL--@V2RIRAN-JOIN-@V2RIRAN-TEL--@V2RIRAN-@ViV2ray/2053&fp=chrome&alpn=http%2F1.1#🔒 VL-GRPC-TLS 🇱🇹 LT-86.38.214.33:2053
+vless://416f18ec-11f3-4648-9693-8c6480d0662d@104.18.1.125:2082?security=none&type=ws&host=OlJbViBi47.iJaSd-zUmBa.oRg&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.1.125:2082
