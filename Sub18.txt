@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://6b10e086-7d43-46fa-954a-ad303d7cc37f@185.176.26.195:443?security=tls&sni=grpc2.sharesite.ir&type=grpc#🔒 VL-GRPC-TLS 🇰🇿 KZ-185.176.26.195:443
 vless://f32a99e8-05dd-478a-82c0-7688848121bd@8.210.85.222:8080?type=ws&host=mkhy.daozhang.link&path=%2F%3Fed%3D2048#🔒 VL-WS-NA 🇭🇰 HK-8.210.85.222:8080
 vless://505094ea-297c-496a-af29-ed33db58f820@172.66.44.237:80?security=none&type=ws&host=speedtest.net.ir.com.site.РҙУҷУўРөТІвҖ”РөТІвҖ”Р·вҖқВ·РҙУҷУўР·ТЎвҖһРҙУҷУўРөТІвҖ”РҙС‘Т#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.44.237:80
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.152.117:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.152.117:80
@@ -602,4 +603,3 @@ trojan://auto@162.159.135.232:8443?security=tls&sni=e9464f45.trauma-2r4.pages.de
 trojan://d150c8c3-a667-4d3e-843c-739f8558c7d2@198.244.190.189:443?security=tls&sni=uk-full.privateip.net#🔒 TR-TCP-TLS 🇬🇧 GB-198.244.190.189:443
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.2:443?sni=tjjd.yzyx1.v6.army#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.52.2:443
 trojan://NISHIKUITAN222@8.219.100.168:8443?security=tls&sni=t009.ylks.link&type=ws&host=t009.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.100.168:8443
-trojan://auto@104.18.14.166:8443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.14.166:8443
