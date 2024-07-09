@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://2a3263e2-891c-4446-b474-a8c63acb6e25@188.114.96.3:2096?security=tls&sni=u1.3mehdidom.net&type=ws&host=u1.3mehdidom.net&path=%2F&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.3:2096
-vless://408467ca-f0b1-41d0-b42f-cfa9b7ffbc47@46.102.130.105:9092?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-46.102.130.105:9092
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@172.67.156.137:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.156.137:80
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.230.70:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.230.70:80
-vless://383c350b-5096-4f32-bd50-9b849da5edbc@49.13.83.182:443?security=tls&sni=sdf.mgodping12.xyz&type=grpc&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🇩🇪 DE-49.13.83.182:443
-vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.64.161.6:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.161.6:443
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@198.41.220.164:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.220.164:443
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.217.23:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.217.23:443
 vless://7a985b16-d6c7-4482-8138-99049e055cc1@92.114.50.11:10534?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-92.114.50.11:10534
@@ -603,3 +597,9 @@ trojan://656bcdfe-ae09-4170-a36e-1685ee10b26f@162.159.138.232:2083?security=tls&
 trojan://d3e663d2-5cce-56e1-a199-2fec6078fcb4@162.159.129.67:2087?security=tls&sni=mailbox.CPiFORPErsIa.Uk&type=ws&host=mailbox.CPiFORPErsIa.Uk&path=trojan-ws%2F%3Fed&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.129.67:2087
 trojan://NISHIKUITAN222@47.237.81.112:8443?security=tls&sni=t009.ylks.link&type=ws&host=t009.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-47.237.81.112:8443
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.118:2096?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.53.118:2096
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.71:2087?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.71:2087
+trojan://auto@188.114.99.222:443?security=tls&sni=migekehcode27.kiwaja6458.workers.dev&type=ws&host=migekehcode27.kiwaja6458.workers.dev&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-188.114.99.222:443
+trojan://c7f9b8f0-bfdb-11ee-a15c-1239d0255272@172.67.159.13:443?security=tls&sni=de1.test3.net&type=ws&host=de1.test3.net&path=/howdy#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.159.13:443
+trojan://0cc6b4268dea0ba8@5.44.249.53:3306?security=tls&sni=n2.gladns.com&type=ws&host=TG.WangCai_1&path=%2Fgateway%2Fconnect#🔒 TR-WS-TLS 🇸🇬 SG-5.44.249.53:3306
+trojan://ZJU29smXwp@45.85.118.0:2053?security=tls&sni=web2.teama.tk&type=ws&host=k.teama.tk&path=/#🔒 TR-WS-TLS 🇷🇴 RO-45.85.118.0:2053
+trojan://moist@8.219.126.240:2096?sni=trojan.freenods.sbs#🔒 TR-TCP-NA 🇸🇬 SG-8.219.126.240:2096
