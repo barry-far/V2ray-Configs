@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://cbd0bb00-295e-448f-b07f-47164e8e8196@104.16.5.175:8080?security=none&type=ws&host=unlimiteddev-vpn.unlimiteddev.Community.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8080#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.5.175:8080
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.234.130:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.234.130:443
 vless://61958b98-d52a-420e-bb42-a3fd22985895@172.66.0.98:2096?security=tls&sni=pol.dalixw.fun&type=grpc&serviceName=.....&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.66.0.98:2096
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.0.144:443?security=tls&sni=GOV.UK&type=ws&host=k.kp&path=%2FPath%2FTelegram%40freevirgoolnet%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-151.101.0.144:443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.164.252:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.164.252:80
@@ -603,3 +601,5 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.155.84:80?security=none&type
 vless://94538f05-e0b2-4711-b197-58f6e76e90d1@104.22.75.105:8080?security=none&type=ws&host=join-to.vmessorg.Community.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.75.105:8080
 vless://f7204e0a-0bb3-4b6e-be7c-e22c8ccd357f@104.21.28.62:2052?security=none&type=ws&host=Xmrdark.xn--cr8haa.V2ray.xn--1ug4145pija8k.radiotehran.tech.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.28.62:2052
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.28.62:443?security=tls&sni=3k.pureboy.eu.org&type=ws&host=3k.pureboy.eu.org#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.28.62:443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.218.109:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.218.109:443
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.102.227:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.102.227:80
