@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d113cd5c-80c9-43e2-a567-107819004a12@104.18.203.232:2083?security=tls&sni=dm.xsv2ray.cfd&type=grpc&serviceName=@xsv2ray,@xsv2ray,@xsv2ray,@xsv2ray,@xsv2ray,@xsv2ray,@xsv2ray,@xsv2ray,@xsv2ray,@xsv2ray,@xsv2ray&fp=chrome&alpn=http/1.1,h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.203.232:2083
+vless://51905fd3-29de-4b4e-b351-83542f1d5390@104.22.32.78:443?security=tls&sni=Bia.alLhub.Ltd&type=ws&host=biA.ALlhub.LTD&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.32.78:443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.122.44:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.122.44:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.250.4:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.250.4:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.90.211:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.90.211:80
@@ -601,5 +603,3 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@190.93.247.166:80?type=ws&host=us1.
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@141.147.175.191:41101?security=tls&sni=vt.ylkszy.eu.org&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇯🇵 JP-141.147.175.191:41101
 vless://e6aae0f8-e19a-4bc5-a3f4-efe82ad83673@104.21.23.243:443?security=tls&sni=le.bo3kot.com&type=grpc&serviceName=@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.23.243:443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.20.156:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.20.156:80
-vless://d19cd8ff-62c4-4160-80bb-4b2452878a9d@154.219.5.213:2053?security=tls&sni=v2rayc.peymod.com&type=grpc&serviceName=@V2RIRAN-TEL--@V2RIRAN-TEL--@V2RIRAN-TEL--@V2RIRAN-JOIN-@V2RIRAN-TEL--@V2RIRAN-JOIN-@V2RIRAN-TEL-@V2RIRAN-TEL--@V2RIRAN-JOIN-@V2RIRAN-TEL--@V2RIRAN-@ViV2ray/2053&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🇸🇬 SG-154.219.5.213:2053
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.22.53.163:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.53.163:80
