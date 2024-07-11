@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://35ae9f57-0a63-43dc-a391-530f05c96963@104.21.25.39:443?security=tls&sni=be2-vless.sshmax.xyz&type=ws&host=be2-vless.sshmax.xyz&path=/vless&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.25.39:443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.13.234:80?type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.13.234:80
 vless://47155444-ead8-48b7-a7f4-2ce403ec4a40@188.114.97.141:80?security=none&type=ws&host=1.V2rayV2ray-_-_-V2ray.Zemestanil.Ir#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.97.141:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@47.237.121.38:8443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇸🇬 SG-47.237.121.38:8443
@@ -602,4 +603,3 @@ vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.105.69:80?type=ws&host=kr1.1
 vless://1d8886c3-dd69-4f33-b725-fe8cb905d9c4@154.219.5.163:443?security=tls&sni=MOJ.Bklink.IR&type=grpc&serviceName=Telegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🇸🇬 SG-154.219.5.163:443
 vless://7509f896-2115-4420-b487-501c9103bebd@112.187.240.245:33185?security=tls&sni=ccs.443888.xyz&type=ws&path=%2Fvless%3Fed&fp=chrome#🔒 VL-WS-TLS 🇰🇷 KR-112.187.240.245:33185
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.158.176:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.158.176:80
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.86.219:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.86.219:80
