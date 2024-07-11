@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://06d67321-b253-4fa2-9d9b-bc4e2bf2a747@95.164.1.6:443?security=tls&sni=sourceforge.net&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-TLS 🇺🇸 US-95.164.1.6:443
 vless://f1a234f6-c946-4024-ba79-882f58c22727@104.21.8.204:443?security=tls&sni=c2ray-free.pages.dev&type=ws&host=c2ray-free.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.8.204:443
 vless://eb404f21-2ad7-43b2-8b7c-2ae2302b1156@14.102.228.78:2053?security=tls&sni=de1.v2vless.xyz&type=ws&host=de1.v2vless.xyz&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-14.102.228.78:2053
 vless://13be7b64-8a46-4724-9cf2-4c7eddd4c56b@104.25.156.141:2096?security=tls&sni=sPeEd.vbox778.info.&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.156.141:2096
@@ -603,3 +602,4 @@ trojan://a36dfa0e-5a34-4e77-8513-87350f38e0a6@104.16.35.41:443?security=tls&sni=
 trojan://NISHIKUITAN222@8.222.164.209:8443?security=tls&sni=t222.ylks.link&type=ws&host=t222.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.222.164.209:8443
 trojan://NISHIKUITAN222@43.153.80.208:443?security=tls&sni=t221.ylks.link&type=ws&host=t221.ylks.link&path=/#🔒 TR-WS-TLS 🇺🇸 US-43.153.80.208:443
 trojan://NISHIKUITAN222@47.237.92.26:8443?security=tls&sni=t009.ylks.link&type=ws&host=t009.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-47.237.92.26:8443
+trojan://NISHIKUITAN222@8.219.177.205:2053?security=tls&sni=t306.ylks.link&type=ws&host=t306.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.177.205:2053
