@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.19.48.116:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.19.48.116:80
+vless://713e999f-9590-4419-e49c-5a682ec5d4f7@104.24.197.20:2083?security=tls&sni=ch.RxV2ray.space&type=grpc&serviceName=@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.24.197.20:2083
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.43.157:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.43.157:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.22.2.212:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.2.212:80
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.217.53:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.217.53:443
@@ -601,5 +603,3 @@ vless://866bf81c-8edd-4073-abd8-adabceaa6eea@104.26.12.204:443?security=tls&sni=
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.206.245:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.206.245:80
 vless://158a2a18-ba82-4208-af52-3bf650c94036@162.159.137.232:2095?security=none&type=ws&host=a.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FZEDMODEON-ZEDMODEON%3Fed%3D1024#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.137.232:2095
 vless://849b8b7a-dcc5-4b28-9c30-29841b7717b9@173.245.49.125:80?security=none&type=ws&host=appcdNewYourkSS.hidenpnmb.sbs#🔒 VL-WS-NONE 🏴‍☠️ NA-173.245.49.125:80
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.82.30:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.82.30:80
-vless://76b3cbba-e6ac-435a-9481-976a0415eab6@104.21.51.93:443?security=tls&sni=esETSECUrITyLICENse.LYFsoME.Workers.dEV&type=ws&host=ESeTSEcurITYLiCEnse.lyFSomE.workErS.dev&path=%2FgnyxKZGYlihhWQtc%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.51.93:443
