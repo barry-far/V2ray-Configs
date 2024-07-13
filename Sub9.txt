@@ -3,6 +3,15 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.118.62:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.118.62:80
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.40.161:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.40.161:80
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.255.81:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.255.81:80
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.212.60:80?type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-198.41.212.60:80
+vless://d19cd8ff-62c4-4160-80bb-4b2452878a9d@154.219.5.204:2053?security=tls&sni=v2rayc.peymod.com&type=grpc&serviceName=@V2RIRAN-TEL--@V2RIRAN-TEL--@V2RIRAN-TEL--@V2RIRAN-JOIN-@V2RIRAN-TEL--@V2RIRAN-JOIN-@V2RIRAN-TEL-@V2RIRAN-TEL--@V2RIRAN-JOIN-@V2RIRAN-TEL--@V2RIRAN-@ViV2ray/2053&fp=firefox&alpn=http/1.1#🔒 VL-GRPC-TLS 🇸🇬 SG-154.219.5.204:2053
+vless://1149be91-5a4f-47de-995f-66f8d7d64498@94.242.228.11:2096?security=tls&sni=De13.SiMaNsAnAt.Ir.&type=ws&host=De13.SiMaNsAnAt.Ir.&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🇱🇺 LU-94.242.228.11:2096
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@188.114.96.131:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.96.131:80
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.171.131:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.171.131:80
+vless://bea4ddd0-a014-434e-9eb4-f9c8822bf19e@104.21.88.21:443?security=tls&sni=usa.freesdns.info&type=ws&path=%2F&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.88.21:443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.125.197:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.125.197:80
 vless://322bd3ff-dcbc-4cd8-b636-5e0a77d6f68f@154.219.5.57:443?security=tls&sni=second.pinocchio1.ir.&type=grpc&serviceName=%2Fcustom_config%3Fed%3D2048&fp=firefox&alpn=http/1.1#🔒 VL-GRPC-TLS 🇸🇬 SG-154.219.5.57:443
 vless://5a045a1e-d392-4c5b-b658-b57e4ea01b4f@104.21.18.147:443?security=tls&sni=virapn-d-3be7883659a1d2ba4c545dfdf85b61eda1.asiatechnicalwest.ir.&type=grpc&serviceName=@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.18.147:443
@@ -594,12 +603,3 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@168.100.6.89:443?security=tls&sni=c
 vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.47.54:443?security=tls&sni=ircp-617.pages.dev.&type=ws&host=ircp-617.pages.dev.&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.54:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.49.155:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.49.155:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.64.149:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.64.149:80
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.172.211:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.172.211:80
-vless://b918a697-ff28-4127-b5cd-f3e74e3a4cf8@104.21.24.185:2087?security=tls&sni=sina-mci-mhd-hh.parsafoom.ir&type=grpc&serviceName=%40V_2rayy_NG-%40V_2rayy_NG-%40V_2rayy_NG-%40V_2rayy_NG-%40V_2rayy_NG-%40V_2rayy_NG-%40V_2rayy_NG-&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.24.185:2087
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.18.66:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.18.66:80
-vless://cb74a4c3-f48d-4411-8f4c-2ffee5eab376@104.18.39.123:443?security=tls&sni=ae3b1077e4706405.koalalampour.space&type=ws&host=ead9935ad2d9ffaa.koalalampour.space&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.39.123:443
-vless://af57f6bf-6b8c-4b9e-96e6-1af79d64fd3a@172.67.25.165:2053?security=tls&sni=fr1.vless.site&type=ws&host=fr1.vless.site&path=%2Fvless%3Fed%3D%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%3Fed&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.25.165:2053
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.254.132:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.254.132:80
-vless://4922fb95-dc7d-4d93-9f54-2dcc4b46f752@172.67.161.70:8880?security=none&type=ws&host=xn--80ajabxfcf7ah9bi.fiErlIne.lINk#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.161.70:8880
-vless://b3a313ec-7bea-5315-93ee-38ada6002bd8@185.148.107.25:80?security=none&type=ws&path=vless-ws%2F%3Fed#🔒 VL-WS-NONE 🇷🇺 RU-185.148.107.25:80
-vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@104.18.202.232:443?security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&host=cf-wkrs-pages-vless-aoy.pages.dev&path=Telegram+Channel+%3A+%40freeiranweb#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.202.232:443
