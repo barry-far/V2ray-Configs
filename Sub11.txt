@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://7509f896-2115-4420-b487-501c9103bebd@156.251.180.176:21698?security=tls&sni=ccs.443888.xyz&type=ws&path=/vless?ed#🔒 VL-WS-TLS 🇭🇰 HK-156.251.180.176:21698
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.153.158:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.153.158:80
 vless://5d99e45f-9139-4235-bd72-207fa5640379@154.219.5.122:2053?security=tls&sni=dl13.peymod.com&type=grpc&serviceName=@V2RIRAN-TEL--@V2RIRAN-TEL--@V2RIRAN-TEL--@V2RIRAN-JOIN-@V2RIRAN-TEL--@V2RIRAN-JOIN-@V2RIRAN-TEL-@V2RIRAN-TEL--@V2RIRAN-JOIN-@V2RIRAN-TEL--@V2RIRAN-@ViV2ray/2053&fp=firefox&alpn=http%2F1.1#🔒 VL-GRPC-TLS 🇸🇬 SG-154.219.5.122:2053
 vless://e1ad1088-c7ab-4c06-83b1-27c8188e631b@104.18.15.229:443?security=tls&sni=cpanel.pharmaweb.info&type=ws&host=cpanel.pharmaweb.info&path=/wws&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.15.229:443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.16.79:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.16.79:80
@@ -601,5 +603,3 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.8.211.37:443?security=tls&sni=cf
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.32.106:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.32.106:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.105.108:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-185.148.105.108:443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.170.208:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.170.208:80
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.148.178:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.148.178:80
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.216.109:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.216.109:80
