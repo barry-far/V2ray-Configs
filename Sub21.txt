@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.150.169:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.150.169:80
-vless://99bd9072-226f-48f8-8ee1-7fc01542c903@104.21.28.188:8080?security=none&type=ws&host=dac9f71a1490f05a.sh.ger.bandinng.ir&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.28.188:8080
-vless://d12e661e-7837-459f-c996-10e9e91eeec0@172.67.183.169:2096?security=tls&sni=irancpireverse.cpionline.us&type=ws&path=%2F2053&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.183.169:2096
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@63.141.128.164:443?security=tls&sni=jp000.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-63.141.128.164:443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.144.202:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.144.202:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.209.165:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.209.165:80
 vless://a4edbe60-b45c-4040-aeac-d2dff57eaf47@104.21.79.149:443?security=tls&sni=chanel.shhproxyfree.com&type=grpc&serviceName=@Shh_Proxy+,+@Shh_Proxy#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.79.149:443
@@ -603,3 +599,7 @@ trojan://NISHIKUITAN222@104.21.76.195:8443?security=tls&sni=t111.ylks.link&type=
 trojan://0ClyedGaZQ@185.91.69.39:443?security=tls&sni=royalshop.tech&type=tcp#🔒 TR-TCP-TLS 🇬🇧 GB-185.91.69.39:443
 trojan://A9l6_eMgylRZu0YiSqunsQ@104.21.34.77:2096?sni=usa.iwontletgo.cloud&type=grpc&serviceName=trojan#🔒 TR-GRPC-NA 🏴‍☠️ NA-104.21.34.77:2096
 trojan://Fvv4Bz926a@104.21.46.33:80?security=none&type=ws&host=admin.irayanconfig.ir#🔒 TR-WS-NONE 🏴‍☠️ NA-104.21.46.33:80
+trojan://NISHIKUITAN222@8.219.93.5:8443?sni=t111.ylks.link#🔒 TR-TCP-NA 🇸🇬 SG-8.219.93.5:8443
+trojan://NISHIKUITAN222@8.219.60.54:8443?security=tls&sni=t111.ylks.link&type=ws&host=t111.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.60.54:8443
+trojan://Ck0nkbbsur@172.64.150.8:2096?security=tls&sni=tls.redbullplus.xyz&type=ws&host=tls.redbullplus.xyz&path=/wsss#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.150.8:2096
+trojan://7a9f2d3e-d514-48cb-b113-6cb9e1d8bf3b@120.233.47.184:30003?security=tls&sni=v2tw01.fuqiangren.com&type=tcp#🔒 TR-TCP-TLS 🇨🇳 CN-120.233.47.184:30003
