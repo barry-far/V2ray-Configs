@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://cf052982-23bb-4404-8817-05302c50fcd3@116.202.99.47:56372?type=tcp&security=reality&pbk=YdveG9_ciK2YgrnXMN6Ncid3h5dK44rI1Rhb29RTDWE&fp=firefox&sni=sourceforge.net&sid=e7f19002&spx=/#🇩🇪DE | 🔴 | vless | @Capital_NET | 10
 vless://0448c6ea-34ce-487a-93be-8e57bd2f2fa8@116.202.99.47:49124?type=tcp&security=reality&pbk=rBdocIQXi2MdXwQYubRsn4fTG1_3XMZiNgtn9u3yzwI&fp=firefox&sni=dalan-group.de&sid=0bf98883&spx=/#🇩🇪DE | 🔴 | vless | @Capital_NET | 11
 vless://dd777f39-2996-4269-b88f-0b64436d0274@104.31.16.133:2096?type=ws&path=/&host=capitalnet.sameasyou.sbs&security=tls&fp=firefox&alpn=h2,http/1.1&sni=joinchannel.sameasyou.sbs#🇺🇸US | 🔴 | vless | @Capital_NET | 12
 vless://6aeba177-ee11-41c0-9d51-5136a3032deb@66.235.200.51:2053?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=capitalnet.buffalochest.cfd&fp=chrome&type=ws&sni=joinchannel.buffalochest.cfd#🇺🇸US | 🔴 | vless | @Capital_NET | 13
@@ -36,12 +37,13 @@ vless://1b5648b6-da73-4ffb-b964-46c6d3d52136@159.69.23.6:22531?type=grpc&encrypt
 vless://783164cb-6410-4a96-e432-832489e4848c@ec76.kiava.fun:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=coinmarketcap.com&fp=chrome&security=reality&pbk=wQGZ3Ppa4ajV1HrQUYdpZF9D6yejNt84iWv2fV3kVHc&sid=5e#❔XX | 🔴 | vless | @Capital_NET | 44
 vless://fbe02c0b-775f-4431-8615-a9497255c876@four.felinetest.site:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=none.felinetest.site&fp=chrome&security=reality&pbk=fabWUdBWxh7NsMaqOF35petD3ljQbKf6OSDnROV9jDs&sid=6f9deca7#🇺🇸US | 🔴 | vless | @Capital_NET | 45
 vmess://eyJ2IjoiMiIsImFkZCI6IjE3Mi42Ny4xNzUuNTYiLCJwb3J0IjoiNDQzIiwiaWQiOiIwNTY0MWNmNS01OGQyLTRiYTQtYTlmMS1iM2NkYTBiMWZiMWQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0Ijoib2JkaWkuY2ZkIiwicGF0aCI6IlwvbGlua3dzIiwidGxzIjoidGxzIiwic25pIjoib2JkaWkuY2ZkIiwiYWxwbiI6IiIsImZwIjoiIiwicHMiOiJcdWQ4M2RcdWRlYTlDRiB8IFx1ZDgzZFx1ZGZlMiB8IHZtZXNzIHwgQHYyTGluZSB8IDAifQ==
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#🇺🇸US | 🟢 | vless | @FreakConfig | 3
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.69.44:443?security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#🚩CF | 🟢 | vless | @FreakConfig | 4
-vless://Parsashonam-11@104.21.19.124:8880?security=none&encryption=none&host=myket.xn--ir-6g5cr0ao9vf3s229b.arvancloud.ir.digehkhastehshodamazbasdamanehkharidam.blog.&type=ws#🚩CF | 🔴 | vless | @FreakConfig | 5
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.0.0:80?security=none&encryption=none&host=fraud.chase&type=ws#🇺🇸US | 🔴 | vless | @FreakConfig | 7
-vless://Telegram-ipV2Ray-xre@www.speedtest.net:80?security=none&encryption=none&host=c.2.www.speedtest.net.zula.ir.zemestanil.ir&type=ws#🇺🇸US | 🔴 | vless | @FreakConfig | 10
-vless://51d19c6d-d0bf-4e0b-8eef-9a1d3f13c7e6@avval.ir:8443?security=tls&encryption=none&host=vip-romax-tiktok.hsjsak.ir&fp=random&type=ws&sni=vip-romax-tiktok.hsjsak.ir#🇺🇸US | 🟢 | vless | @FreakConfig | 11
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.131.1:80?path=/?ed=2048&security=none&encryption=none&host=fraud.chase&type=ws#🇺🇸US | 🔴 | vless | @FreakConfig | 0
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#🇺🇸US | 🟢 | vless | @FreakConfig | 4
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.69.44:443?security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#🚩CF | 🟢 | vless | @FreakConfig | 5
+vless://Parsashonam-11@104.21.19.124:8880?security=none&encryption=none&host=myket.xn--ir-6g5cr0ao9vf3s229b.arvancloud.ir.digehkhastehshodamazbasdamanehkharidam.blog.&type=ws#🚩CF | 🔴 | vless | @FreakConfig | 6
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.0.0:80?security=none&encryption=none&host=fraud.chase&type=ws#🇺🇸US | 🔴 | vless | @FreakConfig | 8
+vless://Telegram-ipV2Ray-xre@www.speedtest.net:80?security=none&encryption=none&host=c.2.www.speedtest.net.zula.ir.zemestanil.ir&type=ws#🇺🇸US | 🔴 | vless | @FreakConfig | 11
+vless://51d19c6d-d0bf-4e0b-8eef-9a1d3f13c7e6@avval.ir:8443?security=tls&encryption=none&host=vip-romax-tiktok.hsjsak.ir&fp=random&type=ws&sni=vip-romax-tiktok.hsjsak.ir#🇺🇸US | 🟢 | vless | @FreakConfig | 12
 vless://94f03b17-9902-496a-9ef4-efd519fce95e@185.146.173.58:8080?path=/servernett&security=none&encryption=none&host=dcc10.servernet.fun.&type=ws#🇸🇪SE | 🔴 | vless | @flyv2ray | 0
 vless://ea689522-53ac-4c2d-a50c-197c429651e3@185.146.173.58:8080?path=/servernett&security=none&encryption=none&host=dcc13.servernet.fun.&type=ws#🇸🇪SE | 🔴 | vless | @flyv2ray | 3
 vless://41c505d7-a447-40f9-9af0-96eea2afee8b@zula.ir:8080?path=SHHPROXY?ed=8080&security=none&encryption=none&host=SHHproxy--shhPROXY--SHHproxy.joinTELEGRAM.net.&type=ws#🇺🇸US | 🔴 | vless | @flyv2ray | 10
@@ -601,5 +603,3 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.162.200.28:3389#%F0%9F%94%92%20SS-T
 vless://0a6f7794-4dd9-47df-858f-d2ebf666b551@zula.ir:80?encryption=none&security=none&type=ws&host=5260827089.ir.www.zula.ir.xn--4all.king4usd.shop.&path=%2F%40custom_config%3Fed%3D2048#%40Hope_Net-join-us-on-Telegram
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZEF5eGJGaUhXdnE=@139.28.221.242:27393#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%AB%F0%9F%87%AE%20FI-139.28.221.242%3A27393
 vless://a2f001eb-632b-4e05-b962-580b050ea46c@188.114.96.3:443?encryption=none&security=tls&sni=ariAmEhr-447.PaGes.dEV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=ArIAmehR-447.PAgES.Dev&path=%2Ftelegram-proxy_mtm-telegram-proxy_mtm-telegram-proxy_mtm%3Fed%3D2560#%40Hope_Net-join-us-on-Telegram
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.111.114.133:3306#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%A8%F0%9F%87%A6%20CA-38.111.114.133%3A3306
-vless://4f0efec2-9a6e-4122-9bcc-a8ab1c83c298@zula.ir:8443?encryption=none&security=tls&sni=telegram-falcunargo-ukrine.falcunar.asso.eu.org&fp=random&type=ws&host=telegram-falcunargo-ukrine.falcunar.asso.eu.org&path=%2F%3Fed%3D2048#%F0%9F%87%BA%F0%9F%87%B8US%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40v2rayNG_Matsuri%20%7C%207
