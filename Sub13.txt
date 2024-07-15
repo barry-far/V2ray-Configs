@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@154.21.82.84:8443?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-154.21.82.84:8443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.121.129:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.121.129:80
 vless://8ae167dc-c09c-47f3-802f-daedbd307eae@172.67.163.123:2096?security=tls&sni=multi.zibashoporg.com.&type=ws&host=multi.zibashoporg.com.&path=%2F%3Fed%3D2048&fp=android&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.163.123:2096
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.46.167:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.46.167:80
@@ -602,4 +603,3 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.130.188:443?security=tls&sn
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.16.210:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.16.210:443
 vless://1149be91-5a4f-47de-995f-66f8d7d64498@172.66.42.107:2096?security=tls&sni=De09.SiMaNsAnAt.Ir.&type=ws&host=De09.SiMaNsAnAt.Ir.&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.42.107:2096
 vless://f32a99e8-05dd-478a-82c0-7688848121bd@8.217.207.60:8080?type=ws&host=mkhy.daozhang.link&path=%2F%3Fed%3D2048#🔒 VL-WS-NA 🇭🇰 HK-8.217.207.60:8080
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.98.234:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.98.234:80
