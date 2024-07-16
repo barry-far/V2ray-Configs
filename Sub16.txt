@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://b91b3053-9602-4a60-b848-ec0eafea2087@104.21.69.44:2087?security=tls&sni=uJFIFu1ys91HlcdSYXeIiFfu33EC5vY6VbI629dAhwxQTzoI8qoRXXThhsN.pagES-DEV.SIte&type=ws&host=uJFIFu1ys91HlcdSYXeIiFfu33EC5vY6VbI629dAhwxQTzoI8qoRXXThhsN.pagES-DEV.SIte&path=/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.69.44:2087
+vless://540a8eef-965c-4197-8f1c-3b5da31f4964@5.160.46.82:8080?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.160.46.82:8080
+vless://3ccb1d2a-d169-443a-ad5d-3f5f11759695@185.159.247.44:443?security=tls&sni=de2ocean.mohamadphp.ir.&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-TLS 🇧🇷 BR-185.159.247.44:443
+vless://92505265-b1d6-40ac-ad3a-ac031970d5af@104.24.32.188:2087?security=tls&sni=melody.howareu.xyz&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.24.32.188:2087
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.110.213:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.110.213:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.16.222:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.16.222:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.68.133:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.68.133:80
@@ -599,7 +603,3 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.119.143:80?security=none&typ
 vless://236a784b-2506-4236-b336-00f2f792986a@172.67.171.46:80?security=none&type=ws&host=Nl2.vless.site.&path=%2Fvless#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.171.46:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.158.53:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.158.53:443
 vless://56c9ff6f-a210-4791-a35d-54e550d0382e@172.67.153.177:2087?security=tls&sni=fb.fortestt.ir&type=ws&path=/@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-@LiV2ray%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.153.177:2087
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.113.166:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.113.166:80
-vless://36ec15ee-3f41-4dd7-b9d2-951615230ec0@93.123.17.141:80?type=ws&host=bezryeiraniberim.ir&path=/Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-#🔒 VL-WS-NA 🇳🇱 NL-93.123.17.141:80
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.56.203:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.56.203:80
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.215.59:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.215.59:80
