@@ -3,16 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://1149be91-5a4f-47de-995f-66f8d7d64498@104.21.116.106:8443?security=tls&sni=De02.SiMaNsAnAt.Ir.&type=ws&host=De02.SiMaNsAnAt.Ir.#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.116.106:8443
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.19.38.131:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.38.131:80
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.90.96:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.90.96:80
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.22.56.113:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.56.113:80
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.116.167:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.116.167:80
-vless://b15b627e-18d8-4d21-8409-cab0e8e17b7b@104.21.38.38:2082?type=ws&host=Cloudflare.com.com.comCDNjH4vyy3nBv3jNj3Kn4kNkj7V2ray5U93nfR8.Cheshmsabz.Top.&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.38.38:2082
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.254.241:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.254.241:80
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.208.206:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.208.206:80
-vless://1426a594-04c9-40cc-9296-807c0f2bd7d6@104.31.16.183:2083?security=tls&sni=ousgyyzsjbolbolsweden.stay-out-of-my-territory.shop&type=ws&host=ousgyyzsjbolbolsweden.stay-out-of-my-territory.shop&path=/&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.183:2083
-vless://41bed125-144a-4010-8a1e-2636ba0850ee@185.126.9.116:80?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-185.126.9.116:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.92.93:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.92.93:80
 vless://f8ae1d19-44c5-4cc3-ab1c-24e452ed15a0@104.16.60.8:2095?security=none&type=ws&host=main-news-day-rubikairanjahan.fars-news.org&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.60.8:2095
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.221.130:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.221.130:80
@@ -603,3 +593,13 @@ trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@207.244.65.58:443?#🔒 TR-TCP-NA 
 trojan://414035fc-dd34-4ef8-abdd-2d3ffcb4e387@172.105.18.131:443?#🔒 TR-TCP-NA 🇨🇦 CA-172.105.18.131:443
 trojan://4CCF9A9AB80E9889198B02ECE7FA08DD@154.44.27.99:43005?security=tls&sni=j0080.ruixiangseo.xyz#🔒 TR-TCP-TLS 🇭🇰 HK-154.44.27.99:43005
 trojan://a3bce210-eacc-11ee-be58-1239d0255272@188.114.97.1:443?sni=de2.test3.net&type=ws&host=de2.test3.net&path=/howdy#🔒 TR-WS-NA 🏴‍☠️ NA-188.114.97.1:443
+trojan://auto@194.53.53.4:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F#🔒 TR-WS-TLS 🇷🇺 RU-194.53.53.4:443
+trojan://a2c8194b-fcfd-4c39-a6bd-31ea9f4ea671@5.135.235.163:443?security=tls&sni=upload.soft98.download&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇫🇷 FR-5.135.235.163:443
+trojan://telegram-id-privatevpns@3.69.246.189:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.69.246.189:22222
+trojan://Fvv4Bz926a@172.67.223.33:80?security=none&type=ws&host=admin.irayanconfig.ir#🔒 TR-WS-NONE 🏴‍☠️ NA-172.67.223.33:80
+trojan://BO7e2KO_KlAjuJY-HYoabQ@104.21.3.201:443?security=tls&sni=n37-at.netzrun.com&type=ws&path=%2Fid#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.3.201:443
+trojan://4c68fce6-2b72-4ab6-8dd4-8e07139e2b2e@15.235.163.26:443?security=tls&sni=sgt1.sshocean.net&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇸🇬 SG-15.235.163.26:443
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.231:2087?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.231:2087
+trojan://242a3d8eee5e4ed1a6bfa4141d549a25@198.41.220.12:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.12:443
+trojan://sharecentre@3.64.163.50:443?#🔒 TR-TCP-NA 🇩🇪 DE-3.64.163.50:443
+trojan://7d2f4381-c5d5-38ae-9ee9-5dd8e37f66d7@45.67.228.199:443?security=tls&sni=nl1.nodegz.top&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇳🇱 NL-45.67.228.199:443
