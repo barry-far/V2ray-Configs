@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.54.74:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.54.74:80
 vless://561bc9ae-9d67-4a67-cd72-e3d3f80dbed3@172.67.214.110:443?security=tls&sni=rammstein.tagnovolta.workers.dev&type=ws&host=rammstein.tagnovolta.workers.dev&path=/downloader/59316&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.214.110:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.157.123:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.157.123:80
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.76.178:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.76.178:443
@@ -602,4 +603,3 @@ trojan://kP90Yjp90S@212.183.88.40:8443?security=tls&sni=Tdd5yct6uv-Vhd57fc7yvjFy
 trojan://fdc65525-e161-3356-9992-f0446eff60fc@47.250.157.96:30443?security=tls&sni=klvip101.qlgq.fun&type=grpc&serviceName=klvip101#🔒 TR-GRPC-TLS 🇲🇾 MY-47.250.157.96:30443
 trojan://0fd9b883-0551-4ed1-b978-528183b459a2@47.243.139.243:2087?sni=mfjd.591haoka.com#🔒 TR-TCP-NA 🇭🇰 HK-47.243.139.243:2087
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.125:8443?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.125:8443
-trojan://88496c26-3356-47fc-b786-fb8e41a3ff55@129.153.145.216:443?security=tls&sni=55arm.1365365.xyz&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-129.153.145.216:443
