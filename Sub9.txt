@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.242.174.27:80?security=none&type=ws&path=%2Fblue#🔒 VL-WS-NONE 🇭🇰 HK-47.242.174.27:80
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.89.22:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.89.22:80
 vless://a98d1e7d-e794-449c-b8a0-34fa6d4478b4@154.219.5.145:443?security=tls&sni=fourth.pinocchio1.ir&type=grpc&fp=firefox&alpn=http%2F1.1#🔒 VL-GRPC-TLS 🇸🇬 SG-154.219.5.145:443
 vless://f949cc8f-9d1a-4d56-9c6e-3daec4c92010@172.67.138.69:80?security=none&type=ws&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&path=VPNCUSTOMIZE%3Fed%3D8080#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.138.69:80
 vless://8a9ece2a-0724-44b6-9ce9-a6090a2dfdd7@198.41.193.169:8080?security=none&type=ws&host=SHHproxy-shhPROXY-SHHproxy.joinTELEGRAM.net.&path=SHHPROXY%3Fed%3D8080#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.193.169:8080
@@ -603,3 +601,5 @@ vless://0870314f-9920-4223-aaf4-7211857d78ac@162.159.138.232:2095?security=none&
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.59.113:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.59.113:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.158.219:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.158.219:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.157.120:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.157.120:443
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.124.166:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.124.166:80
+vless://83ba00f4-7438-4af3-966f-8631e61b9fd4@[::ffff:8d5f:649f]:31053?security=none&type=tcp#🔒 VL-TCP-NONE 🇫🇷 FR-[::ffff:8d5f:649f]:31053
