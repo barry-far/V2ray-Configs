@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d74d8e62-90c2-4fee-bcf3-d239956ee51a@172.67.161.1:2096?security=tls&sni=jp.vps.wengmail.link&type=ws&host=jp.vps.wengmail.link#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.161.1:2096
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.245.206:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.245.206:80
 vless://135a7212-1a83-42be-f9c7-e17f4dcbe85a@185.146.173.82:2096?security=tls&sni=DNS-GAME.MpoTehran.ir&type=grpc&serviceName=Alfred-Config/Alfred-Config/qAlfred-Config/Alfred-Config/Alfred-Config/Alfred-Config/Alfred-Config/Alfred-Config/Alfred-Config/Alfred-Config&fp=chrome&alpn=http%2F1.1#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.82:2096
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.75.149:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.75.149:80
@@ -602,4 +603,3 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.210.126:80?type=ws&host=us3.
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.26.3.50:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.3.50:80
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.59.113:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.59.113:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.58.75:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.58.75:443
-vless://dd965867-295e-43bb-b47b-6297b293f6c3@66.235.200.51:2052?security=none&type=ws&host=uSWs1.mstrmind.Cloud.&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-66.235.200.51:2052
