@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.253.151:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.253.151:80
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.108.19:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.108.19:443
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.163.95:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.163.95:80
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.26.7.19:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.7.19:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.47.11:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.47.11:80
 vless://a1acd85e-857f-4b89-9a5f-4ad83a35ef86@104.31.16.11:80?security=none&type=ws&host=forum.maroonagate.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.31.16.11:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.229.152:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.229.152:80
@@ -599,7 +603,3 @@ trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.241:8443?sni=tjjd.yzyx1.
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.234:2087?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.234:2087
 trojan://Fvv4Bz926a@172.67.223.33:80?security=none&type=ws&host=admin.irayanconfig.ir#🔒 TR-WS-NONE 🏴‍☠️ NA-172.67.223.33:80
 trojan://fdc65525-e161-3356-9992-f0446eff60fc@8.222.133.18:21223?security=tls&sni=sgvip101.qlgq.fun&type=grpc#🔒 TR-GRPC-TLS 🇸🇬 SG-8.222.133.18:21223
-trojan://e16e9768-240f-4ff2-8c29-36d220ed2aa4@172.66.43.139:443?security=tls&sni=msnghdfy4c1.iraniancpi.uk&type=grpc&serviceName=4xLDSO3FrWl2DhrWGqHh74mj&fp=chrome&alpn=h2#🔒 TR-GRPC-TLS 🏴‍☠️ NA-172.66.43.139:443
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.48:2096?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.48:2096
-trojan://a906625d-446c-468f-9e26-1d15981fa0e9@188.119.112.242:443?security=tls&sni=nl-full.privateip.net#🔒 TR-TCP-TLS 🇳🇱 NL-188.119.112.242:443
-trojan://d86c421f-dbfe-4507-a864-f8f9e29d80e4@51.75.77.237:443?#🔒 TR-TCP-NA 🇩🇪 DE-51.75.77.237:443
