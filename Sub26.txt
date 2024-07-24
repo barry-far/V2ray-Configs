@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://947391e1-408e-4ba2-8a56-05cd972082e5@104.17.254.26:8443?security=tls&sni=ri.aminivip2023.site&type=ws&host=ri.aminivip2023.site&path=/V2zed&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.254.26:8443
-vless://79a0b2a8-f5f7-43bc-a6e3-2b8ff3f526b2@172.67.218.115:80?security=none&type=ws&host=sg18.vlessx.xyz#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.218.115:80
-vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@162.159.137.23:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.137.23:443
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.45.7:80?security=none&type=ws&host=vpn-aryoo-2.pages.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.45.7:80
 vless://494f08aa-e007-4336-a989-be6db932dcc5@162.159.130.233:443?security=tls&sni=shops.atmode.sbs&type=grpc&serviceName=cdn.discordapp.com&alpn=h2,http/1.1,h3#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.130.233:443
 vless://17565eb3-3535-4fc1-bbaa-e9fbd94b2f0c@154.219.5.14:2053?security=tls&sni=fi1.v2vless.xyz&type=ws&host=fi1.v2vless.xyz&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🇸🇬 SG-154.219.5.14:2053
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.89.4:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇱🇺 LU-188.42.89.4:443
@@ -603,3 +599,7 @@ trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.186:2096?security=tls&sn
 trojan://auto@172.67.205.219:443?security=tls&sni=esetsecuritylicense.nzuwcx.workers.dev&type=ws&host=esetsecuritylicense.nzuwcx.workers.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.205.219:443
 trojan://NISHIKUITAN222@129.151.205.193:443?security=tls&sni=t116.ylks.link&type=ws&host=t116.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇪 SE-129.151.205.193:443
 trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.26.6.143:443?security=tls&sni=bangladeshipatri.com&type=ws&path=/6b777a91&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.6.143:443
+trojan://moist@8.219.126.240:2096?sni=trojan.freenods.sbs#🔒 TR-TCP-NA 🇸🇬 SG-8.219.126.240:2096
+trojan://50e10abd-3920-42a6-ad0c-6ec731d8c826@104.20.19.168:443?security=tls&sni=golinkwuxian.top&type=ws&host=555.golinkwuxian.top&path=/apple#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.19.168:443
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.179:2083?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.179:2083
+trojan://ypDt8RkT7J@138.199.57.185:43118?security=tls&sni=eiety.phooeyunfold.com&type=tcp#🔒 TR-TCP-TLS 🇨🇦 CA-138.199.57.185:43118
