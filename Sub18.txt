@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://7379eb18-959d-4b33-ddf7-e9369a0e1769@170.114.46.173:443?security=tls&sni=ger.vwfghin.info&type=grpc#🔒 VL-GRPC-TLS 🇺🇸 US-170.114.46.173:443
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.22.53.84:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.53.84:80
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.12.172:2052?type=ws&host=BpbG.168168.US.KG&path=/AZSSsZgcXab0qlCO/cHJveHlpcC5oay5meHhrLmRlZHluLmlv%3Fed%3D2560#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.12.172:2052
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.19.33.2:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.33.2:80
 vless://85d14a78-afc6-4490-85c8-9f2a16fb063f@172.67.220.79:443?security=tls&sni=n31nl.rashopfa.ir&type=grpc&allowInsecure=1#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.220.79:443
@@ -601,5 +603,3 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.175.202:80?security=none&typ
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.80.4:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.80.4:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.135.37:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.135.37:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.19.150.167:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.150.167:80
-vless://329ebaee-b4ca-44a0-b124-9e8277c2b2e9@173.245.58.79:443?security=tls&sni=blog.tele-too.com&type=grpc&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇺🇸 US-173.245.58.79:443
-vless://9c528672-1720-4660-8fb1-0083479719cf@104.16.104.11:2096?security=tls&sni=mjgkkhgvkutfkhg.mic-mokhaderat-irancell-shatel-irancel.shop&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.104.11:2096

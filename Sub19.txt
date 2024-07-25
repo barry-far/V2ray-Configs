@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://329ebaee-b4ca-44a0-b124-9e8277c2b2e9@173.245.58.79:443?security=tls&sni=blog.tele-too.com&type=grpc&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇺🇸 US-173.245.58.79:443
+vless://9c528672-1720-4660-8fb1-0083479719cf@104.16.104.11:2096?security=tls&sni=mjgkkhgvkutfkhg.mic-mokhaderat-irancell-shatel-irancel.shop&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.104.11:2096
 vless://5e0eb74b-51f4-42b1-a0bb-55863ca79568@104.18.30.6:443?security=tls&sni=us2.vless.site&type=ws&host=us2.vless.site&path=/Telegram-@AstroVPN_Official#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.30.6:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@198.41.214.202:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.214.202:443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.19.63.216:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.63.216:80
@@ -601,5 +603,3 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.25.114:80?security=none&type
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.187.11:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.187.11:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.2.33:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.2.33:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.22.53.120:80?security=none&type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.53.120:80
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.138.41:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.138.41:443
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.207.125:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.207.125:80
