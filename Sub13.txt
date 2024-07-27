@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.193.165:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.193.165:80
 vless://09c2b686-709f-4b1b-ad4c-47355f46e48e@79.175.188.39:35351?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-79.175.188.39:35351
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.172.21:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.172.21:80
 vless://f922a88b-d4f5-4371-924e-c0335c990532@190.93.246.241:2087?type=grpc&serviceName=Telegram#🔒 VL-GRPC-NA 🇨🇷 CR-190.93.246.241:2087
@@ -602,4 +603,3 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.180.71:443?security=tls&sni=
 vless://51905fd3-29de-4b4e-b351-83542f1d5390@104.22.32.78:443?security=tls&sni=Bia.alLhub.Ltd&type=ws&host=biA.ALlhub.LTD&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.32.78:443
 vless://0dab9cc1-50ec-47db-8735-bf4b7941621f@104.21.49.186:443?security=tls&sni=msovip.msovpnrbanymahan7.workers.dev&type=ws&host=msovip.msovpnrbanymahan7.workers.dev&path=%2F%40Mso_666&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.49.186:443
 vless://678ac895-92c2-4f27-a9d4-f1a89c5f5365@27.50.48.250:2096?security=tls&sni=mositr.freenods.sbs&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇸🇬 SG-27.50.48.250:2096
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@181.214.1.234:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇦🇪 AE-181.214.1.234:443
