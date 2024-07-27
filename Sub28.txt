@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.25.15.206:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.25.15.206:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.192.235:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.192.235:80
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.159.136:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.67.159.136:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.59.195:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.59.195:80
@@ -602,4 +603,3 @@ trojan://50e10abd-3920-42a6-ad0c-6ec731d8c826@104.20.19.168:443?security=tls&sni
 trojan://Watashi_VPN@162.159.128.4:2053?security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=/?TM@AZARBAYJAB1+TM@AZARBAYJAB1+@AZARBAYJAB1&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.128.4:2053
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@120.220.84.33:46002?#🔒 TR-TCP-NA 🇨🇳 CN-120.220.84.33:46002
 trojan://b4e8771997c94732acbc9ec4d19c2589@198.41.220.3:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.3:443
-trojan://e16e9768-240f-4ff2-8c29-36d220ed2aa4@104.20.23.46:443?security=tls&sni=msnghdfy4c2.cpiforpersia.uk&type=grpc&serviceName=4xLDSO3FrWl2DhrWGqHh74mj&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.20.23.46:443
