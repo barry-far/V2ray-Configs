@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://telegram-id-privatevpns@3.79.131.159:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.79.131.159:22222
 trojan://241f01b9-8dfc-474f-8342-3fbd5c46417e@104.21.51.242:2087?sni=grpcfr.arminhadadi.site&type=grpc#🔒 TR-GRPC-NA 🏴‍☠️ NA-104.21.51.242:2087
 trojan://4f2f34cc-d2e9-4ca8-a687-68efe5ad5959@23.99.97.169:443?#🔒 TR-TCP-NA 🇭🇰 HK-23.99.97.169:443
 trojan://auto@172.67.213.48:443?security=tls&sni=esetsecuritylicense2.wawafec355.workers.dev&type=ws&host=esetsecuritylicense2.wawafec355.workers.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.213.48:443
@@ -603,3 +602,4 @@ ss://bm9uZTpiYWNiYWNhLWJhY2EtY2JhYS1hZGJjLWNiYWJiYWNhYWNiYw==@127.0.0.1:1080#�
 ss://bm9uZTpiYWFjYWNiLWNiYWEtYWJjYS1kYmFjLWNjY2JiYWNiYWJhYQ==@127.0.0.1:2080#🎁 DONATE-SPONSORING ❤️ DARAMET.COM/SOROUSHMIRZAEI
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaa3luRlg1ZVNhRTBZdXNGOGpYZ3FR@77.91.123.173:18332#🔒 SS-TCP-NA 🇳🇱 NL-77.91.123.173:18332
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.68.134.9:7001#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:7001
+ss://YTYxZmM4Y2ItMDAxMi00YzRiLWFhNWUtZDFjNjIzYWU4MDkyOg==@104.18.192.65:8880#🔒 SS-TCP-NA 🏴‍☠️ NA-104.18.192.65:8880
