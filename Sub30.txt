@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://b3965d2d-3b82-45cc-927b-1336aca3f3fe@139.162.49.215:443?#🔒 TR-TCP-NA 🇸🇬 SG-139.162.49.215:443
+trojan://NISHIKUITAN222@47.236.253.41:8443?security=tls&sni=t221.ylks.link&type=ws&host=t221.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-47.236.253.41:8443
+trojan://NISHIKUITAN222@8.219.161.129:8443?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.161.129:8443
+trojan://telegram-id-privatevpns@13.41.219.54:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-13.41.219.54:22222
 trojan://e16e9768-240f-4ff2-8c29-36d220ed2aa4@172.64.146.48:443?security=tls&sni=msnghdfy4c2.cpiforpersia.uk&type=ws&host=msnghdfy4c2.cpiforpersia.uk&path=%2F4xLDSO3FrWl2DhIibUbDFdhZ&fp=chrome&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.146.48:443
 trojan://NISHIKUITAN222@47.237.86.185:8443?security=tls&sni=t009.ylks.link&type=ws&host=t009.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-47.237.86.185:8443
 trojan://7784d85fde1eed0@154.85.99.134:2053?security=tls&sni=pro.followprovider.ir&type=grpc#🔒 TR-GRPC-TLS 🇺🇸 US-154.85.99.134:2053
@@ -599,7 +603,3 @@ ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.21.224.179:80#🔒
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@146.59.71.220:443#🔒 SS-TCP-NA 🇫🇷 FR-146.59.71.220:443
 ss://YWRiYjE3YWUtYjhjYi00YWVlLWE4OTAtNjMyOTk2NWFiY2FjOg==@172.67.175.132:8443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.175.132:8443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5QnZrdzVhdXBOeTg=@104.25.254.46:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.25.254.46:443
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.150.152.24:5004#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.24:5004
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVcXlMUmFzMnJnekxWOEZ1dlpEVE14@45.33.30.8:18789#🔒 SS-TCP-NA 🇺🇸 US-45.33.30.8:18789
-ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@198.41.219.239:80#🔒 SS-TCP-NA 🏴‍☠️ NA-198.41.219.239:80
-ss://ZDM0ODRiMjctMGNkZi00NjliLTk1M2UtMTA2NmQ0ZTQ4OGY4Og==@172.67.157.96:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.157.96:443
