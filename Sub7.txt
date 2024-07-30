@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://ca9e46f9-6545-47ce-a6f5-66ad998092d0@66.235.200.67:8443?security=tls&sni=vmessorg.xn--54qv00ez5ar77g.co&type=ws&host=vmessorg.xn--54qv00ez5ar77g.co&path=%2F&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-66.235.200.67:8443
+vless://d3a12e79-ef42-4268-b367-42eeb3494e60@172.67.73.163:2096?security=tls&sni=hagh.pages.dev&type=ws&host=hagh.pages.dev&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.73.163:2096
 vless://8ae167dc-c09c-47f3-802f-daedbd307eae@104.21.65.133:2096?security=tls&sni=multi.zibashoporg.com.&type=ws&host=multi.zibashoporg.com.&path=%2F%3Fed%3D2048&fp=android&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.65.133:2096
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.255.71:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.255.71:80
 vless://20325d32-30d7-45e9-95dd-4e6632a56290@104.21.4.169:2096?security=tls&sni=fastestmci.mtechnet.ir&type=grpc&serviceName=2096vless&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.4.169:2096
@@ -601,5 +603,3 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.210.131:80?security=none&typ
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.103.59:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.103.59:80
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.195.127:443?security=tls&sni=ppaL03.AnEIrA-JaZArAh.WOrkers.dEv&type=ws&host=PpaL03.AneiRa-jAzARAh.WorKeRs.DEV&path=%2FYcs2plwSvi73MREt%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.195.127:443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.215.169:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.215.169:80
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.109.106:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.109.106:80
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.26.94:8880?security=none&type=ws&host=aryoovpn.commen-esoteric-0q.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.26.94:8880

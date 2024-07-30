@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://9221b170-e8a3-4abf-a303-224b31558ec3@104.25.255.244:443?security=tls&sni=cc2.kosnanatfilterchi.eu.org&type=ws&host=cc2.kosnanatfilterchi.eu.org&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.255.244:443
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.110.109:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.110.109:443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.135.61:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.135.61:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.29.45:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.29.45:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.17.3:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.17.3:80
@@ -601,5 +603,3 @@ trojan://NISHIKUITAN222@104.26.12.31:2053?security=tls&sni=t070.ylks.link&type=w
 trojan://71409d3e488548e8bb076d229778f008@198.41.220.4:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.4:443
 trojan://TfXhyKdmfX@172.64.146.62:8443?security=tls&sni=Tdd5yct6uv-Vhd57fc7yvjFy-Ec6vBy87y7hcUf5rcy.danesh-bonyan.Store&type=ws&host=eiiim.danesh-bonyan.store&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.146.62:8443
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.67:2096?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.67:2096
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.199:2087?sni=tjjd.yzyx1.v6.army#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.52.199:2087
-trojan://f0eb8c92ce8946aaba856569cff1a16b@104.16.192.6:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.192.6:443
