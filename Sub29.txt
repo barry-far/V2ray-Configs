@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.122.243:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.122.243:80
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.243.5.154:2083?security=tls&sni=hk667.ylks.link&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇭🇰 HK-47.243.5.154:2083
 vless://9709a49f-40fc-4d0d-bc5c-77827947e30b@162.159.1.35:8080?security=none&type=ws&host=joinsevernettdd.xn--78-pv2cvta065cac9302fea377a148g.xyz.#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.1.35:8080
 vless://2ad2e13c-8cb1-4666-8bfb-c42b51df2f1d@86.38.214.18:443?security=tls&sni=aLi.PinobiN.iR.&type=grpc&serviceName=%2Fcustom_config%3Fed%3D2048&fp=firefox&alpn=http%2F1.1#🔒 VL-GRPC-TLS 🇱🇹 LT-86.38.214.18:443
@@ -603,3 +602,4 @@ trojan://d3e663d2-5cce-56e1-a199-2fec6078fcb4@172.64.145.237:2087?security=tls&s
 trojan://3080amimVq@104.21.72.61:2053?security=tls&sni=frankfoortvip.followprovider.ir&type=ws&path=/&fp=chrome&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.72.61:2053
 trojan://50e10abd-3920-42a6-ad0c-6ec731d8c826@104.20.18.168:443?security=tls&sni=golinkwuxian.top&type=ws&host=555.golinkwuxian.top&path=/apple#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.18.168:443
 trojan://b12f4be0-e874-568e-954f-942dcc3a67e9@104.21.69.44:2096?security=tls&sni=trojan.trojan0.woRkeRS.deV&type=ws&host=trojan.trojan0.woRkeRS.deV#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.69.44:2096
+trojan://REvil@172.66.44.171:443?sni=trauma.pages.dev&type=ws&host=trauma.pages.dev&path=/&allowInsecure=1#🔒 TR-WS-NA 🏴‍☠️ NA-172.66.44.171:443
