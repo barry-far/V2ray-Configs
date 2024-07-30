@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.19.60.58:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.60.58:80
+vless://6217c0bc-1b18-42fd-8787-3193c109ef2a@172.67.165.41:443?security=tls&sni=split-cdn.xuunn.info&type=splithttp&host=split-cdn.xuunn.info&path=%2Findex.php&fp=chrome&alpn=h3#🔒 VL-SPLITHTTP-TLS 🏴‍☠️ NA-172.67.165.41:443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@104.254.140.209:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-104.254.140.209:443
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.105.103:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.105.103:80
+vless://c1fcd7eb-7d28-419c-a62f-fe3437fd884b@172.64.100.193:8443?security=tls&sni=pardazeshvpn-tg36.pages.dev&type=ws&host=pardazeshvpn-tg36.pages.dev&path=%2FTelegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.100.193:8443
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.220.41:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.220.41:80
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@140.238.20.223:35913?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org#🔒 VL-WS-TLS 🇰🇷 KR-140.238.20.223:35913
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.195.17:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.195.17:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.97.194:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.97.194:443
@@ -597,9 +603,3 @@ vless://029b2274-47e2-4831-9f03-3bbe9d7ad0e8@172.64.154.220:443?security=tls&sni
 vless://0a3fbedc-851c-48f2-bd43-8afa7bdecaa5@172.67.143.134:8880?security=none&type=httpupgrade&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.h79.cloudfront.net.kiava.fun&path=%2F%3Fed%3D2560#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.67.143.134:8880
 vless://1149be91-5a4f-47de-995f-66f8d7d64498@45.80.108.157:2096?security=tls&sni=De14.SiMaNsAnAt.Ir.&type=ws&host=De14.SiMaNsAnAt.Ir.&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🇪🇪 EE-45.80.108.157:2096
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.187.111:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.187.111:443
-vless://b700da67-0e79-4622-8347-326dc6b8a87c@79.175.176.17:27479?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-79.175.176.17:27479
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.97.192:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.97.192:80
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.208.48:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.208.48:80
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.250.74:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.250.74:80
-vless://c4516bc5-9e46-4205-983e-2b8646e498dd@104.21.8.177:2083?security=tls&sni=cf.mitowear.com&type=ws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.8.177:2083
-vless://ad8d6bc3-7540-459e-a75a-1febfa413f78@162.159.135.232:2082?security=none&type=ws&host=C1.unique69.com&path=/@SevenVpnChannel/@SevenVpnChannel/@SevenVpnChannel/@SevenVpnChannel/@SevenVpnChannel/@SevenVpnChannel/@SevenVpnChannel/@SevenVpnChannel/@SevenVpnChannel#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.135.232:2082
