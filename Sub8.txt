@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.161.22:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.161.22:443
+vless://7e1e384d-8b39-4d1f-afa3-5ac487e6d99c@104.21.54.202:8443?security=tls&sni=imrv2ray.ho3einam.ir&type=grpc&serviceName=%40iMrV2ray%40iMrV2ray%40iMrV2ray%20%40iMrV2ray%40iMrV2ray%40iMrV2ray%20%40iMrV2ray%40iMrV2ray%40iMrV2ray%20%40iMrV2ray%40iMrV2ray%40iMrV2ray%20%40iMrV2ray%40iMrV2ray%40iMrV2ray%20%40iMrV2ray%40iMrV2ray%40iMrV2ray&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.54.202:8443
 vless://1149be91-5a4f-47de-995f-66f8d7d64498@104.21.53.237:2096?security=tls&sni=De15.SiMaNsAnAt.Ir.&type=ws&host=De15.SiMaNsAnAt.Ir.#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.53.237:2096
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.45.201:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.45.201:80
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.27.92:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.27.92:80
@@ -601,5 +603,3 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.56.84:80?security=none&type=
 vless://376b9861-2fc6-4647-959c-18185cd9c95a@104.31.16.125:443?security=tls&sni=lmn1716703142099.lmn15581.info&type=ws&host=lmn1716703142099.lmn15581.info&path=%2Fsrvacc1&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.125:443
 vless://546cfb84-120f-43db-89db-5cba033bf9dc@162.159.135.232:8880?path=/@ZEDMODEON+TEL#🔒 VL-TCP-NA 🏴‍☠️ NA-162.159.135.232:8880
 vless://555e0d5f-77ea-4c7d-8b3e-89836ec5f428@92.114.50.11:2093?security=none&type=tcp&host=speedtest.com&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-92.114.50.11:2093
-vless://514d4474-fe80-45ba-9b69-0c86fe4201eb@23.227.60.56:8080?security=none&type=ws&host=su2.mahanocean.ir#🔒 VL-WS-NONE 🇨🇦 CA-23.227.60.56:8080
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.52.176:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.52.176:80
