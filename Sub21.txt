@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://176a77a2-bc48-429c-a99f-354badbc8be9@188.114.99.99:2096?security=tls&sni=clean.parhamtraberthos.IR.&type=grpc&fp=chrome&alpn=http%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-188.114.99.99:2096
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@66.81.247.127:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-66.81.247.127:443
 vless://7dde7950-0e03-4093-a290-0cd155cd5298@173.245.59.100:443?security=tls&sni=jabshuejbejwbwbw6hsnjs.tele-too.com&type=grpc&fp=safari&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-173.245.59.100:443
 vless://aa384d04-2337-4a1f-818a-e3a40094804d@66.235.200.5:2053?security=tls&sni=asdasdasdasdas.injairane.site&type=grpc&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🇺🇸 US-66.235.200.5:2053
 vless://2d3f9517-efe9-46fa-9440-7a7d0291fb44@173.245.58.100:443?security=tls&sni=xn--wgbdb7fu6a.pinocchio1.ir.&type=grpc&fp=chrome&alpn=http%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-173.245.58.100:443
@@ -601,5 +603,3 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.112:80?security=none&type
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@141.101.122.223:443?security=tls&sni=mmdv2.pages.dev&type=ws&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-141.101.122.223:443
 vless://1149be91-5a4f-47de-995f-66f8d7d64498@104.21.53.237:2096?security=tls&sni=De15.SiMaNsAnAt.Ir.&type=ws&host=De15.SiMaNsAnAt.Ir.#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.53.237:2096
 vless://297121ff-c2a0-4f7a-b17c-8517e1e43707@104.21.66.229:443?security=tls&sni=easynet23.mfrpb.workers.dev&type=ws&host=easynet23.mfrpb.workers.dev&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.66.229:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.166.42:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.166.42:443
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.152.97:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.152.97:80
