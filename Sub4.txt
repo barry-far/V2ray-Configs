@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.16.88:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.16.88:80
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@181.214.1.190:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇦🇪 AE-181.214.1.190:443
 vless://e2fbd763-57e0-4a42-b083-4ef713bb0300@104.17.248.203:443?security=tls&sni=x3.dalidalton.online&type=grpc&serviceName=Telegram+%3A+%40vpn_xw+Telegram+%3A+%40vpn_xwTelegram+%3A+%40vpn_xwTelegram+%3A+%40vpn_xwTelegram+%3A+%40vpn_xwTelegram+%3A+%40vpn_xwTelegram+%3A+%40vpn_xwTelegram+%3A+%40vpn_xwTelegram+%3A+%40vpn_xwTelegram+%3A+%40vpn_xwTelegram+%3A+%40vpn_xwTelegram+%3A+%40vpn_xw#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.248.203:443
 vless://042c7251-327e-4900-a937-d6d1be58c92d@104.25.108.110:443?security=tls&sni=SHaDiRadcaFeBaZaRIrV2rayGmoneCoMShop.FzSAV.CoM.&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.108.110:443
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@162.159.60.173:2052?security=none&type=ws&host=UuOxTfVv21.eJaZeMaDaStE-KhOdScH.OrG&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.60.173:2052
@@ -601,5 +603,3 @@ vless://d74d8e62-90c2-4fee-bcf3-d239956ee51a@190.93.244.0:2096?security=tls&sni=
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.43.179.245:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇿 KZ-31.43.179.245:443
 vless://52de3fa6-1673-4918-a90d-21d2b69de98e@188.114.96.182:443?security=tls&sni=eb8c0c64.888766.pages.dev&type=ws&host=eb8c0c64.888766.pages.dev&path=%2Ftelegram-proxy_mtm%3Fed&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.182:443
 vless://5e0eb74b-51f4-42b1-a0bb-55863ca79568@104.18.31.6:443?security=tls&sni=us2.vless.site&type=ws&host=us2.vless.site&path=/Telegram-@AstroVPN_Official#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.31.6:443
-vless://58532264-a240-42aa-fe7b-88a235d2e742@5.202.74.68:30518?security=none&type=tcp&host=telewebion.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.202.74.68:30518
-vless://518ff002-dfe3-4854-930f-ccdfd52c9b11@172.67.204.84:80?security=none&type=ws&host=Engh-ngnix1.V2ray.me.&path=/ext:NGINX/Reverse:V2ray#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.204.84:80

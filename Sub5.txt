@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://58532264-a240-42aa-fe7b-88a235d2e742@5.202.74.68:30518?security=none&type=tcp&host=telewebion.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.202.74.68:30518
+vless://518ff002-dfe3-4854-930f-ccdfd52c9b11@172.67.204.84:80?security=none&type=ws&host=Engh-ngnix1.V2ray.me.&path=/ext:NGINX/Reverse:V2ray#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.204.84:80
 vless://c416be20-32b3-467f-83c2-735e04d639f7@104.21.75.120:443?security=tls&sni=summer-king-3735.segete5426.workers.dev&type=ws&host=summer-king-3735.segete5426.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.75.120:443
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@43.156.119.123:58000?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org#🔒 VL-WS-TLS 🇸🇬 SG-43.156.119.123:58000
 vless://1e62032d-031e-4b99-876c-05761c82ae19@104.21.83.95:2096?security=tls&sni=dl.waltonweb.ir&type=ws&host=dl.waltonweb.ir&path=/&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.83.95:2096
@@ -601,5 +603,3 @@ vless://34c3cbba-e6ac-485a-9481-976a7415eab9@104.21.8.107:443?security=tls&sni=e
 vless://9453adc5-8170-4f6e-ad9b-eb8373db3c79@190.93.247.155:2087?security=tls&sni=mainv2ray79.mralpha-vpn.com&type=grpc&serviceName=@thunderv2ray,@thunderv2ray,@thunderv2ray,@thunderv2ray,@thunderv2ray,@thunderv2ray,@thunderv2ray,@thunderv2ray,@thunderv2ray,@thunderv2ray&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-190.93.247.155:2087
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@217.163.76.245:443?security=tls&sni=xs.ylks.xyz&type=ws&path=%2F#🔒 VL-WS-TLS 🇬🇧 GB-217.163.76.245:443
 vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@172.66.44.172:443?security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&host=cf-wkrs-pages-vless-aoy.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.172:443
-vless://cb90b0ec-9f06-4b88-81d5-2e0c8c91e86b@103.184.44.104:8880?security=none&type=ws&host=LiV2rayb.lightningz.ir.&path=/@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-@LiV2ray#🔒 VL-WS-NONE 🇨🇳 CN-103.184.44.104:8880
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.148.106.60:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-185.148.106.60:443
