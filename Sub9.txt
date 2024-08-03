@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://5f27eb67-a1ea-43a3-9a33-8d85d61b9574@52.231.36.138:443?security=tls&sni=krnode01.oportal.cc&type=tcp#🔒 TR-TCP-TLS 🇰🇷 KR-52.231.36.138:443
+trojan://71409d3e488548e8bb076d229778f008@104.17.147.77:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.77:443
 trojan://fQ84Q7A4dw@152.42.252.70:443?security=tls&sni=ultra.vpnxhub.xyz&type=grpc&allowInsecure=1#🔒 TR-GRPC-TLS 🇸🇬 SG-152.42.252.70:443
 trojan://224c91ee-7e18-4f1e-86bb-c1836f218c95@172.207.170.223:443?#🔒 TR-TCP-NA 🇯🇵 JP-172.207.170.223:443
 trojan://ypDt8RkT7J@51.159.102.179:43118?security=tls&sni=tpzmg.phooeyunfold.com#🔒 TR-TCP-TLS 🇫🇷 FR-51.159.102.179:43118
@@ -601,5 +603,3 @@ ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.150.152.16:5004#🔒 SS-TCP-NA 🇺
 ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@45.89.52.66:9042#🔒 SS-TCP-NA 🇹🇷 TR-45.89.52.66:9042
 ss://ZDllYjBkZjMtMzE5MC00NDQ3LTg2YjYtNjU2ZmU1ZmYxMTE5Og==@172.64.133.252:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.64.133.252:443
 ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg==@45.89.52.66:9043#🔒 SS-TCP-NA 🇹🇷 TR-45.89.52.66:9043
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjTm5yUEJha0R3SUNHeW94c0RjTHk1@185.65.202.99:49318#🔒 SS-TCP-NA 🇩🇪 DE-185.65.202.99:49318
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxOTlQd3NoUnB2QXRmTDE4Y1RHQmRB@188.166.210.158:3127#🔒 SS-TCP-NA 🇸🇬 SG-188.166.210.158:3127

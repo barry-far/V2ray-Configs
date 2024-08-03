@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://f937770c-d578-42e9-b23d-b342bbefc17a@172.66.44.135:2052?security=none&type=ws&host=1.ftp.debian.org.www.speedtest.net.免费上网67.Site.#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.44.135:2052
+vless://565ae15e-6979-404d-84b5-d8860187cc65@104.21.13.205:2083?security=tls&sni=cdnnode2mahz.cfd-cr.ir&type=ws&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.13.205:2083
 vless://919ed879-a2ae-4425-cd17-80ab84cdd7d7@203.32.121.53:2087?security=tls&sni=des.pablovpn.pw&type=grpc#🔒 VL-GRPC-TLS 🇻🇬 VG-203.32.121.53:2087
 vless://9453adc5-8170-4f6e-ad9b-eb8373db3c79@190.93.247.155:2087?security=tls&sni=mainv2ray79.mralpha-vpn.com&type=grpc&serviceName=@thunderv2ray,@thunderv2ray,@thunderv2ray,@thunderv2ray,@thunderv2ray,@thunderv2ray,@thunderv2ray,@thunderv2ray,@thunderv2ray,@thunderv2ray&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-190.93.247.155:2087
 vless://8d975dee-ef51-43e0-b2b5-51e0b3725d50@172.67.194.59:2096?security=tls&sni=test.moviijmusic.space&type=ws&host=test.moviijmusic.space&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.194.59:2096
@@ -601,5 +603,3 @@ trojan://telegram-id-directvpn@18.224.126.204:22222?security=tls&sni=trojan.burg
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.245:8443?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.245:8443
 trojan://0b1371aa-649d-41dc-9126-338c87936500@95.164.33.62:443?sni=sourceforge.net&type=ws&host=se1.trojanvpn.de&path=/websocket&allowInsecure=1#🔒 TR-WS-NA 🇸🇪 SE-95.164.33.62:443
 trojan://ypDt8RkT7J@138.199.57.185:43118?security=tls&sni=eiety.phooeyunfold.com#🔒 TR-TCP-TLS 🇨🇦 CA-138.199.57.185:43118
-trojan://5f27eb67-a1ea-43a3-9a33-8d85d61b9574@52.231.36.138:443?security=tls&sni=krnode01.oportal.cc&type=tcp#🔒 TR-TCP-TLS 🇰🇷 KR-52.231.36.138:443
-trojan://71409d3e488548e8bb076d229778f008@104.17.147.77:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.77:443

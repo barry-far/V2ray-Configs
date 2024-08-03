@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vmess://eyJ2IjoiMiIsInBzIjoiM3xkKioqKioqKioqZy5jb21fMCAjMSIsImFkZCI6IjEwNC4xOS4zMi40NiIsInBvcnQiOiIyMDg2IiwidHlwZSI6Im5vbmUiLCJpZCI6IjI5ZWViYjYwLWIyN2ItNGE5ZC1iYmE1LTk0Nzc2M2Q5MjA1ZSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJnaXRodWIuY29tL0FsdmluOTk5OSIsImhvc3QiOiJpcDAwNi4zMTk2NzcyLnh5eiIsInRscyI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoiM3xkKioqKioqKioqZy5jb21fMSAjMSIsImFkZCI6IjIzLjIyNy4zOC42IiwicG9ydCI6IjIwODYiLCJ0eXBlIjoibm9uZSIsImlkIjoiMjllZWJiNjAtYjI3Yi00YTlkLWJiYTUtOTQ3NzYzZDkyMDVlIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6ImdpdGh1Yi5jb20vQWx2aW45OTk5IiwiaG9zdCI6ImlwMDA2LjMxOTY3NzIueHl6IiwidGxzIjoiIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiM3xkKioqKioqKioqZy5jb21fMiAjMSIsImFkZCI6IjEwNC4xOS41MS4yMzIiLCJwb3J0IjoiMjA4NiIsInR5cGUiOiJub25lIiwiaWQiOiIyOWVlYmI2MC1iMjdiLTRhOWQtYmJhNS05NDc3NjNkOTIwNWUiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCJob3N0IjoiaXAwMDYuMzE5Njc3Mi54eXoiLCJ0bHMiOiIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoiM3xkKioqKioqKioqZy5jb21fMyAjMSIsImFkZCI6IjEwNC4xOS4zOC42MiIsInBvcnQiOiIyMDg2IiwidHlwZSI6Im5vbmUiLCJpZCI6IjI5ZWViYjYwLWIyN2ItNGE5ZC1iYmE1LTk0Nzc2M2Q5MjA1ZSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJnaXRodWIuY29tL0FsdmluOTk5OSIsImhvc3QiOiJpcDAwNi4zMTk2NzcyLnh5eiIsInRscyI6IiJ9
 vmess://eyJ2IjoiMiIsInBzIjoiNHxkKioqKioqKioqZy5jb21fMCAjMiIsImFkZCI6IjEwNC4xOS40Ni4yMzMiLCJwb3J0IjoiMjA4NiIsInR5cGUiOiJub25lIiwiaWQiOiIyOWVlYmI2MC1iMjdiLTRhOWQtYmJhNS05NDc3NjNkOTIwNWUiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCJob3N0IjoiaXAwMDUuMzE5Njc3Mi54eXoiLCJ0bHMiOiIifQ==
@@ -601,5 +603,3 @@ vless://b41e1631-ceb3-47c9-ba87-c65a46f2f5a8@104.17.148.22:2096?security=tls&sni
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.239.69:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.239.69:80
 vless://1cee36ed-5b67-4d62-cb83-01c783ef6fa2@190.93.246.241:8443?security=tls&sni=antiV2ray-poV2ray-gRPC-WS.AhV2ray.fun&type=grpc&serviceName=@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-190.93.246.241:8443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.236.171.205:2053?security=tls&sni=hs.ylks.xyz&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇸🇬 SG-47.236.171.205:2053
-vless://f2197be8-c701-4baa-b3fb-2ae9e042f94c@162.159.128.233:2095?security=none&type=ws&host=nobitex.ir.zula.ie.www.visa.com.www.speedtest.net.poOlbool.ir&path=%2Fspeed%3Fed%3D8443#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.128.233:2095
-vless://abaedaf5-8ccc-4b47-9fbe-2805a753d094@104.21.62.203:2087?security=tls&sni=ae4a80a163bbda38.rebeetb.eU.Org&type=ws&host=f6bef6525bf21bfe.rebeetb.eU.Org&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.62.203:2087
