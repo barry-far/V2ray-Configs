@@ -98,7 +98,7 @@ def main():
         "https://raw.githubusercontent.com/IranianCypherpunks/sub/main/config",
         "https://raw.githubusercontent.com/sashalsk/V2Ray/main/V2Config",
         "https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.txt",
-        "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/mix",
+        "https://raw.githubusercontent.com/itsyebekhe/HiN-VPN/main/subscription/normal/mix",
         "https://raw.githubusercontent.com/sarinaesmailzadeh/V2Hub/main/merged",
         "https://raw.githubusercontent.com/freev2rayconfig/V2RAY_SUBSCRIPTION_LINK/main/v2rayconfigs.txt",
         "https://raw.githubusercontent.com/Everyday-VPN/Everyday-VPN/main/subscription/main.txt",
