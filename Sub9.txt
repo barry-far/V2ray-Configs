@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://224c91ee-7e18-4f1e-86bb-c1836f218c95@48.218.11.96:443?#🔒 TR-TCP-NA 🇯🇵 JP-48.218.11.96:443
+trojan://auto@172.66.44.249:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&path=%2Fworker-polished-glade-fe47.tahajadidi2022.workers.dev%2F%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.44.249:443
+trojan://d8fd60d7-4c50-47c8-9e2d-adf37ad81af4@74.226.136.204:443?#🔒 TR-TCP-NA 🇯🇵 JP-74.226.136.204:443
+trojan://ExPreSEToo582b993d16e522@104.21.68.174:8443?security=tls&sni=random.expreset479927393.workers.dev&type=ws&host=random.expreset479927393.workers.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.68.174:8443
 trojan://Watashi_VPN@173.245.49.20:2096?security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir#🔒 TR-WS-TLS 🏴‍☠️ NA-173.245.49.20:2096
 trojan://ypDt8RkT7J@138.199.41.25:43118?security=tls&sni=dngn.phooeyunfold.com#🔒 TR-TCP-TLS 🇺🇸 US-138.199.41.25:43118
 trojan://NISHIKUITAN222@104.21.76.195:2053?security=tls&sni=t111.ylks.link&type=ws&host=t111.ylks.link&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.76.195:2053
@@ -599,7 +603,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVa1MxblN6UVI1OE9iMEpDRjVQeVIz@146.19.75.41:9
 ss://ZDllYjBkZjMtMzE5MC00NDQ3LTg2YjYtNjU2ZmU1ZmYxMTE5Og==@172.64.110.145:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.64.110.145:443
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.143.129.230:989#🔒 SS-TCP-NA 🇫🇮 FI-37.143.129.230:989
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.162.200.154:8882#🔒 SS-TCP-NA 🇨🇦 CA-23.162.200.154:8882
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.162.200.77:7001#🔒 SS-TCP-NA 🇨🇦 CA-23.162.200.77:7001
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVG5HYk1ybjNFc2J6Uk03UzBXd0xq@147.45.114.160:20810#🔒 SS-TCP-NA 🇳🇱 NL-147.45.114.160:20810
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.83:3389#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.83:3389
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.89:6697#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.89:6697
