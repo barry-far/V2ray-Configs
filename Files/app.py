@@ -99,10 +99,10 @@ def main():
         "https://raw.githubusercontent.com/sashalsk/V2Ray/main/V2Config",
         "https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.txt",
         "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/mix",
-        "https://mrpooya.top/api/lena.php",
         "https://raw.githubusercontent.com/sarinaesmailzadeh/V2Hub/main/merged",
         "https://raw.githubusercontent.com/freev2rayconfig/V2RAY_SUBSCRIPTION_LINK/main/v2rayconfigs.txt",
-        "https://raw.githubusercontent.com/Everyday-VPN/Everyday-VPN/main/subscription/main.txt"
+        "https://raw.githubusercontent.com/Everyday-VPN/Everyday-VPN/main/subscription/main.txt",
+        "https://mrpooya.top/api/Topfhwqqw.php"
     ]
 
     decoded_links = decode_links(links)
