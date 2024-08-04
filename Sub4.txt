@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://6f995056-7802-4a1d-bff7-61678e626c3f@52.187.36.104:443?security=tls&sni=werrr.azurewebsites.net&type=ws&host=werrr.azurewebsites.net&path=/#🔒 VL-WS-TLS 🇸🇬 SG-52.187.36.104:443
 vless://42c90a40-be6b-4f5c-a293-63c7d639739c@104.21.81.239:2083?security=tls&sni=dns.seminar-irani.ir.&type=grpc&serviceName=2083vless&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.81.239:2083
 vless://24a6ff52-e459-41ee-afb8-d771776ce08d@85.9.110.51:80?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.9.110.51:80
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.211:2053?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.211:2053
@@ -603,3 +602,4 @@ vless://2a9bd227-bef2-4fea-a153-7e8423a07277@104.17.47.75:8080?security=none&typ
 vless://664f5f11-1231-486d-b416-b7b3ecdae76a@104.22.2.79:443?security=tls&sni=HETZNER-D.pages.DEV&type=ws&host=HETZNER-D.pages.DEV&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.2.79:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.42.88:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.42.88:80
 vless://1ff59fad-6cc6-4714-82b1-d4af47de08eb@45.131.210.23:80?security=none&type=ws&host=DiReCt49-13-163-226.CleAnMaRk.IR&path=/DiReCt49-13-163-226-CleAnMaRk-IR#🔒 VL-WS-NONE 🇳🇱 NL-45.131.210.23:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.70.84:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.70.84:80
