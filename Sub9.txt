@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://b75b3034-36ab-4979-beae-3d02db1b11ec@172.64.80.150:443?security=tls&sni=always-online1.lp-airdrop.top&type=ws&host=always-online1.lp-airdrop.top#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.80.150:443
+vless://042c7251-327e-4900-a937-d6d1be58c92d@104.25.108.110:443?security=tls&sni=uPloAdsErvErfinlaNdV2rayfiNonE.FzSAV.CoM.&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.108.110:443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@204.93.210.201:8443?security=tls&sni=a.ssll.gay&type=ws&path=twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-204.93.210.201:8443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.205.98:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.205.98:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.198.65:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.198.65:80
 vless://215017f0-88e1-40b7-8e06-153da522c6bd@185.126.2.194:36852?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-185.126.2.194:36852
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.202.135:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.202.135:80
@@ -599,7 +603,3 @@ trojan://KgrVcE92Pu@104.17.147.22:8443?sni=J0in-Telegram-EiiiM.danesh-bonyan.Sto
 trojan://ypDt8RkT7J@138.199.23.100:43118?security=tls&sni=radtz.phooeyunfold.com#🔒 TR-TCP-TLS 🇯🇵 JP-138.199.23.100:43118
 trojan://b10f2914-0401-4eff-ac4f-e430aeda0c45@162.159.4.8:443?security=tls&sni=cfsg2.trojanwss.xyz&type=ws&host=cfsg2.trojanwss.xyz&path=%2FCFJICHANG#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.4.8:443
 trojan://4aec4e7f8cf8454ea4613659822e1a61@104.19.159.144:443?security=tls&sni=avianrecruit.com&type=ws&host=avianrecruit.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.159.144:443
-trojan://telegram-id-directvpn@54.75.117.211:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-54.75.117.211:22222
-trojan://b4e8771997c94732acbc9ec4d19c2589@198.41.220.14:443?security=tls&sni=avianrecruit.com&type=ws&host=avianrecruit.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.14:443
-trojan://a2c8194b-fcfd-4c39-a6bd-31ea9f4ea671@176.31.71.16:443?security=tls&sni=upload.soft98.download&type=tcp#🔒 TR-TCP-TLS 🇫🇷 FR-176.31.71.16:443
-trojan://Watashi_VPN@172.67.204.84:443?security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=%2F%3Fed%3D2560&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.204.84:443
