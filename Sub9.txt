@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.198.65:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.198.65:80
+vless://215017f0-88e1-40b7-8e06-153da522c6bd@185.126.2.194:36852?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-185.126.2.194:36852
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.202.135:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.202.135:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.212.77:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.212.77:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.86.158:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.86.158:80
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.45.45:443?security=tls&sni=edtunnel-csc.pages.dev&type=ws&host=edtunnel-csc.pages.dev&path=%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.45.45:443
@@ -600,6 +603,3 @@ trojan://telegram-id-directvpn@54.75.117.211:22222?security=tls&sni=trojan.burge
 trojan://b4e8771997c94732acbc9ec4d19c2589@198.41.220.14:443?security=tls&sni=avianrecruit.com&type=ws&host=avianrecruit.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.14:443
 trojan://a2c8194b-fcfd-4c39-a6bd-31ea9f4ea671@176.31.71.16:443?security=tls&sni=upload.soft98.download&type=tcp#🔒 TR-TCP-TLS 🇫🇷 FR-176.31.71.16:443
 trojan://Watashi_VPN@172.67.204.84:443?security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=%2F%3Fed%3D2560&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.204.84:443
-trojan://865bc912-0b17-4bd1-b711-958d77232689@157.254.178.18:443?security=tls&sni=coal.zichuanlan.top&type=tcp#🔒 TR-TCP-TLS 🇭🇰 HK-157.254.178.18:443
-trojan://saMgiangGt@172.64.80.1:443?security=tls&sni=teo.history-paint.art&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-172.64.80.1:443
-trojan://telegram-id-directvpn@52.202.142.246:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇺🇸 US-52.202.142.246:22222
