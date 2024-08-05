@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.54.69:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.54.69:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.31.20:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.31.20:80
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.59.218.158:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2security#🔒 VL-WS-TLS 🇷🇺 RU-185.59.218.158:443
-vless://561bc9ae-9d67-4a67-cd72-e3d3f80dbed3@104.21.78.12:443?security=tls&sni=rammstein.tagnovolta.workers.dev&type=ws&host=rammstein.tagnovolta.workers.dev&path=/downloader/59316&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.78.12:443
 vless://1c699aec-4ae5-4ac6-8d47-277e5ed1690e@172.67.137.133:2096?security=tls&sni=suevpnx.johnwick.cfd&type=ws&host=suevpnx.johnwick.cfd#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.137.133:2096
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.228.80:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.228.80:80
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@212.183.88.142:443?security=tls&sni=xini.ylks.xyz&type=ws&path=/?proxyip#🔒 VL-WS-TLS 🇦🇹 AT-212.183.88.142:443
@@ -603,3 +599,7 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.133.160:443?security=tls&sni
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.170.57:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.170.57:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.66.40.163:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.40.163:80
 vless://68b48c28-92c7-4f0b-bd39-21e5699f50cc@104.20.18.168:443?security=tls&sni=v2raylandd-89.vmjisexa.workers.Dev&type=ws&host=v2raylandd-89.vmjisexa.workers.Dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.18.168:443
+vless://1fb7067f-e081-419a-a67f-560d22200017@195.244.41.173:8880?security=none&type=grpc&serviceName=/8880/IRaniBaziBaSe.w#🔒 VL-GRPC-NONE 🇹🇷 TR-195.244.41.173:8880
+vless://1f48f432-fff4-474f-c3a6-08cf1db5b709@104.21.2.232:443?security=tls&sni=pay.technator.net&type=ws&host=pay.technator.net&path=%2Fimage%2F20992&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.2.232:443
+vless://2ca42987-551b-4494-a854-da2d9178f4cd@172.67.74.4:2087?security=tls&sni=MpHnPvWn22.zImBa-zUlA.OrG&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.74.4:2087
+vless://b04859a9-1156-4d22-8873-60980d5b599d@172.67.193.102:443?security=tls&sni=free.connectix.workers.dev&type=ws&path=/connectix&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.193.102:443
