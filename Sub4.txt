@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://546cfb84-120f-43db-89db-5cba033bf9dc@162.159.128.233:8880?path=/@ZEDMODEON+TEL#🔒 VL-TCP-NA 🏴‍☠️ NA-162.159.128.233:8880
-vless://d956f18e-a9f5-43d4-e939-3b5962553d54@5.57.33.121:6262?security=none&type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.57.33.121:6262
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.51.186:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.51.186:443
-vless://65638e89-6bb7-4462-9acd-5885e6940705@162.159.135.234:2096?security=tls&sni=re7.v2logy.xyz&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.135.234:2096
-vless://b01e3f02-d51b-43d8-af76-227a20fb0d0a@172.67.73.163:8443?security=tls&sni=1.irancloudflare.cab&type=ws&host=1.irancloudflare.cab#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.73.163:8443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.162.199:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.162.199:80
 vless://38a3629e-8e1e-4d5f-a37f-9fb7a3c6d32d@193.151.152.34:18683?security=none&type=tcp&host=iranserver.com&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-193.151.152.34:18683
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.229.156:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.229.156:80
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@146.56.171.182:11659?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇰🇷 KR-146.56.171.182:11659
@@ -603,3 +597,9 @@ vless://a67b25ce-53df-4059-8c7e-85e27b19b19f@152.42.227.128:443?security=tls&sni
 vless://eb44e1c7-e5ba-4446-807c-a0768a8f4589@104.16.12.141:2083?security=tls&sni=amovpn6.fqservers.com&type=ws&host=amovpn6.fqservers.com&path=/channel:@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.12.141:2083
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.74.37:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.74.37:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.56.67:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.56.67:80
+vless://8414dca0-4d87-4175-823b-82ca9c2f1eb8@46.245.67.156:443?security=none&type=grpc#🔒 VL-GRPC-NONE 🇮🇷 IR-46.245.67.156:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.246.235:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.246.235:80
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.182.117:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.182.117:443
+vless://959dc846-1aa3-4aa7-bc58-7eb51114d1ce@172.67.132.41:2082?security=none&type=ws&host=nl36.vlessx.us#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.132.41:2082
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.20.108.69:8443?security=tls&sni=DADA.CLAshfofOi774.workErS.DEv&type=ws&host=dAdA.CLAsHfoFoI774.WoRKeRs.deV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.108.69:8443
+vless://fcbdbaeb-5b6f-40ea-8979-214e79d41566@188.114.99.99:2053?security=tls&sni=kanon.parhamtraberthos.IR.&type=grpc&serviceName=https://t.me/new_proxy_channel-@new_proxy_channel&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-188.114.99.99:2053
