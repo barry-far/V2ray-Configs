@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://29f00915-4107-491d-ba71-c9328e845a00@104.18.202.209:80?type=grpc&serviceName=Telegram#🔒 VL-GRPC-NA 🏴‍☠️ NA-104.18.202.209:80
-vless://a1f06046-4b2b-47b0-864c-3d35a344bbde@104.21.60.80:8443?security=tls&sni=en.movianmusic.space&type=ws&host=en.movianmusic.space&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.60.80:8443
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@205.233.181.92:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.92:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.240.156:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.240.156:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.66.40.163:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.40.163:80
-vless://81f1f510-3ca7-4734-8956-0f4fce670af5@3.234.132.244:80?security=none&type=ws&host=www.wasa.com&path=/fastssh/xmxmmxmxm/63482aa422d82/#🔒 VL-WS-NONE 🇺🇸 US-3.234.132.244:80
 vless://158a2a18-ba82-4208-af52-3bf650c94036@162.159.137.232:2095?security=none&type=ws&host=a.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FZEDMODEON-ZEDMODEON%3Fed%3D1024#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.137.232:2095
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.108:2053?security=tls&sni=joinmahdiserver-4gk.pages.dev&path=%2Fgbhdx8eyjUHHJ8Hx%3Fed%3D2560&alpn=h2&allowInsecure=1#🔒 VL-TCP-TLS 🏴‍☠️ NA-172.66.44.108:2053
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.55.22:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.55.22:443
@@ -603,3 +597,9 @@ trojan://242a3d8eee5e4ed1a6bfa4141d549a25@104.16.159.1:443?security=tls&sni=jobs
 trojan://Watashi_VPN@104.21.80.254:443?security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&type=ws&path=/&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.80.254:443
 trojan://hNTtLzK5f2@172.67.199.251:443?security=tls&sni=us2.hope-pls.ir&type=tcp&fp=chrome&alpn=h2,http/1.1#🔒 TR-TCP-TLS 🏴‍☠️ NA-172.67.199.251:443
 trojan://a6292090-afe1-4640-97a7-4f1d1d877cf1@95.179.128.114:443?security=tls&sni=hdfy8d1.cpi1.eu.org&type=grpc&serviceName=8bHUAD5IX0lC5KffvrsN6rqb&fp=chrome&alpn=h2#🔒 TR-GRPC-TLS 🇳🇱 NL-95.179.128.114:443
+trojan://71409d3e488548e8bb076d229778f008@104.17.147.77:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.77:443
+trojan://EgAMtxAquaO78-IvTSWpnQ@104.25.8.217:2096?security=tls&sni=mrz.learnturkishspeech.fun&type=ws&host=mrz.learnturkishspeech.fun&path=/book#🔒 TR-WS-TLS 🏴‍☠️ NA-104.25.8.217:2096
+trojan://ypDt8RkT7J@138.199.57.185:43118?security=tls&sni=eiety.phooeyunfold.com#🔒 TR-TCP-TLS 🇨🇦 CA-138.199.57.185:43118
+trojan://telegram-id-privatevpns@15.236.191.122:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-15.236.191.122:22222
+trojan://ZJU29smXwp@172.67.176.206:2053?security=tls&sni=damn-mci-again-3.danesh-bonyan.Store&type=ws&host=f-1.danesh-bonyan.store&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.176.206:2053
+trojan://e4f288433b@54.36.173.159:443?security=tls&sni=pol1.connecton.surf&type=tcp#🔒 TR-TCP-TLS 🇫🇷 FR-54.36.173.159:443
