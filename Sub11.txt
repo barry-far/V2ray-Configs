@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.38.122:2082?security=none&type=ws&host=aryoovpn.commen-esoteric-0q.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.38.122:2082
-vless://a04be4ef-1797-4ca9-a549-4385ce42494c@185.146.173.194:443?security=tls&sni=vls4de.nimaxmusic.ir&type=ws&host=vls4de.nimaxmusic.ir&path=/vls4dews&fp=chrome#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.194:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.24.105:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.24.105:80
-vless://a218a675-60e4-4c61-b65b-fd565c400dc9@185.146.173.94:443?security=tls&sni=rsfndc1.cpiforpersia.uk&type=ws&host=rsfndc1.cpiforpersia.uk&path=/2sg8k6ktNBzuCJc1eh1994&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.94:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.227.163:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.227.163:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.239.207:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.239.207:80
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.34.251:443?security=tls&sni=B458aB02.cAa-CHANEL-WORKER-pAge-fREE-jhUiHnuJhpHJKL-nIHGKjn.PAges.Dev&type=ws&host=b458ab02.CAa-cHANel-woRkEr-PaGE-FRee-jHUIhNUJhPhjkl-NiHGkjn.paGEs.dev&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.34.251:443
@@ -603,3 +599,7 @@ trojan://TurbooServer@107.189.31.164:2083?security=none&type=tcp#🔒 TR-TCP-NON
 trojan://4c68fce6-2b72-4ab6-8dd4-8e07139e2b2e@15.235.163.26:443?security=tls&sni=sgt1.sshocean.net&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-15.235.163.26:443
 trojan://telegram-id-directvpn@3.69.145.209:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.69.145.209:22222
 trojan://224c91ee-7e18-4f1e-86bb-c1836f218c95@48.218.11.96:443?#🔒 TR-TCP-NA 🇯🇵 JP-48.218.11.96:443
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.188:2096?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.53.188:2096
+trojan://CMLiu@116.206.93.237:58755?sni=aliorg.filegear-sg.me&type=ws&host=aliorg.filegear-sg.me#🔒 TR-WS-NA 🇯🇵 JP-116.206.93.237:58755
+trojan://656bcdfe-ae09-4170-a36e-1685ee10b26f@162.159.137.232:2083?security=tls&sni=missyousir.segaro.tech&type=ws&host=missyousir.segaro.tech&path=/OVmkPBATL0FijQ3AWVBo&fp=chrome&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.137.232:2083
+trojan://auto@172.66.44.249:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&path=%2Fworker-polished-glade-fe47.tahajadidi2022.workers.dev%2F%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.44.249:443

@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@51.158.195.96:443#🔒 SS-TCP-NA 🇫🇷 FR-51.158.195.96:443
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@149.202.82.172:5003#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:5003
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@3.11.77.16:443#🔒 SS-TCP-NA 🇬🇧 GB-3.11.77.16:443
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.10:8881#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.10:8881
 ss://YWVzLTEyOC1nY206NmE4MWJhYWItZWEyNi00NjMzLWFlOTItMjE1NTMyOTllNGE3@38.150.12.188:50046#🔒 SS-TCP-NA 🇭🇰 HK-38.150.12.188:50046
 ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@80.92.204.106:9031#🔒 SS-TCP-NA 🇩🇪 DE-80.92.204.106:9031
 ss://YWVzLTEyOC1nY206YS13eW00b3ZZNFl3@172.67.198.153:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.198.153:443
@@ -603,3 +599,7 @@ vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@38.147.188.171:8005?allowInsecure=0
 vless://ee187c79-7594-4a97-96bc-ff717c61a919@144.24.139.190:28852?allowInsecure=0&sni=None&type=ws&path=/a#12|IN_speednode_0176
 trojan://CMLiu@45.143.234.181:56650?allowInsecure=1&sni=aliorg.filegear-sg.me&type=ws&host=aliorg.filegear-sg.me&path=/?ed=2048#12|JP_speednode_0177
 trojan://CMLiu@45.251.241.54:13188?allowInsecure=1&sni=aliorg.filegear-sg.me&type=ws&host=aliorg.filegear-sg.me&path=/?ed=2048#12|JP_speednode_0178
+trojan://CMLiu@116.206.93.237:58755?allowInsecure=1&sni=aliorg.filegear-sg.me&type=ws&host=aliorg.filegear-sg.me&path=/?ed=2048#12|JP_speednode_0179
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@150.230.209.239:51272?allowInsecure=0&sni=vx.ylks.xyz&type=ws&host=vx.ylks.xyz&path=/security=tls#12|JP_speednode_0180
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@154.92.9.155:443?allowInsecure=0&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg@zdyz2fp=chrome&security=tls#12|JP_speednode_0181
+trojan://CMLiu@14.44.107.239:20202?allowInsecure=1&sni=aliorg.filegear-sg.me&type=ws&host=aliorg.filegear-sg.me&path=/?ed=2048#12|KR_speednode_0182
