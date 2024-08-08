@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.129.60:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.129.60:443
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.28.62:443?security=tls&sni=3k.pureboy.eu.org&type=ws&host=3k.pureboy.eu.org#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.28.62:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@34.34.186.205:443?security=tls&sni=vx.ylks.xyz&type=ws&path=/pai6buclahf9cxx3?ed#🔒 VL-WS-TLS 🇧🇪 BE-34.34.186.205:443
 vless://d8260d43-5d69-4a5a-a3c7-1fbf19226b3a@192.200.160.12:8443?security=tls&sni=xn--zula-parsvds---rdm-5pwa7dziubb5munj299x89ih.digibestshop.ir.&type=grpc&serviceName=2087vless&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🇺🇸 US-192.200.160.12:8443
 vless://de20645d-cb33-436c-8d62-d0cf0fec9e4e@51.75.171.147:80?security=none&type=ws&host=records.atomiserver.ir&path=/42J7lR0lDjbHHCjS03tmSfM#🔒 VL-WS-NONE 🇬🇧 GB-51.75.171.147:80
@@ -601,5 +603,3 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.19.66:80?security=none&type=
 vless://5bcb3c1b-42fa-4eb7-a8e5-02fa86cdc192@104.24.20.71:2087?security=tls&sni=Food.aKBArjojeTEHran.IR.&type=grpc&serviceName=2053vless&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.24.20.71:2087
 vless://f21e1b2d-71e6-4f50-b921-acd4e89ef19a@50.7.85.221:8443?security=tls&sni=hello-world-nameless-morning-b71b.bojipar202.workers.dev&type=ws&host=hello-world-nameless-morning-b71b.bojipar202.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇩🇪 DE-50.7.85.221:8443
 vless://1c11222d-1aca-4ef9-8872-bf0b8a55228d@172.66.44.152:443?security=tls&sni=pardazeshvpn-tg94.pages.dev&type=ws&host=pardazeshvpn-tg94.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.152:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.30.106:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.30.106:80
-vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@61.220.65.189:27114?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org#🔒 VL-WS-TLS 🇹🇼 TW-61.220.65.189:27114
