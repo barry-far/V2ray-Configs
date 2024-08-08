@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://4cc278b5-74b7-5d49-8f78-a412058cdbc3@104.16.30.14:443?security=tls&sni=satoshi.mom&type=ws&host=public.satoshi.mom&path=/&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.30.14:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.208.168:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.208.168:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.255.24:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.255.24:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.25.199:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.25.199:80
@@ -602,4 +603,3 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.250.82:80?security=none&type
 vless://91d65dba-474f-4b6a-a236-aa97f65a460e@167.71.198.154:443?security=tls&sni=www.whatsapp.com&type=ws&path=%2F#🔒 VL-WS-TLS 🇸🇬 SG-167.71.198.154:443
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@212.183.88.2:443?security=tls&sni=vw.ylkszy.eu.org&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇦🇹 AT-212.183.88.2:443
 vless://356c890f-31a8-47d8-984f-f79727412994@104.24.176.7:80?security=none&type=ws&host=it.sponsored-by.talanetwork.me&path=/TalaNetwork#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.176.7:80
-vless://6a99725d-2af8-d27c-cef5-302fbbe54c07@81.12.92.157:18101?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-81.12.92.157:18101
