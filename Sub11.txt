@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://2e5dab3f-7e12-42d7-9589-e5f082ff9db9@151.101.0.155:80?security=none&type=ws&host=farm.vpn.farm.vpnbdhdjwj.sbs&path=/#🔒 VL-WS-NONE 🇺🇸 US-151.101.0.155:80
 vless://0a707c67-adf3-4f94-b681-d41d548e6a09@50.7.87.86:443?security=tls&flow=xtls-rprx-vision&sni=guixgnu.com&type=tcp&fp=chrome&alpn=h2,http/1.1#🔒 VL-TCP-TLS 🇩🇪 DE-50.7.87.86:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.97.114:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.97.114:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.230.8:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.230.8:80
@@ -603,3 +602,4 @@ trojan://fMucnQTndf@129.213.63.5:443?#🔒 TR-TCP-NA 🇺🇸 US-129.213.63.5:44
 trojan://c5110090-c3a2-429e-b9b8-072b6535be1b@104.19.142.99:443?security=tls&sni=cfus4.trojanwss.xyz&type=ws&host=cfus4.trojanwss.xyz&path=/CFJICHANG#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.142.99:443
 trojan://CMLiu@47.236.117.48:2096?sni=aliorg.filegear-sg.me&type=ws&host=aliorg.filegear-sg.me#🔒 TR-WS-NA 🇸🇬 SG-47.236.117.48:2096
 trojan://4f2f34cc-d2e9-4ca8-a687-68efe5ad5959@52.163.226.137:443?#🔒 TR-TCP-NA 🇸🇬 SG-52.163.226.137:443
+trojan://NISHIKUITAN222@8.219.83.201:2083?security=tls&sni=t226.ylks.link&type=ws&host=t226.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.83.201:2083

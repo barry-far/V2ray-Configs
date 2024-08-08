@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vmess://eyJ2IjoiMiIsInBzIjoiMTN8ZCoqKioqKioqKmcuY29tXzIgIzQiLCJhZGQiOiI0Mi4yMzYuNzMuNzIiLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjA0NGYwMTc3LTA2NzUtNGRjZi04OWQ0LTgwNGI2Nzg4ZTUxOCIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiJ0bHMifQ==
 trojan://fuck@42.236.73.72:443?allowInsecure=0&sni=www.zitian.cn#4
 
 vless://0d65f2aa-fb84-4273-e7ce-1f123b592ebe@95.81.89.80:38923?encryption=none&security=none&type=grpc#%F0%9F%94%92%20VL-GRPC-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-95.81.89.80%3A38923
@@ -603,3 +602,4 @@ vless://f0f67b84-2770-4413-8b26-cfb302fac247@104.21.66.93:443?security=tls&sni=v
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@204.93.210.131:2096?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇺🇸 US-204.93.210.131:2096
 vless://0a707c67-adf3-4f94-b681-d41d548e6a09@50.7.87.85:443?security=tls&flow=xtls-rprx-vision&sni=guixgnu.com&type=tcp&fp=chrome&alpn=h2,http/1.1#🔒 VL-TCP-TLS 🇩🇪 DE-50.7.87.85:443
 vless://6f4a8cbd-cd62-4f54-85b6-36ced3aac3c3@89.117.109.216:443?security=tls&sni=uk2.connecton.surf&type=ws&path=/vless&allowInsecure=1#🔒 VL-WS-TLS 🇬🇧 GB-89.117.109.216:443
+vless://c4000cda-6237-4702-ac6a-024444978b8e@23.227.39.222:2083?security=tls&sni=BPB-JUly.PaGeS.dEv&type=ws&host=bPb-July.Pages.dEV&path=%2Fy0xrkaaBOQCyQR8T%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇨🇦 CA-23.227.39.222:2083
