@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@150.230.209.239:51272?allowInsecure=0&sni=vx.ylks.xyz&type=ws&host=vx.ylks.xyz&path=/security=tls#12|JP_speednode_0180
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@154.92.9.155:443?allowInsecure=0&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg@zdyz2fp=chrome&security=tls#12|JP_speednode_0181
 trojan://CMLiu@14.44.107.239:20202?allowInsecure=1&sni=aliorg.filegear-sg.me&type=ws&host=aliorg.filegear-sg.me&path=/?ed=2048#12|KR_speednode_0182
 trojan://CMLiu@218.158.87.155:11423?allowInsecure=1&sni=aliorg.filegear-sg.me&type=ws&host=aliorg.filegear-sg.me&path=/?ed=2048#12|KR_speednode_0183
@@ -602,4 +603,3 @@ trojan://telegram-id-privatevpns@54.247.181.207:22222?security=tls&alpn=http%2F1
 trojan://telegram-id-privatevpns@18.171.139.226:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔privatevpns%20🔒%20TR-TCP-N/A%20🇬🇧%20GB%20132ms
 trojan://telegram-id-privatevpns@18.170.231.129:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔privatevpns%20🔒%20TR-TCP-N/A%20🇬🇧%20GB%20132ms
 trojan://telegram-id-privatevpns@13.36.153.87:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔privatevpns%20🔒%20TR-TCP-N/A%20🇫🇷%20FR%20138ms
-trojan://telegram-id-privatevpns@13.36.150.226:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔privatevpns%20🔒%20TR-TCP-N/A%20🇫🇷%20FR%20139ms
