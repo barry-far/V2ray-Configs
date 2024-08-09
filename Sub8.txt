@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://e73be2db-179b-4de6-bf59-47f61cc5551b@178.239.145.154:6457?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-178.239.145.154:6457
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@205.233.181.92:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.92:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.99.55:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.99.55:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.233.150:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.233.150:443
@@ -602,4 +603,3 @@ vless://8c8b59bc-27f9-4b0c-8242-f1bd317b32d2@104.21.69.44:2086?security=none&typ
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.111.175:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.111.175:443
 vless://e66b5b82-2e93-4d6c-85fb-39a1ef9c177f@79.127.44.48:1001?security=none&type=tcp&host=divarcdn.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-79.127.44.48:1001
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.222.27:80?security=none&sni=us3.rtacg.com&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.222.27:80
-vless://8155d2bb-0eb4-40ff-ba1d-95df410a672a@172.67.191.234:8443?security=tls&sni=01.ev02-02-q2wx8ryz0vic3bfmd1sng7pjjn6lqk4p.tech&type=grpc&serviceName=@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.191.234:8443
