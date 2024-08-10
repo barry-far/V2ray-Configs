@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://CMLiu@38.59.246.12:530?allowInsecure=1&sni=aliorg.filegear-sg.me&ws=1&wspath=%2F%3Fed%3D2048#12%7CUS_speednode_0308
-vmess://eyJ2IjoiMiIsInBzIjoiMTN8ZCoqKioqKioqKmcuY29tXzIgIzMiLCJhZGQiOiI0Mi4yMzYuNzMuNzIiLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjA0NGYwMTc3LTA2NzUtNGRjZi04OWQ0LTgwNGI2Nzg4ZTUxOCIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiJ0bHMifQ==
 trojan://fuck@42.236.73.72:443?allowInsecure=0&sni=www.zitian.cn#3
 
 vless://0d65f2aa-fb84-4273-e7ce-1f123b592ebe@95.81.89.80:38923?encryption=none&security=none&type=grpc#%F0%9F%94%92%20VL-GRPC-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-95.81.89.80%3A38923
@@ -603,3 +601,5 @@ vless://1995f2ee-6767-4623-b819-db5d6386bcda@162.159.129.17:2082?security=none&t
 vless://99bd9072-226f-48f8-8ee1-7fc01542c903@204.93.210.39:8080?security=none&type=ws&host=dac9f71a1490f05a.sh.ger.bandinng.ir&path=/#🔒 VL-WS-NONE 🇺🇸 US-204.93.210.39:8080
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.57.230:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.57.230:80
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@35.201.203.106:443?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&fp=chrome#🔒 VL-WS-TLS 🇹🇼 TW-35.201.203.106:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.220.144:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.220.144:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.64.164:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.64.164:80
