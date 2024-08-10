@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://c6916d66-b191-4651-8bbc-120ea8af539a@162.159.152.2:80?security=none&type=ws&host=www.speedtest.net.ftp.debian.org.nobitex.com.vigilantecollection.com.&path=2048%2FDaily_Configs-Daily_Configs-Daily_Configs%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.152.2:80
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.178.19:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.178.19:443
 vless://1e8e2283-4c2d-11ef-ad7f-00505605a82d@172.67.73.241:443?security=tls&sni=cdn-fr.brocdn.com&type=ws&host=cdn-fr.brocdn.com&path=%2Fwebsocket#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.73.241:443
 vless://c96e4b30-b3d5-4725-87d4-519896cc7801@198.41.193.92:80?security=none&type=ws&host=www.SpeEDteSt.neT.FTP.dEbIan.OrG.VIGIlantecOllecTIOn.COM.&path=2560%2FDaily_Configs%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.193.92:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.22.116.238:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇬🇧 GB-31.22.116.238:443
@@ -603,3 +601,5 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.210.210:80?security=none&typ
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.133.73:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.133.73:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.222.153:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.222.153:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.206.132:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.206.132:80
+vless://1bb5aee4-ba1e-451d-a194-7739646e8ebc@193.151.141.226:2083?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-193.151.141.226:2083
+vless://c7e18bc1-3651-4bd0-9cf1-440cdf237bfc@152.42.174.123:443?security=tls&sni=@MR_ALEX_ID&type=ws&path=%2F#🔒 VL-WS-TLS 🇸🇬 SG-152.42.174.123:443
