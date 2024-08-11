@@ -3,6 +3,15 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://77891e6750@27.0.232.204:443?security=tls&sni=hk1.connecton.surf&type=tcp#🔒 TR-TCP-TLS 🇭🇰 HK-27.0.232.204:443
+trojan://224c91ee-7e18-4f1e-86bb-c1836f218c95@52.184.66.40:443?#🔒 TR-TCP-NA 🇭🇰 HK-52.184.66.40:443
+trojan://telegram-id-privatevpns@52.51.93.116:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-52.51.93.116:22222
+trojan://c7f9b8f0-bfdb-11ee-a15c-1239d0255272@172.67.159.13:443?security=tls&sni=de1.test3.net&type=ws&host=de1.test3.net&path=/howdy#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.159.13:443
+trojan://2f211aae-3678-47a6-b231-46304443772f@188.114.97.82:443?security=tls&sni=cdir-0203.wlfvip.com&type=ws&host=cdir-0203.wlfvip.com&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-188.114.97.82:443
+trojan://656bcdfe-ae09-4170-a36e-1685ee10b26f@162.159.128.233:2083?security=tls&sni=missyousir.segaro.tech&type=ws&host=missyousir.segaro.tech&path=/OVmkPBATL0FijQ3AWVBo&fp=chrome&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.128.233:2083
+trojan://moist@154.197.121.127:443?sni=trojan.freenods.sbs&type=ws&host=trojan.freenods.sbs&path=/#🔒 TR-WS-NA 🇸🇨 SC-154.197.121.127:443
+trojan://fyy75RVvaT@185.112.249.10:443?security=tls&sni=libertyzone.xyz&type=ws&host=libertyzone.xyz&path=/43574/@persvpn#🔒 TR-WS-TLS 🇸🇰 SK-185.112.249.10:443
+trojan://656bcdfe-ae09-4170-a36e-1685ee10b26f@162.159.136.232:2083?security=tls&sni=missyousir.segaro.tech&type=ws&host=missyousir.segaro.tech&path=/OVmkPBATL0FijQ3AWVBo&fp=chrome&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.136.232:2083
 trojan://telegram-id-privatevpns@3.122.169.254:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.122.169.254:22222
 trojan://Watashi_VPN@141.101.113.89:443?security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-141.101.113.89:443
 trojan://cfa36789-94aa-4c4c-ad06-ab35a8eb9312@36.231.75.71:725?security=tls&sni=tw2.233235.xyz&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇹🇼 TW-36.231.75.71:725
@@ -594,12 +603,3 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.83:3389#🔒 SS-TCP-NA 🇺�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:805#🔒 SS-TCP-NA 🇨🇦 CA-134.195.196.178:805
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.157.40.103:7001#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.103:7001
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.114.114.69:7001#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:7001
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnNERNUm50cUpRNmVrMGpmZlh3eWJ5@159.100.14.58:443#🔒 SS-TCP-NA 🇩🇪 DE-159.100.14.58:443
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.86.135.211:8080#🔒 SS-TCP-NA 🇺🇸 US-38.86.135.211:8080
-ss://Y2hhY2hhMjAtcG9seTEzMDU6dTE3VDNCdnBZYWFpdVcyYw==@44.208.124.139:443#🔒 SS-TCP-NA 🇺🇸 US-44.208.124.139:443
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.75.137.42:7002#🔒 SS-TCP-NA 🇺🇸 US-38.75.137.42:7002
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiemxMclJDUkhkWHA0U1NMMHZvSEJT@37.252.10.45:47580#🔒 SS-TCP-NA 🇵🇱 PL-37.252.10.45:47580
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.68.134.9:3389#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:3389
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@69.50.95.101:8008#🔒 SS-TCP-NA 🇺🇸 US-69.50.95.101:8008
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NTNhNGQ0Yy0xNTNmLTQ4OTctOWE5Yi04NTI4YjJiZmFmYjI=@46.232.123.37:30005#🔒 SS-TCP-NA 🇭🇰 HK-46.232.123.37:30005
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.114.114.69:7306#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:7306
