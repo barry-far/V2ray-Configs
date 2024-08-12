@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.247.142.245:443?allowInsecure=0&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=/?ed=2048security=tls#12|GB_speednode_0081
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.247.142.245:2096?allowInsecure=0&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=/?edfp=chrome&security=tls#12|GB_speednode_0082
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.22.116.56:443?allowInsecure=0&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=/tg@zdyz2fp=chrome&security=tls#12|GB_speednode_0083
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.247.142.245:2096?allowInsecure=0&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=/?edfp=chromefp=chrome&security=tls#12|GB_speednode_0084
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.22.116.208:443?allowInsecure=0&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg@zdyz2fp=chromefp=chrome&security=tls#12|GB_speednode_0085
 trojan://CMLiu@47.76.33.40:2083?allowInsecure=1&sni=aliorg.filegear-sg.me&type=ws&host=aliorg.filegear-sg.me&path=/?ed=2048#12|HK_speednode_0086
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@58.176.229.127:35002?allowInsecure=0&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&path=/?ed=2048fp=randomized&security=tls#12|HK_speednode_0087
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@47.76.225.255:2053?allowInsecure=0&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&path=/?ed=2048fp=randomized&security=tls#12|HK_speednode_0088
@@ -598,8 +603,3 @@ trojan://telegram-id-privatevpns@35.177.78.195:22222?security=tls&alpn=http%2F1.
 trojan://telegram-id-privatevpns@13.42.86.131:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔privatevpns%20🔒%20TR-TCP-N/A%20🇬🇧%20GB%2082ms
 trojan://telegram-id-privatevpns@13.36.83.34:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔privatevpns%20🔒%20TR-TCP-N/A%20🇫🇷%20FR%2086ms
 trojan://telegram-id-privatevpns@15.188.46.213:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔privatevpns%20🔒%20TR-TCP-N/A%20🇫🇷%20FR%2088ms
-trojan://telegram-id-privatevpns@3.122.169.254:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔privatevpns%20🔒%20TR-TCP-N/A%20🇩🇪%20DE%2094ms
-trojan://telegram-id-privatevpns@35.157.14.130:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔privatevpns%20🔒%20TR-TCP-N/A%20🇩🇪%20DE%2092ms
-trojan://telegram-id-privatevpns@13.49.101.250:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔privatevpns%20🔒%20TR-TCP-N/A%20🇸🇪%20SE%20108ms
-trojan://telegram-id-privatevpns@16.170.42.196:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔privatevpns%20🔒%20TR-TCP-N/A%20🇸🇪%20SE%20110ms
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=%2F&security=tls&encryption=none&host=fraud.chase&fp=chrome&type=ws&sni=www.Arizona.edu#🆔proxy_kafee%20🔒%20VL-WS-N/A%20🆥🆥%20%206ms
