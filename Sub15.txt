@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://4f430965-fb96-4a2e-c8cc-5e10d66e46ed@172.67.163.103:2096?security=tls&sni=sahari.savarkaraan.ir&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.163.103:2096
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.113.85:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.113.85:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.100.224:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.100.224:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.26.9.251:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.9.251:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@198.41.223.65:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.223.65:443
@@ -603,3 +601,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMTNTN2RvWGFyMEE=@205.134.180.137:443#🔒 S
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpabUV4Wg==@199.59.243.226:8388#🔒 SS-TCP-NA 🇺🇸 US-199.59.243.226:8388
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@69.50.95.174:443#🔒 SS-TCP-NA 🇺🇸 US-69.50.95.174:443
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.121.43.71:8119#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:8119
+ss://ZmI3MTBlZTAtZjJkMy00MjFjLTg1NTYtZDIzZTUwNzVmNTdlOg==@108.162.192.79:443#🔒 SS-TCP-NA 🏴‍☠️ NA-108.162.192.79:443
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@54.36.174.181:8000#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:8000
