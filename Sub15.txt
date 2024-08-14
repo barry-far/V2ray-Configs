@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.170.57:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.170.57:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.234.206:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.234.206:80
 vless://376e5993-9afa-4bac-9660-edf39ea29996@162.159.152.4:8880?security=none&type=ws&host=kanal-ma-falcunargo.43f6252145.workers.Dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.152.4:8880
 vless://f071635b-e08a-4f02-802a-4705ec9ff1cd@104.20.21.0:443?security=tls&sni=DARKSHOP.HEROIC-IR.COM&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.20.21.0:443
@@ -603,3 +602,4 @@ trojan://NISHIKUITAN222@47.237.100.206:8443?security=tls&sni=t009.ylks.link&type
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@162.159.129.129:443?security=tls&sni=pages.dev&type=ws&host=mc0.pages.dev&path=/us6#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.129.129:443
 trojan://telegram-id-directvpn@54.220.30.226:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-54.220.30.226:22222
 trojan://5b4b8de0-3a17-11ef-9e9d-1239d0255272@103.253.24.212:443?security=tls&sni=web.whatsapp.com&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-103.253.24.212:443
+trojan://b10f2914-0401-4eff-ac4f-e430aeda0c45@162.159.6.6:443?security=tls&sni=cfsg2.trojanwss.xyz&type=ws&host=cfsg2.trojanwss.xyz&path=%2FCFJICHANG#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.6.6:443
