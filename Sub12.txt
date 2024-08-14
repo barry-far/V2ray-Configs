@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.69.44:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.69.44:443
 vless://831435b6-09ba-41cc-9ce8-c4963d7f27da@89.47.200.241:2082?security=none&type=tcp&host=fararu.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-89.47.200.241:2082
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.193.9:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.193.9:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.224.234:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.224.234:443
@@ -603,3 +602,4 @@ vless://f7204e0a-0bb3-4b6e-be7c-e22c8ccd357f@104.18.202.232:2052?security=none&t
 vless://f61b9661-baef-4feb-a449-cfbdec6c3d37@104.26.3.0:2053?security=tls&sni=varda.manwe.ir&type=ws&host=varda.manwe.ir&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.3.0:2053
 vless://a116e07a-87bc-4254-85f8-172628893979@185.73.0.103:1003?security=none&type=tcp&host=www.speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.73.0.103:1003
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.18.36:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.18.36:80
+vless://714d2285-b4cf-4939-935f-06d7269bec07@162.159.44.157:443?security=tls&sni=37x30h.payperflower.com&type=ws&host=37x30h.payperflower.com&path=%2Fwss&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.44.157:443
