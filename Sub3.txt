@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://90f1fa90-75f7-4691-b5b7-a8e4a84d66d9@66.90.74.84:20012?security=reality&flow=xtls-rprx-vision&sni=www.timeto.com&type=tcp&fp=chrome&pbk=Wt9cTNEcGKp6Qy2n050o5U3sDCEK1C-iuzQFYSzXknU&sid=4a3749e4#🔒 VL-TCP-RLT 🇦🇷 AR-66.90.74.84:20012
 vless://177dfbdf-8337-40ea-8791-906924b9fb2f@143.244.149.168:12345?security=reality&sni=refersion.com&type=http&path=%2F&fp=chrome&pbk=0hue6xKKmwuEefA0eMXQszxESSoagq2kqLB_gPrRc3s&sid=c57d2373#🔒 VL-HTTP-RLT 🇺🇸 US-143.244.149.168:12345
 vless://fad39048-1827-48e7-8e94-022e499633ea@5.35.44.132:2053?security=reality&sni=www.speedtest.net&type=grpc&serviceName=%40VpnHubMarKeT&fp=firefox&pbk=truWNxjKfOQrxaaor7kpDCnFFfUalH8vogKx9rzVIGI&sid=07a337b179608fb2#🔒 VL-GRPC-RLT 🇳🇱 NL-5.35.44.132:2053
 vless://c1272294-cba2-4fe2-8663-93cf92bab9be@167.235.130.134:443?security=reality&flow=xtls-rprx-vision&sni=none.felinefreedom.site&type=tcp&fp=chrome&pbk=It8T_WWejuo-QOwZsYWbe5gRBDQOLXp9wfnWDo_FIFQ&sid=4e69ed37#🔒 VL-TCP-RLT 🇩🇪 DE-167.235.130.134:443
@@ -603,3 +602,4 @@ vless://3ebb18cd-0a44-441a-ab7c-bed685abc1c1@141.193.213.20:443?security=tls&sni
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.21.50:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.21.50:80
 vless://f7fe4c50-8f84-425a-8b60-6fbea946df9e@162.159.128.233:443?security=tls&sni=we.wordpass.workers.dev&type=ws&host=we.wordpass.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.128.233:443
 vless://82b7624c-8c12-4156-b192-6a4b6d272417@151.101.194.219:80?security=none&sni=speedtest.net&type=ws&host=Tuskmy.com&path=%2F%3Fed%3D1024&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.219:80
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.222.115:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.222.115:443
