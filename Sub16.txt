@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://ypDt8RkT7J@207.211.215.169:43118?security=tls&sni=tpmwf.phooeyunfold.com&type=tcp&fp=chrome&alpn=http/1.1#🔒 TR-TCP-TLS 🇹🇷 TR-207.211.215.169:43118
+trojan://CMLiu@47.237.0.31:2053?sni=aliorg.filegear-sg.me&type=ws&host=aliorg.filegear-sg.me#🔒 TR-WS-NA 🇸🇬 SG-47.237.0.31:2053
+trojan://123456@104.18.11.39:443?security=tls&sni=trojan-amp-id01.globalssh.xyz&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.18.11.39:443
+trojan://telegram-id-privatevpns@13.36.140.199:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-13.36.140.199:22222
+trojan://CMLiu@59.3.3.161:443?sni=aliorg.filegear-sg.me&type=ws&host=aliorg.filegear-sg.me#🔒 TR-WS-NA 🇰🇷 KR-59.3.3.161:443
 trojan://7d2f4381-c5d5-38ae-9ee9-5dd8e37f66d7@45.67.228.199:443?security=tls&sni=nl1.nodegz.top&type=tcp#🔒 TR-TCP-TLS 🇳🇱 NL-45.67.228.199:443
 trojan://auto@172.67.2.238:2083?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.2.238:2083
 trojan://NISHIKUITAN222@8.219.106.156:443?security=tls&sni=t667.ylks.link&type=ws&host=t667.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.106.156:443
@@ -598,8 +603,3 @@ ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.86.135.117:9101#🔒 SS-TCP-NA 🇺
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0M2MxNTg5Yi0zZTA1LTRiYmQtYWVlYy0xNmZlMWYwZjVkYTU=@45.158.59.74:14110#🔒 SS-TCP-NA 🇸🇬 SG-45.158.59.74:14110
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.97:8881#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.97:8881
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHTkV2OVR2WUFZZll0MkVZMWFSajVN@85.159.230.44:52842#🔒 SS-TCP-NA 🇩🇪 DE-85.159.230.44:52842
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@217.182.198.219:8090#🔒 SS-TCP-NA 🇩🇪 DE-217.182.198.219:8090
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.178.87.37:805#🔒 SS-TCP-NA 🇫🇷 FR-51.178.87.37:805
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5Q1o5OWdSSG16cDRTbEtGMk54YXhS@195.2.76.71:60422#🔒 SS-TCP-NA 🇷🇺 RU-195.2.76.71:60422
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.68.135.19:8090#🔒 SS-TCP-NA 🇺🇸 US-38.68.135.19:8090
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@54.36.174.181:5003#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:5003

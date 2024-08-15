@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://52de3fa6-1673-4918-a90d-21d2b69de98e@188.114.96.182:443?security=tls&sni=eb8c0c64.888766.pages.dev&type=ws&host=eb8c0c64.888766.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.182:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.231.230:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.231.230:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.66.57:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.66.57:80
+vless://058b2e58-980e-4460-859e-ee4c5afbf9fe@45.80.110.119:8080?security=none&type=httpupgrade&host=99.a.v.y.www.speedtest.net.ftp.debian.online.photoshott.ir#🔒 VL-HTTPUPGRADE-NONE 🇪🇪 EE-45.80.110.119:8080
+vless://142e062f-475e-4484-8bd6-8386b246f366@199.232.198.133:443?security=tls&sni=www.speedrun.com&type=ws&host=vpngaming.ir&path=%2F&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-199.232.198.133:443
 vless://df4608a5-0ceb-4513-b991-596f541bccdb@172.67.225.250:443?security=tls&sni=cfdy.yueuzi.dynv6.net&type=ws&host=cfdy.yueuzi.dynv6.net#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.225.250:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.149.106:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.149.106:80
 vless://68b48c28-92c7-4f0b-bd39-21e5699f50cc@172.67.2.238:443?security=tls&sni=v2raylandd-89.vmjisexa.workers.Dev&type=ws&host=v2raylandd-89.vmjisexa.workers.Dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.2.238:443
@@ -598,8 +603,3 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.27.23:80?security=none&type=
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.64.149.134:2083?security=tls&sni=aryoovpn.commen-esoteric-0q.workers.dev&type=ws&host=aryoovpn.commen-esoteric-0q.workers.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.149.134:2083
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.8.109:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.8.109:443
 vless://d2dce228-e2dc-474f-b189-42daded22ba5@188.114.98.217:443?security=tls&sni=napdg1000072.reneelegitimate.workers.dev&type=ws&host=napdg1000072.reneelegitimate.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.217:443
-vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@104.21.33.89:443?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.33.89:443
-vless://970bd1d9-8f7d-4527-8a93-52f1ad8556ff@104.17.148.22:2095?security=none&type=ws&host=8.v2.c.www.speedtest.net.debian.org.academigroup.iR.&path=%2Ftelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.148.22:2095
-vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@199.19.106.201:8443?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-199.19.106.201:8443
-vless://fae72d2b-3ed7-4bcf-8869-0155befd20ad@94.242.228.181:80?type=ws&host=hJ-dE.sHaHidrazI.OnlInE.#🔒 VL-WS-NA 🇱🇺 LU-94.242.228.181:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.198.199:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.198.199:80

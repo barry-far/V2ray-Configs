@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://dfbbc8de-8a4f-407d-8069-6de38d83c4e1@45.77.139.80:443?security=reality&flow=xtls-rprx-vision&sni=www.survive.org.uk&type=tcp&fp=chrome&pbk=gZLTRrh9Z0TIvMoXHB7_ih3EN6Zn0IuLstFFZ0y7Ryc&sid=cc61d4&alpn=http%2F1.1#🔒 VL-TCP-RLT 🇳🇱 NL-45.77.139.80:443
+vless://cf51f85e-822a-4df7-8d88-7b5fd7a6b721@103.17.99.37:19280?security=reality&flow=xtls-rprx-vision&sni=cdn-dynmedia-1.microsoft.com&type=tcp&fp=edge&pbk=F5_aTQFA2QRCig3L-qT0Qth76JdewSHK5MgEt_p8Dlo&sid=a8bd783f#🔒 VL-TCP-RLT 🇭🇰 HK-103.17.99.37:19280
+vless://abaf193b-eeb9-4a8a-afa7-6b6385156e94@136.244.84.182:443?security=reality&flow=xtls-rprx-vision&sni=www.iranserver.com&type=tcp&fp=chrome&pbk=JiXxyKEi_TmEqRzyvOsBEKciioXup7SbW5rvTa6CnA4&sid=f1&alpn=http/1.1#🔒 VL-TCP-RLT 🇩🇪 DE-136.244.84.182:443
+vless://cbbc04dc-ab1a-4410-a30b-5d83982374d5@188.116.21.168:443?security=reality&flow=xtls-rprx-vision&sni=account.zula.ir&type=tcp&fp=chrome&pbk=DNgb_P-ioc2QGkWL4fjncdvn3uMoH8_IIPEqiihwyjc&sid=7015e6&alpn=h2#🔒 VL-TCP-RLT 🇳🇱 NL-188.116.21.168:443
+vless://ac74dfae-6039-43c0-fa55-fbf6e6630df6@82.153.135.50:34171?security=reality&flow=xtls-rprx-vision&sni=dmcc.ae&type=tcp&fp=chrome&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg#🔒 VL-TCP-RLT 🇸🇬 SG-82.153.135.50:34171
 vless://7b13ecd1-9893-4b2a-81fb-e36798ae868e@185.211.59.187:443?security=reality&sni=duckduckgo.com&type=grpc&serviceName=utaFR1lGdrKmDYV3Pf&fp=chrome&pbk=WPF76C161rO80d4T21eaTIenhQUgy7ePTLwJtYII62Q&sid=ea8f31cd&alpn=http/1.1#🔒 VL-GRPC-RLT 🇮🇷 IR-185.211.59.187:443
 vless://1596e7f0-2106-468f-e2b0-93f19e83bd0c@116.203.149.241:443?security=reality&sni=greenpepper.ir&type=grpc&serviceName=@ipV2Ray&fp=chrome&pbk=wxzZx9_9R0QXG4Hjc8e3_ckaUIbn9oKc5yKsBqh8ulc&sid=a18472f7#🔒 VL-GRPC-RLT 🇩🇪 DE-116.203.149.241:443
 vless://7e0ddb73-5750-4e2e-83c8-fe54879b8e5f@5.75.154.142:443?security=reality&flow=xtls-rprx-vision&sni=www.washingtontimes.com&type=tcp&fp=firefox&pbk=s04VKhqE5Bmh6YAt0uqqFnA09BV6xtvaOSuQ-7z5OyU&sid=2e31ea4b49d944&alpn=http/1.1#🔒 VL-TCP-RLT 🇩🇪 DE-5.75.154.142:443
@@ -598,8 +603,3 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.89.101:443?security=tls&sni=
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.64.159.206:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.159.206:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.30.150:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.30.150:80
 vless://f752f400-a4dc-494a-b716-5dd9e55bfab3@5.160.46.63:2096?security=none&type=tcp&host=google.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.160.46.63:2096
-vless://52de3fa6-1673-4918-a90d-21d2b69de98e@188.114.96.182:443?security=tls&sni=eb8c0c64.888766.pages.dev&type=ws&host=eb8c0c64.888766.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.182:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.231.230:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.231.230:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.66.57:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.66.57:80
-vless://058b2e58-980e-4460-859e-ee4c5afbf9fe@45.80.110.119:8080?security=none&type=httpupgrade&host=99.a.v.y.www.speedtest.net.ftp.debian.online.photoshott.ir#🔒 VL-HTTPUPGRADE-NONE 🇪🇪 EE-45.80.110.119:8080
-vless://142e062f-475e-4484-8bd6-8386b246f366@199.232.198.133:443?security=tls&sni=www.speedrun.com&type=ws&host=vpngaming.ir&path=%2F&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-199.232.198.133:443
