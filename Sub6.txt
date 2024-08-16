@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.98.133:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.98.133:443
-vless://14c31520-0ab0-5dbe-86ca-fcc9bf6596ec@190.93.247.161:80?security=none&sni=Uk1.vless.site.&type=ws&path=/vless#🔒 VL-WS-NONE 🏴‍☠️ NA-190.93.247.161:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.222.153:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.222.153:80
-vless://fc5fd045-f911-4220-8f76-1ac4115e51c4@172.67.170.71:2087?security=tls&sni=bmw.nonoal.xyz&type=grpc&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.170.71:2087
 vless://e2e869c8-b576-4a45-a7cd-8dbceddc2e18@104.21.69.44:2083?security=tls&sni=abcdefghijklmnopqrstuvwxyza.likeboukan1.top&type=grpc&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.69.44:2083
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.66.18:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.66.18:443
 vless://0dd1347e-e342-456c-b802-779b859cca42@104.31.16.32:443?security=tls&sni=loolu.tech&type=ws&host=loolu.tech&path=%2Fmhdshws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.32:443
@@ -603,3 +599,7 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.4.146:80?security=none&type=
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.60.13:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.60.13:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.88.6:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇱🇺 LU-188.42.88.6:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.144.67:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.144.67:80
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.221.210.185:443?security=tls&sni=zw.linghang.buzz&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-216.221.210.185:443
+vless://feb83e1f-038a-484d-b86d-0a1673311dd4@104.21.94.168:80?security=none&type=ws&host=vpncustomize-vpncustomize-vpncustomize.CUSTOMIZEspeedtest.net.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.94.168:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.31.99:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.31.99:80
+vless://058b2e58-980e-4460-859e-ee4c5afbf9fe@89.116.161.77:8080?security=none&type=httpupgrade&host=99.a.v.y.www.speedtest.net.ftp.debian.online.photoshott.ir#🔒 VL-HTTPUPGRADE-NONE 🇱🇹 LT-89.116.161.77:8080
