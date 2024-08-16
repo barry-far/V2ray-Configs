@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.193.220:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.193.220:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.102.74:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.102.74:80
 vless://2ca42987-551b-4494-a854-da2d9178f4cd@104.18.212.110:2087?security=tls&sni=KxQhHtGc22.zImBa-zUlA.OrG&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.212.110:2087
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.228.5:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.228.5:80
@@ -602,4 +603,3 @@ vless://fae72d2b-3ed7-4bcf-8869-0155befd20ad@94.242.229.253:80?type=ws&host=hJ-d
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.24.235:80?security=none&sni=us3.rtacg.com&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.24.235:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.50.95:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.50.95:443
 vless://fae72d2b-3ed7-4bcf-8869-0155befd20ad@94.242.228.190:80?type=ws&host=hJ-dE.sHaHidrazI.OnlInE.&path=%2Fhajmi%3Fed%3D2048#🔒 VL-WS-NA 🇱🇺 LU-94.242.228.190:80
-vless://d7a0b421-4a56-4703-b9d8-940b06604af9@45.77.142.212:2087?security=tls&sni=dl15.buyrenter.ir&type=tcp&host=playstation.com&headerType=http&fp=chrome&alpn=h2#🔒 VL-TCP-TLS 🇩🇪 DE-45.77.142.212:2087
