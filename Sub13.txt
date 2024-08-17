@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.35.151:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.35.151:80
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.68.108:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.68.108:443
 vless://af2fdbc2-3917-4288-8710-ec1b448acefb@212.80.19.118:55678?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-212.80.19.118:55678
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.237.37:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.237.37:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.164.245:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.164.245:80
@@ -601,5 +603,3 @@ vless://29f00915-4107-491d-ba71-c9328e845a00@104.18.202.209:80?type=grpc&service
 vless://7b308755-1135-4fed-828f-8e48ca1603ad@104.19.230.5:80?security=none&sni=new.nyctophilia.ir&type=ws&host=new.nyctophilia.ir&path=/www.speedtest.net.fixed4435FOZe0UV1BYvuQ&fp=chrome&alpn=http/1.1#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.230.5:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.56.239:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.56.239:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.111.153:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.111.153:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.65.237:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.65.237:80
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.206.8:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.206.8:443

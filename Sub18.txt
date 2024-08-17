@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://123456@104.18.11.39:443?security=tls&sni=trojan-amp-id01.globalssh.xyz&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.18.11.39:443
+trojan://auto@162.159.153.189:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.189:443
 trojan://CMLiu@47.236.117.48:2087?sni=aliorg.filegear-sg.me&type=ws&host=aliorg.filegear-sg.me#🔒 TR-WS-NA 🇸🇬 SG-47.236.117.48:2087
 trojan://auto@104.18.13.229:2053?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.13.229:2053
 trojan://ZJU29smXwp@45.85.118.0:2053?security=tls&sni=web2.teama.tk&type=ws&host=k.teama.tk&path=/#🔒 TR-WS-TLS 🇷🇴 RO-45.85.118.0:2053
@@ -601,5 +603,3 @@ ss://ZDllYjBkZjMtMzE5MC00NDQ3LTg2YjYtNjU2ZmU1ZmYxMTE5Og==@172.64.169.33:443#🔒
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@31.171.153.181:989#🔒 SS-TCP-NA 🇦🇱 AL-31.171.153.181:989
 ss://ODliM2NiYmEtZTZhYy00ODVhLTk0ODEtOTc2YTA0MTVlYWI5Og==@104.19.230.57:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.19.230.57:443
 ss://YTU1NDI1NzktNTllOS00YmQzLThkOTMtZWI2MDlmODNlMTliOg==@172.66.208.0:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.66.208.0:443
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.10:5000#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.10:5000
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:806#🔒 SS-TCP-NA 🇯🇵 JP-185.172.113.182:806

@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://f7b8c369-6ec0-4f8f-b0f2-96cbbb13e545@172.66.47.172:443?security=tls&sni=k5z3-1h6p-9t8R-2f4B-0W7G-3x2M-5U9d-8n1C-7E4j-6q0y-5s8v-2A9.pagES.dEv&type=ws&host=K5z3-1h6p-9t8R-2f4B-0W7g-3x2m-5u9D-8N1c-7e4J-6q0Y-5S8v-2A9.pAGeS.Dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.172:443
+vless://c8ea37d7-5552-4ab3-80b3-aacc2a990fa6@172.67.66.177:8080?security=none&type=httpupgrade&host=www.speedtest.net.main.mralpha-vpn.COM#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.67.66.177:8080
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@172.84.92.152:58723?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&fp=chrome#🔒 VL-WS-TLS 🇯🇵 JP-172.84.92.152:58723
 vless://34208027-101c-4e79-a0e3-87f62ef214e6@172.66.46.220:2083?security=tls&sni=MoRtEzA865.paGES.DEV&type=ws&host=MoRtEzA865.paGES.DEV&path=%2Fv3mqqmhkvvozmhv5%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.46.220:2083
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.64.229.77:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.229.77:80
@@ -601,5 +603,3 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.54.207:80?security=none&type
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@89.116.250.222:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇱🇹 LT-89.116.250.222:443
 vless://5fe9ddd1-6cb7-4959-e963-9e60ddd70694@172.67.217.152:443?security=tls&sni=paradiselost.pafyegedro.workers.dev&type=ws&host=paradiselost.pafyegedro.workers.dev&path=/downloader/40943&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.217.152:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.24.14:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.24.14:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.20.59.124:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.59.124:80
-vless://e40dbead-2651-4772-9f8f-03052563a054@104.17.180.185:443?security=tls&sni=free.smelean.ir&type=ws&host=free.smelean.ir&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.180.185:443
