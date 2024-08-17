@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.203.226:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.203.226:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.172.248:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.172.248:80
+vless://f79dcf61-baef-4180-a249-7946c44df616@94.182.131.156:2053?security=none&type=tcp&host=google.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.131.156:2053
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.175.113:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.175.113:443
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.193.159:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.193.159:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.30.150:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.30.150:80
+vless://d70f8f38-2187-41bc-93bc-779dcbeb56a8@109.94.165.92:10094?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇷 IR-109.94.165.92:10094
+vless://f7fe4c50-8f84-425a-8b60-6fbea946df9e@162.159.128.233:443?security=tls&sni=we.wordpass.workers.dev&type=ws&host=we.wordpass.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.128.233:443
 vless://cb6e5952-e662-458f-a32c-fb25fa4014a8@104.31.16.65:8443?security=tls&sni=ch.donaldvpn.sbs&type=grpc&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.31.16.65:8443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.147.150:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.147.150:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.234.102:80?security=none&sni=us3.rtacg.com&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.234.102:80
@@ -595,11 +603,3 @@ trojan://aa6eb272-1d8d-4461-9687-85ddbab1adb0@172.234.222.138:80?security=tls&sn
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.181:443?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.181:443
 trojan://ypDt8RkT7J@89.187.181.172:43118?security=tls&sni=egcmi.phooeyunfold.com#🔒 TR-TCP-TLS 🇺🇸 US-89.187.181.172:43118
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.109:8443?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.109:8443
-trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@82.117.226.218:12012?security=tls&sni=cn1.cdn.xfltd-cdn.top&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇰🇷 KR-82.117.226.218:12012
-trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.17.215.2:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.215.2:443
-trojan://NISHIKUITAN222@47.237.10.1:8443?security=tls&sni=t009.ylks.link&type=ws&host=t009.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-47.237.10.1:8443
-trojan://auto@104.18.13.229:2053?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.13.229:2053
-trojan://auto@162.159.153.125:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.125:443
-trojan://ypDt8RkT7J@51.158.217.195:43118?security=tls&sni=wnbtg.phooeyunfold.com&type=tcp#🔒 TR-TCP-TLS 🇫🇷 FR-51.158.217.195:43118
-trojan://77891e6750@27.0.232.204:443?security=tls&sni=hk1.connecton.surf&type=tcp#🔒 TR-TCP-TLS 🇭🇰 HK-27.0.232.204:443
-trojan://ZJU29smXwp@172.67.68.87:2053?security=tls&sni=Web2.teama.tk&type=ws&host=k.teama.tk&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.68.87:2053
