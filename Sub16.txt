@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.140.95:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.140.95:443
-vless://25468dd2-7fb0-478c-8ce7-3e72cf65936d@146.75.74.62:443?security=tls&sni=app.com&type=ws&host=wow-online.ir&path=/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇬🇧 GB-146.75.74.62:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.199.145:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.199.145:80
 vless://9af28087-87e6-44ae-a6e0-51852ecab457@104.21.44.13:8443?security=tls&sni=store.mtahaa.sbs&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.44.13:8443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@141.101.121.48:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-141.101.121.48:443
@@ -603,3 +601,5 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.21.254:80?security=none&type
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.206.120:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.206.120:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.156.46:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.156.46:80
 vless://77de458b-5d58-4379-927a-7e749b2d17f8@172.67.197.82:443?security=tls&sni=test.gold15.ir&type=grpc&serviceName=fast.com&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.197.82:443
+vless://13be7b64-8a46-4724-9cf2-4c7eddd4c56b@104.25.156.141:2096?security=tls&sni=sPeEd.vbox778.info.&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.156.141:2096
+vless://5e643328-05a4-4e79-a89c-d98e0929113b@78.110.120.54:22242?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇷 IR-78.110.120.54:22242
