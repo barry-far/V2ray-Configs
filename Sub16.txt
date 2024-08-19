@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@216.221.213.149:443?security=tls&sni=hx.ylks.xyz&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-216.221.213.149:443
 vless://f64de9bd-73e7-4666-94ad-4eef2a776f40@104.21.41.230:2083?security=tls&sni=ips.impervasec.com&type=grpc&serviceName=2083vless&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.41.230:2083
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.27.111:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.27.111:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.148.198:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.148.198:80
@@ -602,4 +603,3 @@ vless://61958b98-d52a-420e-bb42-a3fd22985895@104.17.249.203:2096?security=tls&sn
 vless://eb44e1c7-e5ba-4446-807c-a0768a8f4589@104.16.12.49:2083?security=tls&sni=amovpn6.fqservers.com&type=ws&host=amovpn6.fqservers.com&path=/channel:@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.12.49:2083
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.197.56:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.197.56:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.27.106:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.27.106:80
-vless://5d4fb4ee-cc86-4bdf-9777-ff6e759a8700@104.16.60.8:80?type=ws&host=slatdrres45rewrubikaeitasalam.dr-salam.com&path=%2F48608%2FDown#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.60.8:80
