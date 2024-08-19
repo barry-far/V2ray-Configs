@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@193.123.233.169:39803?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇰🇷 KR-193.123.233.169:39803
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.31:80?security=none&type=ws&host=a.ssll.gay#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.224.31:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.157.188:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.157.188:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.53.162:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.53.162:80
 vless://c1978266-958c-4aa3-ba34-7eacac75aca1@104.18.15.19:443?security=tls&sni=bpb-worker-panel3.pages.dev&type=ws&host=bpb-worker-panel3.pages.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.15.19:443
@@ -601,5 +603,3 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.17.195:443?security=tls&sni=
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.19.19.58:2096?security=tls&sni=baipiao1.curly-train.pages.dev&type=ws&host=baipiao1.curly-train.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.19.58:2096
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@141.101.113.38:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-141.101.113.38:443
 vless://50e94400-3a70-4fd8-9840-71405ac77976@104.21.56.174:443?security=tls&sni=hidden-ycevx4udjrgnjbtevp.123music147.click&type=ws&host=hidden-ycevx4udjrgnjbtevp.123music147.click&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.56.174:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.254.229:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.254.229:80
-vless://ba6ee86b-9235-4eb0-be48-a8df8f57fa6e@69.84.182.10:2083?security=tls&sni=vipfree.in01.tech&type=grpc#🔒 VL-GRPC-TLS 🇺🇸 US-69.84.182.10:2083
