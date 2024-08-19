@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.155.6:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.155.6:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@147.78.140.28:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=twitterfreecodestg%40zdyz2#🔒 VL-WS-TLS 🇧🇬 BG-147.78.140.28:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.54.213:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.54.213:80
 vless://67e85955-02b7-46f3-b3d6-ca34a4b0ccc1@172.67.182.46:443?security=tls&sni=hidden-rbpamewkcxqxrz3lct.hidden0612.ir&type=ws&host=hidden-rbpamewkcxqxrz3lct.hidden0612.ir&path=%2F&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.182.46:443
@@ -603,3 +602,4 @@ trojan://telegram-id-privatevpns@16.170.161.91:22222?security=tls&sni=trojan.bur
 trojan://telegram-id-privatevpns@52.51.116.29:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-52.51.116.29:22222
 trojan://b10f2914-0401-4eff-ac4f-e430aeda0c45@162.159.8.55:443?security=tls&sni=cfsg2.trojanwss.xyz&type=ws&host=cfsg2.trojanwss.xyz&path=%2FCFJICHANG#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.8.55:443
 trojan://telegram-id-directvpn@15.157.206.193:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇨🇦 CA-15.157.206.193:22222
+trojan://Libertas*One*E*@172.67.180.35:443?security=tls&sni=ironone.libertasiran.cloud&type=ws&path=/n890&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.180.35:443
