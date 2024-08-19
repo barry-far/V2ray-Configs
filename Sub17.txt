@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://b0138d55-a493-4dc3-9932-c6f0391707c1@172.67.56.140:443?security=tls&sni=edge.020770.xyz&type=ws&host=edge.020770.xyz#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.56.140:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.100.12:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.100.12:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.70.99:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.70.99:80
 vless://2bc52ef3-3fa2-4830-b36c-135476ad9463@91.217.119.22:48054?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇹🇷 TR-91.217.119.22:48054
@@ -602,4 +603,3 @@ trojan://224c91ee-7e18-4f1e-86bb-c1836f218c95@48.218.11.96:443?#🔒 TR-TCP-NA �
 trojan://CMLiu@47.76.26.26:8443?sni=aliorg.filegear-sg.me&type=ws&host=aliorg.filegear-sg.me#🔒 TR-WS-NA 🇭🇰 HK-47.76.26.26:8443
 trojan://LYaOvuNXdQGTZNonhlRUKqOJcKVihzKY@103.168.154.2:889?security=tls&sni=cdn.cjhh.lol&type=tcp#🔒 TR-TCP-TLS 🇯🇵 JP-103.168.154.2:889
 trojan://auto@162.159.153.191:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.191:443
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.78:2053?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.78:2053
