@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.192.136:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.192.136:443
+vless://cf9e5239-6e75-4d0a-b5a9-1c7377012fd0@172.67.129.247:8080?security=none&type=ws&host=maz.%E5%83%8F%E9%B8%9F%E4%B8%80%E6%A0%B7%E8%87%AA%E7%94%B1.online.&path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.129.247:8080
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.194.193:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.194.193:80
 vless://f6b4ac7f-75a8-48ed-b2fd-06662b0a3955@5.101.222.14:443?security=tls&sni=gcore.com&type=ws&host=raimonchannel.com&path=/&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🇨🇦 CA-5.101.222.14:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.64.149.134:80?security=none&type=ws&host=aryoovpn.commen-esoteric-0q.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.149.134:80
@@ -601,5 +603,3 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.14.183:80?security=none&type
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.113.114:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.113.114:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.107.199:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.107.199:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.246.210:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.246.210:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.86.194:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.86.194:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.223.89:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.223.89:80

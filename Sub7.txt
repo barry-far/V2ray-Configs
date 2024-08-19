@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://7379eb18-959d-4b33-ddf7-e9369a0e1769@170.114.46.169:443?security=tls&sni=ger.vwfghin.info&type=grpc#🔒 VL-GRPC-TLS 🇺🇸 US-170.114.46.169:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.244.122.57:443?security=tls&sni=ik.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇩🇪 DE-188.244.122.57:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.15.73:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.15.73:80
 vless://52c57282-dfe3-4954-856a-87b9a188e6b9@45.135.235.8:2083?security=tls&sni=tamam.filegear-sg.me&type=splithttp&host=tamam.filegear-sg.me&alpn=h3,h2,http/1.1#🔒 VL-SPLITHTTP-TLS 🇷🇺 RU-45.135.235.8:2083
 vless://4fd24a54-529b-44a6-becd-eefcc52609a5@104.22.23.186:80?security=none&type=ws&host=www.speedtest.net.ftp.debian.org.com.top.自己不去看啥事情基本没啥事事.telactive.net.&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.23.186:80
@@ -601,5 +603,3 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.55.222:80?security=none&type
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.104.205:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.104.205:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.79.62:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.79.62:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.208.238:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.208.238:80
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.192.136:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.192.136:443
-vless://cf9e5239-6e75-4d0a-b5a9-1c7377012fd0@172.67.129.247:8080?security=none&type=ws&host=maz.%E5%83%8F%E9%B8%9F%E4%B8%80%E6%A0%B7%E8%87%AA%E7%94%B1.online.&path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.129.247:8080
