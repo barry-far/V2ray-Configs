@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://f8d4d855-d620-4ce3-a167-e8937675959c@104.18.221.72:443?security=tls&sni=xn--mgbu4df82a.pinocchio1.ir.&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.221.72:443
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@104.19.174.68:443?security=tls&sni=sAnDwORm.pAGeS.dEV&type=ws&host=sANdWOrm.paGEs.dev&path=/MkDRgI4CUJpkpgyo&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.174.68:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.230.34:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.230.34:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.229.148:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.229.148:80
@@ -602,4 +603,3 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.132.60:443?security=tls&sni=
 vless://ac4a922d-86fa-44e6-8825-238164b693f3@190.93.247.194:8880?security=none&type=ws&host=Baloch.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.jetupnet.sbs.&path=/@jetupnet-@jetupnet-@jetupnet-@jetupnet-@jetupnet-@jetupnet-@jetupnet-@jetupnet-@jetupnet-@jetupnet-@jetupnet-@jetupnet-@jetupnet-@jetupnet#🔒 VL-WS-NONE 🏴‍☠️ NA-190.93.247.194:8880
 vless://058b2e58-980e-4460-859e-ee4c5afbf9fe@104.129.166.186:8080?security=none&type=httpupgrade&host=99.a.v.y.www.speedtest.net.ftp.debian.online.photoshott.ir#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-104.129.166.186:8080
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.227.57:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.227.57:443
-vless://6af4854b-9d20-405e-9801-0692845f3a7b@193.151.150.95:2080?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-193.151.150.95:2080
