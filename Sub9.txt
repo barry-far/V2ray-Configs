@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.204.102:80?security=none&sni=us3.rtacg.com&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.204.102:80
-vless://03a9c9ee-1e6e-4779-8171-b2aac2357d0c@104.17.175.151:8443?security=tls&sni=Tigoo.dignity-19.com&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.175.151:8443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@192.200.160.254:443?security=tls&sni=hv.ylks.xyz&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-192.200.160.254:443
 vless://88496a3c-1f0b-4ade-9fab-26b105a295ba@172.67.185.21:2087?security=tls&sni=rpn.vrank.ir&type=ws&host=rpn.vrank.ir&path=/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.185.21:2087
 vless://e945a5ba-b3a1-4208-d069-e7177993c80d@104.21.42.250:443?security=tls&sni=www.GozargahVPN.top&type=ws&host=www.GozargahVPN.top&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.42.250:443
@@ -603,3 +601,5 @@ vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.176.24.186:443?security=tls&sni
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.15.73:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.15.73:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.45.156:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.45.156:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.209.199:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.209.199:80
+vless://e16e9768-240f-4ff2-8c29-36d220ed2aa4@104.26.11.194:443?security=tls&sni=msnghdfy4c2.cpiforpersia.uk&type=grpc&serviceName=BLsNlVjvcrWGqHh74mj&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.26.11.194:443
+vless://803a2957-2f05-4259-acab-78e2904d0a6d@104.17.47.75:8080?type=ws&host=join-to.vmessorg.Community.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D8080#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.47.75:8080

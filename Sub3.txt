@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://CMLiu@59.3.3.161:443?allowInsecure=1&sni=aliorg.filegear-sg.me&ws=1&wspath=%2F%3Fed%3D2048#12%7CKR_speednode_0048
-trojan://CMLiu@43.153.80.208:443?allowInsecure=1&sni=aliorg.filegear-sg.me&ws=1&wspath=%2F%3Fed%3D2048#12%7CUS_speednode_0084
 vmess://eyJ2IjoiMiIsInBzIjoiMTN8ZCoqKioqKioqKmcuY29tXzIgIzMiLCJhZGQiOiI0Mi4yMzYuNzMuNzIiLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjA0NGYwMTc3LTA2NzUtNGRjZi04OWQ0LTgwNGI2Nzg4ZTUxOCIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiJ0bHMifQ==
 trojan://fuck@42.236.73.72:443?allowInsecure=0&sni=www.zitian.cn#3
 
@@ -603,3 +601,5 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.175.201:80?security=none&typ
 vless://fae72d2b-3ed7-4bcf-8869-0155befd20ad@94.242.231.141:80?type=ws&host=hJ-dE.sHaHidrazI.OnlInE.#🔒 VL-WS-NA 🇱🇺 LU-94.242.231.141:80
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@188.42.88.130:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2Fsecurity#🔒 VL-WS-TLS 🇱🇺 LU-188.42.88.130:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.200.113:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.200.113:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.164.140:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.164.140:80
+vless://ff1ea66a-a918-4c52-8437-e7c816d28d87@104.17.148.22:8880?security=none&type=httpupgrade&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ht85.cloudfront.net.kiava.fun#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.17.148.22:8880
