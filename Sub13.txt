@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.140:80?security=none&type=ws&host=a.ssll.gay&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.224.140:80
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@47.236.202.91:2087?security=tls&sni=fv.ylks.xyz&type=ws&path=/#🔒 VL-WS-TLS 🇸🇬 SG-47.236.202.91:2087
 vless://5b5837b3-8f77-4a73-9b37-a61a86c4a0d7@104.21.11.34:443?security=tls&sni=moonlight.irani.host&type=ws&host=moonlight.irani.host&path=a61a86c4a0d7#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.11.34:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.231.151:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.231.151:443
@@ -603,3 +602,4 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.184.157:80?security=none&typ
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.254.221:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.254.221:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.163.34:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.163.34:443
 vless://85df936c-3431-45f5-95b0-2c2204f3f29e@152.42.236.0:443?security=tls&sni=m.zoom.us&type=tcp&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-TCP-TLS 🇸🇬 SG-152.42.236.0:443
+vless://713e999f-9590-4419-e49c-5a682ec5d4f7@172.67.66.177:2083?security=tls&sni=ch.RxV2ray.space&type=grpc&serviceName=@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.66.177:2083
