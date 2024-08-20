@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.154.163:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.154.163:443
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.207.2:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.207.2:443
 vless://6ee30cf9-b287-415b-8738-917e58868be1@172.67.206.39:8080?security=none&type=ws&host=v2rayfast_7.xn--78-pv2cvta065cac9302fea377a148g.website.#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.206.39:8080
 vless://43c3596e-6fd2-49ff-9344-57ae65b9694d@108.162.194.232:443?security=tls&sni=e5jbki.testsnew.com&type=ws&host=e5jbki.testsnew.com&path=%2Fwss&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.194.232:443
 vless://ee3fda1f-d8ec-44c7-942e-7e980b0b941c@172.67.210.56:2052?security=none&type=ws&host=P.a.n.jetupnet.sbs.#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.210.56:2052
@@ -601,5 +603,3 @@ vless://3ab8b59a-fdd7-47bb-ceca-b00079a78a61@104.21.28.188:80?security=none&type
 vless://2ca42987-551b-4494-a854-da2d9178f4cd@104.18.25.92:2087?security=tls&sni=LnCsYjPe22.zImBa-zUlA.OrG&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.25.92:2087
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.146.38:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.146.38:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.50.3:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.50.3:80
-vless://7379eb18-959d-4b33-ddf7-e9369a0e1769@170.114.46.1:443?security=tls&sni=ger.vwfghin.info&type=grpc#🔒 VL-GRPC-TLS 🇺🇸 US-170.114.46.1:443
-vless://0ee74307-c9b8-4a7c-9197-2b4b891fdb31@162.159.136.234:2095?security=none&type=httpupgrade&host=germa.cUstomizespeedtest.net.&path=%2Fwww.speedtest.net%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-162.159.136.234:2095
