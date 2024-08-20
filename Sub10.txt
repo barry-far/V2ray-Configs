@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.177.74:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.177.74:80
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@185.133.35.98:443?security=tls&sni=iv.ylks.xyz&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇧🇷 BR-185.133.35.98:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.206.16:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.206.16:80
 vless://77de458b-5d58-4379-927a-7e749b2d17f8@104.21.21.88:443?security=tls&sni=test.gold15.ir&type=grpc&serviceName=fast.com&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.21.88:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.23.180:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.23.180:80
@@ -603,3 +601,5 @@ vless://5e0eb74b-51f4-42b1-a0bb-55863ca79568@172.64.146.80:443?security=tls&sni=
 vless://561bc9ae-9d67-4a67-cd72-e3d3f80dbed3@172.67.214.110:443?security=tls&sni=rammstein.tagnovolta.workers.dev&type=ws&host=rammstein.tagnovolta.workers.dev&path=/downloader/59316&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.214.110:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@108.165.216.167:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-108.165.216.167:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.107.214:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-185.148.107.214:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.206.74:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.206.74:80
+vless://058b2e58-980e-4460-859e-ee4c5afbf9fe@89.116.161.81:8080?security=none&type=httpupgrade&host=99.a.v.y.www.speedtest.net.ftp.debian.online.photoshott.ir#🔒 VL-HTTPUPGRADE-NONE 🇱🇹 LT-89.116.161.81:8080
