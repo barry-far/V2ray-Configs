@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.20.53.253:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.53.253:80
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.87.215:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.87.215:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.158.87:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.158.87:443
 vless://8aa5a0c3-bd17-466a-8216-aad44aea0d4c@104.21.60.115:443?security=tls&sni=MCIGodNetiop.VpFReeSecAdmin.Online&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.60.115:443
 vless://9902fc94-31f9-4afe-b37a-82f5790b3d2a@104.24.20.71:443?security=tls&sni=de1-moryvpnbot.pages.dev&type=ws&host=de1-moryvpnbot.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.20.71:443
@@ -603,3 +601,5 @@ vless://6475e370-b6fb-45de-b377-5796ba96e645@104.26.7.149:2053?security=tls&sni=
 vless://e2c3e5b6-ef09-4649-bd32-b0f448a073e3@104.31.16.98:80?type=ws&host=server-j377d.xbox.blackops1.heydasuk.name.ng&path=/#🔒 VL-WS-NA 🏴‍☠️ NA-104.31.16.98:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.240.250:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.240.250:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@47.236.189.92:80?type=ws&host=a.ssll.gay&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai_8%20%2F%3Fed%3D2048#🔒 VL-WS-NA 🇸🇬 SG-47.236.189.92:80
+vless://c32b1429-92aa-4be7-912e-4d63b0a31fc7@172.64.172.207:443?security=tls&sni=can01.nimserver.top&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.64.172.207:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.64.155.68:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.155.68:80
