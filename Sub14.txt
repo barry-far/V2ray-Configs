@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://fdeb1920-2627-49e4-8eb0-d28a50f573ea@188.114.98.224:8880?security=none&type=httpupgrade&host=SHHproxy--shhPROXY--SHHproxy.PlusFood.org.#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-188.114.98.224:8880
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.124.103:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.124.103:443
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.3.1:80?security=none&type=ws&host=fraud.chase#🔒 VL-WS-NONE 🇺🇸 US-151.101.3.1:80
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.201.8:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.201.8:443
 vless://cdd562e2-93bc-4541-8f74-28dd32ed52b4@104.20.18.168:2086?security=none&type=ws&host=mci.你有一个不光彩的问题.website.&path=/?ed#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.18.168:2086
 vless://51baeda8-1288-458a-b5ae-b8b080b937b6@104.27.1.85:8880?type=ws&host=樱桃.浆果.草莓.我们生活在2024地狱.site.#🔒 VL-WS-NA 🏴‍☠️ NA-104.27.1.85:8880
 vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.212.122:8919?type=tcp&serviceName=-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any&host=varzesh3.com&path=/&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-62.60.212.122:8919
@@ -599,7 +603,3 @@ vless://0f3137a5-ce08-499c-ad63-a0de19ae06b4@103.184.45.136:8080?security=none&t
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.91.173:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.91.173:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.236.240:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.236.240:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.111.69:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.111.69:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.203.226:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.203.226:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.16.16:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.16.16:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.51.246:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.51.246:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.171.30:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.171.30:80
