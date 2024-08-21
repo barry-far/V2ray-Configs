@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.245.17:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.245.17:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.64.151.221:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.151.221:80
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?security=none&type=ws&path=/http#🔒 VL-WS-NONE 🇫🇷 FR-162.19.228.119:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.60.155:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.60.155:80
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@146.56.37.60:20017?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&fp=chrome#🔒 VL-WS-TLS 🇰🇷 KR-146.56.37.60:20017
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.22.221:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.22.221:80
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@8.210.207.214:2053?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&fp=chrome#🔒 VL-WS-TLS 🇭🇰 HK-8.210.207.214:2053
@@ -603,3 +599,7 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@204.93.210.185:8443?security=tls&sn
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.175.253:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.175.253:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.224.188:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.224.188:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.110.17:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.110.17:443
+vless://cf1373d3-0089-42b5-a890-2b1c5d41735e@104.18.118.125:2087?security=tls&sni=Mo4.SahEBdELANKHodaRAnooNsHAbNiazBEKarEnotxxX-IUP.SpAcE&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.118.125:2087
+vless://058b2e58-980e-4460-859e-ee4c5afbf9fe@45.80.110.221:8080?security=none&type=httpupgrade&host=99.a.v.y.www.speedtest.net.ftp.debian.online.photoshott.ir#🔒 VL-HTTPUPGRADE-NONE 🇪🇪 EE-45.80.110.221:8080
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.111.66:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.111.66:443
+vless://52ed8850-ee79-4c55-90b6-1d6e5c29e160@103.184.44.158:443?security=tls&sni=66.811243165.xyz&type=ws&host=66.811243165.xyz&path=/graphql#🔒 VL-WS-TLS 🏴‍☠️ NA-103.184.44.158:443
