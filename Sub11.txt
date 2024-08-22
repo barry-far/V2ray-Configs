@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.184.19:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.184.19:443
 vless://f752f400-a4dc-494a-b716-5dd9e55bfab3@5.160.46.23:2096?security=none&type=tcp&host=google.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.160.46.23:2096
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.123.207:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.123.207:443
 vless://ca3ee03d-c4e8-4da0-b77e-b35b08b401cc@172.234.222.143:443?security=tls&sni=server1.popprime.shop&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🇺🇸 US-172.234.222.143:443
@@ -602,4 +603,3 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.25.190:80?security=none&type
 vless://5faa94c6-ea27-4ea0-9e39-2de3d6ea9be1@172.67.160.179:8880?security=none&sni=channel-falcunargo.efa180b5d7.workers.Dev&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.160.179:8880
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.113.85:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.113.85:443
 vless://ed139c1e-660a-4845-aced-a7069dcb6e7d@190.93.247.130:8443?security=tls&sni=eyd.Saeedgalaxy.xyz&type=ws&host=eyd.saeedgalaxy.xyz&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.247.130:8443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.127.0:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.127.0:80
