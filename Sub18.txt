@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.87.141:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.87.141:443
+vless://81f1f510-3ca7-4734-8956-0f4fce670af5@34.192.22.202:80?security=none&type=ws&host=www.wasa.com&path=/fastssh/xmxmmxmxm/63482aa422d82/#🔒 VL-WS-NONE 🇺🇸 US-34.192.22.202:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.40.172:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.40.172:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.226.17:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.226.17:80
 vless://9ab3fa2d-9cf2-4edf-a535-a4e879cf7ddc@162.159.133.234:2053?security=tls&sni=TestForV2ray.vpncustomize.com&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.133.234:2053
@@ -601,5 +603,3 @@ trojan://auto@162.159.152.153:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd
 trojan://559c3b5f-3dd1-47e4-94ad-017cb392a7ba@162.159.130.234:443?security=tls&sni=de1.trojanvpn.de&type=ws&host=de1.trojanvpn.dE&path=%2Fpath%2FAlfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.130.234:443
 trojan://4f2f34cc-d2e9-4ca8-a687-68efe5ad5959@23.99.97.169:443?#🔒 TR-TCP-NA 🇭🇰 HK-23.99.97.169:443
 trojan://moist@47.238.0.114:2096?security=tls&sni=trojan.freenods.sbs&type=ws&host=trojan.freenods.sbs#🔒 TR-WS-TLS 🇭🇰 HK-47.238.0.114:2096
-trojan://trojan@104.18.5.250:2053?security=tls&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&type=ws&host=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.5.250:2053
-trojan://7d2f4381-c5d5-38ae-9ee9-5dd8e37f66d7@45.67.228.199:443?security=tls&sni=nl1.nodegz.top&type=tcp#🔒 TR-TCP-TLS 🇳🇱 NL-45.67.228.199:443
