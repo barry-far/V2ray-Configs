@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@cn1.cdn.xfltd-cdn.top:12005?allowInsecure=1&sni=cn1.cdn.xfltd-cdn.top#12%7CCN_speednode_0011
+trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@cn1.cdn.xfltd-cdn.top:12012?allowInsecure=1&sni=cn1.cdn.xfltd-cdn.top#12%7CCN_speednode_0012
+trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@cn2.cdn.xfltd-cdn.top:12071?allowInsecure=1&sni=cdn.alibaba.com#12%7CCN_speednode_0014
+trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@cn2.cdn.xfltd-cdn.top:12031?allowInsecure=1&sni=cdn.alibaba.com#12%7CCN_speednode_0015
+trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@cn2.cdn.xfltd-cdn.top:12032?allowInsecure=1&sni=cdn.alibaba.com#12%7CCN_speednode_0016
+trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@cn2.cdn.xfltd-cdn.top:12033?allowInsecure=1&sni=cdn.alibaba.com#12%7CCN_speednode_0017
+trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@cn2.cdn.xfltd-cdn.top:12034?allowInsecure=1&sni=cdn.alibaba.com#12%7CCN_speednode_0018
+trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@cn2.cdn.xfltd-cdn.top:12035?allowInsecure=1&sni=cdn.alibaba.com#12%7CCN_speednode_0019
 trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@cn2.cdn.xfltd-cdn.top:12073?allowInsecure=1&sni=cdn.alibaba.com#12%7CCN_speednode_0020
 trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@cn2.cdn.xfltd-cdn.top:12051?allowInsecure=1&sni=cdn.alibaba.com#12%7CCN_speednode_0021
 trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@cn2.cdn.xfltd-cdn.top:12052?allowInsecure=1&sni=cdn.alibaba.com#12%7CCN_speednode_0022
@@ -595,11 +603,3 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.15.83:443?security=tls&sni=m
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.73.115:443?security=tls&sni=mmdvpn442vpn442.cicgof.workers.Dev&type=ws&host=mmdvpn442vpn442.cicgof.workers.Dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.73.115:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.196.62:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.196.62:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.21.44:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.21.44:80
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.219.55:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.219.55:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.174.34:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.174.34:80
-vless://f8f5dce2-e66b-45bd-957e-53c1ecdda37a@104.21.3.182:443?security=tls&sni=jAVIdshAh.PageS.deV&type=ws&host=jAVIdshAh.PageS.deV#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.3.182:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.28.21:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.28.21:80
-vless://722c66e2-bce4-46d2-a2f9-cb04e3bed034@162.159.192.88:443?security=tls&sni=ANa-4bA.PaGeS.DEv&type=ws&host=aNa-4ba.PaGEs.DEv&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.192.88:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.65.162:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.65.162:80
-vless://89420825-e589-4735-bee1-6dc636fca343@172.67.183.125:443?security=tls&sni=w3.sylarsun.eu.org&type=ws&host=w3.sylarsun.eu.org#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.183.125:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.10.142:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.10.142:80

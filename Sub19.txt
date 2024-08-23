@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://e8012565-5b9f-373f-b1eb-e2445711e65c@74.48.214.4:17644?security=tls&sni=freefhc01.jd0001.top&type=grpc&serviceName=freefhc01#🔒 TR-GRPC-TLS 🇺🇸 US-74.48.214.4:17644
+trojan://auto@172.64.146.66:8443?security=tls&sni=547c921f-c9b1-4d57-bb25-ff5c79749783.a09c5a67-316e-45c6-a051-e6066737fd47.theworkpc.com&type=ws&host=547c921f-c9b1-4d57-bb25-ff5c79749783.a09c5a67-316e-45c6-a051-e6066737fd47.theworkpc.com&path=%2Fabbas.ab841vpn.workers.dev%2F%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.146.66:8443
+trojan://auto@162.159.153.125:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.125:443
+trojan://CMLiu@65.109.184.193:2087?security=tls&sni=aliorg.filegear-sg.me&type=ws&host=aliorg.filegear-sg.me&path=%2F#🔒 TR-WS-TLS 🇫🇮 FI-65.109.184.193:2087
+trojan://Watashi_VPN@104.18.13.229:2053?security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.13.229:2053
+trojan://a36dfa0e-5a34-4e77-8513-87350f38e0a6@104.16.35.46:443?security=tls&sni=lmtsg3.cfyun01.sbs&type=ws&host=lmtsg3.cfyun01.sbs&path=/CFYUN#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.35.46:443
+trojan://b10f2914-0401-4eff-ac4f-e430aeda0c45@172.64.33.100:443?security=tls&sni=cfsg2.trojanwss.xyz&type=ws&host=cfsg2.trojanwss.xyz&path=%2FCFJICHANG#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.33.100:443
+trojan://trojan@104.17.148.22:8443?security=tls&sni=ana-service--xn--kbraa23dbb976icac773ddad2349aeae99rfaf8546aga0.mjxrwd.workers.dev&type=ws&host=ana-service--xn--kbraa23dbb976icac773ddad2349aeae99rfaf8546aga0.mjxrwd.workers.dev&path=%2F%3Fed%3D2560&fp=random#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.148.22:8443
 trojan://Libertas*One*E*@172.67.180.35:443?security=tls&sni=ironone.libertasiran.cloud&type=ws&path=/n890&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.180.35:443
 trojan://auto@172.66.47.128:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.47.128:443
 trojan://7b06d22a8a7c764f@45.11.104.94:3306?security=tls&sni=n2.gladns.com&type=ws&host=n2.gladns.com&path=/gateway/connect#🔒 TR-WS-TLS 🇺🇸 US-45.11.104.94:3306
@@ -595,11 +603,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsMnpFb0xWN1hid1U0WnZHTjQ2Z3ly@165.22.208.240
 ss://ZTYyMGU2OTYtYjRlZS00ZmIyLWIxOTAtZjZiZGFlZGZhODY5Og==@104.18.13.229:8443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.18.13.229:8443
 ss://YWVzLTI1Ni1nY206WWYzMmE3M2czQ3Mzb0VOSA==@62.106.66.133:8388#🔒 SS-TCP-NA 🇳🇱 NL-62.106.66.133:8388
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.121.43.71:5004#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:5004
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@142.202.49.68:5498#🔒 SS-TCP-NA 🇺🇸 US-142.202.49.68:5498
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ZGRiZWIyMS0xNWZiLTRhYTUtOGNjMy0zNGRmNjAxYzFmMDI=@46.232.123.37:50219#🔒 SS-TCP-NA 🇭🇰 HK-46.232.123.37:50219
-ss://ZDllYjBkZjMtMzE5MC00NDQ3LTg2YjYtNjU2ZmU1ZmYxMTE5Og==@172.64.169.33:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.64.169.33:443
-ss://OTk0YzkxZGQtYjI4Mi00YzI1LWEwYzUtYWY3NmI0ODBjMDgwOg==@2.189.59.3:443#🔒 SS-TCP-NA 🇮🇷 IR-2.189.59.3:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0M2MxNTg5Yi0zZTA1LTRiYmQtYWVlYy0xNmZlMWYwZjVkYTU=@213.130.141.113:39418#🔒 SS-TCP-NA 🇭🇰 HK-213.130.141.113:39418
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEeTZ2VnFmQmZuRDBYR2JFRUNFZDBl@212.113.106.76:61992#🔒 SS-TCP-NA 🇦🇹 AT-212.113.106.76:61992
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.178.87.37:804#🔒 SS-TCP-NA 🇫🇷 FR-51.178.87.37:804
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLRDFISHF3M3F5SzdSaGFpcGlxUmFw@193.201.15.185:35199#🔒 SS-TCP-NA 🇨🇾 CY-193.201.15.185:35199
