@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://3b112103-a797-4168-97bc-790c06b34fc5@95.38.202.71:440?security=none&type=tcp&host=divarcdn.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-95.38.202.71:440
-vless://f0294665-d00f-41db-bffa-e4bd6895067e@199.59.243.226:2083?security=tls&sni=join20.maznet.cfd.&type=ws&host=join20.maznet.cfd.&path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-199.59.243.226:2083
 vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.210.64.11:443?security=tls&sni=vsdfee.azurewebsites.net&type=ws&host=vsdfee.azurewebsites.net&path=/#🔒 VL-WS-TLS 🇯🇵 JP-20.210.64.11:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.98.133:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.98.133:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.72.96:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.72.96:80
@@ -603,3 +601,5 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.87.38:80?security=none&type=
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@104.16.150.237:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=TG@ZDYZ2&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.150.237:443
 vless://2fa795d7-92dc-42e0-9363-0ae2281ca32d@78.39.47.161:2010?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-78.39.47.161:2010
 vless://eb44e1c7-e5ba-4446-807c-a0768a8f4589@104.16.12.226:2083?security=tls&sni=amovpn6.fqservers.com&type=ws&host=amovpn6.fqservers.com&path=/channel:@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.12.226:2083
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.75.236:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.75.236:80
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@168.100.6.89:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-168.100.6.89:443

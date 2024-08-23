@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.37.121:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.37.121:80
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.212.244:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.212.244:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.20.54.229:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.20.54.229:80
 vless://c22f2805-69b1-4cfa-ded8-d9baac99c232@104.16.243.71:2053?security=tls&sni=narcodd.numallaf.shop&type=grpc&serviceName=@narcod_ping&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.243.71:2053
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@47.236.17.193:80?type=ws&host=a.ssll.gay&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai_8%20%2F%3Fed%3D2048#🔒 VL-WS-NA 🇸🇬 SG-47.236.17.193:80
@@ -603,3 +601,5 @@ trojan://ce2c0460-561f-11ef-b79c-1239d0255272@15.204.234.166:443?#🔒 TR-TCP-NA
 trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@82.117.226.218:12003?sni=cn1.cdn.xfltd-cdn.top#🔒 TR-TCP-NA 🇰🇷 KR-82.117.226.218:12003
 trojan://auto@162.159.153.243:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.243:443
 trojan://trojan@104.17.147.22:8443?security=tls&sni=ana-service--xn--kbraa23dbb976icac773ddad2349aeae99rfaf8546aga0.mjxrwd.workers.dev&type=ws&host=ana-service--xn--kbraa23dbb976icac773ddad2349aeae99rfaf8546aga0.mjxrwd.workers.dev&path=%2F%3Fed%3D2560&fp=random#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.22:8443
+trojan://NISHIKUITAN222@34.105.49.234:443?security=tls&sni=t726.ylks.link&type=ws&host=t726.ylks.link&path=/#🔒 TR-WS-TLS 🇺🇸 US-34.105.49.234:443
+trojan://4aec4e7f8cf8454ea4613659822e1a61@104.17.147.9:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.9:443
