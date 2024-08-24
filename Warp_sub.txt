@@ -5,8 +5,8 @@
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
 warp://auto#WarpInWarp ⭐️&&detour=warp://auto#Warp 🇮🇷
-warp://188.114.98.176:1843?ifp=5-10#WiW-🟢&&detour=warp://162.159.195.231:1843?ifp=5-10#WARP-🟢
-warp://162.159.195.231:1843?ifp=5-10#WiW-🔵&&detour=warp://188.114.98.176:1843?ifp=5-10#WARP-🔵
+warp://188.114.99.37:500?ifp=5-10#WiW-🟢&&detour=warp://162.159.195.5:500?ifp=5-10#WARP-🟢
+warp://162.159.195.5:500?ifp=5-10#WiW-🔵&&detour=warp://188.114.99.37:500?ifp=5-10#WARP-🔵
 warp://@auto4/?ifp=1-3&ifpm=m4#Tehran-A&&detour=warp://@auto4/?ifp=1-3&ifpm=m6#Berlin-A
 warp://@auto4/?ifp=1-2&ifpm=m5#Tehran-B&&detour=warp://@auto6/?ifp=2-4&ifpm=m3#Berlin-B
 warp://@auto4/?ifp=1-3&ifpm=m1#Tehran-C&&detour=warp://@auto4/?ifp=1-3&ifpm=m2#Berlin-C
