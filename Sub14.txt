@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.160.218:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.160.218:80
-vless://ac61724f-5b45-57da-afc9-961bff0bbf40@172.67.182.221:2053?security=tls&sni=vpnkenzo5.nptkbb.wORKers.DEV&type=ws&host=vpnkenzo5.nptkbb.wORKers.DEV&path=vless-ws%2F%3Fed%3D2048&fp=edge&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.182.221:2053
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.194.150:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.194.150:443
 vless://496475c7-bb33-4515-8b45-d5fd1ae423bb@162.159.140.220:2096?security=tls&sni=p.amniat.monster&type=grpc&serviceName=@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.140.220:2096
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.4.82:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.4.82:80
@@ -603,3 +601,5 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.5.86:80?security=none&type=w
 vless://dcdb3552-9550-4278-b0e7-09ce5a73a6b3@185.146.173.88:8880?type=grpc&serviceName=Telegram#🔒 VL-GRPC-NA 🇸🇪 SE-185.146.173.88:8880
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.23.101:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.23.101:80
 vless://e5d1eb39-a476-41f8-8cce-0693f1f0f3cc@94.182.222.42:643?security=none&type=tcp&host=telewebion.com&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.222.42:643
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.73.86:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.73.86:80
+vless://4442cc6e-5913-4dba-b787-02d86b6101c7@103.35.189.42:443?security=tls&sni=zula.ir.ftp.debian.org.www.speedtest.net.www.you.com.www.visa.com.www.parsvds.ir.www.wto.org.www.cloudflare.com.&type=tcp&host=us1.x2fast.net&path=%2Fhttp&headerType=http&fp=chrome#🔒 VL-TCP-TLS 🇺🇸 US-103.35.189.42:443
