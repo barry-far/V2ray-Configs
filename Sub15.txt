@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://fc5fd045-f911-4220-8f76-1ac4115e51c4@172.67.170.71:2087?security=tls&sni=bmw.nonoal.xyz&type=grpc&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.170.71:2087
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.165.2:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.165.2:443
 vless://e2ed91fe-808a-4d63-bcd9-1487769bfaaa@185.146.173.22:2083?security=tls&sni=forward222.maryam1500.top&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.22:2083
 vless://7de38e1d-0442-463c-9527-026e9237dbde@185.146.173.67:8880?type=ws&path=/Free#🔒 VL-WS-NA 🇸🇪 SE-185.146.173.67:8880
@@ -603,3 +602,4 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.174.186:80?security=none&typ
 vless://4015a246-a042-4372-a64a-919171ca8593@188.114.97.3:2052?security=none&type=ws&host=1.ftp.debian.org.www.speedtest.net.免费上网67.Site.#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.97.3:2052
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@63.141.128.108:443?security=tls&sni=fh.ylks.xyz&type=ws&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-63.141.128.108:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.226.23:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.226.23:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.162.79:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.162.79:80

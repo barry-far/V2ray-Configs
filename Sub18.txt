@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.90.223:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.90.223:80
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@188.114.98.220:443?security=tls&sni=test57.pages.dev&type=ws&host=test57.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.220:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.52.68:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.52.68:443
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@35.201.203.106:443?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇹🇼 TW-35.201.203.106:443
@@ -603,3 +602,4 @@ trojan://telegram-id-directvpn@3.17.194.59:22222?security=tls&sni=trojan.burgeri
 trojan://984e400bf5d541b7b0815913fe0c432a@104.19.171.9:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.171.9:443
 trojan://CMLiu@65.109.184.193:2087?security=tls&sni=aliorg.filegear-sg.me&type=ws&host=aliorg.filegear-sg.me&path=%2F#🔒 TR-WS-TLS 🇫🇮 FI-65.109.184.193:2087
 trojan://ypDt8RkT7J@185.180.13.70:43118?security=tls&sni=earya.phooeyunfold.com#🔒 TR-TCP-TLS 🇺🇸 US-185.180.13.70:43118
+trojan://telegram-id-directvpn@35.177.93.208:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-35.177.93.208:22222
