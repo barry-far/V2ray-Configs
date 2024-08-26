@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://b429e4f2-2382-5395-a03c-1a7d1677173b@104.21.60.185:443?security=tls&sni=parmo.hirore2452.WOrKERS.deV&type=ws&host=parmo.hirore2452.WOrKERS.deV&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.60.185:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.237.250:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.237.250:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.203.172:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.203.172:443
 vless://058b2e58-980e-4460-859e-ee4c5afbf9fe@104.129.166.232:8080?security=none&type=httpupgrade&host=99.a.v.y.www.speedtest.net.ftp.debian.online.photoshott.ir#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-104.129.166.232:8080
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.64.157.119:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.157.119:80
@@ -603,3 +601,5 @@ trojan://86cceddb-c08a-3ffb-a7f0-cf6ab53739a7@217.142.249.49:37578?security=tls&
 trojan://Watashi_VPN@104.18.13.229:2053?security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.13.229:2053
 trojan://auto@172.67.203.182:443?security=tls&sni=esetsecuritylicense.bwnsmv.workers.dev&type=ws&host=esetsecuritylicense.bwnsmv.workers.dev&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.203.182:443
 trojan://c7f9b8f0-bfdb-11ee-a15c-1239d0255272@172.67.159.13:443?security=tls&sni=de1.test3.net&type=ws&host=de1.test3.net&path=/howdy#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.159.13:443
+trojan://ce2c0460-561f-11ef-b79c-1239d0255272@15.204.234.166:443?#🔒 TR-TCP-NA 🇺🇸 US-15.204.234.166:443
+trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@82.117.226.218:12033?sni=cdn.alibaba.com#🔒 TR-TCP-NA 🇰🇷 KR-82.117.226.218:12033
