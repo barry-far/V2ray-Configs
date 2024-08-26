@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.68.135.19:3389#🔒 SS-TCP-NA 🇺🇸 US-38.68.135.19:3389
-ss://YTY0ZjBjZWEtY2E4OS00MGU2LWIzMTYtYjNiYWRmZjFlYjkwOg==@104.26.7.112:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.26.7.112:443
-ss://NDNlMDBlNGMtMjMxNi00ZGM5LTgyNjItY2VmMzE4ODZkYzU2Og==@104.16.67.38:8443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.16.67.38:8443
-ss://NTZiM2NiYmEtZTdhYy00ODVhLTk0ODEtOTc2YTc5NDVlYWI5Og==@172.67.129.229:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.129.229:443
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.110.1.88:5499#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.88:5499
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwN0VoQzhNUjdvN0d1Um4yN1lGOFNRTkFLSjJsVWJCTklqY3lxU21CSHN5OHdMYko=@159.65.149.72:51348#🔒 SS-TCP-NA 🇮🇳 IN-159.65.149.72:51348
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.78:443#🔒 SS-TCP-NA 🇬🇧 GB-212.102.53.78:443
-ss://MjVkMGVlMmQtNDE5MC01MmJlLWI4OTItNDU4MTFjNmJhMjEwOg==@104.17.148.22:2053#🔒 SS-TCP-NA 🏴‍☠️ NA-104.17.148.22:2053
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.114.114.69:7002#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:7002
 ss://NWE1ZDk2NTQtMmYxZS00NTM3LWIzY2EtZTc2MTY4YjJlMDNmOg==@172.67.185.15:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.185.15:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphaUhvM2hCR0Y4aDFjTmc4eXF0Y080@45.153.231.33:46980#🔒 SS-TCP-NA 🇷🇺 RU-45.153.231.33:46980
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMWE3NzRhMS01YWUwLTRiZWQtYmVkMC1hYzA5ZWQ0MTc0NmE=@23.247.136.47:51121#🔒 SS-TCP-NA 🇸🇬 SG-23.247.136.47:51121
@@ -603,3 +594,12 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.22.116.208:443?allowInsecure=0&s
 vless://7f14e42a-f453-4c39-a762-019ee493237d@8.210.142.146:12346?allowInsecure=0&sni=zhongkui.pages.dev&type=ws&host=zhongkui.pages.dev&path=/?end=security=tls#12|HK_speednode_0075
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@58.176.229.127:35002?allowInsecure=0&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&path=/?ed=2048fp=randomized&security=tls#12|HK_speednode_0076
 trojan://CMLiu@59.3.3.161:443?allowInsecure=1&sni=aliorg.filegear-sg.me&type=ws&host=aliorg.filegear-sg.me&path=/?ed=2048#12|KR_speednode_0077
+vless://bd7d2c5c-86bc-4d5c-8c6b-a5c58981e68c@59.3.3.161:443?allowInsecure=0&sni=page-us-qg0.pages.dev&type=ws&host=page-us-qg0.pages.dev&path=/securityfp=chrome&security=tls#12|KR_speednode_0078
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@88.216.66.193:443?allowInsecure=0&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=/?ed=2048security=tls#12|LT_speednode_0079
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.242.230.56:2053?allowInsecure=0&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=/?ed=2048security=tls#12|LU_speednode_0080
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@188.42.88.130:443?allowInsecure=0&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=/security=tls#12|LU_speednode_0081
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@188.42.145.159:2096?allowInsecure=0&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=/?ed=2048security=tls#12|RU_speednode_0082
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.145.178:443?allowInsecure=0&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg@zdyz2fp=chrome&security=tls#12|RU_speednode_0083
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@188.42.145.90:8443?allowInsecure=0&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=/?edfp=chromefp=chrome&security=tls#12|RU_speednode_0084
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@188.42.145.90:8443?allowInsecure=0&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=/?edfp=chromefp=chromefp=chromefp=chrome&security=tls#12|RU_speednode_0085
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.59.218.0:443?allowInsecure=0&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg@zdyz2security=tls#12|RU_speednode_0086
