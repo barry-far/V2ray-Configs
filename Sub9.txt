@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://62876f90-7993-4a6c-b5e9-042e476a7f6f@104.21.60.147:2083?security=tls&sni=panel.jerkinheadplus.ir&type=ws&host=panel.jerkinheadplus.ir&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.60.147:2083
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.120.95:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.120.95:443
 vless://7f64eeb1-b5f1-40a0-d80e-e6c718f6bd6a@172.66.213.38:2096?security=tls&sni=mci.ircf.space&type=grpc&serviceName=(&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.66.213.38:2096
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.221.124:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.221.124:443
@@ -603,3 +602,4 @@ vless://48198295-b7ba-4b5c-8d85-085d55a6c869@212.183.88.103:443?security=tls&sni
 vless://e2fbd763-57e0-4a42-b083-4ef713bb0300@104.17.247.203:443?security=tls&sni=x3.dalidalton.online&type=grpc&serviceName=Telegram+:+@vpn_xw+Telegram+:+@vpn_xwTelegram+:+@vpn_xwTelegram+:+@vpn_xwTelegram+:+@vpn_xwTelegram+:+@vpn_xwTelegram+:+@vpn_xwTelegram+:+@vpn_xwTelegram+:+@vpn_xwTelegram+:+@vpn_xwTelegram+:+@vpn_xwTelegram+:+@vpn_xw#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.247.203:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.228.105:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.228.105:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.186.38:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.186.38:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.26.3.36:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.3.36:80
