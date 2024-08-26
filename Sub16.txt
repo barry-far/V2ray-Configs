@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.167.80:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.167.80:80
+vless://3f00a759-7dc5-41c9-abba-72c555465930@5.160.109.7:160?security=none&type=tcp&host=zula.ir&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.160.109.7:160
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.63.4:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.63.4:443
 vless://04a6d9ad-15d1-5391-a47f-10c8a6ff3d94@104.21.59.254:8443?security=tls&sni=id-tel-vpnkenzo-1.bvxvgih.WOrkeRs.dEv&type=ws&host=id-tel-vpnkenzo-1.bvxvgih.WOrkeRs.dEv&path=vless-ws%2F%3Fed%3D2048&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.59.254:8443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.118:80?security=none&type=ws&host=a.ssll.gay&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.224.118:80
@@ -601,5 +603,3 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.100.215:443?security=tls&sni
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.97.212:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.97.212:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.220.12:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.220.12:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.179.111:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.179.111:443
-vless://1e248837-a2d0-4d87-9358-ba2a91daf6cc@104.18.6.24:8080?security=none&type=ws&host=2.v2ray.debian.org.fxp.debian.org.speedtest.net.secretshop.tech#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.6.24:8080
-vless://38928290-00af-4255-9006-57df913e1f95@185.53.142.134:80?security=none&type=ws&host=92322070.v2rAy.speedtest.net.parSpaCk.coM.pCi.ir.xn--10-cg7e.xn--4oqa52uba3842Dca.kiNg4uSd.sHop.#🔒 VL-WS-NONE 🇮🇷 IR-185.53.142.134:80
