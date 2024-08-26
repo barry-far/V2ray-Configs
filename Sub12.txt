@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://6f995056-7802-4a1d-bff7-61678e626c3f@40.74.100.138:443?security=tls&sni=sebbb.azurewebsites.net&type=ws&host=sebbb.azurewebsites.net&path=%2F&fp=chrome#🔒 VL-WS-TLS 🇯🇵 JP-40.74.100.138:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.220.98:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.220.98:80
 vless://086a4782-798c-40d8-afc7-263daf4a74ef@104.17.148.22:2095?security=none&type=httpupgrade&host=5.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2FConfigMs-ConfigMs-ConfigMs-ConfigMs-ConfigMs-ConfigMs-ConfigMs%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.17.148.22:2095
 vless://24347e96-912c-4f53-9c67-9cc895fc6fdf@185.146.173.20:2082?type=ws&host=h5.xn--gmq282ekfhyys3gs.com.&path=%2F#🔒 VL-WS-NA 🇸🇪 SE-185.146.173.20:2082
 vless://058b2e58-980e-4460-859e-ee4c5afbf9fe@45.80.110.135:8080?security=none&type=httpupgrade&host=99.a.v.y.www.speedtest.net.ftp.debian.online.photoshott.ir#🔒 VL-HTTPUPGRADE-NONE 🇪🇪 EE-45.80.110.135:8080
@@ -603,3 +601,5 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@47.236.93.176:80?type=ws&host=a.ssl
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.18.161:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.18.161:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.57.172:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.57.172:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.66.47.239:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.47.239:80
+vless://49e9aee4-ba22-40de-a1d5-9eeb935b10e3@172.67.186.23:2087?security=tls&sni=francess.almanalohapro.ir&type=grpc&serviceName=vless#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.186.23:2087
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@91.149.239.198:443?security=tls&sni=ox.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-91.149.239.198:443
