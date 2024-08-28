@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.102.255:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.102.255:443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@194.36.55.45:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇬🇧 GB-194.36.55.45:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.186.113:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.186.113:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.102.133:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.102.133:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.182.249:80?security=none&sni=us3.rtacg.com&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.182.249:80
@@ -601,5 +603,3 @@ trojan://yOzWF1r6Z6@5.35.103.230:443?security=tls&sni=blank.persianshirt.ir&type
 trojan://tg-dns68@13.228.142.218:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🇸🇬 SG-13.228.142.218:443
 trojan://CMLiu@59.3.3.161:443?security=tls&sni=aliorg.filegear-sg.me&type=ws&host=aliorg.filegear-sg.me&path=%2F#🔒 TR-WS-TLS 🇰🇷 KR-59.3.3.161:443
 trojan://auto@172.66.44.249:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&path=%2Fworker-polished-glade-fe47.tahajadidi2022.workers.dev%2F%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.44.249:443
-trojan://b10f2914-0401-4eff-ac4f-e430aeda0c45@162.159.4.8:443?security=tls&sni=cfsg2.trojanwss.xyz&type=ws&host=cfsg2.trojanwss.xyz&path=%2FCFJICHANG#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.4.8:443
-trojan://auto@162.159.153.244:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.244:443
