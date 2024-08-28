@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.26.1.153:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.1.153:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.104.205:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.104.205:80
 vless://51d19c6d-d0bf-4e0b-8eef-9a1d3f13c7e6@104.26.14.16:8443?security=tls&sni=vip-romax-tiktok.hsjsak.ir&type=ws&host=vip-romax-tiktok.hsjsak.ir&path=vless-ws%2F%3Fed&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.14.16:8443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.167.228:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.167.228:443
 vless://7fc5ab7c-57c3-4cad-ba92-a31101ea6db7@95.217.158.157:443?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇫🇮 FI-95.217.158.157:443
@@ -601,5 +603,3 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.26.6.240:80?security=none&type=
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.209.16:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.209.16:80
 vless://6ad08747-42b9-4618-8f11-ac47de0da0f8@172.67.197.154:80?security=none&type=ws&host=proxiiraniii.fiseye5589.workers.dev&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.197.154:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.224.128:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.224.128:80
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.91:443?security=tls&sni=Eb043CC5.mKhAlIli.pAGes.dEv&type=ws&host=eB043CC5.MkHALili.pAgEs.Dev&path=%2FGWJNSQdfI8oHCARM&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.91:443
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@160.153.0.183:2086?security=none&type=httpupgrade&host=TdWwPlBs61.kOmAtSo.oRg&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-160.153.0.183:2086
