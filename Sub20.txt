@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://telegram-id-privatevpns@13.60.160.113:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.60.160.113:22222
+trojan://telegram-id-directvpn@54.247.137.146:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-54.247.137.146:22222
+trojan://auto@172.66.47.7:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&path=%2Fworker-polished-glade-fe47.tahajadidi2022.workers.dev%2F%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.47.7:443
+trojan://auto@162.159.153.99:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.99:443
+trojan://tg-dns68@162.159.153.119:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&fp=chrome&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.119:443
 trojan://b10f2914-0401-4eff-ac4f-e430aeda0c45@162.159.6.6:443?security=tls&sni=cfsg2.trojanwss.xyz&type=ws&host=cfsg2.trojanwss.xyz&path=%2FCFJICHANG#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.6.6:443
 trojan://tg-dns68@152.70.245.66:12693?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fproxyip%3Dproxyip.us.fxxk.dedyn.io&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🇰🇷 KR-152.70.245.66:12693
 trojan://auto@162.159.152.218:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.218:443
@@ -598,8 +603,3 @@ ss://M2ZlZmMxMDAtZmFlZC00M2FkLWIwODctZDQ3ZGRmZTc1MTIxOg==@172.67.147.162:443#�
 ss://ZDllYjBkZjMtMzE5MC00NDQ3LTg2YjYtNjU2ZmU1ZmYxMTE5Og==@104.27.106.151:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.27.106.151:443
 ss://OGRhZjg0NTUtYzNjYy00NzE3LThlNWEtZjM2YzgyYTllYjJhOg==@172.67.208.209:2096#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.208.209:2096
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxOTAwNjdiOS02M2EzLTRmOGQtOWMxNi1lZTI3MzdhODdjMTQ=@46.232.123.37:50239#🔒 SS-TCP-NA 🇭🇰 HK-46.232.123.37:50239
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:812#🔒 SS-TCP-NA 🇯🇵 JP-185.172.113.182:812
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@15.204.87.222:5499#🔒 SS-TCP-NA 🇺🇸 US-15.204.87.222:5499
-ss://MDI0ZGI3NDctNmFiYi00ZjZjLTk2ZTYtOWRlZjUyZmUyYjNkOg==@104.21.16.153:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.16.153:443
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.47:3389#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.47:3389
-ss://ZDM0MmQxMWUtZDQyNC00NTgzLWIzNmUtNTI0YWIxZjBhZmE0Og==@104.18.22.217:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.18.22.217:443
