@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.164.53:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.164.53:80
-vless://77725f26-6bc5-493c-b23e-f60f3ac4dcf2@66.235.200.100:8080?type=ws&host=join-to.vmessorg.Community.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D8080#🔒 VL-WS-NA 🇺🇸 US-66.235.200.100:8080
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.124.103:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.124.103:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.30.197:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.30.197:80
 vless://25d0ee2d-4190-52be-b892-45811c6ba210@172.67.180.238:2096?security=tls&sni=folani.iiipok.WoRKeRS.DEv&type=ws&host=folani.iiipok.WoRKeRS.DEv&path=%2Fvless-ws%2F%3Fed%3D2048&fp=firefox&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.180.238:2096
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.142.30:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.142.30:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.190.69:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.190.69:80
@@ -603,3 +599,7 @@ trojan://telegram-id-directvpn@13.53.87.133:22222?security=tls&sni=trojan.burger
 trojan://50e10abd-3920-42a6-ad0c-6ec731d8c826@104.20.19.168:443?security=tls&sni=golinkwuxian.top&type=ws&host=555.golinkwuxian.top&path=/apple#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.19.168:443
 trojan://auto@162.159.152.10:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.10:443
 trojan://auto@162.159.153.199:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.199:443
+trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@82.117.226.218:12069?sni=cdn.alibaba.com#🔒 TR-TCP-NA 🇰🇷 KR-82.117.226.218:12069
+trojan://auto@104.18.41.190:8443?security=tls&sni=547c921f-c9b1-4d57-bb25-ff5c79749783.a09c5a67-316e-45c6-a051-e6066737fd47.theworkpc.com&type=ws&host=547c921f-c9b1-4d57-bb25-ff5c79749783.a09c5a67-316e-45c6-a051-e6066737fd47.theworkpc.com&path=%2Fabbas.ab841vpn.workers.dev%2F%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.41.190:8443
+trojan://tg-dns68@198.62.62.37:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&fp=chrome&alpn=h3#🔒 TR-WS-TLS 🇺🇸 US-198.62.62.37:443
+trojan://WwO6VNfw7v@104.18.29.7:2086?security=none&type=httpupgrade&host=google.com.telewebion.com.bmi.ir.fast.com.asus.com-icg738.lavazemkhoshina.ir.&path=%2FAsuS.CoM%3Fed%3D32846#🔒 TR-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.18.29.7:2086
