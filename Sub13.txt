@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.118.59:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.118.59:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.166.91:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.166.91:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.67.230:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.67.230:80
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@160.153.0.183:2086?security=none&type=httpupgrade&host=TdWwPlBs61.kOmAtSo.oRg&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-160.153.0.183:2086
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.54.252:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.54.252:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.231.207:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.231.207:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.196.13:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.196.13:80
@@ -599,7 +603,3 @@ vless://41613a08-3b05-4e40-92f2-e26f6c1c09cb@172.66.44.121:2096?security=tls&sni
 vless://f58710f1-f08e-4449-8847-d5aa4f62808b@104.20.18.168:8880?security=none&type=ws&host=tretret.sugweb.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.18.168:8880
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.254.113:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.254.113:80
 vless://81f1f510-3ca7-4734-8956-0f4fce670af5@3.218.75.95:80?security=none&type=ws&host=www.wasa.com&path=/fastssh/xmxmmxmxm/63482aa422d82/#🔒 VL-WS-NONE 🇺🇸 US-3.218.75.95:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.198.32:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.198.32:80
-vless://5761ee29-f51e-4c87-969c-0fbed20e4108@92.242.220.49:33585?security=none&type=tcp&host=chess.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-92.242.220.49:33585
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.139.210:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.139.210:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.138.102:443?security=tls&sni=PPaL03.kAizer-jaxCYN.WORKers.dEV&type=ws&host=PPAL03.KaiZer-JAxcyN.workErs.DEV&path=%2FPzIiDFAZzuCw8GDy%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.138.102:443
