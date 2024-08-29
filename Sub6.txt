@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.21.230.127:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.230.127:443
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.198.99:443?security=tls&sni=PPal03.YanoH73562.WORKErS.DEv&type=ws&host=PPAl03.YANOh73562.worKErS.Dev&path=%2FYGIoyfaSY5Jj3D9z%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.198.99:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.30.166:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.30.166:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.26.13.56:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.13.56:80
 vless://0fdc0235-0055-4203-a66f-f29e7e663d10@172.67.214.246:2096?security=tls&sni=tnetplus3.pages.dev&type=ws&host=tnetplus3.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.214.246:2096
@@ -601,5 +603,3 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.63.101:80?security=none&type
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.238.77:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.238.77:80
 vless://678ac895-92c2-4f27-a9d4-f1a89c5f5365@154.197.121.254:8443?security=tls&sni=mositr.freenods.sbs&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇸🇨 SC-154.197.121.254:8443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.9.134:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.9.134:80
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.161.201:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.161.201:443
-vless://29016d8b-f41a-4220-9ac9-5cb714af14d4@104.16.232.2:8880?security=none&type=splithttp&host=Daily-Configs-bahHwjHSJABbJnshb.www.speedtest.net.blackoutconnection.ir.&path=/#🔒 VL-SPLITHTTP-NONE 🏴‍☠️ NA-104.16.232.2:8880

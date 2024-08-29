@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://664f5f11-1231-486d-b416-b7b3ecdae76a@104.22.2.79:443?security=tls&sni=HETZNER-D.pages.DEV&type=ws&host=HETZNER-D.pages.DEV&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.2.79:443
+vless://d36c93b7-b7a0-43d3-b00a-ffa0c845ef83@151.101.194.219:443?security=tls&sni=speedtest.net&type=ws&host=torob.tr&path=%2F%3Fed%3D1024&fp=firefox&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-151.101.194.219:443
 vless://234b7bfa-49d6-436b-fb8b-8805503209a7@188.114.98.224:2053?security=tls&sni=sima.danesh.shop&type=grpc&serviceName=wearestand#🔒 VL-GRPC-TLS 🏴‍☠️ NA-188.114.98.224:2053
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@170.114.45.190:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇺🇸 US-170.114.45.190:443
 vless://1d86846c-5a27-43c8-8981-57bb75c82195@172.67.130.66:443?security=tls&sni=iyjil.cfonni.info&type=ws&host=iyjil.cfonni.info&path=%2Fparadise&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.130.66:443
@@ -601,5 +603,3 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.244.194:443?security=tls&sn
 vless://058b2e58-980e-4460-859e-ee4c5afbf9fe@104.31.16.102:8080?security=none&type=httpupgrade&host=99.a.v.y.www.speedtest.net.ftp.debian.online.photoshott.ir#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.31.16.102:8080
 vless://32f09b70-d2f7-11ee-abda-00505603e70d@172.67.158.12:443?security=tls&sni=st-gb-1.brocdn.com&type=ws&host=st-gb-1.brocdn.com&path=%2Fwebsocket#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.158.12:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.145.240:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.145.240:80
-vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@172.67.139.147:8080?security=none&type=ws&host=king1980.b91sptsl.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.139.147:8080
-vless://c46a54bf-b220-4c22-cd6e-fb1fcabda0af@162.159.140.220:2083?security=tls&sni=cpanel3.sassanidempire.com&type=ws&host=cpanel3.sassanidempire.com&path=%2Fws&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.140.220:2083
