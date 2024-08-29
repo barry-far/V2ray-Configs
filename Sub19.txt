@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.203.9:80?security=none&sni=us3.rtacg.com&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.203.9:80
-vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?security=none&type=ws&host=v2ra1.ecrgpk.workers.dev&path=%2FTELEGRAM-MARAMBASHI-MARAMBASHI-MARAMBASHI-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.44.135:80
-vless://538e00df-f7df-44d1-b5ec-25cc1a0ae7b3@184.28.253.28:443?security=tls&sni=www.pinterest.com&type=ws&host=a1.mehran.ir&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-184.28.253.28:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.1.248:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.1.248:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.16.201:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.16.201:80
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.64.89.170:443?security=tls&sni=3k.pureboy.eu.org&type=ws&host=3k.pureboy.eu.org#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.89.170:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.135.205:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.135.205:443
@@ -603,3 +599,7 @@ trojan://tg-dns68@162.159.152.236:443?security=tls&sni=vip.putata.eu.org&type=ws
 trojan://d3e663d2-5cce-56e1-a199-2fec6078fcb4@104.16.201.94:2096?security=tls&sni=mailbox.CpiForPersia.Uk&type=ws&host=mailbox.CpiForPersia.Uk&path=trojan-ws/?ed#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.201.94:2096
 trojan://e1c12e6f-a555-4ff8-b071-1e09dd5d91e6@3.64.163.50:443?security=tls&sni=t3.teslacdn2.live&type=tcp&host=t3.teslacdn2.live#🔒 TR-TCP-TLS 🇩🇪 DE-3.64.163.50:443
 trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@82.117.226.218:12025?sni=cdn.alibaba.com#🔒 TR-TCP-NA 🇰🇷 KR-82.117.226.218:12025
+trojan://oxcgPpS7rXEGZJ7sQe8BpbQ1LHfIKlDw@23.106.33.145:443?#🔒 TR-TCP-NA 🇬🇧 GB-23.106.33.145:443
+trojan://b753cc65-d7bf-43b4-af1d-537bd5373d3b@157.254.20.4:443?allowInsecure=1#🔒 TR-TCP-NA 🇭🇰 HK-157.254.20.4:443
+trojan://Libertas*One*E*@104.21.67.195:443?security=tls&sni=ironone.libertasiran.cloud&type=ws&path=/n890&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.67.195:443
+trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@82.117.226.218:12006?sni=cn1.cdn.xfltd-cdn.top#🔒 TR-TCP-NA 🇰🇷 KR-82.117.226.218:12006
