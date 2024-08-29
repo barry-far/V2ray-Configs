@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://e2ab0d33-9ca7-4b93-8fcf-b13651c75ae9@185.143.235.120:80?security=none&type=ws&host=ger1.melitest.sbs&path=/#🔒 VL-WS-NONE 🇮🇷 IR-185.143.235.120:80
 vless://fc1191c8-e724-482f-a492-90d3d386719c@172.67.182.207:2087?security=tls&sni=sisand.waztow.WoRkeRs.DEv&type=ws&host=sisand.waztow.WoRkeRs.DEv&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.182.207:2087
 vless://aabc3ef9-6968-4311-81b8-8cd0414c1904@104.24.177.7:80?security=none&type=ws&host=luact.zahedan.eu.org#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.177.7:80
 vless://7804e50e-6563-4016-a1e7-58b62f138aa2@23.227.39.179:2083?security=tls&sni=n2vpn.projectis.ir&type=ws&host=n2vpn.projectis.ir&path=/@n2vpn#🔒 VL-WS-TLS 🇨🇦 CA-23.227.39.179:2083
@@ -603,3 +602,4 @@ trojan://auto@104.21.44.210:443?security=tls&sni=esetsecuritylicense1.bwnsmv.wor
 trojan://tg-dns68@162.159.153.31:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&fp=chrome&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.31:443
 trojan://auto@159.246.55.132:443?sni=vip.123789.pp.ua&type=ws&host=vip.123789.pp.ua&path=/#🔒 TR-WS-NA 🇺🇸 US-159.246.55.132:443
 trojan://bpg9SJpHui@104.17.148.22:2052?security=none&type=ws&host=free.prochanel99.online&path=TelegramChanel:t.me/HTTP_injector99#🔒 TR-WS-NONE 🏴‍☠️ NA-104.17.148.22:2052
+trojan://telegram-id-privatevpns@13.60.160.113:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.60.160.113:22222
