@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.220.175:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.220.175:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.26.223:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.26.223:80
+vless://1e8e2283-4c2d-11ef-ad7f-00505605a82d@172.67.73.241:443?security=tls&sni=cdn-fr.brocdn.com&type=ws&host=cdn-fr.brocdn.com&path=%2Fwebsocket#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.73.241:443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@193.9.49.147:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-193.9.49.147:443
+vless://bfb2a951-ce40-4340-a869-f2c261c634df@151.101.64.223:443?security=tls&sni=python.org&type=ws&host=join-dailyconfigs.com&path=/-liv2@Daily_Configs-Tel--@Daily_Configs-Tel--@Daily_Configs&fp=chrome&alpn=h3,h2#🔒 VL-WS-TLS 🇺🇸 US-151.101.64.223:443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@147.78.140.131:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇧🇬 BG-147.78.140.131:443
 vless://826e43d2-dbe9-41a6-bbf8-3aed2f93f5d4@172.66.44.212:443?security=tls&sni=pardazeshvpn-tg20.pages.dev&type=ws&host=pardazeshvpn-tg20.pages.dev&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.212:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.114.177:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.114.177:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.10.197:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.10.197:443
@@ -597,9 +603,3 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.220.54:80?security=none&type
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.238.212:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.238.212:443
 vless://e2ab0d33-9ca7-4b93-8fcf-b13651c75ae9@185.143.234.120:80?security=none&type=ws&host=ger1.melitest.sbs&path=/#🔒 VL-WS-NONE 🇮🇷 IR-185.143.234.120:80
 vless://f68b1ea9-3c4e-405a-98b1-35ee3db36000@104.21.94.25:80?type=ws&host=vr4RlSu.kallepache.store&path=/graphql#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.94.25:80
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.8.145:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.8.145:443
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.117.73:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.117.73:80
-vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.212.64.4:443?security=tls&sni=shg2.azurewebsites.net&type=ws&host=shg2.azurewebsites.net&path=/#🔒 VL-WS-TLS 🇸🇬 SG-20.212.64.4:443
-vless://61958b98-d52a-420e-bb42-a3fd22985895@104.17.245.203:2096?security=tls&sni=italia.dalixw.fun&type=grpc&serviceName=.....&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.245.203:2096
-vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@104.22.48.253:80?security=none&type=ws&host=ehda.sajaditsme.com#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.48.253:80
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.193.57:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.193.57:443
