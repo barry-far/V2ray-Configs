@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://485a58a9-ecaa-4860-905e-7288ad7db007@143.204.130.206:80?security=none&type=ws#🔒 VL-WS-NONE 🇺🇸 US-143.204.130.206:80
 vless://0012d4b0-1ab7-466b-85e8-8eaf05c6db9c@213.176.0.240:43521?type=tcp&host=match-cdn.varzesh3.com&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-213.176.0.240:43521
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.148.131:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.148.131:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.225.59:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.225.59:80
@@ -602,4 +603,3 @@ vless://44f8846d-8ef0-47ab-97fd-3df5213e0f0b@85.9.112.146:3535?security=none&typ
 vless://c37423ca-0623-452b-bdce-55aecec53ce8@2.189.175.57:2052?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-2.189.175.57:2052
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.238:2053?security=tls&sni=JOINMahDIsERvEr-340.pageS.dev&type=ws&host=JoinmahDisErVer-340.PaGeS.DEv&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.238:2053
 vless://0b182df1-eb4f-4852-8a4f-8a4d8bd81620@151.101.130.187:443?security=tls&sni=target.com&type=ws&host=ramioncommunicationslimited.com&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-151.101.130.187:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.79.183:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.79.183:80
