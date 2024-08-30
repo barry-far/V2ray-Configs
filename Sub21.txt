@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://tg-dns68@162.159.152.156:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.156:443
+trojan://auto@162.159.153.92:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.92:443
 trojan://b84d16a244460e09@45.11.104.94:3306?security=tls&sni=n2.gladns.com&type=ws&host=TG.oeo12&path=%2Fgateway%2Fconnect#🔒 TR-WS-TLS 🇺🇸 US-45.11.104.94:3306
 trojan://Fvv4Bz926a@172.67.223.33:80?security=none&type=ws&host=admin.irayanconfig.ir#🔒 TR-WS-NONE 🏴‍☠️ NA-172.67.223.33:80
 trojan://auto@162.159.152.110:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.110:443
@@ -601,5 +603,3 @@ ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.121.43.71:8091#🔒 SS-TCP-NA 🇺�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpadTVzVmRoUElUa0lJMVJmOWJVVGp0MHdzMW5rczR2Z0JvSGhlN1F4d0VrMGozQWk=@146.185.198.44:51348#🔒 SS-TCP-NA 🇷🇺 RU-146.185.198.44:51348
 ss://ZWY2NzQ2ZDUtZDRjNS01MDkyLTliN2YtZmJmZDM3MjQ0NmIzOg==@172.67.147.10:2096#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.147.10:2096
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.113:8118#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.113:8118
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvV1V5ZkZ6emV6U0RPM1ZvYVpMbW9m@161.35.89.90:20222#🔒 SS-TCP-NA 🇳🇱 NL-161.35.89.90:20222
-ss://MTFlNWI3NzEtMWQ0ZC00MzYyLWI0YjUtZTM5ZTc1OTgxZjAxOg==@172.67.198.111:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.198.111:443
