@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.88.252:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.88.252:80
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.44.172:2096?security=tls&sni=baipiao1.curly-train.pages.dev&type=ws&host=baipiao1.curly-train.pages.dev&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.172:2096
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.232.63:80?security=none&sni=us3.rtacg.com&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.232.63:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.49.252:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.49.252:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.19.122:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.19.122:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.98.192:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.98.192:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.230.34:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.230.34:80
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.49.238:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.49.238:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.191.237:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.191.237:80
 vless://de7c02d1-e5f1-4249-a787-c96d4f74a6bc@104.21.88.54:80?security=none&type=httpupgrade&host=1.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2FTELEGRAM-%40PROXY_MTM-TELEGRAM-%40PROXY_MTM-TELEGRAM-%40PROXY_MTM-TELEGRAM-%40PROXY_MTM-TELEGRAM-%40PROXY_MTM-TELEGRAM-%40PROXY_MTM%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.21.88.54:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.98.109:80?security=none&sni=us3.rtacg.com&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.98.109:80
@@ -595,11 +603,3 @@ trojan://5301502@69.84.182.193:443?security=tls&sni=a17cabb5-3f13-4056-b0ce-4761
 trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@82.117.226.218:12041?sni=cdn.alibaba.com#🔒 TR-TCP-NA 🇰🇷 KR-82.117.226.218:12041
 trojan://auto@162.159.153.95:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.95:443
 trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@82.117.226.218:12072?sni=cdn.alibaba.com#🔒 TR-TCP-NA 🇰🇷 KR-82.117.226.218:12072
-trojan://tg-dns68@162.159.153.231:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&fp=chrome&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.231:443
-trojan://hNTtLzK5f2@172.67.199.251:443?security=tls&sni=us2.hope-pls.ir&type=tcp&fp=chrome&alpn=h2,http/1.1#🔒 TR-TCP-TLS 🏴‍☠️ NA-172.67.199.251:443
-trojan://4732adfa16c6450bbef87264e41332db@104.17.215.18:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.215.18:443
-trojan://e8012565-5b9f-373f-b1eb-e2445711e65c@150.230.196.252:17305?security=tls&sni=freejp03.jd0001.top&type=grpc&serviceName=freejp03#🔒 TR-GRPC-TLS 🇯🇵 JP-150.230.196.252:17305
-trojan://e1c12e6f-a555-4ff8-b071-1e09dd5d91e6@76.223.54.146:443?security=tls&sni=t3.teslacdn2.live&type=tcp&host=t3.teslacdn2.live#🔒 TR-TCP-TLS 🇺🇸 US-76.223.54.146:443
-trojan://5301502@45.32.81.251:8444?security=tls&sni=2022585a-86a7-4231-b3a0-eeda14f77f4d.8f18237c-8e5f-4ffb-a434-1b2948c87be3.ddnsfree.com&type=ws&host=2022585a-86a7-4231-b3a0-eeda14f77f4d.8f18237c-8e5f-4ffb-a434-1b2948c87be3.ddnsfree.comh3&path=%2Ftrojan-9tc.pages.dev%2F#🔒 TR-WS-TLS 🇺🇸 US-45.32.81.251:8444
-trojan://5301502@168.138.194.22:47977?security=tls&sni=e130917c-1b58-4136-b2d9-76dc920e0add.add97ee8-0f14-48a3-b2cd-979c56742e64.loseyourip.com&type=ws&host=e130917c-1b58-4136-b2d9-76dc920e0add.add97ee8-0f14-48a3-b2cd-979c56742e64.loseyourip.comh3&path=/trojan-9tc.pages.dev/#🔒 TR-WS-TLS 🇯🇵 JP-168.138.194.22:47977
-trojan://WwO6VNfw7v@104.18.29.7:2086?security=none&type=httpupgrade&host=google.com.telewebion.com.bmi.ir.fast.com.asus.com-icg738.lavazemkhoshina.ir.&path=%2FAsuS.CoM%3Fed%3D32846#🔒 TR-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.18.29.7:2086
