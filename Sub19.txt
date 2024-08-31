@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@141.101.120.97:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-141.101.120.97:443
-vless://2deb6940-0b30-47f3-b06b-46498a120464@172.67.173.10:2087?security=tls&sni=b.liopiol.ir&type=ws&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.173.10:2087
-vless://f7daf317-f5c2-4ac5-9eb2-7895e2d09082@5.160.63.89:443?security=none&type=tcp&host=google.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.160.63.89:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.201.109:443?security=tls&sni=ppal03.SAgasa6909.wORkers.dEv&type=ws&host=PPAl03.sagaSA6909.woRKErS.dEv&path=%2F5bpeK2R97TC7jyqP%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.201.109:443
-vless://fb9ca098-c0a3-4f13-9b4a-ea31975d69a7@172.66.44.73:443?security=tls&sni=pardazeshvpn-tg2.pages.dev&type=ws&host=pardazeshvpn-tg2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.73:443
 vless://67ecd200-817c-4b78-9a78-9c6edc5f8901@172.67.219.93:80?security=none&type=ws&host=iran.ir-iran.eu.org&path=bShq2qgG8GnX8zqm%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.219.93:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@162.159.83.185:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.83.185:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.172.170:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.172.170:80
@@ -603,3 +598,8 @@ trojan://auto@162.159.152.42:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0
 trojan://d3e663d2-5cce-56e1-a199-2fec6078fcb4@104.18.42.19:443?security=tls&sni=mailbox.CpifoRPErSia.Uk&type=ws&host=mailbox.CpifoRPErSia.Uk&path=trojan-ws/?ed#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.42.19:443
 trojan://auto@162.159.153.199:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.199:443
 trojan://4732adfa16c6450bbef87264e41332db@104.16.159.7:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.7:443
+trojan://telegram-id-directvpn@13.41.255.52:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-13.41.255.52:22222
+trojan://auto@162.159.153.173:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.173:443
+trojan://auto@162.159.136.232:8443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.136.232:8443
+trojan://5301502@213.35.121.247:28983?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.orgh3&path=%2Ftrojan-9tc.pages.dev%2F#🔒 TR-WS-TLS 🇸🇬 SG-213.35.121.247:28983
+trojan://auto@162.159.152.60:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.60:443
