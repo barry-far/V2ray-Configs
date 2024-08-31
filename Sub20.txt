@@ -3,6 +3,16 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://ZJU29smXwp@45.85.118.0:2053?security=tls&sni=web2.teama.tk&type=ws&host=k.teama.tk&path=/#🔒 TR-WS-TLS 🇷🇴 RO-45.85.118.0:2053
+trojan://CMLiu@65.109.184.193:2087?security=tls&sni=aliorg.filegear-sg.me&type=ws&host=aliorg.filegear-sg.me&path=%2F#🔒 TR-WS-TLS 🇫🇮 FI-65.109.184.193:2087
+trojan://tg-dns68@43.156.56.22:7676?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🇸🇬 SG-43.156.56.22:7676
+trojan://123456@104.18.11.39:443?security=tls&sni=trojan-amp-id01.globalssh.xyz&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.18.11.39:443
+trojan://auto@162.159.152.208:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.208:443
+trojan://aa6eb272-1d8d-4461-9687-85ddbab1adb0@172.234.222.138:80?security=tls&sni=us2.trojanvh.xyz&type=tcp&host=us2.trojanvh.xyz#🔒 TR-TCP-TLS 🇺🇸 US-172.234.222.138:80
+trojan://auto@188.114.99.81:443?security=tls&sni=mazq100za43.962dael.workers.dev&type=ws&host=mazq100za43.962dael.workers.dev&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-188.114.99.81:443
+trojan://ypDt8RkT7J@51.159.102.179:43118?security=tls&sni=tpzmg.phooeyunfold.com&type=tcp&fp=random&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇫🇷 FR-51.159.102.179:43118
+trojan://-YZ7Suz3ZpIJjXIJobWrqw@172.67.163.61:80?security=none&type=ws&host=shop.fa-behsazan.ir&path=/shop#🔒 TR-WS-NONE 🏴‍☠️ NA-172.67.163.61:80
+trojan://5301502@45.154.98.14:5008?security=tls&sni=15212712-20f5-40a5-b9aa-8363e0130171.ee137666-1e0a-46db-bbd6-cc18f9841234.accesscam.org&type=ws&host=15212712-20f5-40a5-b9aa-8363e0130171.ee137666-1e0a-46db-bbd6-cc18f9841234.accesscam.orgh3&path=%2Ftrojan-9tc.pages.dev%2F#🔒 TR-WS-TLS 🇳🇱 NL-45.154.98.14:5008
 trojan://auto@104.18.34.21:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.34.21:443
 trojan://auto@172.67.174.252:443?security=tls&sni=esetsecuritylicense1.vowexa5791.workers.dev&type=ws&host=esetsecuritylicense1.vowexa5791.workers.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.174.252:443
 trojan://Watashi_VPN@104.17.148.22:443?security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=/&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.148.22:443
@@ -593,13 +603,3 @@ ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.97:8881#🔒 SS-TCP-NA 🇺�
 ss://Njk2OTI2ZjAtZmZkOC01YmMwLWJlYmYtNGRiNGU0MjYwZDY0Og==@104.21.17.156:2096#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.17.156:2096
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNmFjMzAyZDljMTZlOGRi@52.67.250.82:443#🔒 SS-TCP-NA 🇧🇷 BR-52.67.250.82:443
 ss://ZDllYjBkZjMtMzE5MC00NDQ3LTg2YjYtNjU2ZmU1ZmYxMTE5Og==@172.67.227.103:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.227.103:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@15.185.78.197:443#🔒 SS-TCP-NA 🇧🇭 BH-15.185.78.197:443
-ss://ODliM2NiYmEtZTZhYy00ODVhLTk0ODEtOTc2YTA0MTVlYWI5Og==@172.66.44.95:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.66.44.95:443
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.195:443#🔒 SS-TCP-NA 🇬🇧 GB-212.102.53.195:443
-ss://N2FjMzlhNzEtZTY3OC00NjIxLTgwYmMtYTBmYzM4ODY2ZDE3Og==@172.66.47.171:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.66.47.171:443
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:5001#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:5001
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@195.154.185.174:989#🔒 SS-TCP-NA 🇫🇷 FR-195.154.185.174:989
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNczc5Z3R1SWhlT1V3SE1IS1puVUNz@80.66.64.39:21076#🔒 SS-TCP-NA 🇷🇺 RU-80.66.64.39:21076
-ss://OGRhZjg0NTUtYzNjYy00NzE3LThlNWEtZjM2YzgyYTllYjJhOg==@104.21.23.43:2096#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.23.43:2096
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NTNhNGQ0Yy0xNTNmLTQ4OTctOWE5Yi04NTI4YjJiZmFmYjI=@46.232.123.37:30008#🔒 SS-TCP-NA 🇭🇰 HK-46.232.123.37:30008
-ss://ZDNhMTJlNzktZWY0Mi00MjY4LWIzNjctNDJlZWIzNDk0ZTYwOg==@162.159.152.2:443#🔒 SS-TCP-NA 🏴‍☠️ NA-162.159.152.2:443
