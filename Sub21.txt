@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://d3e663d2-5cce-56e1-a199-2fec6078fcb4@172.64.145.237:2087?security=tls&sni=mailbox.cPIfoRPERsiA.uk&type=ws&host=mailbox.cPIfoRPERsiA.uk&path=trojan-ws/?ed#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.145.237:2087
+trojan://CMLiu@154.17.20.7:34967?sni=aliorg.filegear-sg.me&type=ws&host=aliorg.filegear-sg.me#🔒 TR-WS-NA 🇺🇸 US-154.17.20.7:34967
+trojan://auto@104.20.6.134:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.6.134:443
+trojan://telegram-id-directvpn@35.177.173.9:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-35.177.173.9:22222
+trojan://RXJBaMNA6o@3.65.13.195:42651?security=tls&sni=zac23.ir&type=tcp#🔒 TR-TCP-TLS 🇩🇪 DE-3.65.13.195:42651
+trojan://9yu6m5okr@172.67.198.177:443?security=tls&sni=production.tj.ojan.workers.dev&type=ws&host=production.tj.ojan.workers.dev&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.198.177:443
+trojan://5301502@213.35.121.247:28983?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.orgh3&path=%2Ftrojan-9tc.pages.dev%2F#🔒 TR-WS-TLS 🇸🇬 SG-213.35.121.247:28983
+trojan://tg-dns68@162.159.153.126:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&fp=chrome&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.126:443
 trojan://tg-dns68@162.159.153.96:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&fp=chrome&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.96:443
 trojan://5f27eb67-a1ea-43a3-9a33-8d85d61b9574@104.208.111.108:443?security=tls&sni=hknode02.oportal.cc&type=tcp#🔒 TR-TCP-TLS 🇭🇰 HK-104.208.111.108:443
 trojan://5301502@69.84.182.187:443?security=tls&sni=a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org&type=ws&host=a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.orgh3&path=%2Ftrojan-9tc.pages.dev%2F#🔒 TR-WS-TLS 🇺🇸 US-69.84.182.187:443
@@ -595,11 +603,3 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.95.191:5600#🔒 SS-TCP-NA 🇺�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@193.29.139.215:8080#🔒 SS-TCP-NA 🇳🇱 NL-193.29.139.215:8080
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.150.152.24:5600#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.24:5600
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:5000#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:5000
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.68.135.19:8080#🔒 SS-TCP-NA 🇺🇸 US-38.68.135.19:8080
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@142.202.49.111:8008#🔒 SS-TCP-NA 🇺🇸 US-142.202.49.111:8008
-ss://YmNmNTA1ODktOTY1NC00MzMxLTkzYTYtZGE4OTY5MTRlYzQ3Og==@172.66.47.2:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.66.47.2:443
-ss://ZDM0MmQxMWUtZDQyNC00NTgzLWIzNmUtNTI0YWIxZjBhZmE0Og==@162.159.1.94:443#🔒 SS-TCP-NA 🏴‍☠️ NA-162.159.1.94:443
-ss://ZDNhMTJlNzktZWY0Mi00MjY4LWIzNjctNDJlZWIzNDk0ZTYwOg==@104.21.233.139:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.233.139:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NTNhNGQ0Yy0xNTNmLTQ4OTctOWE5Yi04NTI4YjJiZmFmYjI=@46.232.123.37:30008#🔒 SS-TCP-NA 🇭🇰 HK-46.232.123.37:30008
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@163.172.64.22:989#🔒 SS-TCP-NA 🇫🇷 FR-163.172.64.22:989
-ss://M2ZlZmMxMDAtZmFlZC00M2FkLWIwODctZDQ3ZGRmZTc1MTIxOg==@23.227.60.7:443#🔒 SS-TCP-NA 🇨🇦 CA-23.227.60.7:443
