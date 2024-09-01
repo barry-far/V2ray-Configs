@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://7eb2d99b-1fdb-48f4-bbbe-26d47327b096@104.21.94.98:443?security=tls&sni=lon1.copenhagencafes.com&type=ws&path=%2Flon1&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.94.98:443
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.68.69:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.68.69:443
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@104.21.94.168:443?security=tls&sni=pages.dev&type=ws&host=fastxv.pages.dev&path=%2FXV2ray%3Fed%3D512#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.94.168:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.206.235:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.206.235:443
 vless://c43cf30c-18f1-4e20-bd88-73b1288c5202@172.67.216.94:443?security=tls&sni=worker-dry-breeze-60a0.chngyznwy.workers.dev&type=ws&host=worker-dry-breeze-60a0.chngyznwy.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.216.94:443
@@ -601,5 +603,3 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.161.175:80?security=none&typ
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.206.192:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.206.192:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.61.244:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.61.244:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.232.50:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.232.50:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.221.161:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.221.161:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.84.87:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.84.87:80

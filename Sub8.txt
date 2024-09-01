@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://2169fc1b-1e61-4d44-e42e-34230695d5d5@104.18.12.126:2053?security=tls&sni=dd.foxnim.info&type=grpc&serviceName=@foxnim#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.12.126:2053
+vless://4fca2ae2-e6c3-437d-8cdb-39563e601334@104.16.103.112:8880?path=%2F%3Fed%3D2048%3Bsecurity%3Dnone%3Bencryption%3Dnone%3Bhost%3DconfignginxV2rayng.vpncustomize.Website%3Btype%3Dws#🔒 VL-TCP-NA 🏴‍☠️ NA-104.16.103.112:8880
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.192.175:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.192.175:443
 vless://c3388667-987b-40eb-bd28-2540961cab07@172.67.28.107:8443?security=tls&sni=server18.aibox.tv&type=ws&host=server18.aibox.tv&path=%2FTG-AiLuMao%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.28.107:8443
 vless://8155d2bb-0eb4-40ff-ba1d-95df410a672a@172.67.193.36:8443?security=tls&sni=01.ev02-02-q2wx8ryz0vic3bfmd1sng7pjjn6lqk4p.tech&type=grpc&serviceName=%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.193.36:8443
@@ -601,5 +603,3 @@ vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@162.159.135.249:80?security=none&ty
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.31.153:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.31.153:80
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@144.24.83.39:443?security=tls&sni=hw.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇰🇷 KR-144.24.83.39:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.11.175.104:9527?type=ws&host=a.ssll.gay&path=Telegram🇨🇳#🔒 VL-WS-NA 🇭🇰 HK-141.11.175.104:9527
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.107.209:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.107.209:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.63.58:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.63.58:80
