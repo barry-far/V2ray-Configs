@@ -3,6 +3,18 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://fae72d2b-3ed7-4bcf-8869-0155befd20ad@94.242.228.200:80?type=ws&host=hJ-dE.sHaHidrazI.OnlInE.#🔒 VL-WS-NA 🇱🇺 LU-94.242.228.200:80
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.123.255.213:443?security=tls&sni=gj.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇿🇦 ZA-160.123.255.213:443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.218.189:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.218.189:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.27.250:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.27.250:80
+vless://2b01b7b0-3872-44c0-8aaa-61863bab6ec3@172.67.131.181:443?security=tls&sni=ESETseCuRItYLICensE.obBgYx.wOrKErS.dEV&type=ws&host=ESeTsecUritYLICEnsE.obbGYx.woRkers.DEv&path=%2FcQpaWFqbtpzZWefq%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.131.181:443
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.229.141:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.229.141:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.66.211:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.66.211:80
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.179.111:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.179.111:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.27.196:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.27.196:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.67.221:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.67.221:80
+vless://fae72d2b-3ed7-4bcf-8869-0155befd20ad@94.242.230.37:80?type=ws&host=hJ-dE.sHaHidrazI.OnlInE.#🔒 VL-WS-NA 🇱🇺 LU-94.242.230.37:80
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.247.169:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.247.169:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.197.137:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.197.137:80
 vless://fae72d2b-3ed7-4bcf-8869-0155befd20ad@94.242.231.121:80?type=ws&host=hJ-dE.sHaHidrazI.OnlInE.#🔒 VL-WS-NA 🇱🇺 LU-94.242.231.121:80
 vless://cabcbaa-acab-acab-bdca-aaabcccbbbac@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
@@ -591,15 +603,3 @@ trojan://dba20dcb635e430fa4d3bfc303a149d2@104.19.171.4:443?security=tls&sni=jobs
 trojan://7c72309fad9d73d@185.231.204.152:46641?security=none&type=tcp#🔒 TR-TCP-NONE 🇪🇸 ES-185.231.204.152:46641
 trojan://trojan@104.18.13.229:8443?security=tls&sni=ana-service--xn--kbraa23dbb976icac773ddad2349aeae99rfaf8546aga0.mjxrwd.workers.dev&type=ws&host=ana-service--xn--kbraa23dbb976icac773ddad2349aeae99rfaf8546aga0.mjxrwd.workers.dev&path=%2F%3Fed%3D2560&fp=random#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.13.229:8443
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.78:2053?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.78:2053
-trojan://tg-dns68@150.230.206.237:9710?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&fp=chrome&alpn=h3#🔒 TR-WS-TLS 🇯🇵 JP-150.230.206.237:9710
-trojan://telegram-id-privatevpns@13.49.218.252:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.49.218.252:22222
-trojan://tg-dns68@162.159.152.213:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.213:443
-trojan://Libertas*One*E*@104.21.67.195:443?security=tls&sni=ironone.libertasiran.cloud&type=ws&path=/n890&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.67.195:443
-trojan://ypDt8RkT7J@169.150.206.186:43118?security=tls&sni=tpmem.phooeyunfold.com&type=tcp&fp=random&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇩🇪 DE-169.150.206.186:43118
-trojan://tg-dns68@162.159.153.123:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&fp=chrome&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.123:443
-trojan://tg-dns68@162.159.153.62:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&fp=chrome&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.62:443
-trojan://ypDt8RkT7J@89.187.181.172:43118?security=tls&sni=egcmi.phooeyunfold.com&type=tcp&fp=random&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇺🇸 US-89.187.181.172:43118
-trojan://tg-dns68@162.159.153.231:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&fp=chrome&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.231:443
-trojan://auto@104.21.35.43:443?security=tls&sni=esetsecuritylicense3.wawafec355.workers.dev&type=ws&host=esetsecuritylicense3.wawafec355.workers.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.35.43:443
-trojan://5301502@69.84.182.90:443?security=tls&sni=3ca919ae-4e52-48cb-9f79-f920f0c234bd.b6071df2-af24-4fe5-a53c-5482f4bf5bce.kozow.com&type=ws&host=3ca919ae-4e52-48cb-9f79-f920f0c234bd.b6071df2-af24-4fe5-a53c-5482f4bf5bce.kozow.comh3&path=%2Ftrojan-9tc.pages.dev%2F#🔒 TR-WS-TLS 🇺🇸 US-69.84.182.90:443
-trojan://telegram-id-privatevpns@46.51.172.122:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-46.51.172.122:22222
