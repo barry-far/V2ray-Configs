@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://417d0120-573d-4c0a-9248-6a01cf85c9c1@104.19.54.50:2095?security=none&type=ws&host=www.speedtest.net.www.digikala.com.ftp.debian.org.%E8%87%AA%E5%B7%B1%E4%B8%8D%E5%8E%BB%E7%9C%8B%E5%95%A5%E4%BA%8B%E6%83%85%E5%9F%BA%E6%9C%AC%E6%B2%A1%E5%95%A5%E4%BA%8B%E4%BA%8B.website.&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.54.50:2095
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.44.161:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.44.161:80
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@103.169.142.91:443?security=tls&sni=bj.ylks01.eu.org&type=ws&path=%2F#🔒 VL-WS-TLS 🇦🇺 AU-103.169.142.91:443
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@199.212.90.87:443?type=ws&host=a.ssll.gay&path=Telegram🇨🇳#🔒 VL-WS-NA 🇨🇦 CA-199.212.90.87:443
-vless://3c110307-dcf0-4002-b944-6d2c9530dd23@104.18.13.130:2083?security=tls&sni=dash.zedmodeon.lat&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.13.130:2083
-vless://67e85955-02b7-46f3-b3d6-ca34a4b0ccc1@104.21.96.143:443?security=tls&sni=hidden-rbpamewkcxqxrz3lct.hidden0612.ir&type=ws&host=hidden-rbpamewkcxqxrz3lct.hidden0612.ir&path=%2F&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.96.143:443
 vless://ccaaabb-caab-caba-badc-acbcabcbbaac@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
 vmess://eyJhZGQiOiAiMTI3LjAuMC4xIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImFiYWNjYWItYWJjYS1hYmNhLWNhZGItY2FiYWJjYWJjY2FiIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6IDEwODAsICJwcyI6ICJcdWQ4M2RcdWRkMDQgTEFURVNULVVQREFURSBcdWQ4M2RcdWRjYzUgTU9OLTEyLVNIQUhSSVZBUi0xNDAzIFx1ZDgzZFx1ZGQ1MSAwODoxMSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
 vmess://eyJhZGQiOiAiMTI3LjAuMC4xIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImNiYWNhYmEtYWFiYy1hY2FiLWNiYWQtYWFjY2JhYmFjYmNiIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6IDIwODAsICJwcyI6ICJcdWQ4M2NcdWRmODEgXHUwNmNjXHUwNjQ3IFx1MDYyZlx1MDY0OFx1MDY0Nlx1MDZjY1x1MDYyYVx1MDY0NVx1MDY0OFx1MDY0NiBcdTA2NDZcdTA2MzRcdTA2NDdcdTA2MWYgXHUyNzY0XHVmZTBmIERBUkFNRVQuQ09NL1NPUk9VU0hNSVJaQUVJIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
@@ -603,3 +597,9 @@ trojan://0b1371aa-649d-41dc-9126-338c87936500@95.164.33.62:443?sni=sourceforge.n
 trojan://2cba4104747d49d18319e5ade1b93ab5@[::ffff:c629:dc0a]:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-[::ffff:c629:dc0a]:443
 trojan://e1c12e6f-a555-4ff8-b071-1e09dd5d91e6@13.248.169.48:443?security=tls&sni=t3.teslacdn2.live&type=tcp&host=t3.teslacdn2.live#🔒 TR-TCP-TLS 🇺🇸 US-13.248.169.48:443
 trojan://trojan@104.18.4.250:2053?security=tls&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&type=ws&host=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.4.250:2053
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.215:2087?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.53.215:2087
+trojan://a36dfa0e-5a34-4e77-8513-87350f38e0a6@104.16.35.46:443?security=tls&sni=lmtsg3.cfyun01.sbs&type=ws&host=lmtsg3.cfyun01.sbs&path=/CFYUN#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.35.46:443
+trojan://tg-dns68@162.159.153.208:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&fp=chrome&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.208:443
+trojan://a2c8194b-fcfd-4c39-a6bd-31ea9f4ea671@176.31.71.16:443?security=tls&sni=upload.soft98.download&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇫🇷 FR-176.31.71.16:443
+trojan://984e400bf5d541b7b0815913fe0c432a@104.19.171.9:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.171.9:443
+trojan://auto@162.159.152.60:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.60:443
