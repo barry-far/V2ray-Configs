@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.114.114.69:6379#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:6379
+ss://MTA2OTk2MjItMWIyNS00OTljLWE0MjQtNThmOGY0ZGZiN2Y3Og==@104.16.125.175:2083#🔒 SS-TCP-NA 🏴‍☠️ NA-104.16.125.175:2083
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.92.82:9090#🔒 SS-TCP-NA 🇺🇸 US-69.50.92.82:9090
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@15.204.87.217:5499#🔒 SS-TCP-NA 🇺🇸 US-15.204.87.217:5499
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@54.36.174.181:7307#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:7307
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@69.50.95.245:445#🔒 SS-TCP-NA 🇺🇸 US-69.50.95.245:445
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBSHlEeVI=@38.150.12.188:56026#🔒 SS-TCP-NA 🇭🇰 HK-38.150.12.188:56026
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.102:989#🔒 SS-TCP-NA 🇬🇷 GR-192.71.166.102:989
 ss://OGIxOWQ3OTctMWUyNy00ZTE5LTk1OTgtN2RmNzUzOGJlZTk3Og==@104.21.47.26:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.47.26:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsRVRtN3Znc05YQ2NIdkhEY3k4ZGcw@13.53.242.0:8243#🔒 SS-TCP-NA 🇸🇪 SE-13.53.242.0:8243
 ss://ZTFjZjFjYmMtYTFiMC00ZGI4LTg2YjAtNDVkZDJlOGE2OGRhOg==@104.21.80.12:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.80.12:443
@@ -595,11 +603,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZjMwZGE1NC0zMTdmLTQ3MjYtOThiZC04YmM4ZWM4MTQ
 trojan://auto@162.159.153.189:443?security=tls&type=ws&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org#%E6%9C%AA%E7%9F%A592
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lOTMiLCJhZGQiOiIxODMuMjM2LjUxLjIzIiwicG9ydCI6IjU0MTA0IiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOiI2NCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjkzIn0=
 trojan://auto@162.159.153.233:443?security=tls&type=ws&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org#%E6%9C%AA%E7%9F%A594
-trojan://moist@27.50.48.108:443?type=ws&sni=trojan.freenods.sbs&path=/&host=trojan.freenods.sbs#%E6%9C%AA%E7%9F%A595
-trojan://tg-dns68@162.159.152.30:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A596
-trojan://4ea1d07c-41c2-42b5-954d-414fee051856@120.220.84.72:46002?#%E6%9C%AA%E7%9F%A597
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.69:4444#US57%201.8MB%2Fs
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.75.136.21:8009#US58%20680.9KB%2Fs
-trojan://tg-dns68@162.159.152.172:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A598
-trojan://tg-dns68@162.159.153.75:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A599
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:811#%E6%9C%AA%E7%9F%A5100%201.1MB%2Fs
