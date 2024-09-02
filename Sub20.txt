@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.148:2053?security=tls&sni=joinmahdiserver-4gk.pages.dev&path=%2Fgbhdx8eyjUHHJ8Hx%3Fed%3D2560&alpn=h2&allowInsecure=1#🔒 VL-TCP-TLS 🏴‍☠️ NA-172.66.47.148:2053
-vless://cffb6eba-a33e-469f-9be0-b68cfec018e4@104.18.12.110:8880?security=none&type=ws&host=falcunargo.d369616395.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.12.110:8880
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.6.136:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.6.136:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.127.0:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.127.0:80
 vless://dab6b473-1c06-4760-81b0-e56cc0beb1e3@162.159.137.232:8080?security=none&type=ws&host=de2.过滤器.store.&path=/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.137.232:8080
 vless://d64f44d5-66dc-47ee-b991-721b4a96b63d@104.21.46.119:443?security=tls&sni=freedom.tcmugm.workers.dev&type=ws&host=freedom.tcmugm.workers.dev&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.46.119:443
 vless://ae3a4afb-36f5-5445-96ab-ea37759a5843@190.93.247.189:443?security=tls&sni=pt1.vless.site&type=ws&host=pt1.vless.site&path=%2Fvless#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.247.189:443
@@ -603,3 +599,7 @@ trojan://telegram-id-directvpn@18.170.254.213:22222?security=tls&sni=trojan.burg
 trojan://4732adfa16c6450bbef87264e41332db@104.17.61.7:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.61.7:443
 trojan://a3bce210-eacc-11ee-be58-1239d0255272@104.21.69.44:443?sni=de2.test3.net&type=ws&host=de2.test3.net&path=/howdy#🔒 TR-WS-NA 🏴‍☠️ NA-104.21.69.44:443
 trojan://5041df4c-b3ae-481d-adf9-79b39f4810f2@172.67.148.211:2083?security=tls&sni=taqboostan.zagros.top&type=grpc&serviceName=OVmkPBATL0FOwZU9iYzyeZwbq&fp=chrome&alpn=h2#🔒 TR-GRPC-TLS 🏴‍☠️ NA-172.67.148.211:2083
+trojan://saMgiangGt@104.21.18.57:443?security=tls&sni=teo.history-paint.art&type=grpc&serviceName=grpc17224&fp=chrome&alpn=h2#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.21.18.57:443
+trojan://71409d3e488548e8bb076d229778f008@198.41.220.4:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.4:443
+trojan://tg-dns68@162.159.153.12:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&fp=chrome&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.12:443
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.17.147.11:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.11:443
