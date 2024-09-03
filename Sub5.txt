@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://tg-dns68@162.159.152.9:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.9:443
 trojan://tg-dns68@162.159.153.105:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.105:443
 trojan://telegram-id-directvpn@3.20.144.11:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇺🇸 US-3.20.144.11:22222
 trojan://984e400bf5d541b7b0815913fe0c432a@104.19.171.2:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.171.2:443
@@ -602,4 +603,3 @@ vmess://eyJ2IjoiMiIsInBzIjoiVVM0NCA3NDAuOUtCL3MiLCJhZGQiOiIxOTguMi4yMzQuOTgiLCJw
 trojan://telegram-id-privatevpns@3.11.228.68:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A540%2020.9MB%2Fs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDTHBoeUVNUVQ4bmJHOEVJbVgwQTJE@5.35.47.122:45635#%E6%9C%AA%E7%9F%A541%20134.6KB%2Fs
 ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@107.173.114.6:30129#US45%2032.4MB%2Fs
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.113:8882#US46%201.8MB%2Fs
