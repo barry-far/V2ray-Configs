@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://b8f266e2-5514-41e5-9d05-38aea1b588e7@194.5.178.153:443?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-194.5.178.153:443
-vless://93b99881-df03-4597-9146-0c11e46387f7@38.55.106.82:7777?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇦🇺 AU-38.55.106.82:7777
-vless://0d89a36e-36bc-41d2-8bd3-bbd639991f29@172.67.39.222:443?security=tls&sni=nicorobin.eula.cloudns.org&type=ws&host=nicorobin.eula.cloudns.org&path=%2F%3Fed%3D2560&fp=random&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.39.222:443
-vless://3fdf1673-7951-41ca-9cdf-4985d893df3c@5.202.11.57:7711?security=none&type=grpc#🔒 VL-GRPC-NONE 🇮🇷 IR-5.202.11.57:7711
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.207:2053?security=tls&sni=a.ssll.gay&type=ws&path=%2F#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.207:2053
-vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@69.84.182.140:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.140:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@173.249.202.215:8086?security=tls&sni=hd.kpcloud.eu.org&type=ws&path=%2Ffreecodes#🔒 VL-WS-TLS 🇺🇸 US-173.249.202.215:8086
 vless://93b99881-df03-4597-9146-0c11e46387f7@115.143.93.241:12000?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇰🇷 KR-115.143.93.241:12000
 vless://08eca8a9-4135-4d36-848b-10e3e088ac9a@185.155.72.119:17132?security=none&type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.155.72.119:17132
@@ -603,3 +597,9 @@ trojan://auto@188.114.99.81:443?security=tls&sni=mazq100za43.962dael.workers.dev
 trojan://tg-dns68@162.159.152.214:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.214:443
 trojan://cassiusvpn@104.17.147.22:2087?security=tls&sni=telegram----cassiusvpn----4447265148777747781232254445611722275.mint14.workers.dev&type=ws&host=telegram----cassiusvpn----4447265148777747781232254445611722275.mint14.workers.dev&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.22:2087
 trojan://2997d686-d910-441b-a15c-c8d11c366025@185.234.66.155:2053?security=tls&sni=ftp.debian.org&type=tcp#🔒 TR-TCP-TLS 🇲🇩 MD-185.234.66.155:2053
+trojan://tg-dns68@162.159.153.192:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.192:443
+trojan://cassiusvpn@104.17.147.22:443?security=tls&sni=telegram----cassiusvpn----2215456487655561231564648465465223132.singerc31.workers.dev&type=ws&host=telegram----cassiusvpn----2215456487655561231564648465465223132.singerc31.workers.dev&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.22:443
+trojan://tg-dns68@162.159.153.246:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.246:443
+trojan://tg-dns68@162.159.153.8:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.8:443
+trojan://tg-dns68@162.159.153.12:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.12:443
+trojan://Watashi_VPN@104.18.12.229:8443?security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=/?ed#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.12.229:8443
