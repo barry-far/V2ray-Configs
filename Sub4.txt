@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.67.1:80?security=none&type=ws&host=fraud.chase&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.67.1:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.79.82:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.79.82:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.238.228.184:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇪🇸 ES-185.238.228.184:443
 vless://a0a25144-9ee2-454c-bfc7-7a4e92b31e71@104.26.14.16:8880?security=none&type=httpupgrade&host=unlimiteddev-vpn.unlimiteddev.Community.&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.26.14.16:8880
 vless://51d163e2-f5dd-4f8c-b010-a98aba85a401@151.101.1.57:443?security=tls&sni=fastly.com&type=ws&host=join-dailyconfigs.com&path=%2F%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%3Fed%3D1024&fp=random&alpn=h3,h2#🔒 VL-WS-TLS 🇺🇸 US-151.101.1.57:443
@@ -603,3 +601,5 @@ vless://00d7256f-6ef2-42ee-8319-d4a49536b918@172.66.44.135:443?security=tls&sni=
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.66.133:443?security=tls&sni=speedtest.net&type=ws&host=fraud.chase&path=%2FTELEGRAM-MARAMBASHI-MARAMBASHI-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-151.101.66.133:443
 vless://1c770e32-d1c9-4e12-b80d-0e64ec678aa5@104.18.4.2:2095?security=none&type=ws&host=Rubi-vvvvvvvvvvvvvvvvvvvvvvvvv-speedtest.net.fast.com.xyz-vvvvvvvvvvvvvvvvvvvvvv-fast.com.Telactive.Net.&path=%2F%3Fed%3D80#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.4.2:2095
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@147.185.161.149:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-147.185.161.149:443
+vless://1b7d2cf8-d507-4e44-91c7-eaef636d1d3b@185.143.234.120:2053?security=tls&sni=num.2d2d.ir&type=ws&path=%2F&fp=chrome&allowInsecure=1#🔒 VL-WS-TLS 🇮🇷 IR-185.143.234.120:2053
+vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@104.16.16.16:443?security=tls&sni=Pages.dev&encryption=none%3D%2F--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrisaboran&type=ws&host=Telgram-xv2ray--xv2ray--xv2ray--xv2ray--xv2ray--xv2ray-x.pages.dev&path=%2FTelegram-XV2ry2%3Fed%3D512#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.16.16:443
