@@ -103,7 +103,8 @@ def main():
         "https://raw.githubusercontent.com/freev2rayconfig/V2RAY_SUBSCRIPTION_LINK/main/v2rayconfigs.txt",
         "https://raw.githubusercontent.com/Everyday-VPN/Everyday-VPN/main/subscription/main.txt",
         "https://mrpooya.top/SuperApi/BE.php",
-        "https://servers.astms.com/api/sub?v=2.0.3&ref=bevpn.net"
+        "https://servers.astms.com/api/sub?v=2.0.3&ref=bevpn.net",
+        "https://raw.githubusercontent.com/C4ssif3r/V2ray-sub/main/all.txt"
     ]
 
     decoded_links = decode_links(links)
