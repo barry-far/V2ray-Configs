@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@198.62.62.174:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.174:443
+vless://bd7d2c5c-86bc-4d5c-8c6b-a5c58981e68c@45.159.218.229:443?security=tls&sni=page-us-qg0.pages.dev&type=ws&path=%2F&fp=random#🔒 VL-WS-TLS 🇺🇸 US-45.159.218.229:443
 vless://6adacaf4-9ee4-4c20-b2f8-822a9d55f881@104.26.14.16:8080?security=none&type=ws&host=www.speedtest.net.www.zula.ir.cloudflare.com.tescoco.cfd.&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.14.16:8080
 vless://dc580147-c87c-4527-bf90-192eb1cf62d1@104.21.34.188:80?security=none&type=ws&host=sTArt.SiTEg52770.wORkeRs.DeV#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.34.188:80
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@198.62.62.161:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.161:443
@@ -601,5 +603,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTksxYW9RdUVaYUM5UVRpdzk0Z1Z6TlhyQWRkNm04UVh
 ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@45.89.52.66:9042#🔒 SS-TCP-NA 🇹🇷 TR-45.89.52.66:9042
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.143:4444#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.143:4444
 ss://YWVzLTEyOC1nY206NjkwMzczMDItMDA1MC00M2FlLWFiZjMtZjhlNjI3NDBhZmYx@91.199.84.195:24726#🔒 SS-TCP-NA 🇭🇰 HK-91.199.84.195:24726
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.150.152.24:5600#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.24:5600
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.110.1.202:9102#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.202:9102
