@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://tg-dns68@162.159.153.122:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A5
+trojan://a1e12464-9208-4583-bd21-ab6889fdd242@139.177.189.122:443?sni=cdn.qchwnd.moe#%E6%9C%AA%E7%9F%A52
 trojan://tg-dns68@162.159.153.208:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A53
 ss://YWVzLTEyOC1nY206NjkwMzczMDItMDA1MC00M2FlLWFiZjMtZjhlNjI3NDBhZmYx@91.199.84.195:29220#HK
 trojan://tg-dns68@162.159.152.77:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A54
@@ -601,5 +603,3 @@ vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@45.59.184.16:38908?allowInsecure=0&
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@23.236.68.152:34237?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=Telegram🇨🇳+@WangCai2+/?ed=2048security=tls#15|US_speednode_0322
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.11.90.152:34052?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=Telegram🇨🇳+@WangCai2+/?ed=2048security=tls#15|US_speednode_0323
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.159.216.99:80?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=Twitterfreecodesfp=chrome#15|US_speednode_0324
-vless://3e2e8b99-7709-476d-a893-4b6d580ba01b@147.135.112.118:62001?allowInsecure=0&sni=swdist.apple.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#15|US_speednode_0325
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@154.17.21.37:23391?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=Telegram🇨🇳+@WangCai2+/?ed=2048security=tls#15|US_speednode_0326
