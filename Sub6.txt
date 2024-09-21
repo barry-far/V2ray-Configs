@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.235.254:80?security=none&sni=us3.rtacg.com&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.235.254:80
+vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.152.150:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2F%3Fproxyip%3Dproxyip.us.fxxk.dedyn.io&fp=random&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.150:443
+vless://93b99881-df03-4597-9146-0c11e46387f7@139.180.136.178:29661?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇸🇬 SG-139.180.136.178:29661
 vless://59e91ba3-2bb8-4e43-b540-5eaf4b377aa5@104.16.102.112:8880?path=%2F%3Fed%3D2048%3Bsecurity%3Dnone%3Bencryption%3Dnone%3Bhost%3DconfignginxV2rayng.vpncustomize.Website%3Btype%3Dws#🔒 VL-TCP-NA 🏴‍☠️ NA-104.16.102.112:8880
 vless://7ef2412a-db13-4382-b012-a19942aeb3a4@185.146.173.185:2052?type=tcp#🔒 VL-TCP-NA 🇸🇪 SE-185.146.173.185:2052
 vless://64b3cbba-e6ac-495a-9481-976a0493eab9@104.21.35.20:443?security=tls&sni=eSETsEcurITyliceNSe.KMlrV.WOrKeRS.dev&type=ws&host=esEtSeCUritYLiCEnsE.KMlrv.woRKERs.DeV&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.35.20:443
@@ -600,6 +603,3 @@ vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.234:443?security=tls&sn
 vless://420e4da5-af5c-40b4-bd73-fb608fe45ecb@2.188.224.69:3232?security=none&type=ws#🔒 VL-WS-NONE 🇮🇷 IR-2.188.224.69:3232
 vless://ff65deba-5477-45ab-9c38-7c9bcd664c7f@104.22.32.78:8880?security=none&type=httpupgrade&host=dailyconfigs-hhahvshbbhh56ha.www.speedtest.net.blackoutconnection.ir&path=Daily_Configs%3Fed%3D1024#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.22.32.78:8880
 vless://abaf193b-eeb9-4a8a-afa7-6b6385156e94@198.41.215.8:443?security=tls&sni=hdfy3rsnfdcp.cpiforpersia.uk&type=grpc&serviceName=2sg8k6ktNBzuCJ7tOInMZQZNim#🔒 VL-GRPC-TLS 🏴‍☠️ NA-198.41.215.8:443
-vless://12b962d3-f66a-400a-b1ff-ad63c47206b1@190.93.247.56:8080?type=ws&host=legendaryking.ir.www.speedtest.net.www.zula.ir.cloudflare.com.mozdozari.bUzz.&path=%2Ftelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%3Fed%3D2560#🔒 VL-WS-NA 🏴‍☠️ NA-190.93.247.56:8080
-vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@150.109.24.233:6666?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2F%3Fed%3D2560&fp=random&alpn=h3#🔒 VL-WS-TLS 🇸🇬 SG-150.109.24.233:6666
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.214.30:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.214.30:443
