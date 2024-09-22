@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@188.114.97.36:2083?security=tls&sni=vfarid.xcdi.woRkErs.dEv&type=ws&host=vfarid.xcdi.woRkErs.dEv&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.36:2083
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.245.217:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.245.217:443
+vless://a61fc8cb-0012-4c4b-aa5e-d1c623ae8092@104.20.18.168:8880?security=none&type=ws&host=worker-late-feather-d436.wedome3486.workers.DEV&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.18.168:8880
+vless://67a294bd-1cbe-4d21-8af5-8a66c533af0d@103.169.142.0:2052?security=none&type=httpupgrade&host=cdn-specxtech-google.com.specxtech.com&path=%2Fcdn-specxtech-google.com.specxtech.com%3Fed%3D2560#🔒 VL-HTTPUPGRADE-NONE 🇦🇺 AU-103.169.142.0:2052
 vless://f99e4bcb-39f3-5188-96a1-08f56c7ecf16@104.21.51.208:2095?security=none&type=ws&host=rubika.ir.joinTelegram.ELiV2ry.fi2.vless.Sitespeedtest.net.&path=%2FTel-ELiV2ry-ELiV2ry-%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.51.208:2095
 vless://8260ade3-6046-4d95-8078-cd11730aecc5@78.157.63.22:2082?security=none&type=tcp&host=Zulla.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-78.157.63.22:2082
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.156.85.97:443?security=tls&sni=en.mfa.gov.ir&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-104.156.85.97:443
@@ -599,7 +603,3 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.51.82:443?security=tls&sni=P
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.152.91:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2F%3Fed%3D2560&fp=random&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.91:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.127:80?security=none&type=ws&host=a.ssll.gay&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.224.127:80
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.152.120:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&fp=random&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.120:443
-vless://63e0ccc3-bceb-46ce-a418-1c6a71d20e3f@104.21.42.56:443?security=tls&sni=182z9jcb6ezumr1jfpg50pa12rebmhitb24aynjgmflkcv78khyhgfit4563fdk.myy1h3.workers.Dev&type=ws&host=182z9jcb6ezumr1jfpg50pa12rebmhitb24aynjgmflkcv78khyhgfit4563fdk.myy1h3.workers.Dev&path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.42.56:443
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@223.122.233.66:32633?security=tls&sni=a.ssll.gay&type=ws&path=telegram%F0%9F%87%A8%F0%9F%87%B3+%40wangcai2+%2F%3Fed#🔒 VL-WS-TLS 🇭🇰 HK-223.122.233.66:32633
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.207.142:443?security=tls&sni=PPal03.yUriEl-sIddHanTH.WOrKeRs.DEv&type=ws&host=PpAl03.yurIEl-siddhaNtH.worKErs.DeV&path=%2F4Viq5XHkDINND2Wg%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.207.142:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.151:443?security=tls&sni=yq.ylks.us.kg&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.151:443
