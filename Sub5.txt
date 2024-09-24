@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.94:80?type=ws&host=a.ssll.gay&path=%2F%3Fed%3D2048#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.224.94:80
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@34.111.135.19:80?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🇺🇸 US-34.111.135.19:80
 vless://5b45dd11-508c-4666-86dd-d695830eebca@95.38.210.142:35021?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-95.38.210.142:35021
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@204.110.220.12:443?security=tls&sni=vi.ylkszy.eu.org&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-204.110.220.12:443
 vless://952bdb68-a002-42ef-b50d-56f403cf71f7@104.21.31.174:443?security=tls&sni=53331168005383295401796650654415.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou&type=ws&host=53331168005383295401796650654415.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou&path=%2FV2LINE-TELEGRAM-CHANNEL-VLESS-WS-TLS&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.31.174:443
@@ -601,5 +603,3 @@ vless://416f18ec-11f3-4648-9693-8c6480d0662d@104.18.1.125:2082?security=none&typ
 vless://28b2c67f-e54a-4081-b76b-44eec382d887@162.159.195.233:443?security=tls&sni=virax.gamerstmjj.workers.dev&type=ws&host=virax.gamerstmjj.workers.dev&path=%2F&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.195.233:443
 vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@104.21.90.210:8443?security=tls&sni=tnetplus-1wc.pages.dev&type=ws&host=tnetplus-1wc.pages.dev&path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.90.210:8443
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.123:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2F%3Fed%3D2560&fp=random&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.123:443
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@103.169.142.6:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=twitterfreecodestg%40zdyz2#🔒 VL-WS-TLS 🇦🇺 AU-103.169.142.6:443
-vless://ae327aae-37ea-4d92-bbeb-bb5199a31839@172.67.146.69:2053?security=tls&sni=connectingno.technewspaper.store&type=grpc&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.146.69:2053

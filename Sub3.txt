@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://3ec9280e-98dd-4b9b-a057-97030b3eb608@168.119.184.101:443?security=reality&flow=xtls-rprx-vision&sni=cloudflare.com&type=tcp&fp=random&pbk=i1tf6HgtykIDg9TLWCMoH-N4wtbVTJHl00UPyLhwExs&sid=42#🔒 VL-TCP-RLT 🇩🇪 DE-168.119.184.101:443
+vless://177dfbdf-8337-40ea-8791-906924b9fb2f@212.86.114.50:12345?security=reality&sni=telewebion.com&type=http&path=%2F&fp=chrome&pbk=0hue6xKKmwuEefA0eMXQszxESSoagq2kqLB_gPrRc3s&sid=c57d2373#🔒 VL-HTTP-RLT 🇳🇱 NL-212.86.114.50:12345
 vless://fa29bf1e-cf5c-46a7-b8b4-4572d3055a98@51.158.243.171:443?security=reality&flow=xtls-rprx-vision&sni=cloudflare.com&type=tcp&fp=random&pbk=KgBwgw3pud4QUYViECOIuZxub3-yUxCc__orLn1TVlg&sid=42#🔒 VL-TCP-RLT 🇫🇷 FR-51.158.243.171:443
 vless://4bfed29f-bd0b-4e5c-8724-189ca9284c16@95.164.68.37:8443?security=reality&sni=104.16.220.229&type=grpc&serviceName=grpc&fp=chrome&pbk=cuDCgrTnGQZJ07hEuNqq10lp_XnAb-NYiBGvv_DOHzw&sid=0b3d7e6a1ce3cee3#🔒 VL-GRPC-RLT 🇬🇮 GI-95.164.68.37:8443
 vless://4e3a03b9-af06-4a98-803d-ccf9ce0f6287@178.159.43.112:5030?security=reality&flow=xtls-rprx-vision&sni=FaAsSeNtuInenDieR.Nl&type=tcp&fp=firefox&pbk=1cetEwIIjtLG7g7MLCAa9OY2Kql1BpFkeAGDbq97qGo&sid=bee43e7937#🔒 VL-TCP-RLT 🇳🇱 NL-178.159.43.112:5030
@@ -601,5 +603,3 @@ vless://3fa3261f-8f6b-4f5a-8f75-eb39911a0798@103.133.1.16:2082?security=none&typ
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@66.81.247.244:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2securityfp#🔒 VL-WS-TLS 🇺🇸 US-66.81.247.244:443
 vless://79775e49-c3d7-4535-97e5-6980dbf760d1@92.243.74.137:8443?security=tls&sni=vip4-romax-tiktok.golabyazd.ir&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-92.243.74.137:8443
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.152.221:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2F%3Fed%3D2560&fp=random&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.221:443
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@206.238.236.12:443?security=tls&sni=xl.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇸🇬 SG-206.238.236.12:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@192.9.157.76:443?security=tls&sni=yq.ylks.us.kg&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-192.9.157.76:443
