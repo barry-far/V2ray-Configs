@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.84:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2F%3Fed%3D2560&fp=random&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.84:443
-vless://0ebb1677-4902-476f-bc03-3e8c7ca6fd21@172.67.153.74:2096?security=tls&sni=node.vauth.workers.dev&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.153.74:2096
 vless://38e2a038-9deb-4786-ac18-03fff867c77a@172.66.0.9:8443?security=tls&sni=e532e863.MxOsJwNwJoWaIsJhEjKeOoO3.pAgEs.dEv&type=ws&host=e532e863.MxOsJwNwJoWaIsJhEjKeOoO3.pAgEs.dEv&path=e532e863.mxosjwnwjowaisjhejkeooo3.pages.dev%2F%3Fed%3D2048&fp=randomized&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.0.9:8443
 vless://c8e780f4-aa79-4ce0-a5ac-cb646f3b94c6@172.67.207.26:80?security=none&type=httpupgrade&host=6.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2FPROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-kanal-telegram-proxy_mtm-telegram-proxy_mtm-proxy_mtm%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.67.207.26:80
 vless://39675f23-a630-4451-88c5-f15d551d4371@213.176.127.21:53123?security=none&type=ws&host=104.20.190.91&path=%2Fwe#🔒 VL-WS-NONE 🇮🇷 IR-213.176.127.21:53123
@@ -603,3 +601,5 @@ trojan://A98XMiF6NA@45.59.184.16:38908?sni=dy.fxu.asia&type=ws&host=dy.fxu.asia#
 trojan://Trevely@108.162.193.110:443?security=tls&sni=trojan.trevely.us.kg&type=ws&host=trojan.trevely.us.kg&path=%2F%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-108.162.193.110:443
 trojan://95b@219.76.13.180:443?sni=68123106-3e43-4958-b75a-b06e81eabf79.50d88e28-a870-497d-bf87-c20fb6802871.camdvr.org&type=ws&host=68123106-3e43-4958-b75a-b06e81eabf79.50d88e28-a870-497d-bf87-c20fb6802871.camdvr.org#🔒 TR-WS-NA 🇭🇰 HK-219.76.13.180:443
 trojan://dba20dcb635e430fa4d3bfc303a149d2@104.16.159.3:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=%2F6b777a91&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.3:443
+trojan://tg-dns68@162.159.152.177:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.177:443
+trojan://Watashi_VPN@104.18.13.229:2053?security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.13.229:2053
