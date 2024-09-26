@@ -3,6 +3,19 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://Trojan-%48%71%762%72%61%79%4e%47@151.101.194.219:443?security=tls&sni=speedtest.net&type=ws&host=dontskii.%68%71%762%72%61%79%6e%67.xyz&path=%2F%68%71%762%72%61%79%6e%67.host%3Fed%3D2048&fp=firefox&alpn=h2,http/1.1#🔒 TR-WS-TLS 🇺🇸 US-151.101.194.219:443
+trojan://A98XMiF6NA@45.159.48.192:12212?sni=dy.fxu.asia&type=ws&host=dy.fxu.asia#🔒 TR-WS-NA 🇯🇵 JP-45.159.48.192:12212
+trojan://tg-dns68@162.159.153.198:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.198:443
+trojan://tg-dns68@162.159.153.224:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.224:443
+trojan://A98XMiF6NA@65.75.194.7:12266?sni=dy.fxu.asia&type=ws&host=dy.fxu.asia#🔒 TR-WS-NA 🇺🇸 US-65.75.194.7:12266
+trojan://b36c2da0-7aba-4311-a44e-f6cf68df3963@13.213.15.96:48558?security=tls&sni=us1.speedtest.net&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇸🇬 SG-13.213.15.96:48558
+trojan://tg-dns68@162.159.152.225:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.225:443
+trojan://e8105dfd24414268b6c7652c63731097@198.41.220.20:443?security=tls&sni=avianrecruit.com&type=ws&host=avianrecruit.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.20:443
+trojan://telegram-id-directvpn@18.175.83.48:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-18.175.83.48:22222
+trojan://tg-dns68@162.159.152.146:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.146:443
+trojan://A98XMiF6NA@172.64.154.218:8443?sni=dy.fxu.asia&type=ws&host=dy.fxu.asia#🔒 TR-WS-NA 🏴‍☠️ NA-172.64.154.218:8443
+trojan://2e3562a819634de686ade78e434c0963@104.17.147.5:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.5:443
+trojan://A98XMiF6NA@45.59.184.16:38908?sni=dy.fxu.asia&type=ws&host=dy.fxu.asia#🔒 TR-WS-NA 🇺🇸 US-45.59.184.16:38908
 trojan://telegram-id-privatevpns@3.78.86.242:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.78.86.242:22222
 trojan://tg-dns68@162.159.153.249:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.249:443
 trojan://tg-dns68@162.159.153.100:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.100:443
@@ -590,16 +603,3 @@ ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.150.152.41:2375#🔒 SS-TCP-NA 🇺
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.121.43.71:8091#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:8091
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.5:6679#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.5:6679
 ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg==@45.89.52.66:9043#🔒 SS-TCP-NA 🇹🇷 TR-45.89.52.66:9043
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@163.172.64.22:989#🔒 SS-TCP-NA 🇫🇷 FR-163.172.64.22:989
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRcVNickxTZkZwM0djNHNxc1RIU2l0@212.113.106.76:29149#🔒 SS-TCP-NA 🇦🇹 AT-212.113.106.76:29149
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@107.155.57.51:8080#🔒 SS-TCP-NA 🇺🇸 US-107.155.57.51:8080
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.68.134.9:7001#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:7001
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@169.197.141.84:443#🔒 SS-TCP-NA 🇺🇸 US-169.197.141.84:443
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.150.152.41:8119#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.41:8119
-ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@45.89.52.66:9011#🔒 SS-TCP-NA 🇹🇷 TR-45.89.52.66:9011
-ss://YWVzLTEyOC1nY206NjkwMzczMDItMDA1MC00M2FlLWFiZjMtZjhlNjI3NDBhZmYx@91.199.84.195:29213#🔒 SS-TCP-NA 🇭🇰 HK-91.199.84.195:29213
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@142.202.49.84:8008#🔒 SS-TCP-NA 🇺🇸 US-142.202.49.84:8008
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqbmpHeDh0QlNEQWsxRXJiam9SWkZn@66.151.34.98:57261#🔒 SS-TCP-NA 🇫🇮 FI-66.151.34.98:57261
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.47:3389#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.47:3389
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@69.50.95.218:5499#🔒 SS-TCP-NA 🇺🇸 US-69.50.95.218:5499
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.150.152.16:8118#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.16:8118
