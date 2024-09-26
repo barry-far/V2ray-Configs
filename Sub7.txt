@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://0d762409-3dcc-40da-a2af-935f5afea1ff@185.126.11.253:22221?security=none&type=tcp&host=81429612.divarcdn.com%2C+81429612.snappfood.ir%2C+81429612.yjc.ir%2C+81429612.digikala.com%2C+81429612.tic.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.126.11.253:22221
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@147.185.161.149:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-147.185.161.149:443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@170.114.46.218:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-170.114.46.218:443
 vless://5ebbbaca-a9cb-4713-b0b8-00a74e59c491@77.37.33.86:2082?security=none&type=httpupgrade&host=SWISS.CgNM.IR.&path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2082#🔒 VL-HTTPUPGRADE-NONE 🇩🇪 DE-77.37.33.86:2082
 vless://0ebb1677-4902-476f-bc03-3e8c7ca6fd21@172.67.153.74:2095?security=none&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.153.74:2095
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@108.162.196.133:443?security=tls&sni=xxx.donated002.workers.dev&type=ws&host=xxx.donated002.workers.dev&path=%2F@V2VIPCHANNEL%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.196.133:443
@@ -600,6 +603,3 @@ vless://e4638e1b-6108-4b33-82a2-80176ef3c4e5@185.146.173.32:8080?security=none&t
 vless://e723ab1c-7f40-4303-9ce4-445234b4c824@85.198.15.33:8080?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-85.198.15.33:8080
 vless://5f0b2bda-0457-5e95-ba0e-9a425356f4cb@104.17.148.22:2095?security=none&type=ws&host=wwww.speedtest.net.xn--Join.ELiV2RY.io.ie1.vless.Sitespeedtest.net.&path=/-@ELiV2RY-@ELiV2RY-ELeNaTheGreatDictator%3Fed#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.148.22:2095
 vless://102e76a5-0f4c-4d71-b018-a76985e4617b@104.21.8.238:2087?security=tls&sni=hamedmrx.kijenov996.workers.dev&type=ws&host=hamedmrx.kijenov996.workers.dev&path=%2Fvless-ws%2F%3Fed&fp=edge&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.8.238:2087
-vless://2a9c29ab-9610-5f8b-85e3-c5a07dd20f32@190.93.247.116:8080?type=ws&host=Fr2.vless.site.&path=%2Fvless%3Fed%3D8080#🔒 VL-WS-NA 🏴‍☠️ NA-190.93.247.116:8080
-vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.182:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2F%3Fed%3DTELEGRAM-MARAMBASHI%2F%3Fed%3D2048&fp=random&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.182:443
-vless://47b65c00-d158-4ba4-897f-689f0e59f09d@151.101.192.84:443?security=tls&sni=www.pinterest.com&type=ws&host=shopcpir.ir&path=%2F%3Fed%3D1024&fp=firefox&alpn=h2#🔒 VL-WS-TLS 🇺🇸 US-151.101.192.84:443
