@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://eab1d836-bd54-464f-8478-03f799af9fd8@104.21.24.215:2096?security=tls&sni=sina.gufniv.workers.dev&type=ws&host=sina.gufniv.workers.dev&path=vless-ws%2F%3Fed%3D2048&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.24.215:2096
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.19.182.225:2096?security=tls&sni=azADnet-FrEEdom-IraniaN2.pAGeS.Dev&type=ws&host=AZADNeT-FreEDOM-Iranian2.paGeS.DEv&path=%2Ftelegram-proxy_mtmTelegram-proxy_mtmTelegram-proxy_mtm%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.182.225:2096
 vless://8ceac519-7b18-47a5-b53e-d37ba318b0aa@172.66.47.185:443?security=tls&sni=c1c569fc.irani-eub.pages.dev&type=ws&host=c1c569fc.irani-eub.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.185:443
 vless://d01a40f5-4e6f-4279-b0a9-0f2a268ab03c@198.41.208.211:8080?type=ws&host=worker-falling-snow-ffd7.test61.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NA 🏴‍☠️ NA-198.41.208.211:8080
@@ -602,4 +603,3 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.102.151:443?security=tls&sni
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.172:443?security=tls&sni=hq.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.172:443
 vless://420e4da5-af5c-40b4-bd73-fb608fe45ecb@5.202.9.117:3131?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-5.202.9.117:3131
 vless://0d15f609-0bc5-47ee-9c64-0ff896cc8ae6@188.114.96.3:80?type=tcp#🔒 VL-TCP-NA 🏴‍☠️ NA-188.114.96.3:80
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.159.218.162:8443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-45.159.218.162:8443

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://6285e567-0c25-4ce2-a2fa-80517c1345e1@172.67.214.246:2053?security=tls&sni=1223-9ux.pages.dev&type=ws&host=1223-9ux.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.214.246:2053
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@34.175.202.195:443?security=tls&sni=hr.kpcloud.eu.org&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇪🇸 ES-34.175.202.195:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.2:443?security=tls&sni=miumiUMadReKoSE.pAgES.dEv&type=ws&host=MIumIumADrEkOsE.pAGeS.dev&path=%2FTelegram-Migekeh%2F%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.2:443
 vless://0ebb1677-4902-476f-bc03-3e8c7ca6fd21@172.67.153.74:2086?security=none&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.153.74:2086
@@ -602,4 +603,3 @@ vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.152.145:443?security=tls&sn
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@183.178.22.246:11417?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇭🇰 HK-183.178.22.246:11417
 vless://6b880b07-e952-4c0b-b4a3-6c9ac4cf9d3f@45.149.12.133:443?security=tls&sni=hdfy1c4.sassanidempire.com&type=grpc&serviceName=LNGeLLJtWl4JWOU9ID6IU#🔒 VL-GRPC-TLS 🇳🇱 NL-45.149.12.133:443
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@104.19.44.88:443?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.44.88:443
-vless://f408696c-cdbe-49a1-90e9-ab602003315c@199.232.169.135:80?type=ws&host=googleb.net&path=%2FMinoVpnCh%3Fed%3D2048#🔒 VL-WS-NA 🇫🇷 FR-199.232.169.135:80
