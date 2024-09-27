@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.152.22:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2F%3Fed%3D2560&fp=random&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.22:443
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.152.52:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&fp=random&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.52:443
 vless://ce17e25d-73b5-4d83-9ad7-a26f505ab2e3@185.146.173.95:8443?security=tls&sni=Join.VPN%43%55%53%54OMIZE.usa.speedtest.net.Naziitness.com&type=ws&host=Join.VPN%43%55%53%54OMIZE.usa.speedtest.net.Naziitness.com&path=%2FTelegram%2CVPN%43%55%53%54OMIZE%3Fed%3D8443&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.95:8443
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.180:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2F%3Fed%3D2560&fp=random&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.180:443
@@ -602,4 +603,3 @@ trojan://tg-dns68@162.159.153.247:443?security=tls&sni=vip.putata.eu.org&type=ws
 trojan://dfbbc8de-8a4f-407d-8069-6de38d83c4e1@172.67.66.177:443?security=tls&sni=hdfy4c6.freelines.net&type=ws&host=hdfy4c6.freelines.net&path=%2FQ177OZ8bzrxRWBtLTlTL&fp=chrome&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.66.177:443
 trojan://tg-dns68@162.159.153.157:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.157:443
 trojan://tg-dns68@162.159.152.183:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.183:443
-trojan://tg-dns68@162.159.153.224:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.224:443
