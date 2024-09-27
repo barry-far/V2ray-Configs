@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://4a72e059-e08f-5616-a35f-6fd9547597a2@172.67.144.68:80?security=none&type=httpupgrade&host=darkvpnpro.ca2.vless.site.&path=%2Fhttpupgrade%23t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.67.144.68:80
 vless://aa2dc840-be38-4b4d-a002-ba234999fd55@172.67.96.59:8080?type=ws&host=cdn-allxn--b6gaceuorg.l4o117en.workers.dev&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.96.59:8080
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.48:443?security=tls&sni=jr.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.48:443
 vless://dc33c25c-d37c-4992-aef9-b62562c5d139@104.21.20.148:2082?security=none&type=httpupgrade&host=netpie.80c40067.9f1d.41b8.95f7.5b669a919e02.speedtest.net.de.debian.org.NetPiefree.Tech.&path=NetPie%3Fed%3D2560#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.21.20.148:2082
@@ -603,3 +602,4 @@ trojan://telegram-id-directvpn@52.209.41.49:22222?security=tls&sni=trojan.burger
 trojan://tg-dns68@162.159.152.207:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.207:443
 trojan://tg-dns68@162.159.152.25:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.25:443
 trojan://e305e0b8-55ae-4873-bf52-18ac5863e85e@104.26.14.85:443?security=tls&sni=meta.maliva.space&type=splithttp&host=meta.maliva.space&path=/mma8pvU8i7t6qjYdga&headerType=http&fp=chrome&alpn=h3#🔒 TR-SPLITHTTP-TLS 🏴‍☠️ NA-104.26.14.85:443
+trojan://telegram-id-privatevpns@52.58.198.11:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-52.58.198.11:22222
