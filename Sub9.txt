@@ -3,19 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://tg-dns68@162.159.153.234:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.234:443
-trojan://tg-dns68@162.159.153.86:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.86:443
-trojan://telegram-id-privatevpns@51.21.87.207:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-51.21.87.207:22222
-trojan://tg-dns68@162.159.153.85:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.85:443
-trojan://tg-dns68@162.159.153.237:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.237:443
-trojan://tg-dns68@162.159.152.204:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.204:443
-trojan://A98XMiF6NA@45.159.48.192:12212?sni=dy.fxu.asia&type=ws&host=dy.fxu.asia#🔒 TR-WS-NA 🇯🇵 JP-45.159.48.192:12212
-trojan://36d48ba9-7445-4b41-b210-58f4e07a627a@104.31.16.120:443?security=tls&sni=in01.trojanyyds.xyz&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.31.16.120:443
-trojan://tg-dns68@162.159.152.227:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.227:443
-trojan://242a3d8eee5e4ed1a6bfa4141d549a25@198.41.220.12:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.12:443
-trojan://A98XMiF6NA@65.75.194.43:10511?sni=dy.fxu.asia&type=ws&host=dy.fxu.asia#🔒 TR-WS-NA 🇺🇸 US-65.75.194.43:10511
-trojan://Trojan-%48%71%762%72%61%79%4e%47@151.101.66.219:443?security=tls&sni=speedtest.net&type=ws&host=dontskii.%68%71%762%72%61%79%6e%67.xyz&path=%2F%68%71%762%72%61%79%6e%67.host%3Fed%3D2048&fp=firefox&alpn=h2,http/1.1#🔒 TR-WS-TLS 🇺🇸 US-151.101.66.219:443
-trojan://242a3d8eee5e4ed1a6bfa4141d549a25@104.19.159.12:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.159.12:443
 trojan://telegram-id-privatevpns@35.176.154.105:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-35.176.154.105:22222
 trojan://95b@137.74.157.158:8443?sni=15212712-20f5-40a5-b9aa-8363e0130171.ee137666-1e0a-46db-bbd6-cc18f9841234.accesscam.org&type=ws&host=15212712-20f5-40a5-b9aa-8363e0130171.ee137666-1e0a-46db-bbd6-cc18f9841234.accesscam.org#🔒 TR-WS-NA 🇫🇷 FR-137.74.157.158:8443
 trojan://tg-dns68@162.159.152.200:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.200:443
@@ -603,3 +590,16 @@ ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.68.134.202:5004#🔒 SS-TCP-NA 🇺
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.195:443#🔒 SS-TCP-NA 🇬🇧 GB-212.102.53.195:443
 ss://YWVzLTEyOC1nY206NjkwMzczMDItMDA1MC00M2FlLWFiZjMtZjhlNjI3NDBhZmYx@91.199.84.195:24723#🔒 SS-TCP-NA 🇭🇰 HK-91.199.84.195:24723
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@193.29.139.162:8080#🔒 SS-TCP-NA 🇳🇱 NL-193.29.139.162:8080
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.68.134.9:5500#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:5500
+ss://YWVzLTEyOC1nY206NjkwMzczMDItMDA1MC00M2FlLWFiZjMtZjhlNjI3NDBhZmYx@91.199.84.195:29228#🔒 SS-TCP-NA 🇭🇰 HK-91.199.84.195:29228
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.150.152.16:5601#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.16:5601
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@193.29.139.237:8080#🔒 SS-TCP-NA 🇳🇱 NL-193.29.139.237:8080
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.75.136.21:8118#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:8118
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@169.197.141.84:443#🔒 SS-TCP-NA 🇺🇸 US-169.197.141.84:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSVXFNYUlkdkxzOXpxUklGdDVueDJv@138.124.184.70:34868#🔒 SS-TCP-NA 🇺🇸 US-138.124.184.70:34868
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@169.197.141.84:8091#🔒 SS-TCP-NA 🇺🇸 US-169.197.141.84:8091
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.103:3389#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.103:3389
+ss://YWVzLTI1Ni1nY206aVVCMDkyM1JCQQ==@154.3.8.151:30067#🔒 SS-TCP-NA 🇺🇸 US-154.3.8.151:30067
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@51.77.53.200:8008#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:8008
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@169.197.142.120:8888#🔒 SS-TCP-NA 🇺🇸 US-169.197.142.120:8888
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.68.134.9:7002#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:7002
