@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.247.10:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.247.10:443
 vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@172.67.161.104:2087?security=tls&sni=tnetplus-1wc.pages.dev&type=ws&host=tnetplus-1wc.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.161.104:2087
 vless://93b99881-df03-4597-9146-0c11e46387f7@43.130.134.123:65002?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇺🇸 US-43.130.134.123:65002
 vless://59e91ba3-2bb8-4e43-b540-5eaf4b377aa5@104.16.103.112:8880?path=%2F%3Fed%3D2048%3Bsecurity%3Dnone%3Bencryption%3Dnone%3Bhost%3DconfignginxV2rayng.vpncustomize.Website%3Btype%3Dws#🔒 VL-TCP-NA 🏴‍☠️ NA-104.16.103.112:8880
@@ -603,3 +602,4 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.20.148:443?security=tls&sni=
 vless://0bc05508-b6ca-4225-cf10-26133f5600ec@104.21.42.250:8080?security=none&type=ws&host=GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN.%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C.tech&path=%2FGozaegahVPN%2Fws%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.42.250:8080
 vless://7efa43f4-17b6-46ae-a62e-7b764df45057@104.19.149.74:8443?security=tls&sni=6Cb2Aa5E.Bpb-WOrkEr-pAnel-3gd.PAGEs.dEV&type=ws&host=6CB2aA5E.bPb-wORkEr-PaneL-3gD.PAges.DEV&path=%2FOR5yd8NNiyE6QbBb&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.149.74:8443
 vless://76efbc00-b2a9-48e6-8903-e54527a7520f@162.159.138.26:443?security=tls&sni=VPNKINgV2rAY.pAgEs.Dev&type=ws&host=VpNKiNgV2RAY.PAges.dEV&path=%2FLB3KlvbZDQl0u7fX%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.138.26:443
+vless://dc33c25c-d37c-4992-aef9-b62562c5d139@104.21.20.148:2082?security=none&type=httpupgrade&host=netpie.80c40067.9f1d.41b8.95f7.5b669a919e02.speedtest.net.de.debian.org.NetPiefree.Tech.&path=NetPie%3Fed%3D2560#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.21.20.148:2082
