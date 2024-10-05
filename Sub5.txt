@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.107.35:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-185.148.107.35:443
-vless://1d1a7193-61a9-4fc1-9778-dd517cf9f919@172.67.136.208:8880?security=none&type=ws&host=workerr.mcgrooge12.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.136.208:8880
-vless://62ae1cc9-5940-4f21-a0ed-1c13b32b5908@172.64.35.129:443?security=tls&sni=de.ailicf.us.kg&type=ws&host=de.ailicf.us.kg&path=%2Fsafaf&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.35.129:443
-vless://297121ff-c2a0-4f7a-b17c-8517e1e43707@172.67.209.25:443?security=tls&sni=easynet23.mfrpb.workers.dev&type=ws&host=easynet23.mfrpb.workers.dev&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.209.25:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@194.76.18.10:443?security=tls&sni=yz.ylka.us.kg&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇰🇿 KZ-194.76.18.10:443
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@45.67.215.0:443?security=tls&sni=xz.ylks.xyz&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇷🇺 RU-45.67.215.0:443
 vless://75549922-fe7b-4ec6-b718-48196a55e0bd@172.66.47.172:2083?security=tls&sni=ChannEL-ID-ELiV2ry.pagES.DEv&type=ws&host=channel-id-eliv2ry.pages.dev&path=%2FTelegram-ELiV2RY-%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.172:2083
 vless://26db7bb1-5531-45ce-9aae-12a60730585c@172.67.69.236:2082?security=tls&sni=APkdOwNLoad.MiRAclehEArTbit.iCu&type=httpupgrade&host=APkdOwNLoad.MiRAclehEArTbit.iCu&path=%2F%40V2RayyNGvpn%3Fed%3D256&fp=chrome&alpn=h2,http/1.1#🔒 VL-HTTPUPGRADE-TLS 🏴‍☠️ NA-172.67.69.236:2082
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@140.99.233.156:2087?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇩🇪 DE-140.99.233.156:2087
@@ -603,3 +597,9 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.129:443#🔒 SS-TCP-NA 🇺🇸
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.114.114.69:5004#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:5004
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowNHlHMHNPV1NSVlNsaWQ5bWZLVW1tajhVNFhnVmxvZHU0b1NSVTkwZXkyZTBDUTI=@89.44.193.112:51348#🔒 SS-TCP-NA 🇰🇿 KZ-89.44.193.112:51348
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@169.197.142.216:2376#🔒 SS-TCP-NA 🇺🇸 US-169.197.142.216:2376
+ss://YWVzLTI1Ni1nY206M2I5a3RaR3p0Qw==@162.19.25.207:34232#🔒 SS-TCP-NA 🇫🇷 FR-162.19.25.207:34232
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.121.43.71:7307#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:7307
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@157.175.241.19:443#🔒 SS-TCP-NA 🇧🇭 BH-157.175.241.19:443
+ss://YWVzLTI1Ni1jZmI6U241QjdqVHFyNzZhQ0pUOA==@80.92.204.106:9097#🔒 SS-TCP-NA 🇩🇪 DE-80.92.204.106:9097
+ss://MmI0YmVkMjUtYTVlZi00MzlkLTkzYjEtMzk1YjdiY2VjNThiOg==@104.16.60.79:2082#🔒 SS-TCP-NA 🏴‍☠️ NA-104.16.60.79:2082
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.110.1.105:5498#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.105:5498
