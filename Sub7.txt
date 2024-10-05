@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://telegram-id-directvpn@3.128.98.184:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#US81
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lOTEiLCJhZGQiOiIxMDQuMjEuNTIuMTAzIiwicG9ydCI6IjQ0MyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiYXZlaXJvci5jb20iLCJwYXRoIjoiL2xpbmt2d3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJhdmVpcm9yLmNvbSIsInRlc3RfbmFtZSI6IjkxIn0=
 trojan://tg-dns68@162.159.152.158:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A592
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.150.152.56:7307#US82%201.9MB%2Fs
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.113:8118#US83%201.9MB%2Fs
@@ -601,5 +603,3 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.152.14:22222?path=%2Ftelegra
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.78.59.63:22222?path=%2Ftelegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🆔vlessconfig%20🔒%20VL-WS-N/A%20🇩🇪%20DE%2094ms
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.158.204.213:22222?path=%2Ftelegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🆔vlessconfig%20🔒%20VL-WS-N/A%20🇩🇪%20DE%2091ms
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.170.70.24:22222?path=%2Ftelegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🆔vlessconfig%20🔒%20VL-WS-N/A%20🇸🇪%20SE%20108ms
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.171.164.33:22222?path=%2Ftelegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🆔vlessconfig%20🔒%20VL-WS-N/A%20🇸🇪%20SE%20108ms
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.217.211.153:22222?path=%2Ftelegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🆔vlessconfig%20🔒%20VL-WS-N/A%20🇮🇪%20IE%2071ms
