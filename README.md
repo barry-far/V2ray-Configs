@@ -64,6 +64,10 @@ https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub9.txt
 ```
 https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub10.txt
 ```
+- Subscription 11: 
+```
+https://dash.bgtunnel.com/sub/Z2l0aHViLDE3MjgxNzcwODYM8oWXjgTMP
+```
 
 🔒 To ensure the best possible performance and security, we recommend subscribing to our latest configurations using the subscription link feature. Simply copy the subscription link from the configs.txt file and paste it into your V2ray client to receive automatic updates every 10 minutes.
 
