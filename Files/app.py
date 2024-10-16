@@ -93,6 +93,8 @@ def main():
         "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/shadowsocks",
         "https://raw.githubusercontent.com/ts-sf/fly/main/v2",
         "https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2",
+        "https://mrpooya.top/SuperApi/BE.php",
+        "https://raw.githubusercontent.com/MrPooyaX/VpnsFucking/main/BeVpn.txt"
     ]
     dir_links = [
         "https://raw.githubusercontent.com/IranianCypherpunks/sub/main/config",
@@ -102,9 +104,10 @@ def main():
         "https://raw.githubusercontent.com/sarinaesmailzadeh/V2Hub/main/merged",
         "https://raw.githubusercontent.com/freev2rayconfig/V2RAY_SUBSCRIPTION_LINK/main/v2rayconfigs.txt",
         "https://raw.githubusercontent.com/Everyday-VPN/Everyday-VPN/main/subscription/main.txt",
-        "https://mrpooya.top/SuperApi/BE.php",
         "https://servers.astms.com/api/sub?v=2.0.3&ref=bevpn.net",
-        "https://raw.githubusercontent.com/C4ssif3r/V2ray-sub/main/all.txt"
+        "https://raw.githubusercontent.com/C4ssif3r/V2ray-sub/main/all.txt",
+        "https://mrpooya.top/SuperApi/ostrichVIP.php",
+        "https://mrpooya.top/SuperApi/ostrich.php"
     ]
 
     decoded_links = decode_links(links)
