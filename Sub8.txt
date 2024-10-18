@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://b98aec40-e52c-4e26-87d5-c406fe342dd7@151.101.194.228:443?security=tls&sni=seminarsinmcb.faculty.ucdavis.edu&type=ws&host=example.ir&path=%2Fasdkjgk%3Fed%3D1024#🔒 TR-WS-TLS 🇺🇸 US-151.101.194.228:443
+trojan://Watashi_VPN@104.18.38.122:8443?security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.38.122:8443
+trojan://telegram-id-privatevpns@52.47.166.14:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-52.47.166.14:22222
+trojan://telegram-id-privatevpns@13.43.27.70:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-13.43.27.70:22222
+trojan://tg-dns68@162.159.152.149:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.149:443
+trojan://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@104.16.148.244:2083?security=tls&sni=vfarid.xcdi.WOrKErs.dEV&type=ws&host=vfarid.xcdi.WOrKErs.dEV&path=trojan-ws%2F%3Fed%3D2048&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.148.244:2083
+trojan://telegram-id-directvpn@52.19.196.13:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-52.19.196.13:22222
+trojan://tg-dns68@162.159.152.150:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.150:443
 trojan://telegram-id-directvpn@63.176.32.161:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-63.176.32.161:22222
 trojan://tg-dns68@162.159.153.49:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.49:443
 trojan://DailyConfigs@104.18.13.229:2087?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2F%40Daily_Configs%2C%40Daily_Configs%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.13.229:2087
@@ -595,11 +603,3 @@ ss://YWY5ZDkxYjctNzMyNS00NDgxLTk3ZWYtOGUwMzMyOGI3ZTNiOg==@104.18.26.94:80#🔒 S
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.157.40.89:6379#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.89:6379
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@119.59.98.58:990#🔒 SS-TCP-NA 🇹🇭 TH-119.59.98.58:990
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@69.50.95.165:8119#🔒 SS-TCP-NA 🇺🇸 US-69.50.95.165:8119
-ss://YWVzLTI1Ni1nY206YzZkMzUwOTQtZGQ4NS00MjAyLTgxZWYtNWUzODdjNTYwNDgx@140.245.57.33:21850#🔒 SS-TCP-NA 🇸🇬 SG-140.245.57.33:21850
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.68.134.9:8882#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:8882
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.113:3306#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.113:3306
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.114.114.69:7001#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:7001
-ss://YjQxZTE2MzEtY2ViMy00N2M5LWJhODctYzY1YTQ2ZjJmNWE4Og==@104.17.148.22:2096#🔒 SS-TCP-NA 🏴‍☠️ NA-104.17.148.22:2096
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@69.50.95.101:8008#🔒 SS-TCP-NA 🇺🇸 US-69.50.95.101:8008
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.87.156.159:443#🔒 SS-TCP-NA 🇺🇸 US-35.87.156.159:443
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@69.50.95.53:8882#🔒 SS-TCP-NA 🇺🇸 US-69.50.95.53:8882
