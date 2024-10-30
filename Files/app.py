@@ -108,7 +108,8 @@ def main():
         "https://raw.githubusercontent.com/C4ssif3r/V2ray-sub/main/all.txt",
         "https://mrpooya.top/SuperApi/ostrichVIP.php",
         "https://mrpooya.top/SuperApi/ostrich.php",
-        "https://mrpooya.top/SuperApi/confs.php"
+        "https://mrpooya.top/SuperApi/confs.php",
+        "https://mrpooya.top/SuperApi/V7pRO.php"
     ]
 
     decoded_links = decode_links(links)
