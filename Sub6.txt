@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://sharevpn@67.220.72.41:443?security=tls&sni=tlsh2ss.mynode.work.gd&type=http&host=babybaby.canyou.see&path=%2Ftrojan_user&fp=firefox&alpn=h2,http/1.1#🔒 TR-HTTP-TLS 🇺🇸 US-67.220.72.41:443
+trojan://auto@104.25.254.4:2087?security=tls&sni=trojanfree-76s.pages.dev&type=ws&host=trojanfree-76s.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-104.25.254.4:2087
 trojan://auto@104.20.18.142:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.18.142:443
 trojan://auto@104.20.21.92:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.21.92:443
 trojan://auto@104.26.12.31:443?security=tls&sni=trojanfree-76s.pages.dev&type=ws&host=trojanfree-76s.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.12.31:443
@@ -601,5 +603,3 @@ ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.75.136.33:8118#🔒 SS-TCP-NA 🇺�
 ss://YWVzLTI1Ni1nY206N2dhVFRsVzczRw==@51.222.157.179:49602#🔒 SS-TCP-NA 🇨🇦 CA-51.222.157.179:49602
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3UEM0S3p0UXdSaXhDUzgwOVpGRWxsUXBtQU1uNG9FME85cWRyQ1lvNE1kRVhKVTU3N2NqWWVhRzB0WkR5Umww@95.173.180.35:21657#🔒 SS-TCP-NA 🇹🇷 TR-95.173.180.35:21657
 ss://MGZiNTNhNjAtMjM3Mi00MTJhLWE2OTMtNTE1N2I1OGVjYzk0Og==@172.67.2.238:80#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.2.238:80
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.68.134.9:8008#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:8008
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@69.50.95.191:8090#🔒 SS-TCP-NA 🇺🇸 US-69.50.95.191:8090
