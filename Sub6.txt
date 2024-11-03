@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://6babb657-1524-43bb-b421-11bda27bc9de@190.93.246.230:2087?security=tls&sni=smart.titimoji-f6.fun&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-190.93.246.230:2087
 vless://6babb657-1524-43bb-b421-11bda27bc9de@104.18.104.137:2087?security=tls&sni=smart.titimoji-f6.fun&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.104.137:2087
 vless://88ff07e9-51f0-4608-8c5f-ba2fa8a6b18a@8.218.103.198:39237?security=tls&sni=sub.putata.eu.org&type=ws&host=sub.putata.eu.org&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇭🇰 HK-8.218.103.198:39237
 vless://93867bc3-273b-4fd0-bbb1-2bed051ad215@156.146.53.35:443?security=tls&sni=www.spcdn.org&type=splithttp&path=%2F%3Fed%3D2560&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-SPLITHTTP-TLS 🇺🇸 US-156.146.53.35:443
@@ -602,4 +603,3 @@ trojan://auto@104.20.19.87:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.de
 trojan://NISHIKUITAN222@172.67.113.249:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.113.249:443
 trojan://Telegram-DailyConfigs@104.18.14.8:443?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2F%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.14.8:443
 trojan://NISHIKUITAN222@188.114.98.221:443?allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-188.114.98.221:443
-trojan://auto@172.67.64.148:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.64.148:443
