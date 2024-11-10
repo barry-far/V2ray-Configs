@@ -77,15 +77,10 @@ def main():
 
     protocols = ["vmess", "vless", "trojan", "ss", "ssr", "hy2", "tuic", "warp://"]
     links = [
-        "https://raw.githubusercontent.com/MrPooyaX/VpnsFucking/main/Shenzo.txt",
-        "https://raw.githubusercontent.com/MrPooyaX/SansorchiFucker/main/data.txt",
-        "https://mrpooyax.camdvr.org/api/ramezan/lena.php?sub=1",
-        "https://mrpooyax.camdvr.org/api/ramezan/run.php?sub=1",
+        "https://raw.githubusercontent.com/MrPooyaX/VpnsFucking/main/BeVpn.txt",
         "https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/base64/mix",
-        "https://mrpooyax.camdvr.org/api/ramezan/alpha.php?sub=1",
         "https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt",
         "https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray",
-        "https://raw.githubusercontent.com/resasanian/Mirza/main/sub",
         "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/reality",
         "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/vless",
         "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/vmess",
@@ -104,11 +99,7 @@ def main():
         "https://raw.githubusercontent.com/sarinaesmailzadeh/V2Hub/main/merged",
         "https://raw.githubusercontent.com/freev2rayconfig/V2RAY_SUBSCRIPTION_LINK/main/v2rayconfigs.txt",
         "https://raw.githubusercontent.com/Everyday-VPN/Everyday-VPN/main/subscription/main.txt",
-        "https://servers.astms.com/api/sub?v=2.0.3&ref=bevpn.net",
         "https://raw.githubusercontent.com/C4ssif3r/V2ray-sub/main/all.txt",
-        "https://mrpooya.top/SuperApi/ostrichVIP.php",
-        "https://mrpooya.top/SuperApi/ostrich.php",
-        "https://mrpooya.top/SuperApi/confs.php",
         "https://mrpooya.top/SuperApi/V7pRO.php"
     ]
 
