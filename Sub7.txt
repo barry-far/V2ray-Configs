@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.244.102:443?security=tls&sni=lm.kpcloud.eu.org&type=ws&host=lm.kpcloud.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.244.102:443
-vless://60865e84-af76-4132-b488-78c9c584d0d1@172.67.66.177:8880?security=none&type=httpupgrade&host=www.speedtest.net.ftp.debian.org.www.digikala.com.daneshforoush.ir.&path=%2FBosemkoooooo%F0%9F%A7%92%3Fed%3D80#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.67.66.177:8880
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@173.245.59.20:443?security=tls&sni=lm.kpcloud.eu.org&type=ws&host=lm.kpcloud.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.59.20:443
-vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.20.20.73:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.20.73:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@173.245.58.94:443?security=tls&sni=lc.kpcloud.eu.org&type=ws&host=lc.kpcloud.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.58.94:443
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.41.204.45:443?security=tls&sni=ay.ylks.xyz&type=ws&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.204.45:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.3:443?security=tls&sni=ppaL03.jasHAn-NiEkO.WOrKeRS.DeV&type=ws&host=PPAL03.jashaN-nIekO.WOrKerS.DeV&path=%2F8tdMLTmJF68I4s7j%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.3:443
 vless://bf74f5c5-3d23-44a8-91b4-3576bafc1fed@62.60.144.221:1042?security=none&type=tcp&host=api.vasaham.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-62.60.144.221:1042
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.26.7.149:443?security=tls&sni=CCOnfIG.SPDTest.ggFf.NET&type=ws&host=cconfig.spdtest.ggff.net&path=%2FW5V92vB3BQrJH2yY%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.7.149:443
 vless://f67ed071-ff3e-492b-c46a-efb7f2c7b27c@95.38.210.233:52460?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-95.38.210.233:52460
@@ -603,3 +596,10 @@ trojan://auto@108.162.195.209:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages
 trojan://auto@104.20.21.155:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.21.155:443
 trojan://NISHIKUITAN222@104.16.44.5:443?allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.44.5:443
 trojan://auto@104.20.19.119:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.19.119:443
+trojan://auto@162.159.44.161:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.44.161:443
+trojan://auto@104.20.21.112:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.21.112:443
+trojan://tg-dns68@162.159.153.1:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.1:443
+trojan://2cba4104747d49d18319e5ade1b93ab5@104.18.22.19:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=%2F6b777a91&alpn=h2%2Chttp%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.22.19:443
+trojan://telegram-id-directvpn@18.134.183.144:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-18.134.183.144:22222
+trojan://NISHIKUITAN222@104.17.246.91:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.17.246.91:443
+trojan://bpb-trojan@151.101.2.133:443?security=tls&sni=live.skornorth.com&type=ws&host=vip-programs.il&path=%2FtrEjWhhuRjwiMwSbDN%2FZGUucmFkaWNhbGx5LnBybw%3D%3D&fp=randomized&alpn=http%2F1.1#🔒 TR-WS-TLS 🇺🇸 US-151.101.2.133:443
