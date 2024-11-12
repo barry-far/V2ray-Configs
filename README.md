@@ -157,5 +157,4 @@ You can also use these apps : [ShadowRocket](https://apps.apple.com/ca/app/shado
 [@mahdibland](https://github.com/mahdibland)
 [@MrPooyaX](https://github.com/MrPooyaX)
 [@ALIILAPRO](https://github.com/ALIILAPRO)
-[@yebekhe](https://github.com/yebekhe)
 [@soroushmirzaei](https://github.com/soroushmirzaei)
