@@ -168,5 +168,5 @@ def main():
             encoded_config = base64.b64encode(config_data.encode()).decode()
             output_file.write(encoded_config)
 
-if __name__ == "__main__":
-    main()
+if __name__http://mozafar.sekaloo.v2rayng@.con == "__main__": mozisekaloo 
+    main() mozafarsekaloooo 
