@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://telegram-id-privatevpns@16.16.22.11:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A570%2059.8KB%2Fs
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@69.50.95.179:8080#US30%201.9MB%2Fs
 trojan://NISHIKUITAN111@104.19.183.127:443?#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD16
 trojan://2f1f7fbf-f37d-4275-c014-298a83f4e5a8@104.17.147.22:80?security=none&type=httpupgrade&path=/&host=1i5.diginoshops10.ir#%E6%9C%AA%E7%9F%A571
@@ -86,8 +87,6 @@ trojan://bpb-trojan@104.20.178.237:443?sni=adagio.us.kg#%E6%9C%AA%E7%9F%A5110
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:5601#%E6%9C%AA%E7%9F%A5111%201.9MB%2Fs
 
 ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%BA%E5%9C%BA%3Ahttps%3A%2F%2Fkfyun.uk
-trojan://6b7ec37b-96e7-37a1-9c9f-80399b8e7256@18.179.44.127:443?allowInsecure=1&sni=steampipe.akamaized.net#0,15|JP_speednode_0013
-trojan://6b7ec37b-96e7-37a1-9c9f-80399b8e7256@43.206.140.241:443?allowInsecure=1&sni=akamai.cdn.steampipe.steamcontent.com#0,15|JP_speednode_0011
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNXxkKioqKioqKioqZy5jb21fMCIsICJhZGQiOiAiMTA0LjIxLjIzOC4yMDAiLCAicG9ydCI6IDg0NDMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogIjkyMDFmZmFhLTZjYTMtNGY1Ny04YjFmLTI2NmEyZjM5MGU0MyIsICJzbmkiOiAiaHR0cDEuOTI5MDI1NC54eXoiLCAiaG9zdCI6ICJodHRwMS45MjkwMjU0Lnh5eiIsICJwYXRoIjogImdpdGh1Yi5jb20vQWx2aW45OTk5In0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNXxkKioqKioqKioqZy5jb21fMSIsICJhZGQiOiAiMTA0LjIxLjIzOC4yMDEiLCAicG9ydCI6IDg0NDMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogIjkyMDFmZmFhLTZjYTMtNGY1Ny04YjFmLTI2NmEyZjM5MGU0MyIsICJzbmkiOiAiaHR0cDEuOTI5MDI1NC54eXoiLCAiaG9zdCI6ICJodHRwMS45MjkwMjU0Lnh5eiIsICJwYXRoIjogImdpdGh1Yi5jb20vQWx2aW45OTk5In0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNXxkKioqKioqKioqZy5jb21fMiIsICJhZGQiOiAiMTA0LjIxLjIzOC4yMDIiLCAicG9ydCI6IDg0NDMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogIjkyMDFmZmFhLTZjYTMtNGY1Ny04YjFmLTI2NmEyZjM5MGU0MyIsICJzbmkiOiAiaHR0cDEuOTI5MDI1NC54eXoiLCAiaG9zdCI6ICJodHRwMS45MjkwMjU0Lnh5eiIsICJwYXRoIjogImdpdGh1Yi5jb20vQWx2aW45OTk5In0=
@@ -134,7 +133,9 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@217.163.76.107:8443?allowInsecure=0
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@217.163.76.107:8443?allowInsecure=0&sni=edgood.889876.xyz&type=ws&host=edgood.889876.xyz&path=/security=tls#15|GB_speednode_0008
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@217.163.76.107:8443?allowInsecure=0&sni=edgood.889876.xyz&type=ws&host=edgood.889876.xyz&path=/?ed=2048fp=chromefp=chrome&security=tls#15|GB_speednode_0009
 vless://23d9aa04-8a2a-4ffc-9a3c-479a9f43f6fe@154.218.15.1:443?allowInsecure=0&sni=445566.666888.lol&alpn=http/1.1&type=ws&host=445566.666888.lol&path=/?ed=2560fp=random&security=tls#15|HK_speednode_0010
+trojan://6b7ec37b-96e7-37a1-9c9f-80399b8e7256@43.206.140.241:443?allowInsecure=1&sni=akamai.cdn.steampipe.steamcontent.com#15|JP_speednode_0011
 vless://23d9aa04-8a2a-4ffc-9a3c-479a9f43f6fe@45.159.48.192:12212?allowInsecure=0&sni=445566.666888.lol&alpn=http/1.1&type=ws&host=445566.666888.lol&path=/?ed=2560fp=random&security=tls#15|JP_speednode_0012
+trojan://6b7ec37b-96e7-37a1-9c9f-80399b8e7256@18.179.44.127:443?allowInsecure=1&sni=steampipe.akamaized.net#15|JP_speednode_0013
 vless://23d9aa04-8a2a-4ffc-9a3c-479a9f43f6fe@103.160.204.50:443?allowInsecure=0&sni=445566.666888.lol&alpn=http/1.1&type=ws&host=445566.666888.lol&path=/?ed=2560fp=random&security=tls#15|NN_speednode_0014
 vless://23d9aa04-8a2a-4ffc-9a3c-479a9f43f6fe@103.160.204.4:443?allowInsecure=0&sni=445566.666888.lol&alpn=http/1.1&type=ws&host=445566.666888.lol&path=/?ed=2560fp=random&security=tls#15|NN_speednode_0015
 trojan://blue2024@213.241.198.113:443?allowInsecure=1&sni=ha.lii2010.us.kg&type=ws&host=ha.lii2010.us.kg&path=/?ed=2560#15|RU_speednode_0016
