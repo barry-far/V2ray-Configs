@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://34622493-c7c7-4e81-9a7d-3f664222efba@188.245.146.68:1517?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-188.245.146.68:1517
 vless://9bcf05ca-463d-4b03-8bdb-6a045424d1bf@104.21.32.172:443?security=tls&sni=ppal0303.KAIdoN-SAMan.WorKErs.deV&type=ws&host=ppAL0303.KaIDON-SAmaN.woRKeRS.dev&path=%2FxZqKwWhYeNRjak0V%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.32.172:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.105.175:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=%2F&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-185.148.105.175:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@185.213.62.199:39584?sni=v2.yunchun.top&type=ws&host=v2.yunchun.top&allowInsecure=0#🔒 VL-WS-NA 🇭🇰 HK-185.213.62.199:39584
@@ -603,3 +602,4 @@ trojan://NISHIKUITAN111@172.67.225.134:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-172.
 trojan://blue2024@172.64.35.217:443?sni=hb.lii2010.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-172.64.35.217:443
 trojan://NISHIKUITAN111@185.135.9.137:443?#🔒 TR-TCP-NA 🇩🇪 DE-185.135.9.137:443
 trojan://NISHIKUITAN111@141.11.203.203:443?security=tls&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F#🔒 TR-WS-TLS 🇫🇷 FR-141.11.203.203:443
+trojan://bpb-trojan@190.93.247.232:443?sni=zeming13.us.kg&type=ws&host=zeming13.us.kg#🔒 TR-WS-NA 🏴‍☠️ NA-190.93.247.232:443
