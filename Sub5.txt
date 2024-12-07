@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://283ee7c1-69ca-4af9-a812-2c87e6dc6cd1@192.0.63.43:8080?security=none&type=httpupgrade&host=h17.Xn--gmq282ekfhyys3gs.Com.&path=%2Fspeedtest.net%3Fed%3D512#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-192.0.63.43:8080
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.71.122:2087?security=tls&sni=2-gd65fd.hc2021.cfd&type=ws&host=2-gd65fd.hc2021.cfd&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.71.122:2087
 vless://9f5b4bbf-a758-4801-875c-0d6903bb9efd@104.21.24.40:443?security=tls&sni=esetsecuritylicense.modezdlg.workers.dev&type=ws&host=esetsecuritylicense.modezdlg.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.24.40:443
 vless://6df1caa9-6416-4211-ee79-322256e987c6@104.16.127.115:8080?security=none&type=httpupgrade&host=www.speedtest.net.ftp.debian.org.xn--rdekors-q1a.thecreators.ir.&path=%2FPiNG_FoX%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.16.127.115:8080
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.9.59:443?security=tls&sni=www.ELi.cO&type=ws&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-199.232.9.59:443
@@ -603,3 +601,5 @@ trojan://blue2024@104.27.207.92:443?sni=tb.promote.icu#🔒 TR-TCP-NA 🏴‍☠
 trojan://blue2024@104.18.216.135:443?sni=ha.lii2010.us.kg&type=ws&host=ha.lii2010.us.kg#🔒 TR-WS-NA 🏴‍☠️ NA-104.18.216.135:443
 trojan://dba20dcb635e430fa4d3bfc303a149d2@190.93.246.247:443?security=tls&sni=jobscareerforlawyers.com&type=ws&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-190.93.246.247:443
 trojan://NISHIKUITAN111@185.193.28.17:443?#🔒 TR-TCP-NA 🇬🇧 GB-185.193.28.17:443
+trojan://bpb-trojan@198.41.222.155:443?security=tls&sni=fcspring.ggff.net&type=ws&host=fcspring.ggff.net&path=/tr?ed#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.222.155:443
+trojan://bpb-trojan@162.159.152.2:443?security=tls&sni=visa.cn&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-162.159.152.2:443
