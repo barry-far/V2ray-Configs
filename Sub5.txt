@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.22.14.132:8443?security=tls&sni=2-gd65fd.hc2021.cfd&type=ws&host=2-gd65fd.hc2021.cfd&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.14.132:8443
-vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@185.170.166.220:443?security=tls&sni=Tp050KvBgB.eHsAnDnS10.iR&type=grpc#🔒 VL-GRPC-TLS 🇬🇧 GB-185.170.166.220:443
 vless://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@151.101.60.75:443?security=tls&sni=default.ssl.fastly.net&type=ws&host=sg.com&path=%2F%3Fed%3D1080&fp=android&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-151.101.60.75:443
 vless://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@104.26.12.101:8080?security=none&type=ws&host=gmail.com.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrbt.com.bu.com.shw000.xr.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.cmd.ddns-ip.net&path=%2Fxmlrpc.php%3Fed%3D1080%26Q%3Ddfc1a9ab-6241-4b73-92f7-b299fc6b7751#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.12.101:8080
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.32.196:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.32.196:443
@@ -603,3 +601,5 @@ trojan://NISHIKUITAN111@172.67.251.112:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-172.
 trojan://blue2024@172.64.35.155:443?security=tls&sni=tb.promote.icu&type=ws&host=tb.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.35.155:443
 trojan://blue2024@188.164.158.69:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🇦🇲 AM-188.164.158.69:443
 trojan://NISHIKUITAN111@104.20.102.167:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.20.102.167:443
+trojan://blue2024@104.17.65.98:443?sni=td.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.17.65.98:443
+trojan://3648425794742788096@35.168.124.79:443?sni=humble-rodent.treefrog761.one&allowInsecure=1#🔒 TR-TCP-NA 🇺🇸 US-35.168.124.79:443
