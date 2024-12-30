@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@168.138.142.53:443?security=tls&sni=bz02.ssr.ee#🔒 TR-TCP-TLS 🇧🇷 BR-168.138.142.53:443
+trojan://NISHIKUITAN111@104.24.133.61:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.24.133.61:443
+trojan://telegram-id-privatevpns@3.248.98.229:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-3.248.98.229:22222
+trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@162.159.192.163:443?security=tls&sni=blOOM-cHh.pAges.DeV&type=ws&host=blOOM-cHh.pAges.DeV&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.192.163:443
+trojan://telegram-id-privatevpns@15.236.222.142:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-15.236.222.142:22222
 trojan://blue2024@104.16.221.250:443?security=tls&sni=ta.promote.icu&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.16.221.250:443
 trojan://blue2024@104.17.139.53:443?sni=td.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.17.139.53:443
 trojan://blue2024@31.12.75.68:443?sni=b.promote.icu#🔒 TR-TCP-NA 🇷🇺 RU-31.12.75.68:443
@@ -598,8 +603,3 @@ trojan://auto@104.20.18.192:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.d
 trojan://NISHIKUITAN111@104.27.18.180:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.27.18.180:443
 trojan://24f7f8e5-dbe5-4cde-e018-2b74a00b6d69@57.128.178.253:443?security=tls&sni=en.linceedab.com&type=tcp&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 TR-TCP-TLS 🇫🇷 FR-57.128.178.253:443
 trojan://blue2024@104.16.208.241:443?security=tls&sni=ha.lii2010.us.kg&type=ws&host=ha.lii2010.us.kg&path=%2F%3Fed#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.208.241:443
-trojan://blue2024@162.159.14.2:443?sni=hb.lii2010.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.14.2:443
-trojan://NISHIKUITAN111@141.11.203.203:443?security=tls&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F#🔒 TR-WS-TLS 🇫🇷 FR-141.11.203.203:443
-trojan://NISHIKUITAN111@173.245.58.34:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-173.245.58.34:443
-trojan://NISHIKUITAN111@172.66.45.29:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-172.66.45.29:443
-trojan://auto@162.159.44.176:443?security=tls&sni=trojanmz.pages.dev&type=ws&host=trojanmz.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.44.176:443
