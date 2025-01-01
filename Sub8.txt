@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://1f77f427-62f1-4ff6-a085-21278eb04472@5.202.7.72:45495?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-5.202.7.72:45495
 vless://9025aac9-703f-4ba8-9d0e-33986fc375fd@104.16.123.175:8880?security=none&type=ws&host=falcunargo.1035ed931e.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.123.175:8880
 vless://219d848d-60f2-4321-8275-72b9b575b37e@206.238.236.216:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇸🇬 SG-206.238.236.216:443
 vless://8f6e5041-f6de-44ea-a601-a025b7c1ee94@151.101.3.205:80?security=none&type=ws&host=speed.82727speedtest.ssyt553.in&path=ws%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.3.205:80
@@ -602,4 +603,3 @@ trojan://NISHIKUITAN111@172.64.132.154:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-172.
 trojan://ouo@18.162.246.4:18443?sni=tr.koiok.us.kg&type=ws&host=tr.koiok.us.kg#🔒 TR-WS-NA 🇭🇰 HK-18.162.246.4:18443
 trojan://auto@104.17.147.22:2087?security=tls&sni=abbas.ab841vpn.workers.dev&type=ws&host=abbas.ab841vpn.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.22:2087
 trojan://blue2024@104.17.46.129:443?security=tls&sni=td.promote.icu&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.17.46.129:443
-trojan://dca7418d-6454-48f9-ac6b-9e586ca40a1c@151.101.2.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v17.TzZLiMitTNeWz.NeT#🔒 TR-WS-NONE 🇺🇸 US-151.101.2.228:80
