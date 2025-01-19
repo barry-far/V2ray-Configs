@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://8bc02baa-7d0b-40b8-bdae-5db6d8f8af55@188.245.107.120:1517?type=tcp&host=testspeed-foreign.tci.ir.ir&headerType=http#🔒 VL-TCP-NA 🇩🇪 DE-188.245.107.120:1517
+vless://939fcfa4-0d30-4f86-a1f7-13cc2dae002b@104.27.62.243:443?security=tls&sni=codm-http-server.ejlvovtt.workers.dev&type=ws&host=codm-http-server.ejlvovtt.workers.dev&path=%2F%40VPNHTTPInjectorfree#🔒 VL-WS-TLS 🏴‍☠️ NA-104.27.62.243:443
 vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.1.136:80?security=none&type=ws&host=teleirani.ir&path=Telegram%40V2ray_Alpha%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇺🇸 US-167.82.1.136:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.229.206:80?security=none&type=ws&host=us1.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.229.206:80
 vless://219d848d-60f2-4321-8275-72b9b575b37e@104.24.254.222:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.254.222:443
@@ -601,5 +603,3 @@ vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.152.28:443?security=tls&sni
 vless://219d848d-60f2-4321-8275-72b9b575b37e@206.238.236.154:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🇸🇬 SG-206.238.236.154:443
 vless://2737560d-1867-47fa-aa80-351c36d771c7@172.67.39.119:2052?type=ws&host=0118.kznyoum2.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.39.119:2052
 vless://fac5bd45-2183-40d0-981a-d22d2166fd4f@104.19.180.32:443?security=tls&sni=dalinceshi.icu&type=ws&host=dalinceshi.icu&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.180.32:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.80.1:443?security=tls&sni=v2nGfaSt-Jcr.pagEs.Dev&type=ws&host=V2nGfaSt-JCr.PAgEs.DeV#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.80.1:443
-vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@135.148.177.196:443?security=tls&sni=147135001178.sec22org.com&type=tcp#🔒 VL-TCP-TLS 🇺🇸 US-135.148.177.196:443

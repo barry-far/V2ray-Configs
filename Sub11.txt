@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://c797aa8a-c03d-48da-9ad4-c9774b14bed2@108.165.152.82:8443?security=tls&sni=ssvvl.esslh.filegear-sg.me&type=ws&host=ssvvl.esslh.filegear-sg.me&path=%2F%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-108.165.152.82:8443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.86.243:80?security=none&type=ws&host=us1.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.86.243:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.5.224:80?security=none&type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.5.224:80
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@198.62.62.209:443?security=tls&sni=vs1.ylks2024.us.kg&type=ws&host=vs1.ylks2024.us.kg&path=%2Fylks#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.209:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@151.101.65.210:443?security=tls&sni=pooleno.ir&type=ws&host=pooleno.ir&path=%2FGGPPfZ3NKyOoKNiK%3Fed#🔒 VL-WS-TLS 🇺🇸 US-151.101.65.210:443
@@ -601,5 +603,3 @@ trojan://NISHIKUITAN111@104.17.126.7:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.17
 trojan://blue2024@108.162.196.53:443?sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg#🔒 TR-WS-NA 🏴‍☠️ NA-108.162.196.53:443
 trojan://Trojan-Hqv2rayNG@151.101.130.219:443?security=tls&sni=speedtest.net&type=ws&host=dontskii.hqv2rayng.xyz&path=/#🔒 TR-WS-TLS 🇺🇸 US-151.101.130.219:443
 trojan://dns68@206.238.237.1:2087?security=tls&sni=trojan.putata.us.kg&type=ws&host=trojan.putata.us.kg&path=%2F%3Fed#🔒 TR-WS-TLS 🇸🇬 SG-206.238.237.1:2087
-trojan://NISHIKUITAN111@185.176.24.104:443?security=tls&sni=zb.ylks.xyz&type=ws&host=zb.ylks.xyz&path=%2F#🔒 TR-WS-TLS 🇷🇺 RU-185.176.24.104:443
-trojan://bpb-trojan@141.11.203.98:443?security=tls&sni=bpb.my79801.com&type=tcp#🔒 TR-TCP-TLS 🇫🇷 FR-141.11.203.98:443
