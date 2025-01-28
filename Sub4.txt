@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://cdb15365-1ccb-4d5a-a5d9-6fb08d3c75ac@45.131.210.83:80?type=ws#🔒 VL-WS-NA 🇳🇱 NL-45.131.210.83:80
 vless://f558f4db-96e5-4e79-8b57-34e39ba4899b@104.21.64.1:8880?security=none&type=ws&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws79.cloudfront.net.kiava.fun#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.64.1:8880
 vless://cc6b985d-0362-4129-8763-38564174fb3e@14.102.228.105:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http%2F1.1%2Ch2#🔒 VL-GRPC-TLS 🇺🇸 US-14.102.228.105:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@5.2.73.137:7000?security=tls&sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇳🇱 NL-5.2.73.137:7000
@@ -602,4 +603,3 @@ trojan://NISHIKUITAN111@141.101.122.171:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-141
 trojan://Aimer@162.159.44.168:443?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-162.159.44.168:443
 trojan://bpb-trojan@162.159.152.198:443?security=tls&sni=bpbpanel.ac.cn.eu.org&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-162.159.152.198:443
 trojan://blue2024@104.21.14.176:443?security=tls&sni=tc.promote.icu&type=ws&host=tc.promote.icu&path=/?ed#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.14.176:443
-trojan://3763495894587285504@51.21.55.43:443?sni=refined-vervet.goat627.mom&allowInsecure=0#🔒 TR-TCP-NA 🇸🇪 SE-51.21.55.43:443

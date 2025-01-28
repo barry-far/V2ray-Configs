@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.82.16.99:443?security=tls&sni=vs.bgm2024.us.kg&type=ws&host=vs.bgm2024.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-172.82.16.99:443
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@95.173.205.70:8443?security=tls&sni=osl-no-01.fromblancwithlove.com&type=tcp&alpn=h2&allowInsecure=1#🔒 VL-TCP-TLS 🇳🇴 NO-95.173.205.70:8443
 vless://d6d3374b-62df-4d48-af46-fa2b359ef100@213.176.7.124:2837?type=tcp&host=Www.uptvs.com&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-213.176.7.124:2837
 vless://1e9aadae-ca17-4f75-b0a0-7de5e3858cfb@185.18.250.117:443?security=tls&sni=xN----PMcNAAC0DKn0Rb71nDa.PAges.Dev&type=ws&host=xn----pmcnaac0dkn0rb71nda.pages.dev&path=/Telegram@Linkvws?ed%3D2560#🔒 VL-WS-TLS 🇨🇭 CH-185.18.250.117:443
@@ -602,4 +603,3 @@ vless://48eccebc-1e36-4c60-b088-55fb793f6688@27.50.49.37:2053?security=tls&sni=n
 vless://cc6b985d-0362-4129-8763-38564174fb3e@141.193.213.136:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http/1.1,h2#🔒 VL-GRPC-TLS 🇺🇸 US-141.193.213.136:443
 vless://617d5079-9fae-494a-98ca-90da9e10cd70@159.89.45.81:80?security=none&type=ws&host=arvancloud.com&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-159.89.45.81:80
 vless://52b4fdfd-6f0b-4908-d65e-523780bd5c82@37.156.47.116:8080?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇨🇭 CH-37.156.47.116:8080
-vless://cdb15365-1ccb-4d5a-a5d9-6fb08d3c75ac@45.131.210.83:80?type=ws#🔒 VL-WS-NA 🇳🇱 NL-45.131.210.83:80
