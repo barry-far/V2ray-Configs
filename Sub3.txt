@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://cc6b985d-0362-4129-8763-38564174fb3e@108.165.152.212:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http/1.1,h2#🔒 VL-GRPC-TLS 🇺🇸 US-108.165.152.212:443
+vless://cc6b985d-0362-4129-8763-38564174fb3e@92.243.75.79:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http/1.1,h2#🔒 VL-GRPC-TLS 🇸🇬 SG-92.243.75.79:443
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@143.244.58.107:8443?security=tls&sni=cz1.fromblancwithlove.com&type=tcp&alpn=h2#🔒 VL-TCP-TLS 🇨🇿 CZ-143.244.58.107:8443
 vless://714d60e6-6601-43c4-b904-ab8009455152@173.245.59.81:443?security=tls&sni=p1u6mv.adresstime.com&type=ws&host=p1u6mv.adresstime.com&path=/wss&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.59.81:443
 vless://18758238-2625-2730-3689-f157ae275ad4@104.25.97.27:443?security=tls&sni=cag.qwapples.com&type=grpc&serviceName=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.97.27:443
@@ -601,5 +603,3 @@ vless://2ffe29ef-258c-43f5-b63d-5017048950c2@104.21.78.204:443?security=tls&sni=
 vless://cc6b985d-0362-4129-8763-38564174fb3e@5.10.246.165:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http%2F1.1%2Ch2#🔒 VL-GRPC-TLS 🇳🇱 NL-5.10.246.165:443
 vless://86c06a7c-7fb1-5e5e-979a-11c48fd002fa@176.120.74.36:2052?security=none&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-NONE 🇪🇸 ES-176.120.74.36:2052
 vless://7f037831-591d-4067-9c8c-39f07d12858a@45.131.210.230:80?type=ws#🔒 VL-WS-NA 🇳🇱 NL-45.131.210.230:80
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.13.31:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.13.31:443
-vless://a120e02f-3dcc-483e-8b01-0fb70b9bafab@[::ffff:188.114.96.2]:443?security=tls&sni=de2.v4vless.xyz&type=ws&host=de2.v4vless.xyz&path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-[::ffff:188.114.96.2]:443
