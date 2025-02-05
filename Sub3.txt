@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://4d0466d9-90b0-4f95-aef9-ca1c35b31c43@85.237.211.219:80?security=none&type=ws&path=%2Fvless%2F#🔒 VL-WS-NONE 🇦🇪 AE-85.237.211.219:80
-vless://43f6c0f3-df5a-4f25-bfc0-6d3dcb173e3d@193.151.145.200:43853?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-193.151.145.200:43853
-vless://89b2d444-7f15-4881-80ed-4aa8057fb97c@104.26.12.101:8880?security=none&type=httpupgrade&host=Ger2.nanowaash-shop.ir#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.26.12.101:8880
 vless://5faa94c6-ea27-4ea0-9e39-2de3d6ea9be1@66.235.200.94:8880?security=none&type=ws&host=channel-falcunargo.efa180b5d7.workers.Dev&path=%2F%E2%9C%A6%E2%9D%B0+%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB+%E2%9E%AA+%40AZARBAYJAB1+%E2%9D%B1%E2%9C%A6%E2%9C%A6%E2%9D%B0+%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB+%E2%9E%AA+%40AZARBAYJAB1+%E2%9D%B1%E2%9C%A6%E2%9C%A6%E2%9D%B0+%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB+%E2%9E%AA+%40AZARBAYJAB1+%E2%9D%B1%E2%9C%A6%3Fed%3D2560#🔒 VL-WS-NONE 🇺🇸 US-66.235.200.94:8880
 vless://6ff213b8-ccc7-4b5a-b4aa-37f7b792a1f1@89.187.169.71:8443?security=tls&sni=vkvd127.mycdn.me&type=tcp&fp=chrome&alpn=h2#🔒 VL-TCP-TLS 🇩🇪 DE-89.187.169.71:8443
 vless://bba5ce00-09e4-4fce-8d26-35db5b4e38d4@172.66.47.33:443?security=tls&sni=cfpage-39t.pages.dev&type=ws&host=cfpage-39t.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.33:443
@@ -603,3 +600,6 @@ trojan://Aimer@23.94.211.148:443?sni=ngepz.ambercc.filegear-sg.me&allowInsecure=
 trojan://Aimer@172.64.105.24:2053?sni=ngepy.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-172.64.105.24:2053
 trojan://NISHIKUITAN111@213.109.205.159:443?security=tls&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=/#🔒 TR-WS-TLS 🇨🇾 CY-213.109.205.159:443
 trojan://bpb-trojan@198.202.211.146:443?sni=bpb.my79801.com#🔒 TR-TCP-NA 🇺🇸 US-198.202.211.146:443
+trojan://telegram-id-directvpn@13.51.143.163:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.51.143.163:22222
+trojan://NISHIKUITAN222@173.245.49.110:443?security=tls&sni=im.ylks.xyz&type=ws&host=im.ylks.xyz&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-173.245.49.110:443
+trojan://Aimer@162.159.44.233:8443?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-162.159.44.233:8443
