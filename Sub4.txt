@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@27.50.49.136:443?security=tls&sni=ngedc.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed&fp=chrome#🔒 VL-WS-TLS 🇸🇬 SG-27.50.49.136:443
-vless://2ddbf9ee-6c29-468b-f108-b7f2057797a8@37.156.47.23:30583?type=ws&path=/#🔒 VL-WS-NA 🇨🇭 CH-37.156.47.23:30583
-vless://e4a52f75-474e-449e-bcd2-05ea177f1403@104.31.16.160:80?security=none&type=ws&host=56.%E8%A1%A8%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%9116.tech&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.31.16.160:80
-vless://55520747-311e-4015-83ce-be46e2060ce3@212.183.88.231:443?sni=uu.vs2024.us.kg&type=ws&host=uu.vs2024.us.kg#🔒 VL-WS-NA 🇦🇹 AT-212.183.88.231:443
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.197.1:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fd%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.197.1:443
 vless://213d6337-7e90-43cb-b515-e392c946b371@172.64.154.144:443?security=tls&sni=WWW.felafel.org.&type=grpc&serviceName=@ConfigTell,@ConfigTell,@ConfigTell&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.64.154.144:443
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@185.156.44.119:8443?security=tls&sni=buh-ro-01.fromblancwithlove.com&type=tcp&alpn=h2&allowInsecure=1#🔒 VL-TCP-TLS 🇷🇴 RO-185.156.44.119:8443
 vless://8cf73792-0b3e-8e8b-f833-e86067f7a22c@45.131.4.5:2052?security=none&type=httpupgrade&host=2.v2.www.speedtest.net.blue99shop.ir.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇳🇱 NL-45.131.4.5:2052
@@ -603,3 +598,8 @@ trojan://3747000103274291200@18.132.30.207:443?security=tls&sni=working-drake.ad
 trojan://auto@104.21.72.108:443?security=tls&sni=esetsecuritylicense1.cxlrazo.workers.dev&type=ws&host=esetsecuritylicense1.cxlrazo.workers.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.72.108:443
 trojan://fnufMt%3AsQ%26rC0HUu@172.66.47.84:2083?security=tls&sni=joinmAHDIsERVER-6vv.PaGeS.dEv&type=ws&host=joinmahdiserver-6vv.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.47.84:2083
 trojan://29e0206a-2cef-4c8d-aa4b-dd7a43748167@151.101.2.133:443?security=tls&sni=zmaoz.faculty.ucdavis.edu.&type=ws&host=fonmelo.com#🔒 TR-WS-TLS 🇺🇸 US-151.101.2.133:443
+trojan://b2d0b65a-616c-433d-8e7b-08af61017fa8@45.146.232.173:10465?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn&type=tcp#🔒 TR-TCP-TLS 🇭🇰 HK-45.146.232.173:10465
+trojan://3747000103274291200@87.120.204.100:443?security=tls&sni=crucial-moccasin.adder289.quest&type=tcp#🔒 TR-TCP-TLS 🇯🇵 JP-87.120.204.100:443
+trojan://Aimer@104.129.166.131:8443?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-104.129.166.131:8443
+trojan://3669023846591373312@35.75.186.204:443?security=tls&sni=equipped-parakeet.pigeon031.one&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇯🇵 JP-35.75.186.204:443
+trojan://1593d329-8924-4be5-bc19-1d246039b6a7@104.17.148.22:443?security=tls&sni=se1.safecdn.site&type=ws&host=se1.safecdn.site&path=%2FChannel_vpnAndroid2-Channel_vpnAndroid2-Channel_vpnAndroid2-Channel_vpnAndroid2#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.148.22:443
