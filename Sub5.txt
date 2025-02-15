@@ -3,6 +3,17 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.135.40:443?security=tls&sni=kdlsupport.zendesk.com&type=tcp#🔒 TR-TCP-TLS 🇯🇵 JP-160.16.135.40:443
+trojan://bpb-trojan@188.114.97.88:2053?security=tls&sni=G1-21N.paGEs.dev&type=ws&host=g1-21n.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-188.114.97.88:2053
+trojan://Aimer@92.63.192.110:444?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇷🇺 RU-92.63.192.110:444
+trojan://Aimer@188.164.159.25:2053?security=tls&sni=acepo.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇦🇲 AM-188.164.159.25:2053
+trojan://Aimer@172.64.35.236:443?sni=agepw.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-172.64.35.236:443
+trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.150.202:443?security=tls&sni=kdlsupport.zendesk.com&type=tcp#🔒 TR-TCP-TLS 🇯🇵 JP-160.16.150.202:443
+trojan://RV%3CoAVP5SBk%25Q%40jE@104.21.64.1:2096?security=tls&sni=JoInmaHdiservER-484.pagEs.DeV&type=ws&host=joinmahdiserver-484.pages.dev&path=%2FtrJBYdoA2UbPASexk2%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.64.1:2096
+trojan://Bw5Mz7QkVp@149.28.213.127:443?security=tls&sni=z-v2-077984.kailib.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-149.28.213.127:443
+trojan://Aimer@192.227.247.75:443?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=ws&host=ngepz.ambercc.filegear-sg.me#🔒 TR-WS-TLS 🇺🇸 US-192.227.247.75:443
+trojan://telegram-id-privatevpns@15.188.218.94:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-15.188.218.94:22222
+trojan://89f84d5e-4170-4c64-bc78-ac99953b103a@5.83.221.31:50020?sni=jp03.6kk.org&allowInsecure=0#🔒 TR-TCP-NA 🇬🇧 GB-5.83.221.31:50020
 trojan://65086441068973800@63.177.177.23:443?#🔒 TR-TCP-NA 🇩🇪 DE-63.177.177.23:443
 trojan://3747000103274291200@3.216.105.141:443?security=tls&sni=crisp-gibbon.adder289.quest&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-3.216.105.141:443
 trojan://2add6241-8fe8-3922-8347-da25e8ced601@120.233.26.140:50015?security=tls&sni=my.doubledou.icu&type=tcp#🔒 TR-TCP-TLS 🇨🇳 CN-120.233.26.140:50015
@@ -592,14 +603,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@15.184.156.114:443#🔒 SS-TCP-NA 🇧🇭 BH-15.184.156.114:443
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.207.97.53:443#🔒 SS-TCP-NA 🇯🇵 JP-43.207.97.53:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.151:8080#🔒 SS-TCP-NA 🇫🇷 FR-45.158.171.151:8080
-ss://YWVzLTI1Ni1nY206UUVWNUJHNFlMRUFCVzZMQg==@154.196.244.22:16012#🔒 SS-TCP-NA 🇸🇬 SG-154.196.244.22:16012
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.107.226.238:2376#🔒 SS-TCP-NA 🇺🇸 US-38.107.226.238:2376
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.178.194:443#🔒 SS-TCP-NA 🇦🇪 AE-40.172.178.194:443
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#🔒 SS-TCP-NA 🇸🇪 SE-121.127.46.147:989
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.100:989#🔒 SS-TCP-NA 🇬🇷 GR-192.71.166.100:989
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.157:8080#🔒 SS-TCP-NA 🇳🇱 NL-193.29.139.157:8080
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@172.233.128.126:1866#🔒 SS-TCP-NA 🇺🇸 US-172.233.128.126:1866
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.106.228.132:990#🔒 SS-TCP-NA 🇯🇵 JP-103.106.228.132:990
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.15.27.48:989#🔒 SS-TCP-NA 🇫🇷 FR-51.15.27.48:989
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.80:443#🔒 SS-TCP-NA 🇬🇧 GB-212.102.53.80:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMHpjOFY2VWkyWWY4SjlIREdZQ0hI@62.133.63.21:65262#🔒 SS-TCP-NA 🇹🇷 TR-62.133.63.21:65262
