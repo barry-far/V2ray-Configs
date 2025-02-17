@@ -3,17 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://blue2024@104.18.153.27:443?sni=td.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.18.153.27:443
-trojan://3774827088566296576@188.253.22.10:443?sni=key-pangolin.treefrog761.one#🔒 TR-TCP-NA 🇱🇻 LV-188.253.22.10:443
-trojan://ypDt8RkT7J@89.187.181.172:43118?security=tls&sni=egcmi.phooeyunfold.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-89.187.181.172:43118
-trojan://Aimer@154.211.8.18:2083?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=ws&host=ngepy.ambercc.filegear-sg.me#🔒 TR-WS-TLS 🇺🇸 US-154.211.8.18:2083
-trojan://bpb-trojan@104.19.223.79:443?security=tls&sni=qq.vvii.us.kg&type=ws&host=qq.vvii.us.kg&path=%2Ftr%3Fed%3D2560&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.223.79:443
-trojan://Aimer@211.228.181.102:50000?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇰🇷 KR-211.228.181.102:50000
-trojan://Aimer@188.164.159.98:2083?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇦🇲 AM-188.164.159.98:2083
-trojan://Aimer@146.56.155.102:20003?security=tls&sni=ngepo.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇰🇷 KR-146.56.155.102:20003
-trojan://b2d0b65a-616c-433d-8e7b-08af61017fa8@45.146.232.173:46668?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn&type=tcp#🔒 TR-TCP-TLS 🇭🇰 HK-45.146.232.173:46668
-trojan://Aimer@155.46.213.38:2083?sni=agepw.ambercc.filegear-sg.me&allowInsecure=1#🔒 TR-TCP-NA 🇺🇸 US-155.46.213.38:2083
-trojan://Aimer@92.63.192.110:444?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇷🇺 RU-92.63.192.110:444
 trojan://Aimer@162.159.44.168:443?security=tls&sni=ngepo.ambercc.filegear-sg.me&type=ws&host=ngepo.ambercc.filegear-sg.mehttp%2F1.1&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.44.168:443
 trojan://Aimer@108.162.195.199:443?sni=ngepo.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-108.162.195.199:443
 trojan://naEX%5Dg*qw%40MT%26lFz@104.21.80.1:2087?security=tls&sni=jOinMAhdIsErvEr-53k.pAGeS.Dev&type=ws&host=joinmahdiserver-53k.pages.dev&path=%2Ftrb6oyXIzrlytDBNlm%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.80.1:2087
@@ -603,3 +592,14 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3a0pRczJSWUhoVmlUWVdhZjFSb2JC@77.246.97.187:
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@54.36.174.181:7002#%E6%9C%AA%E7%9F%A540%20814.4KB%2Fs
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNDEiLCJhZGQiOiIyMjAuMTIzLjQ4LjEyNCIsInBvcnQiOiIzMDAwMiIsImlkIjoiZDNkOGI3ODEtZjMwZC00OTAyLThlYjAtNThiMWNhOTM2YmVjIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImNjMi4xODA4LnNpdGUiLCJwYXRoIjoiL2hncXF2d3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJjYzIuMTgwOC5zaXRlIiwidGVzdF9uYW1lIjoiNDEifQ==
 vmess://eyJ2IjoiMiIsInBzIjoiSEs0IiwiYWRkIjoiMjAuNi4xNTUuMTU5IiwicG9ydCI6IjIwODAiLCJpZCI6IjYzNzY5ZGViLTQxNTMtNGI5OC1hYmEzLTMxYmMwN2U1M2EyZCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6ImhrNC41NTY4NTUueHl6IiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJoazQuNTU2ODU1Lnh5eiIsInRlc3RfbmFtZSI6IkhLNCJ9
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.121.43.71:6697#US9%20416.2KB%2Fs
+trojan://blue2024@104.17.21.144:443?security=tls&type=ws&sni=ta.promote.icu&host=ta.promote.icu#%E6%9C%AA%E7%9F%A542
+trojan://Aimer@154.26.177.9:443?sni=agepq.ambercc.filegear-sg.me#US10
+trojan://NISHIKUITAN111@104.21.195.144:443?#%E6%9C%AA%E7%9F%A543
+trojan://Aimer@59.1.59.225:50000?security=tls&type=tcp&sni=ngepo.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A544
+trojan://3767107462583558144@95.110.142.205:443?security=tls&type=tcp&sni=grown-cardinal.treefrog761.one#%E6%9C%AA%E7%9F%A545
+trojan://NISHIKUITAN111@104.24.60.239:443?#%E6%9C%AA%E7%9F%A546
+trojan://amclubs2024@154.83.2.200:443?security=tls&type=ws&sni=tr.amclub.us.kg&path=/?ed=2560&host=tr.amclub.us.kg#%E6%9C%AA%E7%9F%A547
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.158.171.151:8080#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD%203.1MB%2Fs
+trojan://3747000103274291200@95.85.93.45:443?security=tls&type=tcp&sni=simple-coyote.adder289.quest#US11%2010.9MB%2Fs
+trojan://Aimer@185.51.246.121:2053?security=tls&type=ws&sni=agepq.ambercc.filegear-sg.me&path=/&host=agepq.ambercc.filegear-sg.mehttp/1.1#%E6%9C%AA%E7%9F%A548
