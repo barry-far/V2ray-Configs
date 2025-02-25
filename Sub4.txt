@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://aaa777c1-0940-49a4-bfea-5e7dd3ebe7ea@151.101.120.121:80?security=none&type=ws&host=meta3.ai#🔒 VL-WS-NONE 🇫🇷 FR-151.101.120.121:80
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.217.13.58:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇫🇮 FI-95.217.13.58:8880
 vless://89e2cafc-ff46-4473-b124-ec87fd95b680@151.101.194.228:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&host=joinxvproxybedee.ir&path=%2F@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-151.101.194.228:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.14.19:2095?security=none&type=ws&host=fuckingcloudflare.2-5e8.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.14.19:2095
 vless://bb29c155-d55e-4c07-8403-0581e384f7a2@173.245.58.154:2087?security=tls&sni=a17.nnotamel-01.fun&type=grpc&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-173.245.58.154:2087
@@ -601,5 +603,3 @@ vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.82.16.99:443?sni=vz.bgm2024.us.
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@63.141.128.58:443?sni=vz.bgm2024.us.kg&type=ws&host=vz.bgm2024.us.kg#🔒 VL-WS-NA 🇺🇸 US-63.141.128.58:443
 vless://6ca26e2f-3d29-4eab-8c50-1768d0f06232@185.143.233.120:443?security=tls&sni=mcistar.ir&type=xhttp&host=bmw.bmw-motors.com&path=%2F6ca26e2f&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-XHTTP-TLS 🇮🇷 IR-185.143.233.120:443
 vless://95d42931-5fcc-4886-82a6-594c671a3286@199.232.38.133:80?security=none&type=xhttp&host=hormozvpnnnnnnnnnnn.global.ssl.fastly.net&path=/#🔒 VL-XHTTP-NONE 🇺🇸 US-199.232.38.133:80
-vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@206.238.237.118:8443?security=tls&sni=ngedc.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed&fp=chrome#🔒 VL-WS-TLS 🇸🇬 SG-206.238.237.118:8443
-vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@83.229.123.36:8443?security=tls&sni=ngedc.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇭🇰 HK-83.229.123.36:8443
