@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://11aa66f6-19db-4858-9a42-0b7ab2b141e7@104.21.71.8:443?security=tls&sni=esna.itn24.ir&type=grpc&serviceName=%2F24464%2Fmehdi&fp=random&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.71.8:443
 vless://3602c1ed-5506-4d78-a0be-f39a7594e888@49.12.222.117:57818?type=ws&path=%2F#🔒 VL-WS-NA 🇩🇪 DE-49.12.222.117:57818
 vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@104.21.6.44:443?security=tls&sni=Tp810P28gI.aNa-SoFt.Ir&type=grpc&fp=firefox#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.6.44:443
 vless://f6e16f66-0893-4d84-b5ac-781ac6f0b196@151.101.130.219:80?security=none&type=ws&host=v2netiran.life#🔒 VL-WS-NONE 🇺🇸 US-151.101.130.219:80
@@ -602,4 +603,3 @@ vless://9ce5dc57-bfa3-4e9e-be9b-ca685d826feb@45.131.211.220:80?sni=worker-soft-m
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.4.12:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-37.27.4.12:8880
 vless://332af47e-3375-4be0-8f2f-8ca98bf640c6@172.64.155.209:8880?security=none&type=ws&host=orangeorange阿斯達十點三十分.boxiaa.shop.#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.155.209:8880
 vless://04c76e86-2702-e786-a826-ce73de558e03@167.82.231.255:443?security=tls&sni=google.com&type=ws&host=www.digiato.com&path=/home?id%3D10&fp=safari&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇩🇪 DE-167.82.231.255:443
-vless://33039dbe-8889-42f1-9aeb-ecfbfa2a1640@104.18.32.69:2052?security=none&type=ws&host=21tg.459tj345.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.32.69:2052
