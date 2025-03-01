@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@147.135.125.115:443?security=tls&sni=147135010103.sec19org.com&type=tcp&allowInsecure=1#🔒 VL-TCP-TLS 🇺🇸 US-147.135.125.115:443
-vless://6cc5b6b6-b3d2-4c60-8197-5defdc8d6aa1@104.24.197.20:443?security=tls&sni=4sat.shop&type=ws&host=public.4sat.shop&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.197.20:443
-vless://55520747-311e-4015-83ce-be46e2060ce3@45.67.215.117:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2F%3Fed&fp=chrome#🔒 VL-WS-TLS 🇷🇺 RU-45.67.215.117:443
-vless://b489cc27-6056-48bb-891e-de437658d519@185.143.233.5:80?security=none&type=ws&host=nim-f6a8e4b837-sh.apps.ir-central1.arvancaas.ir&path=/#🔒 VL-WS-NONE 🇮🇷 IR-185.143.233.5:80
-vless://dbf403f4-b871-4446-8712-675562dbbb7b@195.85.59.95:2052?type=ws&host=0221.enedrehd.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NA 🇨🇾 CY-195.85.59.95:2052
-vless://9110aadc-2059-4923-a76f-fe248d029a7a@91.193.59.119:2053?security=tls&sni=ss.sudolog.ir&type=grpc&serviceName=--%40sharkpublic--&fp=chrome#🔒 VL-GRPC-TLS 🇬🇧 GB-91.193.59.119:2053
 vless://3fa64054-5bf1-4ed7-b976-ed5d076a77af@185.79.158.144:8765?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.79.158.144:8765
 vless://850563d4-d5e2-4672-b2e1-ceaa69ff62f2@104.16.172.173:80?security=none&type=ws&host=aged-leaf-04aa-ppal03.midosib237.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.172.173:80
 vless://5150600b-d270-4be8-8d78-c5784d3c093b@151.101.37.124:443?security=tls&sni=dialacoke.com&type=ws&host=sv33traiersdmifdsne.ai#🔒 VL-WS-TLS 🇳🇱 NL-151.101.37.124:443
@@ -603,3 +597,9 @@ trojan://Aimer@156.225.72.199:2096?security=tls&sni=ngepx.ambercc.filegear-sg.me
 trojan://Aimer@104.20.30.149:8443?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.20.30.149:8443
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@198.41.220.2:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.2:443
 trojan://Aimer@65.109.199.131:443?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇫🇮 FI-65.109.199.131:443
+trojan://auto@172.67.203.182:443?security=tls&sni=esetsecuritylicense.bwnsmv.workers.dev&type=ws&host=esetsecuritylicense.bwnsmv.workers.dev&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.203.182:443
+trojan://Aimer@162.159.38.101:2096?security=tls&sni=ngepo.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-162.159.38.101:2096
+trojan://7d858e5a-664e-419f-b6a1-c3bceb8ac208@45.146.232.171:27102?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn&type=tcp#🔒 TR-TCP-TLS 🇭🇰 HK-45.146.232.171:27102
+trojan://wb6368@172.66.44.86:443?security=tls&sni=hsdgbuys.pages.dev&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-172.66.44.86:443
+trojan://telegram-id-directvpn@18.132.144.188:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-18.132.144.188:22222
+trojan://Aimer@5.182.85.189:2096?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=ws&host=ngepy.ambercc.filegear-sg.me#🔒 TR-WS-TLS 🇷🇺 RU-5.182.85.189:2096
