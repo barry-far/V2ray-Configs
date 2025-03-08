@@ -3,6 +3,17 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://Aimer@192.200.160.15:8443?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-192.200.160.15:8443
+trojan://IY4gWQIsHV@104.21.96.1:2087?security=tls&sni=esna.twn24.ir&type=httpupgrade&host=esna.twn24.ir&path=/mehdi#🔒 TR-HTTPUPGRADE-TLS 🏴‍☠️ NA-104.21.96.1:2087
+trojan://Aimer@77.232.140.101:2053?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇷🇺 RU-77.232.140.101:2053
+trojan://blue2024@190.93.245.154:443?sni=hb.lii2010.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-190.93.245.154:443
+trojan://Aimer@65.109.199.131:443?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇫🇮 FI-65.109.199.131:443
+trojan://Aimer@104.19.103.190:2096?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.19.103.190:2096
+trojan://s42%26umY%28K5n*csP4@104.21.96.1:8443?security=tls&sni=JOInMAHDiseRVer-EEu.pAGEs.dEv#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.21.96.1:8443
+trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@69.162.95.6:443?security=tls&sni=trus.moonfree.top&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-69.162.95.6:443
+trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.65.99:443?security=tls&sni=kdlsupport.zendesk.com&type=tcp#🔒 TR-TCP-TLS 🇯🇵 JP-160.16.65.99:443
+trojan://8cf18212-6899-4d09-9cdc-b7dd91cc4611@5.83.221.31:30050?security=tls&sni=v2sg02.fuqiangren.com#🔒 TR-TCP-TLS 🇭🇰 HK-5.83.221.31:30050
+trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.144.90:443?security=tls&sni=kdlsupport.zendesk.com&type=tcp#🔒 TR-TCP-TLS 🇯🇵 JP-160.16.144.90:443
 trojan://d9576e81-fc34-46f2-b624-0c1e99cde4be@5.253.41.160:443?security=tls&sni=jp-full.privateip.net&allowInsecure=1#🔒 TR-TCP-TLS 🇯🇵 JP-5.253.41.160:443
 trojan://V8Ggxghv8Z@104.21.32.1:2096?security=tls&sni=esna.twn24.ir&type=httpupgrade&host=esna.twn24.ir#🔒 TR-HTTPUPGRADE-TLS 🏴‍☠️ NA-104.21.32.1:2096
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@198.41.220.12:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.12:443
@@ -592,14 +603,3 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@134.195.196.12:3389#🔒 SS-TCP-NA �
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@54.36.174.181:6379#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:6379
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:5000#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:5000
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MFh3ZzBTYkhTTDhDdUNraUx1R2hP@188.126.67.90:15128#🔒 SS-TCP-NA 🇸🇪 SE-188.126.67.90:15128
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@217.182.198.219:8119#🔒 SS-TCP-NA 🇩🇪 DE-217.182.198.219:8119
-ss://YWVzLTI1Ni1jZmI6ZFUzRFNOUzh3WVBYekVLdw==@5.188.181.201:9029#🔒 SS-TCP-NA 🇪🇸 ES-5.188.181.201:9029
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.100:989#🔒 SS-TCP-NA 🇬🇷 GR-192.71.166.100:989
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@167.88.63.44:443#🔒 SS-TCP-NA 🇺🇸 US-167.88.63.44:443
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@54.36.174.181:2375#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:2375
-ss://YWVzLTI1Ni1jZmI6THAyN3JxeUpxNzJiWnNxWA==@217.30.10.18:9045#🔒 SS-TCP-NA 🇵🇱 PL-217.30.10.18:9045
-ss://YWVzLTI1Ni1nY206MjRlZmI0MTgtZWRhZi00MzMxLWIwMWYtNDU2NzkwMGEwODk4@5.253.41.160:8443#🔒 SS-TCP-NA 🇯🇵 JP-5.253.41.160:8443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwaXY5N1hTMUN2YWw4NnZmd0hQRDVq@194.87.216.121:443#🔒 SS-TCP-NA 🇳🇱 NL-194.87.216.121:443
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.72:443#🔒 SS-TCP-NA 🇳🇱 NL-149.34.244.72:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.72:8080#🔒 SS-TCP-NA 🇳🇱 NL-103.104.247.72:8080
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@188.214.36.155:989#🔒 SS-TCP-NA 🇪🇪 EE-188.214.36.155:989
