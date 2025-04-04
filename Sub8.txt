@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://7505bf2d-9d04-46a3-b91e-d1115c5dcba8@154.64.246.217:13730?security=tls&sni=sslvs-xjp.lihuayun.top&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇭🇰 HK-154.64.246.217:13730
 trojan://0cda5f7e-cc55-4ff2-8ad8-268b9b99dd01@192.3.130.96:443?security=tls&sni=us6-01zl.huangshang.ggff.net&type=ws&host=us6-01zl.huangshang.ggff.net&path=%2FILLcisbMYUd6MQzxVoMQ&fp=chrome&alpn=h2#🔒 TR-WS-TLS 🇺🇸 US-192.3.130.96:443
 trojan://6CmqcBGlKp@104.21.64.1:2053?security=tls&sni=esna.twn24.ir&type=httpupgrade&host=esna.twn24.ir&path=%2Fmehdi&allowInsecure=1#🔒 TR-HTTPUPGRADE-TLS 🏴‍☠️ NA-104.21.64.1:2053
 trojan://Aimer@172.66.206.205:8443?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-172.66.206.205:8443
@@ -602,4 +603,3 @@ trojan://auto@104.21.48.61:443?security=tls&sni=nameless-term-9c25.vpnconnect202
 trojan://Aimer@154.17.227.138:587?security=tls&sni=ageph.ambercc.filegear-sg.me&type=ws&host=ageph.ambercc.filegear-sg.mehttp%2F1.1&path=%2F#🔒 TR-WS-TLS 🇺🇸 US-154.17.227.138:587
 trojan://blue2024@104.18.123.217:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.123.217:443
 trojan://0uAOCSX3DFjDOuaacSDR75I3SqN7Bznx8Yaz8lRYyCDR2aZwwyRB5FpAlC9Sn6Epp3e8l@13.114.65.253:443?security=tls&sni=forward.meijireform.com#🔒 TR-TCP-TLS 🇯🇵 JP-13.114.65.253:443
-trojan://67eb147db1c0f8c5@60.249.28.59:443?security=tls&sni=007.com&type=grpc&serviceName=db&alpn=h2#🔒 TR-GRPC-TLS 🇹🇼 TW-60.249.28.59:443
