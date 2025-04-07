@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://a5f3cdb6-cd7c-4289-9551-ec6f91a51e68@188.114.99.123:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.123:443
+vless://157448af-8ecf-4075-a9e9-b23a6a94899b@79.127.224.12:8443?security=tls&sni=bru-be-01.fromblancwithlove.com&type=tcp&alpn=h2&allowInsecure=1#🔒 VL-TCP-TLS 🇧🇪 BE-79.127.224.12:8443
+vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.19.242.104:443?security=tls&sni=kawaiifreevpn-7ds.pages.dev&type=ws&host=kawaiifreevpn-7ds.pages.dev&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.242.104:443
+vless://ea286109-d20f-415e-849e-4af20ab04b65@139.185.34.131:443?security=tls&sni=147135001195.sec22org.com&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇦🇪 AE-139.185.34.131:443
+vless://332af47e-3375-4be0-8f2f-8ca98bf640c6@104.26.7.174:8880?security=none&type=ws&host=orangeorange阿斯達十點三十分.boxiaa.shop.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.7.174:8880
+vless://70f5d3b8-7d31-4d7d-9467-e43752d66fca@104.21.48.1:2096?security=tls&sni=sub.shadowsokstes.WoRkErs.DeV&type=ws&host=sub.shadowsokstes.WoRkErs.DeV&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.48.1:2096
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.78:80?sni=redw.pooriam.ir&type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇯🇵 JP-156.238.18.78:80
+vless://252d7c6c-3f50-44fb-9a51-13963fc727e0@104.18.14.19:2082?security=none&type=ws&host=0105.f5s8fbc2.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.14.19:2082
 vless://bca5e12c-e30e-4430-9729-5a4ea40b90a6@188.245.95.151:1522?security=none&type=tcp&host=testspeed-foreign.tci.ir&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-188.245.95.151:1522
 vless://b6f52521-c65d-43d6-bca4-76790c68d6fd@162.159.192.152:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.192.152:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.19.98:80?sni=redw.pooriam.ir&type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇯🇵 JP-156.238.19.98:80
@@ -595,11 +603,3 @@ vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.192:80?type=ws&host=gozarg
 vless://8e732062-d0c4-4e91-a288-572a359b5020@128.140.88.226:8880?security=none&type=tcp&host=eN.TwiTtER.cOM.:8880&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-128.140.88.226:8880
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.98:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.98:80
 vless://95d42931-5fcc-4886-82a6-594c671a3286@151.101.198.133:80?type=xhttp#🔒 VL-XHTTP-NA 🇺🇸 US-151.101.198.133:80
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.64.35.155:443?security=tls&sni=in.youlingkais.filegear-sg.me&type=ws&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.35.155:443
-vless://fed7b870-8d40-4337-b26b-9aca5ac4846f@172.66.44.200:2096?security=tls&sni=hP-duBaI.pAgeS.dEv&type=ws&host=hp-dubai.pages.dev&path=%2Fp2qsZmRCtRJSk3OC%2FMy4yOS4xMDIuODk%3D%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.200:2096
-vless://94b0cde3-a305-4d89-a192-575339220c7f@104.24.91.178:80?type=ws&host=flat-rain-e26e-ppal03.cigoyob991.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NA 🏴‍☠️ NA-104.24.91.178:80
-vless://ad1357bd-a1ce-4977-ae09-47411d2d1eee@172.67.214.110:443?security=tls&sni=deg.iranasanejesh.org&type=grpc&serviceName=@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.214.110:443
-vless://908077cc-00f2-4c2c-8ed2-468e6afbccde@89.144.145.202:443?security=none&type=tcp&host=cloudflare.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-89.144.145.202:443
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.138.178:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.138.178:443
-vless://34842069-dcb9-4595-bd60-20b0562c56e5@173.245.58.217:443?security=tls&sni=gb-3.memories-00.space&type=xhttp&path=/api/v1&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-XHTTP-TLS 🏴‍☠️ NA-173.245.58.217:443
-vless://86c607c7-14e9-4441-9818-51f80b7eb6ae@104.16.27.251:2082?security=none&type=httpupgrade&host=farancemat.academigroup.ir.&path=%2F%40ACADEMI_VPN------%40ACADEMI_VPN------%40ACADEMI_VPN------%40ACADEMI_VPN------%40ACADEMI_VPN------%40ACADEMI_VPN------%40ACADEMI_VPN------%40ACADEMI_VPN------%40ACADEMI_VPN%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.16.27.251:2082
