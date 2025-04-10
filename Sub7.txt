@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://3f644574-94c7-4ec0-8289-e241f3074bde@104.16.61.8:8880?security=none&type=ws&host=tuning.support.ahmadp206.sbs.&path=%2F%3Fed%3D8080#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.61.8:8880
+vless://03ae39fd-ec71-4db5-b234-94de99a6e514@104.17.212.81:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.212.81:443
 vless://c3231e14-aca0-43d0-8970-8b4eb2ec3c3f@45.154.98.29:443?security=tls&flow=xtls-rprx-vision&sni=chopper.lnmarketplace.net&type=tcp&fp=randomized&alpn=h2#🔒 VL-TCP-TLS 🇳🇱 NL-45.154.98.29:443
 vless://55520747-311e-4015-83ce-be46e2060ce3@192.200.160.26:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2F%3Fed&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-192.200.160.26:443
 vless://6bf5267e-cbe3-42eb-bdb0-9f6cd457f168@138.128.225.100:2053?security=tls&sni=design-mobo.ir&type=ws&host=shark.cloud&path=%2Ftelegram-shrakpublic-telegram-shrakpublic-telegram-shrakpublic-telegram-shrakpublic-telegram-shrakpublic-telegram-shrakpublic.zip&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇦🇪 AE-138.128.225.100:2053
@@ -601,5 +603,3 @@ vless://b6f52521-c65d-43d6-bca4-76790c68d6fd@104.18.9.150:443?security=tls&sni=x
 vless://659c3dce-ca8b-4bf1-8646-a0b33ee189c1@62.60.250.224:2083?security=none&type=tcp#🔒 VL-TCP-NONE 🇸🇪 SE-62.60.250.224:2083
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.44:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.44:80
 vless://0cda5f7e-cc55-4ff2-8ad8-268b9b99dd01@104.21.58.135:443?security=tls&sni=us6-03.818185.xYZ&type=ws&host=us6-03.818185.xyz&path=%2FGuJUq5kZ2d6MQzxVoMQ&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.58.135:443
-vless://5f5fe97a-73ee-4584-87cb-1e5cd510d572@104.21.39.204:443?security=tls&sni=nY.360832.xYz&type=ws&host=ny.360832.xyz&path=%2FmxgPEgOLj8iAp1tHdIGP3&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.39.204:443
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@160.153.137.128:2053?security=tls&sni=CdCyRiRd73.gOzAlBaLaBiYa-bEbInAm.cOm&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-160.153.137.128:2053
